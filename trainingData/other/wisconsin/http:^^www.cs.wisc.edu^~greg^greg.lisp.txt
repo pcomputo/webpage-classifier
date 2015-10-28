@@ -1,0 +1,1 @@
+date tue nov gmt server ncsa content type text html last modified tue oct gmt content length lisp lisp lisp lisp quickref guy steele common lisp agent world last modified tue oct cdt greg sharp greg cs wisc edu http www cs wisc edu greg greg html

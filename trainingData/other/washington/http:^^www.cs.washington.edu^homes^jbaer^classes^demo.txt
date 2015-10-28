@@ -1,0 +1,1 @@
+date tue dec gmt server ncsa content type text html last modified fri mar gmt content length demo applet sorry using java compatible browser applet demonstrates offscreen copying effects toggles back forth two images using one copy effects see effect click one buttons copyright c jeremy baer jbaer cs washington edu

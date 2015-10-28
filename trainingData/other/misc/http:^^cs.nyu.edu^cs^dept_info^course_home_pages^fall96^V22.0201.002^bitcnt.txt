@@ -1,0 +1,1 @@
+date tue jan gmt server ncsa content type text html last modified mon sep gmt content length bit count byte version one program counts number one bits found byte ffh put count number location h mov al byte ptr ffh get input mov byte ptr h zero count bits mov bl shift left times lp add al al double number shift left jnc checkend add byte ptr h checkend sub bl jnz lp hlt end
