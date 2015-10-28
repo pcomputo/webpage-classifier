@@ -30,7 +30,7 @@ def fixExtension(directory):
 if __name__ == '__main__':
     args = sys.argv[1:]
     if not args:
-        print >> sys.stderr, 'SYNTAX: fix_file_extension.py [directory]'
+        print >> sys.stderr, 'SYNTAX: fixExtension.py [directory]'
         sys.exit(-1)
 
     fixExtension(args[0])
