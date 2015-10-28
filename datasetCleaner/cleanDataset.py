@@ -50,7 +50,7 @@ def review_to_words(directory):
 if __name__ == '__main__':
     args = sys.argv[1:]
     if not args:
-        print >> sys.stderr, 'SYNTAX: cleanDataset.py [file]'
+        print >> sys.stderr, 'SYNTAX: cleanDataset.py [directory]'
         sys.exit(-1)
         
     review_to_words(args[0])

@@ -5,12 +5,19 @@ import sys
 def fixExtension(directory):
 
 	count = 0
-	result = [y for x in os.walk(directory) for y in glob(os.path.join(x[0], '*html'))]
+	result = []
+	for path, subdirs, files in os.walk(directory):
+		for name in files:
+			result.append(os.path.join(path, name))
 	for page in result:
 		print "Fixing file extension for webpage: ",page
 		original = page
-		page = page[:-4]
-		txt_extension = page + ".txt"
+		filename, file_extension = os.path.splitext(page)
+		if (file_extension == ".html"):
+			page = page[:-4]
+			txt_extension = page + "txt"
+		else:
+			txt_extension = page + ".txt"
 		os.rename(original,txt_extension)
 		count += 1
 		ftxt = open(txt_extension, "rb")
