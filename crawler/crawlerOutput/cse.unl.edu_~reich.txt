@@ -1,0 +1,1034 @@
+<html>
+<head>
+<link href="http://cse.unl.edu/~reich/favicon.ico" rel="shortcut icon"/>
+</head>
+<title>
+Stephen E. Reichenbach
+</title>
+<meta content="Stephen E. Reichenbach (aka Stephen Reichenbach and Steve Reichenbach) professional resume, curriculum vitae (CV), biography" name="description"/>
+<meta content="Stephen E. Reichenbach, Stephen Reichenbach, Steve Reichenbach, professional resume, curriculum vitae (CV), biography" name="keywords"/>
+<body>
+<h1>
+Stephen E. Reichenbach
+</h1>
+<table>
+<tbody>
+<tr>
+<td valign="TOP">
+<image height="128" src="Images/ser-gcxgc-crop.jpg" width="117">
+</image></td>
+<td valign="TOP">
+<b>Professor</b><br/>
+<a href="http://cse.unl.edu/">Computer Science &amp; Engineering Dept.</a><br/>
+<a href="http://www.unl.edu/">University of Nebraska–Lincoln</a><br/>
+Lincoln NE 68588-0115<br/>
+voice: 1.402.472.2401<br/>
+fax: 1.402.472.7767<br/>
+email: <a href="mailto:reich@unl.edu">reich@unl.edu</a><br/>
+</td>
+<td>
+  
+</td>
+<td>
+  
+</td>
+<td valign="TOP">
+<b>President</b><br/>
+<a href="http://www.gcimage.com/">GC Image, LLC</a><br/>
+PO Box 57403<br/>
+Lincoln NE 68505-7403<br/>
+voice: 1.402.310.4503<br/>
+fax: 1.402.436.2660<br/>
+email: <a href="mailto:reich@gcimage.com">reich@gcimage.com</a><br/>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<b>Education</b>
+</p><ul>
+<li>Ph.D., <a href="http://www.cs.wm.edu">Computer Science</a>,
+<a href="http://www.wm.edu/">William and Mary,</a>
+Williamsburg VA (1989)
+</li><li>M.S., <a href="http://cse.wustl.edu">Computer Science</a>,
+<a href="http://www.wustl.edu/">Washington University,</a>
+St. Louis MO (1985)
+</li><li>B.A., <a href="http://english.unl.edu">English</a>,
+<a href="http://www.unl.edu/">University of Nebraska,</a>
+Lincoln NE (1976)
+</li></ul>
+<p>
+<b>Distinctions</b>
+</p><ul>
+<li>Innovation, Development and Engagement Award (IDEA), University of Nebraska, 2015.</li>
+<li>Founding Director and President, GC Image, LLC, 2002–present.</li>
+<li>Member, Nebraska Innovation Campus Faculty Advisory Committee, UNL, 2010–2012.</li>
+<li>Member, Board of Directors, Zoex Corporation, 2004–2012.</li>
+<li>Member, Technology Strategic Planning Committee, Lincoln Public Schools, 2012.</li>
+<li>Member, Strategic Planning Committee, Lincoln Public Schools, 2011.</li>
+<li>Co-Chair, <i>Visual Information Processing XI – XX</i>, Proceedings of the SPIE, 2002–2011.</li>
+<li>Visiting Professor, Manchester Interdisciplinary Biocentre, University of Manchester, 2007.</li>
+<li>Senator, Academic Senate, UNL, 2004–2007.</li>
+<li>Technology Professor of the Year, AIM Institute, 2005.</li>
+<li>Founding Director and President, Internet Nebraska Corporation,
+    1994–2005.</li>
+<li>Program Committee, SPIE Investigative Image Processing III, 2003.</li>
+<li>J.D. Edwards Professorship, UNL, 2002.</li>
+<li>Promoted to Professor of Computer Science and Engineering, UNL, 2001.</li>
+<li>Department Chair, Computer Science and Engineering Department, UNL,
+    1996–2000.</li>
+<li>Associate Editor, <i>IEEE Transactions on Image Processing</i>, 1996–98.</li>
+<li>Technical Program Committee, <i>International Conference on Image
+    Processing</i>, 1997.</li>
+<li>CDROM Chair, Steering Committee, Technical Program Committee,
+    <i>International Geoscience and Remote Sensing Symposium</i>,
+    1993–1996.</li>
+<li>Promoted to Associate Professor of Computer Science and Engineering, UNL, 1996.</li>
+<li>ASEE Summer Faculty Fellowship, NASA Goddard Space Flight Center,
+    1995.</li>
+<li>Outstanding Researcher (Ass't Prof.), College of Engineering and
+    Technology, UNL, 1994.</li>
+<li>George Holmes Research Fellowship, 1991.</li>
+<li>National Research Council Associateship, NASA Langley Research Center,
+    1989–90.</li>
+<li>Appointed Assistant Professor of Computer Science and Engineering, UNL, 1989.</li>
+</ul>
+<p>
+<b>Current Research Interests</b>
+</p><ul>
+<li>Informatics and chemometrics for multi-dimensional chemical separations
+and three-dimensional mass-spectrometric imaging.</li>
+<li>Image restoration, resampling, and data fusion for infrared images
+and remotely sensed, multispectral data.
+</li><li>Digital image processing algorithms and architectures that integrate
+restoration, compression, coding, and enhancement for optimal end-to-end
+performance subject to explicit implementation constraints.
+</li><li>Scene modeling and artificial scene generation.
+Imaging system design, analysis, and simulation.
+Research methodology for digital image processing and computer vision.
+</li><li>Visual information processing in multimedia systems, especially for
+web-based decision support.
+</li></ul>
+<p>
+<b>Journal and Book Publications</b>
+</p><ul>
+<li>
+S. Reichenbach, D. Rempe, Q. Tao, D. Bressanello, E. Liberto, C. Bicchi, S. Balducci, and C. Cordero.
+"<a href="publications/ac5b02718.pdf">Alignment for Comprehensive Two-Dimensional Gas Chromatography with Dual Secondary Columns and Detectors</a>".
+<a href="http://pubs.acs.org/journal/ancham#"><i>Analytical Chemistry</i></a>, 87:10056-10063, 2015.
+</li><li>
+B. Sgorbini, C. Cagliero, L. Boggia, E. Liberto, S. Reichenbach, P. Rubiolo, C. Cordero, C. Bicchi.
+"<a href="http://onlinelibrary.wiley.com/doi/10.1002/ffj.3255/full">Parallel Dual Secondary-Column-Dual Detection Comprehensive Two-Dimensional Gas Chromatography: A Flexible and Reliable Analytical Tool for Essential Oils Quantitative Profiling</a>".
+<a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1026"><i>Flavour and Fragrance Journal</i></a>, 30:366-380, 2015.
+</li><li>
+K. Berthe, S. Reichenbach, B. Ogolbys, C. Rowe, C. Hays.
+"<a href="http://www.ijsrd.com/articles/IJSRDV3I40675.pdf">Using Model Data to Build On Accuracy of Ground Data Based on Kriging, Interpolation Techniques for Bias Correction</a>."
+<a href="http://ijsrd.com"><i>International Journal for Scientific Research and Development</i></a>, 3(4):1549-1556, 2015.
+</li><li>
+M. Ubukata, K. Jobst, E. Reiner, S. Reichenbach, Q. Tao, J. Hang, Z. Wu, A. Dane, R. Cody.
+"<a href="publications/joca1395.pdf">Non-targeted Analysis of Electronics Waste by Comprehensive Two-Dimensional Gas Chromatography Combined with High-Resolution Mass Spectrometry: Using Accurate Mass Information and Mass Defect Analysis to Explore the Data</a>".
+<a href="http://www.elsevier.com/locate/chroma"><i>Journal of Chromatography A</i></a>, 1395:152-159, 2015.
+</li><li>
+K. Berthe, B. Abdramane, S. Reichenbach
+"<a href="publications/ajest2015.pdf">Gumbel Weibull Distribution Function for Sahel Precipitation Modeling and Predicting: Case of Mali</a>"
+<a href="http://www.academicjournals.org/journal/AJEST"><i>African Journal of Environmental Science and Technology</i></a>, 9(5):405-412, 2015.
+</li><li>
+C. Cordero, J. Kiefl, P. Schieberle, S. Reichenbach, C. Bicchi.
+"<a href="publications/abc407.pdf">Comprehensive Two-Dimensional Gas Chromatography and Food Sensory Properties: Potentials and Challenges</a>".
+<a href="http://www.springer.com/chemistry/analytical+chemistry/journal/216"><i>Analytical and Bioanalytical Chemistry</i></a>, 407:169-191, 2015.
+</li><li>
+D. Bressanello, E. Liberto, M. Collino, S. Reichenbach, E. Benetti, F. Chiazza, C. Bicchi, C. Cordero.
+"<a href="publications/joca1361.pdf">Urinary Metabolic Fingerprinting of Mice with Diet-Induced Metabolic Derangements by Parallel Dual Secondary Column-Dual Detection Two-Dimensional Comprehensive Gas Chromatography</a>."
+<a href="http://www.elsevier.com/locate/chroma"><i>Journal of Chromatography A</i></a>, 1361:265-276, 2014.
+</li><li>
+S. Reichenbach, X. Tian, A. Boateng, C. Mullen, C. Cordero, Q. Tao.
+"<a href="publications/achem85.pdf">Reliable Peak Selection for Multisample Analysis with Comprehensive Two-Dimensional Chromatography</a>".
+<a href="http://pubs.acs.org/journal/ancham#"><i>Analytical Chemistry</i></a>, 85(10):4974-4981, 2013.
+</li><li>
+C. Mullen, A. Boateng, S. Reichenbach.
+"<a href="publications/fuel2013.pdf">Hydrotreating of Fast Pyrolysis Oils from Protein-Rich Pennycress Seed Presscake</a>."
+<a href="http://www.journals.elsevier.com/fuel/"><i>Fuel</i></a>, doi:10.1016/j.fuel.2013.04.075, 111:797-804, 2013.
+</li><li>
+J. Kiefl, C. Cordero, L. Nicolotti, P. Schieberle, S. Reichenbach, C. Bicchi.
+"<a href="publications/joca1243.pdf">Performance Evaluation of Non-targeted Peak-Based Cross-Sample Analysis for Comprehensive Two-Dimensional Gas Chromatography-Mass Spectrometry Data and Application to Processed Hazelnut Profiling</a>."
+<a href="http://www.elsevier.com/locate/chroma"><i>Journal of Chromatography A</i></a>, 1243:81-90, 2012.
+</li><li>
+S. Reichenbach, X. Tian, C. Cordero, Q. Tao.
+"<a href="publications/joca1226.pdf">Features for non-targeted cross-sample analysis with comprehensive two-dimensional chromatography</a>."
+<a href="http://www.elsevier.com/locate/chroma"><i>Journal of Chromatography A</i></a>, 1226:140-148, 2012.
+</li><li>
+I. Latha, S. Reichenbach, Q. Tao.
+"<a href="publications/joca1218-38.pdf">Comparative analysis of peak-detection techniques for comprehensive two-dimensional chromatography</a>."
+<a href="http://www.elsevier.com/locate/chroma"><i>Journal of Chromatography A</i></a>, 1218(38):6792-6798, 2011.
+</li><li>S. Hashimoto, Y. Takazawa, A. Fushimi, K. Tanabe, Y. Shibata, T. Ieda, N. Ochiai, H. Kanda, T. Ohura, Q. Tao, S. Reichenbach.
+"<a href="publications/joca1218-04.pdf">Global and selective detection of organohalogens in environmental samples by comprehensive two-dimensional gas chromatography – tandem mass spectrometry and high-resolution time-of-flight mass spectrometry</a>."
+<a href="http://www.elsevier.com/locate/chroma"><i>Journal of Chromatography A</i></a>, 1218(24):3799-3810, 2011.
+</li><li>S. Reichenbach, X. Tian, Q. Tao, E. Ledford, Z. Wu, O. Fiehn.
+"<a href="publications/talanta.pdf">Informatics for Cross-Sample Analysis with Comprehensive Two-Dimensional Gas Chromatography and High-Resolution Mass Spectrometry (GCxGC-HRMS)</a>."
+<a href="http://www.elsevier.com/locate/talanta"><i>Talanta</i></a>, 83(4):1279-1288, 2011.
+</li><li>S. Reichenbach, X. Tian, R. Lindquist, Q. Tao, A. Henderson, and J. Vickerman.
+"<a href="publications/sia2010.pdf">Interactive Spatio-Spectral Analysis of Three-Dimensional Mass-Spectral (3DxMS) Chemical Images</a>."
+<a href="http://www3.interscience.wiley.com/journal/2009/home">Surface and Interface Analysis</a>,
+43(1-2):529-534, 2011.
+</li><li>C. Cordero, E. Liberto, C. Bicchi, P. Rubiolo, P. Schieberle, S. Reichenbach, Q. Tao.
+"<a href="publications/joca1217.pdf">Profiling Food Volatiles by Comprehensive Two-Dimensional Gas Chromatography Coupled with Mass Spectrometry:  Advanced Fingerprinting Approaches for Comparative Analysis of the Volatile Fraction of Roasted Hazelnuts (<i>Corylus avellana</i> L.) from Different Origins</a>."
+<a href="http://www.elsevier.com/locate/chroma"><i>Journal of Chromatography A</i></a>,
+1217(37):5848-5858, doi:10.1016/j.chroma.2010.07.006, 2010.
+</li><li>S. Reichenbach, X. Tian, Q. Tao, D. Stoll, and P. Carr.
+"<a href="publications/jss2010.pdf">Comprehensive Feature Analysis for Sample Classification with Comprehensive Two-Dimensional Liquid Chromatography (LCxLC)</a>."
+<a href="http://www3.interscience.wiley.com/journal/117935715/grouphome/home.html"><i>Journal of Separation Science</i></a>,
+33(10):1365-1374, 2010.
+</li><li>C. Cordero, E. Liberto, C. Bicchi, P. Rubiolo, S. Reichenbach, X. Tian, and Q. Tao.
+"<a href="publications/jcs2010.pdf">Targeted and non-targeted approaches for complex natural sample profiling by GCxGC-qMS</a>."
+<a href="http://www.j-chrom-sci.com/"><i>Journal of Chromatographic Science</i></a>,
+48(4):251-261, 2010.
+</li><li>S. Reichenbach.
+"<a href="publications/chapter4.pdf">Data acquisition, visualization, and analysis</a>."
+In <a href="http://www.elsevier.com/wps/find/bookdescription.cws_home/718882/description#description"><i>Comprehensive Two Dimensional Gas Chromatography</i></a>, Ed. L. Ramos,
+pp. 77-106, Elsevier, 2009.
+</li><li>S. Reichenbach.
+"<a href="publications/achem81.pdf">Quantification in Comprehensive Two-Dimensional Liquid Chromatography</a>."
+<a href="http://pubs.acs.org/journal/ancham#"><i>Analytical Chemistry</i></a>,
+81(12):5099-5101, 2009.
+</li><li>S. Reichenbach, A. Henderson, R. Lindquist, Q. Tao.
+"<a href="publications/rcms23.pdf">Efficient Encoding and Rapid Decoding for Interactive Visualization of Large Three-Dimensional Hyperspectral Chemical Images</a>."
+<a href="http://www3.interscience.wiley.com/journal/4849/home"><i>Rapid Communications in Mass Spectrometry</i></a>,
+23(9):1229-1233, 2009.
+</li><li>S. Reichenbach, P. Carr, D. Stoll, and Q. Tao.
+"<a href="http://digitalcommons.unl.edu/csearticles/94">Smart Templates for Peak Pattern Matching with Comprehensive Two-Dimensional Liquid Chromatography</a>."
+<a href="http://www.elsevier.com/locate/chroma"><i>Journal of Chromatography A</i></a>,
+1216(16):3458-3466, 2009.
+</li><li>A. Visvanathan, S. Reichenbach, and Q. Tao.
+"<a href="publications/jei033004.pdf">Gradient-Based Value Mapping for
+Pseudocolor Images</a>."
+<a href="http://spiedigitallibrary.aip.org/dbt/dbt.jsp?KEY=JEIME5&amp;Volume=LASTVOL&amp;Issue=LASTISS&amp;ver=dl"><i>Journal of Electronic Imaging</i></a>,
+16(3):033004, 2007.
+</li><li>J. Shi and S. Reichenbach.
+"<a href="http://digitalcommons.unl.edu/csearticles/14">Image Interpolation by Two-Dimensional
+Parametric Cubic Convolution</a>."
+<a href="http://www.ieee.org/organizations/society/sp/tip.html"><i>IEEE
+Transactions on Image Processing</i></a>,
+15(7):1857–1870, 2006.</li>
+<li>R. Nelson, B. Kile, D. Plata, S. Sylva, L. Xu, C. Reddy, R. Gaines,
+G. Frysinger, and S. Reichenbach.
+"<a href="publications/ef7-1.pdf">Tracking the Weathering of an Oil Spill
+with Comprehensive Two-Dimensional Gas Chromatography</a>."
+<a href="http://www.tandf.co.uk/journals/titles/15275922.asp"><i>Environmental
+Forensics</i></a>,
+7(1):33–44, 2006.</li>
+<li>J. Shi, S. Reichenbach, and J. Howe.
+"<a href="publications/ao45-6.pdf">Small-Kernel Super-Resolution Methods for
+Microscanning Imaging Systems</a>."
+<i><a href="http://ao.osa.org/journal/ao/about.cfm">Applied Optics</a></i>,
+45(6):1203–1214, 2006.</li>
+<li>B. Hollingsworth, S. Reichenbach, Q. Tao, and A. Visvanathan.
+"<a href="publications/joca1105.pdf">Comparative Visualization for
+Comprehensive Two-Dimensional Gas Chromatography</a>."
+<a href="http://www.sciencedirect.com/science/journal/00219673"><i>Journal
+of Chromatography A</i></a>,
+1105(1-2):51–58, 2006.</li>
+<li>M. Ni, S. Reichenbach, A. Visvanathan, J. TerMaat, and E. Ledford, Jr.
+"<a href="publications/joca1086.pdf">Peak Pattern Variations Related to
+Comprehensive Two-Dimensional Gas Chromatography Acquisition</a>."
+<a href="http://www.sciencedirect.com/science/journal/00219673"><i>Journal
+of Chromatography A</i></a>,
+1086(1-2):165–170, 2005.</li>
+<li>S. Reichenbach, V. Kottapalli, M. Ni, and A. Visvanathan.
+"<a href="publications/joca1071.pdf">Computer Language for Identifying
+Chemicals with Comprehensive Two-Dimensional Gas Chromatography and Mass
+Spectrometry (GCxGC-MS)</a>."
+<a href="http://www.sciencedirect.com/science/journal/00219673"><i>Journal
+of Chromatography A</i></a>,
+1071(1-2):263–269, 2005.</li>
+<li>S. Reichenbach, M. Ni, V. Kottapalli, and A. Visvanathan.
+"<a href="publications/ciis71.pdf">Information Technologies for
+Comprehensive Two-Dimensional Gas Chromatography</a>."
+<a href="http://www.sciencedirect.com/science/journal/01697439"><i>Chemometrics
+and Intelligent Laboratory Systems</i></a>,
+71(2):107–120, 2004.</li>
+<li>S. Reichenbach, C. Farnham, and D. Finkelson.
+"The History of the Internet in the Great Plains."
+In the <i>Encyclopedia of the Great Plains</i>,
+edited by D. Wishart, 2004.
+</li><li>S. Reichenbach and F. Geng.
+"<a href="http://digitalcommons.unl.edu/csearticles/15">Two-Dimensional Cubic Convolution</a>."
+<a href="http://www.ieee.org/organizations/society/sp/tip.html"><i>IEEE
+Transactions on Image Processing</i></a>,
+12(8):857–865, 2003.</li>
+<li>R. Narayanan, S. Ponnappan, and S. Reichenbach.
+"<a href="http://www.geocarto.com/2003_June_contents.pdf">Effects of
+Noise on Information Content of Remote Sensing Images</a>,"
+<a href="http://www.geocarto.com/geocarto.html"><i>Geocarto
+International</i></a>,
+18(2):15–26, 2003.</li>
+<li>B. Corner, R. Narayanan, and S. Reichenbach.
+"<a href="publications/ijrs24-4.pdf">Noise Estimation in Remote
+Sensing Imagery Using Data Masking</a>."
+<a href="http://www.tandf.co.uk/journals/tf/01431161.html"><i>International
+Journal of Remote Sensing</i></a>,
+24(4):689–702, 2003.
+</li><li>S. Goddard, S. Harms, S. Reichenbach, T. Tadesse, and W. Waltman.
+"<a href="http://digitalcommons.unl.edu/csearticles/2">Geospatial Decision Support for
+Drought Risk Management</a>."
+<a href="http://www.acm.org/cacm/"><i>Communications of the ACM</i></a>,
+46(1):35–38, 2003.
+</li><li>S. Reichenbach, M. Ni, D. Zhang, and E. Ledford.
+"<a href="publications/joca985.pdf">Image Background Removal in
+Comprehensive Two-Dimensional Gas Chromatography</a>."
+<a href="http://www.sciencedirect.com/science/journal/00219673"><i>Journal
+of Chromatography A</i></a>,
+985(1-2):47–56, 2003.
+</li><li>S. Reichenbach, L. Cao, and R. Narayanan.
+"<a href="publications/jei11-3.pdf">Information Efficiency in
+Hyperspectral Imaging Systems</a>."
+<a href="http://www.spie.org/app/Publications/index.cfm?fuseaction=journals&amp;type=jei"><i>Journal
+of Electronic Imaging</i></a>,
+11(3):347–353, 2002.
+</li><li>R. Narayanan, M. Desetty, and S. Reichenbach.
+"<a href="publications/ijrs23-3.pdf">Effect of Spatial Resolution on
+Information Content Characterisation in Remote Sensing Imagery Based
+on Classification Accuracy</a>."
+<a href="http://www.tandf.co.uk/journals/tf/01431161.html"><i>International
+Journal of Remote Sensing</i></a>,
+23(3):537–553, 2002.
+</li><li>S. Reichenbach and J. Li.
+"<a href="http://digitalcommons.unl.edu/csearticles/16">Restoration and Reconstruction
+from Overlapping Images for Multi-Image Fusion</a>."
+<a href="http://ewh.ieee.org/soc/grss/tgars.html"><i>IEEE Transactions
+on Geoscience and Remote Sensing</i></a>,
+39(4):769–780, 2001.
+</li><li>R. Narayanan, T. Sankaravadivelu, S. Reichenbach.
+"Dependence of Image Information Content on Gray-Scale Resolution."
+<a href="http://www.geocarto.com/geocarto.html"><i>Geocarto
+International</i></a>,
+15(4):15–27, 2000.
+</li><li>S. Reichenbach, S. Park, and J. Howe.
+"Restoration and Range Performance in FLIR Imaging Systems."
+<i>Journal of Infrared Physics and Technology</i>,
+38(3):177–192, 1997.
+</li><li>B. Kess, D. Steinwand, and S. Reichenbach.
+"Compression of the Global Land 1-Km AVHRR Dataset."
+<i>International Journal of Remote Sensing</i>,
+17(15):2955–2969, 1996.
+</li><li>R. Vetter <i>et al.</i>
+"<a href="http://digitalcommons.unl.edu/csearticles/7">Accessing Earth System Science Data
+and Applications Through High-Bandwidth Networks</a>."
+<i>IEEE Journal on Selected Areas in Communications</i>,
+13(5):793–805, 1995.
+</li><li>S. Reichenbach, D. Koehler, and D. Strelow.
+"<a href="http://digitalcommons.unl.edu/csearticles/17">Restoration and Reconstruction of
+AVHRR Images</a>."
+<a href="http://ewh.ieee.org/soc/grss/tgars.html"><i>IEEE Transactions
+on Geoscience and Remote Sensing</i></a>, 33(4):997–1007, 1995.
+</li><li>S. Reichenbach, Z. Rahman, and R. Narayanswamy.
+"Transform-Coding Image Compression for Information Efficiency
+and Restoration."
+<i>Journal of Visual Communication and Image Representation</i>,
+4(3):215–224, 1993.
+</li><li>S. Reichenbach and A. Samal.
+"Undergraduate Research Experiences in Digital Image Processing
+and Computer Vision."
+<i>Computers in Education Journal</i>,
+III(4):28–34, 1993.
+</li><li>F. Huck <i>et al.</i>
+"Visual Communication: Information and Fidelity."
+<i>Journal of Visual Communication and Image Representation</i>,
+4(1):62–78, 1993.
+</li><li>R. Hazra <i>et al.</i>
+"Model-Based Frequency Response Characterization of a Digital Image
+Analysis System for Epifluorescence Microscopy."
+<i>Applied Optics</i>,
+31(8):1083–1092, 1992.
+</li><li>R. Alter-Gartenberg <i>et al.</i>
+"Multiresponse Imaging: Information and Fidelity."
+<i>Multidimensional Systems and Signal Processing</i>,
+3(2/3):189–210, 1992.
+Reprinted in <i>Multidimensional Processing of Video Signals</i>,
+edited by Giovanni L. Sicuranza and Sanjit K. Mitra, pp. 81–102
+(Boston: Kluwer Academic Publishers, 1992).
+</li><li>S. Reichenbach and S. Park.
+"Small Convolution Kernels for High-Fidelity Image Restoration."
+<i>IEEE Transactions on Signal Processing</i>,
+39(10):2263–2274, 1991.
+</li><li>S. Reichenbach, S. Park, and R. Narayanswamy.
+"<a href="publications/oe1991.pdf">Characterizing Digital Image Acquisition Devices</a>."
+<a href="http://opticalengineering.spiedigitallibrary.org/journal.aspx"><i>Optical Engineering</i></a>,
+30(2): 170–177, 1991.
+</li><li>M. Sieracki, S. Reichenbach, and K. Webb.
+"Evaluation of Automated Threshold Selection Methods for
+Accurate Sizing of Microscopic Fluorescent Cells by Image
+Analysis."
+<i>Applied and Environmental Microbiology</i>,
+55(11): 2762–2772, 1989.
+</li><li>S. Reichenbach, J. Burton, and K. Miller.
+"Comparison of Algorithms for Computing the Two-Dimensional
+Discrete Hartley Transform."
+<i>Journal of the Optical Society of America A</i>,
+6(6):818–823, 1989.
+</li></ul>
+<p>
+<b>Technical Reports</b>
+</p><ul>
+<li> 
+G. Vanhoenacker, F. David, K. Sandra, P. Sandra, U. Huber, and S. Reichenbach.
+<a href="http://www.chem.agilent.com/Library/applications/5991-3576EN.pdf">Determination of Taxanes in Taxus sp. with the Agilent 1290 Infinity 2D-LC Solution</a>.
+Agilent Application Note, 5991-3576EN, Dec. 2013.
+</li><li>
+S.E. Reichenbach and E. Naegele.
+<a href="http://www.chem.agilent.com/Library/applications/5991-1455EN.pdf">2-Dimensional separation of polyphenols in beverages using the Agilent 1290 Infinity 2D-LC Solution and software-assisted 2D-LC data analysis for comparison of ingredients</a>.
+Agilent Technical Report, 5991-1455EN, Jan. 2013.
+</li></ul>
+<p>
+<b>Conference Publications and Presentations</b>
+</p><ul>
+<li> 
+S. Reichenbach and Q. Tao.
+"Quality Assurance for Comprehensive Two-Dimensional Chromatography: Automated and Semi-automated Methods and Tools."
+<i>Analytix 2015</i>, Nanjing, CN, April 2015.
+</li><li> 
+S. Reichenbach and Q. Tao.
+"Rapid Quality Assurance Methods and Tools for Comprehensive Two-Dimensional Chromatography."
+<i>Analytica Vietnam</i>, Ho Chi Minh City, VN, April 2015.
+</li><li> 
+M. Ubukata, K.J. Jobst, E.J. Reiner, Q. Tao, S.E. Reichenbach, Z. Wu, A.J. Dane, and R.B. Cody.
+"Analysis of Electronics Waste by GCxGC Combined with High-Resolution Mass Spectrometry: Using Exact Mass Information to Explore the Data."
+<i>ACS National Meeting</i>, Indianapolis IN, September 2014.
+</li><li> 
+W. Ledford, M. Marroquin-Guzman, R. Wilson, Q. Tao, S.E. Reichenbach, Z. Wu, E.B. Ledford, S. Aronova, J. Gushue and H. Prest.
+"Metabolomic Study of the Rice Blast Fungus Magnaporthe oryzae by GC x GC x QTOFMS."
+ASMS Conference on Mass Spectrometry and Allied Topics, Baltimore, MD, June 2014.
+</li><li>
+M. Ubukata, K.J. Jobst, E.J. Reiner, S.E. Reichenbach, Q. Tao, J. Hang, Z. Wu, A.J. Dane, and R.B. Cody.
+"Analysis of Electronics Waste by 2D-GC Combined with High-Resolution Mass Spectrometry: Using Exact Mass Information to Explore the Data."
+<i>ASMS Conference on Mass Spectrometry and Allied Topics</i>, Baltimore MD, June 2014.
+</li><li> 
+D. Bressanello, D. Garella, M. Bertinaria, A. Marcantoni, C. Franchino, G. Miglio, S.E. Reichenbach, C. Bicchi, and C. Cordero.
+"Exploring the Amyloid Beta (Abeta) Dependent Metabolic Fingerprint of Hippocampal Neurons by Two-Dimensional Comprehensive Gas Chromatography."
+<i>International Symposium on Capillary Chromatography</i>, Riva del Garda, IT, May 2014.
+</li><li> 
+S. Aronova, W.C. Ledford, M. Marroquin-Guzman, R.A. Wilson, Q. Tao, S.E. Reichenbach, Z. Wu, E.B. Ledford, J. Gushue, and H. Prest.
+"Untargeted Metabolomics Study of the Plant-Pathogenic Fungus Magnaporthe Oryzae by GCxGCxQTOFMS."
+<i>GCxGC Symposium</i>, Riva del Garda, May 2014.
+</li><li> 
+H.D. Bean, J.D. Dimandja, S.E. Reichenbach, L.A. Adutwum, A.P. de la Mata, J.J. Harynuk, and J.E. Hill.
+"Discovering Volatile Biomarkers of P. Aeruginosa Adaptation during Chronic Lung Infections using GCXGC-TOFMS and Chemometrics."
+<i>GCxGC Symposium</i>, Riva del Garda, May 2014.
+</li><li> 
+D. Bressanello, E. Liberto, M. Collino, S.E. Reichenbach, E. Benetti, F. Chiazza, C. Bicchi, and C. Cordero.
+"Dual Second Dimension Column - Dual Detection in Two-Dimensional Comprehensive Gas Chromatography (GCx2GC-MS/FID)."
+<i>GCxGC Symposium</i>, Riva del Garda, IT, May 2014.
+</li><li> 
+W.E. Rathbun, S.E Reichenbach, and Q. Tao.
+"Enhancing the Productivity and Visualization of Comprehensive Two-Dimensional Gas Chromatography for Hydrocarbon Type Analysis."
+<i>GCxGC Symposium</i>, Riva del Garda, May 2014.
+</li><li> 
+S.E. Reichenbach, Q. Tao, and T. Janke.
+"Quality Assurance Screening for Comprehensive Two-Dimensional Chromatography."
+<i>GCxGC Symposium</i>, Riva del Garda, IT, May 2014.
+</li><li> 
+S.E. Reichenbach, Z. Wu, Q. Tao, Y. Xu, S. Mackenzie, S. Zhu, and L. Gao.
+"Metabolomic Analyses using Comprehensive Two-Dimensional Gas Chromatography with High-Resolution Mass Spectrometry (GCxGC-HRMS)."
+<i>GCxGC Symposium</i>, Riva del Garda, Italy, May 2014.
+</li><li> 
+Z. Wu, M. Ubukata, K.J. Jobst, E.J. Reiner, S.E. Reichenbach, Q. Tao, J. Hang, A.J. Dane, and R.B. Cody.
+"Analysis of Electronics Waste by GCxGC Combined with High-Resolution Mass Spectrometry: Using Exact Mass Information to Explore the Data."
+<i>GCxGC Symposium</i>, Riva del Garda, May 2014.
+</li><li> 
+S.E. Reichenbach, Q. Tao, Z. Wu, Y. Xu, and S. Mackenzie.
+"Metabolomic Analyses using Comprehensive Two-Dimensional Gas Chromatography with Mass Spectrometry (GCxGC-MS)."
+<i>International Conference and Exhibition on Metabolomics and Systems Biology</i>, San Antonio TX USA, March 2014.
+</li><li>
+H.D. Bean, J.E. Hill, J-M.D. Dimandja, Q. Tao, and S.E. Reichenbach.
+"Discovering volatile biomarkers of chronic P. aeruginosa infections using GCxGC-TOFMS and GC Image."
+<i>Multidimensional Chromatography Workshop</i>, Toronto, January 2014.
+</li><li>
+S.E. Reichenbach, Z. Wu, Q. Tao, Y. Xu, and S. Mackenzie.
+"Metabolomic analysis of Arabidopsis thaliana with GCxGC-MS."
+<i>Multidimensional Chromatography Workshop</i>, Toronto, January 2014.
+</li><li> 
+S. Reichenbach, S. Devarakonda, E. Naegele, Q. Tao, and G. Vanhoenacker.
+"Data Analysis Workflow for Comprehensive Two-Dimensional Liquid Chromatography (LCxLC)."
+<i>International Symposium on High Performance Liquid Phase Separations and Related Techniques (HPLC 2013)</i>, 2013.
+</li><li>
+E. Naegele, S. Reichenbach.
+"Comprehensive Two-Dimensional UHPLC for the Fast and Flexible Method
+Development and Application for the Analysis of Polyphenols in Beverages."
+<i>Pittcon Conference</i>, 2380-8, 2013.
+</li><li> 
+S., Reichenbach, E. Naegele, Q. Tao, S. Devarakonda.
+"Feature Extraction, Selection, and Analysis for Multi-Sample
+Fingerprinting, Classification, and Chemical Marker Discovery with
+Comprehensive Two-Dimensional Chromatography."
+<i>Pittcon Conference</i>, 2400-3, 2013.
+</li><li>
+C. Mullen, A. Boateng, S. Reichenbach.
+"Hydrogenation of Fast Pyrolysis Oils From Proteinaceous Biomass."
+<i>American Institute of Chemical Engineers (AIChE) Annual Meeting</i>,
+327a, 2012.
+</li><li>
+S. Reichenbach and E. Naegele.
+"End-to-End Workflow for LCxLC."
+<i>International Symposium on High Performance Liquid Phase Separations
+and Related Techniques (HPLC 2012)</i>, L-04-17, 2012.
+</li><li>
+E. Naegele and S. Reichenbach.
+"Comprehensive Two-Dimensional UHPLC: Fast and Flexible Method Development
+and Analysis for Samples of High Complexity."
+<i>International Symposium on High Performance Liquid Phase Separations
+and Related Techniques (HPLC 2012)</i>, P-249, 2012.
+</li><li>
+S. Reichenbach, E. Naegele, Q. Tao.
+"Method Development and Automation for Comprehensive Two-Dimensional
+Liquid Chromatography (LCxLC)."
+<i>International Symposium on Capillary Chromatography</i>,
+388, 2012.
+</li><li>
+S. Reichenbach, X. Tian, A. Boateng, C. Mullen, C. Cordero, Q. Tao.
+"Reliable Peaks for Comparative Analysis with Two-Dimensional Chromatography."
+<i>GCxGC Symposium</i>, 119, 2012.
+</li><li>
+C. Cordero, E. Liberto, L. Nicolotti, S. Reichenbach, C. Bicchi.
+"Chemical Fingerprinting of Food by GCxGC-MS: From Foodomics to Quality
+and Safety Assessment."
+<i>GCxGC Symposium</i>, 306, 2012.
+</li><li>
+S. Reichenbach, Q. Tao, X. Tian, E. Ledford, Z. Wu, O. Fiehn.
+"Multi-sample Analysis with GCxGC."
+<i>GCxGC Symposium</i>, 33, 2011.
+</li><li>
+S. Reichenbach, I. Latha, Q. Tao.
+"Comparative Evaluation of Peak Detection Methods for Comprehensive TwoDimensional Chromatography."
+<i>GCxGC Symposium</i>, 89, 2011.
+</li><li>
+E. Ledford, Z. Wu, S. Reichenbach, Q. Tao, D. Hutchinson, X. Tian, C. Tanner, M. Tanner, M. Gonin, K. Furher.
+"Classification of Breast Cancer Grades by Pattern Recognition in GC x GC x HiResTOFMS Images."
+<i>Metabolomics 2010</i>, 41-42, 2010.
+</li><li>
+E. Ledford, Z. Wu, C. Tanner, M. Tanner, M. Gonin, K. Fuhrer, S. Reichenbach, Q. Tao.
+"A New High Speed, High Resolution Time-of-Flight Mass Spectrometery for GCxGC Detection."
+<i>Seventh International GCxGC Symposium</i>, K.42, 2010.
+</li><li>
+C. Cordero, E. Liberto, B. Sgorbini, C. Bicchi, P. Rubiolo, S. Reichenbach, Q. Tao. "Advanced GCxGC-QMS Fingerprinting Methods for Food and Natural Sample Profiling."
+<i>Seventh International GCxGC Symposium</i>, Le.16, 2010.
+</li><li>
+W. Rathbun, P. Adams, H. Wang, S. Cabanban, S. Anderson, H. Pham, S. Reichenbach, Q. Tao, J. Dimandja.
+"Quantitative Aspects of Comprehensive Two-Dimensional Gas Chromatography."
+<i>Pittcon</i>, 2010.
+</li><li>
+S. Reichenbach, X. Tian, R. Lindquist, Q. Tao, and A. Henderson.
+"Interactive Spatio-Spectral Analysis of Three-Dimensional Chemical Images from ToF-SIMS."
+<i>International Conference on Secondary Ion Mass Spectrometry</i>,
+132, 2009.
+</li><li>
+X. Tian, S. Reichenbach, Q. Tao, and A. Henderson.
+"<a href="publications/bcbgc2009.pdf">Classification and Cluster Analysis of Complex Time-of-Flight Secondary Ion Mass Spectrometry for Biological Samples</a>."
+<i>International Conference on Bioinformatics, Computational Biology,
+Genomics and Chemoinformatics (BCBGC-09)</i>,
+78–85, 2009.
+</li><li>
+W. Rathbun, P. Adams, H. Wang, S. Cabanban, H. Pham, S. Anderson,
+S. Reichenbach, Q. Tao, and J. Dimandja.
+"Enhanced Template-Based Chemical Identification for Automated
+Characterization of Petroleum Samples by Comprehensive Two-Dimensional
+Gas Chromatography."
+<i>International GCxGC Symposium</i>, 14, 2009.
+</li><li>
+S. Reichenbach, Q. Tao, Edward B. Ledford, Jr., and Z. Wu.
+"Chemical Information from Comprehensive Two-Dimensional Gas
+Chromatography with High-Resolution Time-of-Flight Mass Spectrometry
+(GCxGC-HRToFMS) ."
+<i>International GCxGC Symposium</i>, 7, 2009.
+</li><li>
+S. Reichenbach, X. Tian, Q. Tao, C. Cordero, P. Rubiolo, and C. Bicchi.
+"Chemical Fingerprinting with GCxGC and LCxLC Template Meshes for
+Comprehensive Non-targeted Analysis."
+<i>International GCxGC Symposium</i>, 86, 2009.
+</li><li>
+S. Reichenbach, Q. Tao, D. Hutchinson, S. Cabanan, H. Pham, W. Rathbun,
+and H. Wang.
+"Multi-type Templates with Peak Sets, Areas, and Meshes for Comprehensive
+Two-Dimensional Gas Chromatography (GCxGC)."
+<i>Pittcon</i>, 2009.
+</li><li>
+S. Reichenbach, Q. Tao, E. Ledford, Jr., S. Cabanan, H. Pham, W. Rathbun,
+and H. Wang.
+"Chemical Group Analysis using Smart Templates with Comprehensive
+Two-Dimensional Gas Chromatography with Mass Spectrometry (GCxGC-MS)."
+<i>Pittcon</i>, 2009.
+</li><li>
+W. Rathbun, P. Adams, H. Wang, S. Cabanban, H. Pham, S. Reichenbach, Q. Tao.
+"Enhanced Templating Schemes for the Quantitative Hydrocarbon Type Analysis
+of Vacuum Gas Oils."
+<i>Pittcon</i>, 2009.
+</li><li>
+S. Reichenbach, R. Lindquist, Q. Tao, A. Henderson, and J. Vickerman.
+"<a href="publications/vip2009.pdf">Visualization and Analysis of Three-Dimensional Hyperspectral Images</a>."
+<i>Visual Information Processing XVIII</i>,
+DOI: 10.1117/12.820870, 2009.
+</li><li>
+A. Henderson, S.E. Reichenbach, Q. Tao, J.C. Vickerman.
+"New System for Efficient and Rapid Encoding of Mass Spectral Data for
+Interactive Visualization of 2D and 3D Hyperspectral Images."
+<i>European Workshop on Secondary Ion Mass Spectrometry</i>, 2008.
+</li><li>
+Visvanathan and S. E. Reichenbach.
+"Information Theoretic Mass Spectral Library Search for Comprehensive
+Two-Dimensional Gas Chromatography with Mass Spectrometry."
+<i>ASMS Conference on Mass Spectrometry</i>, 2008.
+</li><li>
+A. Henderson, S. E. Reichenbach, and Q. Tao.
+"New System for Efficient and Rapid Encoding of Mass Spectral Data for
+Interactive Visualization of 2D and 3D Hyperspectral Images."
+<i>ASMS Conference on Mass Spectrometry</i>, 2008.
+</li><li>
+A. Henderson, S. E. Reichenbach, R. Lindquist, Q. Tao, X. Tian, and
+J. C. Vickerman.
+"3D Visualization for SIMS Analysis."
+<i>21st Annual Workshop on SIMS</i>, 2008.
+</li><li>
+S.E. Reichenbach, D.R. Stoll, Q. Tao.
+"Two-Dimensional Liquid Chromatography Peak Pattern Matching Using Smart
+Templates ."
+<i>International Symposium on High Performance Liquid Phase Separations
+and Related Techniques (HPLC2008)</i>, 2008.
+</li><li>
+Q. Tao, S. L. Deshpande, S. E. Reichenbach.
+"Retention-Time Based Peak Clustering in Comprehensive Two-Dimensional
+Gas Chromatography."
+<i>International Symposium on Capillary Chromatography &amp; Electrophoresis</i>,
+2007.</li>
+<li>
+Q. Tao, S. Reichenbach, A. Visvanathan, S. Deshpande.
+"Smart Templates for Chemical Identification in Comprehensive Two-Dimensional
+Gas Chromatography with Mass Spectrometry (GCxGC-MS)."
+<i>4th International GCxGC Symposium</i>,
+2007.</li>
+<li>
+Q. Tao, S. Reichenbach, S. Deshpande, B. Smith.
+"Chemical Group Visualization and Analysis with GCxGC."
+<i>4th International GCxGC Symposium</i>,
+2007.</li>
+<li>J. Shi and S. Reichenbach.
+"<a href="publications/icip2006.pdf">Spatially Constrained Wiener
+Filter with Markov Autocorrelation Modeling for Image Resolution
+Enhancement</a>."
+<i>International Conference on Image Processing</i>
+IEEE, 2681–2684, 2006.</li>
+<li>J. Shi, S. Reichenbach, and M. Chen.
+"A Parametric, Two-Dimensional Random Field with the General Markov
+Autocorrelation."
+<i>SIAM Conference on Imaging Sciences</i>,
+2006.</li>
+<li>A. Visvanathan, S. Reichenbach, and Q. Tao.
+"Gradient-Based Value Mapping for Colorization of Two-Dimensional Fields."
+<i>Visual Information Processing XV</i>,
+Proc. SPIE, 6246, 1–10, 2006.</li>
+<li>A. Visvanathan, Q. Tao, S. Reichenbach, M. Li, S. Deshpande, and X. Tian.
+"XML for Comprehensive Two-Dimensional Gas Chromatography."
+<i>American Chemical Society National Meeting</i>,
+2006.</li>
+<li>Q. Tao, S. Reichenbach, M. Ni, A. Visvanathan, M. Kok, and L. Waltman.
+"Constrained, Multi-type Templates for Chemical Identification in
+Comprehensive Two-Dimensional Gas Chromatography with Mass Spectrometry
+(GCxGC-MS)."
+<i>American Chemical Society National Meeting</i>,
+2006.</li>
+<li>J. Shi and S. Reichenbach.
+"Interpolation by Asymmetric, Two-dimensional Cubic Convolution."
+<i>International Conference on Image Processing</i>,
+IEEE, 994–997, 2005.</li>
+<li>M. Ni and S. Reichenbach.
+"GUI State-Based Accessibility Control in Hierarchical State Machines."
+<i>International Conference on Software Engineering Research and Practice</i>,
+1:239–245, 2005.</li>
+<li>B. Hollingsworth and S. Reichenbach.
+"Comparative Analysis and Visualization for Comprehensive Two-Dimensional
+Gas Chromatography."
+<i>International Symposium on Capillary Chromatography and Electrophoresis</i>,
+invited, 2005.</li>
+<li>J. Shi and S. Reichenbach.
+"Restoration for Comprehensive Two-Dimensional Gas Chromatography."
+<i>Electro/Information Technology Conference</i>,
+CDROM:6p, 2005.</li>
+<li>M. Chen, S. Reichenbach, and J. Shi.
+"Automated Unmixing of Two-Dimensional Chemical Separations with Mass
+Spectrometry."
+<i>Electro/Information Technology Conference</i>,
+CDROM:6p, 2005.</li>
+<li>J. Shi and S. Reichenbach.
+"Cubic Convolution for Super-Resolution from Microscanned Images."
+<i>Visual Information Processing XIV</i>,
+Proc. SPIE, 5817:13–24, 2005.</li>
+<li>S. Reichenbach and J. Shi.
+"<a href="publications/igarss2004.pdf">Two-Dimensional Cubic Convolution
+for One-Pass Image Restoration and Reconstruction</a>."
+<i>International Geoscience and Remote Sensing Symposium</i>,
+IEEE, III:2074–2076, 2004.</li>
+<li>M. Ni, S. Reichenbach, J. TerMaat, and E. Ledford.
+"Peak Pattern Variations Related to GCxGC Acquisition."
+<i>International Symposium on Comprehensive Multidimensional Gas
+Chromatography</i>, invited, 2004.</li>
+<li>M. Ni and S. Reichenbach.
+"Pattern Matching by Sequential Subdivision of Transformation Space." 
+<i>International Conference on Pattern Recognition</i>,
+IAPR, 2:145–148, 2004.</li>
+<li>S. Reichenbach, V. Kottapalli, M. Ni, and A. Visvanathan.
+"A Selection Language for Chemical Identification with GCxGC-MS."
+<i>International Symposium on Capillary Chromatography</i>, keynote
+lecture, CDROM:12p, 2004.</li>
+<li>M. Ni and S. Reichenbach.
+"Automated GCxGC Analysis with Pattern Matching and Multi-type Templates."
+<i>International Symposium on Capillary Chromatography</i>, CDROM:2p,
+2004.</li>
+<li>M. Ni and S. Reichenbach.
+"Using Edge Pattern Matching for Automatic Chemical Identification in
+GCXGC."
+<i>Automatic Target Recognition XIV</i>,
+Proc. SPIE, 5426:155–163, 2004.</li>
+<li>M. Ni and S. Reichenbach.
+"Pattern Matching by Rasterizing Polygons."
+<i>Visual Information Processing XIII</i>,
+Proc. SPIE, 5438:101–110, 2004.</li>
+<li>M. Ni, Q. Tao, and S. Reichenbach.
+"<a href="publications/wssp2003-tp5-5.pdf">MCMC-Based Peak Template
+Matching for GCxGC.</a>"
+<i>IEEE Workshop on Statistical Signal Processing</i>,
+497–500, 2003.</li>
+<li>M. Ni and S. Reichenbach.
+"<a href="publications/wssp2003-ta4-5.pdf">A Statistics-Guided
+Progressive RAST Algorithm for Peak Template Matching in GCxGC.</a>"
+<i>IEEE Workshop on Statistical Signal Processing</i>,
+369–372, 2003.</li>
+<li>W. Waltman, S. Goddard, S. Reichenbach, M. Svoboda, M. Hayes, and
+J. Peake.
+"Patterns and Trends of Soil Climate Regimes and Drought Events in the
+Northern Great Plains."
+<i>Applied Geography Conference</i>,
+2003.</li>
+<li>S. Reichenbach, M. Ni, V. Kottapalli, A. Visvanathan, and E. Ledford.
+"Information Technologies for Comprehensive Two-Dimensional Gas
+Chromatography."
+<i>International Symposium on Capillary Chromatography and
+Electrophoresis</i>, Invited, 2003.</li>
+<li>J. Shi and S. Reichenbach.
+"Interpolation by Two-Dimensional Cubic Convolution."
+<i>Visual Information Processing XII</i>,
+Proc. SPIE, 5108A:135–146, 2003.
+</li><li>S. Reichenbach, M. Ni, V. Kottapalli, A. Visvanathan, E. Ledford,
+J. Oostdijk, and H. Trap.
+"Chemical Warfare Agent (CWA) Detection with Comprehensive Two-Dimensional
+Gas Chromatography (GCxGC)."
+<i>Chemical and Biological Sensing IV</i>,
+Proc. SPIE, 5085:28–36, 2003.
+</li><li>A. Visvanathan, S. Reichenbach, M. Ni, and V. Kottapalli.
+"Archiving and Reporting Formats for Two-Dimensional Gas Chromatography."
+<i>Gulf Coast Conference</i>, p. 61, 2003.
+</li><li>V. Kottapalli, S. Reichenbach, M. Ni, and A. Visvanathan.
+"Visualization, Analysis, And Processing Of GCxGC — TOF MS Data."
+<i>Gulf Coast Conference</i>, p. 59, 2003.
+</li><li>B. Corner, R. Narayanan, and S. Reichenbach.
+"<a href="publications/igarss2002.pdf">A Unified Model for the Information
+Content of Remote Sensing Imagery</a>."
+<i>International Geoscience and Remote Sensing Symposium</i>,
+IEEE, 1807–1809, 2002.
+</li><li>S. Reichenbach, M. Ni, D. Zhang, and E. Ledford.
+"<a href="publications/iscc2002.pdf">Image Background Removal in Comprehensive
+Two-Dimensional Gas Chromatography</a>."
+<i>International Symposium on Capillary Chromatography</i>,
+CDROM, 11p, 2002.
+</li><li>S. Reichenbach and R. Narayanan.
+"Hyperspectral Information Efficiency and Classification Performance,"
+<i>Visual Information Processing</i>,
+Proc. SPIE, 4736:83–91, 2002.
+</li><li>S. Reichenbach and F. Geng.
+"<a href="publications/mic2001.pdf">Improved Cubic Convolution for
+Two-Dimensional Image Reconstruction</a>."
+<i>Nuclear Science Symposium, Medical Imaging Conference</i>,
+IEEE, 1775–1778, 2001.
+</li><li>S. Reichenbach <i>et al.</i>.
+"WWW Plant Guide: Online Agriculture Decision Support,"
+<i>International Workshop on Geo-Spatial Knowledge Processing for Natural
+Resource Management</i>,
+European Commission, 298–301, 2001.
+</li><li>R. Narayanan, S. Ponnappan, and S. Reichenbach.
+"<a href="publications/igarss2001.pdf">Effects of Uncorrelated and
+Correlated Noise on Image Information Content</a>,"
+<i>International Geoscience and Remote Sensing Symposium</i>,
+IEEE, 1898–1900, 2001.
+</li><li>S. Harms <i>et al.</i>
+"Data Mining in a Geospatial Decision Support System for Drought Risk
+Management,"
+<i>National Conference on Digital Government Research</i>,
+Digital Government Research Center, 9–16, 2001.
+</li><li>L. Cao, S. Reichenbach, and R. Narayanan.
+"Information Theoretic Assessment and Design of Hyperspectral Imaging
+Systems with Non-Uniform Bandwidth,"
+<i>Visual Information Processing</i>,
+Proc. SPIE, 4388:72–78, 2001.
+</li><li>A. Gadem <i>et al.</i>.
+"<a href="publications/asprs2001-036.pdf">A Decision Support System for Soil
+Productivity and Erosion in Polk County, Nebraska</a>,"
+<i>ASPRS Annual Conference</i>,
+ASPRS, CDROM:11p, 2001.
+</li><li>S. Reichenbach <i>et al.</i>.
+"<a href="publications/asprs2001-133.pdf">The Planting Date Calculator: A
+Decision-Support Tool for Agriculture</a>,"
+<i>ASPRS Annual Conference</i>,
+ASPRS, CDROM:9p, 2001.
+</li><li>M. Tooze <i>et al.</i>.
+"<a href="publications/asprs2001-074.pdf">Geospatial Decision Support for Seed
+Companies in the Corn Belt</a>," <i>ASPRS Annual Conference</i>,
+ASPRS, CDROM:12p, 2001.
+</li><li>B. Corner, R. Narayanan, and S. Reichenbach,
+"Noise Reduction in Remote Sensing Imagery Using Perturbation Modeling
+and Principal Component Analysis,"
+<i>Applications of Digital Image Processing XXIII</i>,
+Proc. SPIE, 4115:1–11, 2000.
+</li><li>R. Narayanan, T. Sankaravadivelu, and S. Reichenbach.
+"<a href="publications/igarss2000.pdf">Dependence of Image Information
+Content on Gray-Scale Resolution</a>,"
+<i>International Geoscience and Remote Sensing Symposium</i>, 153–155,
+2000.
+</li><li>B. Corner, R. Narayanan, S. Reichenbach.
+"Principal Component Analysis of Multisensor Remote Sensing Imagery:
+Combining Additive and Multiplicative Noise,"
+<i>Applications of Digital Image Processing</i>,
+Proc. SPIE, 3808:183–191, 1999.
+</li><li>R. Narayanan, T. Sankaravadivelu, and S. Reichenbach.
+"Effect of Gray-Scale Resolution on Information Content of Remote
+Sensing Imagery,"
+<i>Applications of Digital Image Processing</i>,
+Proc. SPIE, 3808:192–201, 1999.
+</li><li>Q. Song, A. Savant, S. Reichenbach, and E. Ledford.
+"Digital Image Processing for a New Type of Chemical Separation
+System,"
+<i>Applications of Digital Image Processing</i>,
+Proc. SPIE, 3808:2–12, 1999.
+</li><li>R. Narayanan, M. Desetty, and S. Reichenbach.
+"<a href="publications/igarss1999.pdf">Information Content
+Characterization in Remote Sensing Imagery Based on Classification
+Accuracy</a>,"
+<i>International Geoscience and Remote Sensing Symposium</i>,
+131–133, 1999.
+</li><li>S. Reichenbach, Y. Xiong, R. Narayanan, and L. Cao.
+"Information Theoretic Assessment and Design of Hyperspectral
+Imaging Systems."
+<i>Visual Information Processing</i>,
+Proc. SPIE, 3716:100–104, 1999.
+</li><li>S. Reichenbach and F. Geng.
+"<a href="publications/icassp1999">Image Reconstruction with
+Two-Dimensional Piecewise Polynomial Convolution</a>."
+<i>International Conference on Acoustics, Speech, and Signal
+Processing</i>, 3237–3240, 1999.
+</li><li>Y. Xiong and S. Reichenbach.
+"Maximum Mutual Information Estimation of a Simplified Hidden MRF
+for Offline Handwritten Chinese Character Recognition",
+<i>Document Recognition and Retrieval</i>,
+Proc. SPIE, 3651:58–63, 1999.
+</li><li>B. Corner, R. Narayanan, and S. Reichenbach.
+"Application of Principal Component Analysis to Multisensor Classification."
+<i>AIPR Workshop: Advances in Computer-Assisted Recognition</i>,
+Proc. SPIE, 3584:202–210, 1998.
+</li><li>M. Desetty, R. Narayanan, and S. Reichenbach.
+"<a href="publications/igarss1998.pdf">Characterization of Information
+Content in Remote Sensing Imagery</a>,"
+<i>International Geoscience and Remote Sensing Symposium</i>,
+pp 2029–2031, 1998.
+</li><li>S. Reichenbach, D. Kaiser, A. Hanson, and J. Li.
+"Restoration and Reconstruction from Overlapping Images."
+<i>Image Registration Workshop</i>, NASA, 49–55, 1997.
+</li><li>B. Kess and S. Reichenbach.
+"<a href="publications/dcc1997.pdf">Capturing Global Redundancy to
+Improve Compression of Large Images</a>."
+<i>IEEE Data Compression Conference</i>, 62–71, 1997.
+</li><li>R. Narayanan, M. Desetty, and S. Reichenbach.
+"Textural Characterization of Imagery in Terms of Information Content,"
+<i>Ground Target Modeling and Validation Conference</i>,
+68–74, 1997.
+</li><li>S. Reichenbach and K. Haake.
+"<a href="publications/igarss1996-3.pdf">Cubic Convolution for One-Pass
+Restoration and Resampling</a>."
+<i>Proceedings of the International Geoscience and Remote Sensing
+Symposium</i>,
+III:1597–1599, 1996.
+</li><li>B. Kess, P. Romig, S. Reichenbach, and A. Samal.
+"<a href="http://digitalcommons.unl.edu/cseconfwork/24">Using ATM Networks for
+Processing Global Earth Data</a>."
+<i>Proceedings of the International Geoscience and Remote Sensing
+Symposium</i>,
+II:1048–1050, 1996.
+</li><li>B. Hollingsworth, L. Chen, S. Reichenbach, and R. Irish.
+"Automated cloud cover assessment for Landsat TM images",
+<i>Imaging Spectrometry II</i>,
+Proc. SPIE, 2819:170–179, 1996.
+</li><li>B. Kess, D. Steinwand, and S. Reichenbach.
+"Compression of Regions in the Global Advanced Very High Resolution
+Radiometer 1-Km Data Set."
+<i>Proceedings of the Science Information Management and
+Data Compression Workshop</i>, NASA, 59–64, 1994.
+</li><li>B. Kess, D. Steinwand, and S. Reichenbach.
+"Compression of the Global AVHRR 1-Km Data."
+<i>Proceedings of the International Geoscience and Remote Sensing
+Symposium</i>, I:323–325, 1994.
+</li><li>R. Hazra <i>et al.</i>
+"Constrained Least-Squares Restoration Filters for Sampled Image Data."
+<i>Applications of Digital Image Processing XVI</i>,
+Proc. SPIE, 2028:177–192, 1993.
+</li><li>R. Hazra <i>et al.</i>
+"The Role of Simulation in the Design of High-Fidelity Digital Imaging
+Systems."
+<i>Southeastern Simulation Conference</i>, 1993.
+</li><li>S. Reichenbach and A. Samal.
+"The Institute for Visual Information Processing: Undergraduate Research
+Experiences in Digital Image Processing and Computer Vision."
+<i>ASEE Midwest Section Annual Meeting</i>, pp. 9–18, 1993.
+</li><li>S. Reichenbach <i>et al.</i>
+"Efficient, High-Resolution Digital Filters for FLIR Images."
+<i>Visual Information Processing</i>,
+Proc. SPIE, 1705:165–176, 1992.
+</li><li>Z. Rahman, R. Alter-Gartenberg, and S. Reichenbach.
+"Discrete Cosine Transform Coding: Information and Fidelity."
+<i>Visual Information Processing</i>,
+Proc. SPIE, 1705:226–237, 1992.
+</li><li>R. Alter-Gartenberg <i>et al.</i>
+"Multiresponse Imaging System Design for Improved Resolution."
+<i>Visual Communication and Image Processing '91: Visual Communication</i>,
+Proc. SPIE, 1605:745–756, 1991.
+</li><li>R. Alter-Gartenberg <i>et al.</i>
+"Multiresolution Imaging for Coding and Digital Image Restoration."
+<i>Israeli Conference on Artificial Intelligence and Computer Vision</i>,
+pp. 303–314, 1991.
+</li><li>S. Reichenbach <i>et al.</i>
+"Artificial Scenes and Simulated Imaging."
+<i>Stochastic and Neural Methods in Signal Processing, Image Processing,
+and Computer Vision</i>, Proc. SPIE, 1569:422–433, 1991.
+</li><li>R. Narayanswamy, Z. Rahman, and S. Reichenbach.
+"<a href="publications/icassp1999">Restoration of Subband Coded Images</a>."
+<i>International Conference on Acoustics, Speech, and Signal Processing</i>,
+IEEE, 2981–2984, 1991.
+</li><li>F. Huck, S. John, and S. Reichenbach.
+"Information Theoretical Assessment of Image Gathering and Coding
+for Digital Restoration."
+<i>Visual Communications and Image Processing V</i>,
+Proc. SPIE, 1360:1590–1607, 1990.
+</li><li>S. Park and S. Reichenbach.
+"Digital Image Gathering and Minimum Mean-Square Error Restoration."
+<i>Visual Communications and Image Processing V</i>,
+Proc. SPIE, 1360:1578–1589, 1990.
+</li><li>S. Reichenbach, S. Park, and R. Alter-Gartenberg.
+"Optimal, Small Kernels for Edge-Detection."
+<i>International Conference on Pattern Recognition</i>,
+IEEE Computer Society, Vol. II, pp. 57–63, 1990.
+</li><li>S. Park and S. Reichenbach,
+"Design of Constrained Digital Filters for Restoration and
+Enhancement."
+<i>SPSE Annual Conf.</i>, 43:242–244, 1990.
+</li><li>Z. Rahman <i>et al.</i>
+"Information Theoretical Assessment of Image Gathering and
+Coding for Digital Restoration."
+<i>SPSE Annual Conf.</i>, 43:194, 1990.
+</li><li>S. John <i>et al.</i>
+"Information Theoretical Assessment of Digital Imaging Systems."
+<i>Infrared Imaging Systems: Design, Analysis, Modeling, and Testing</i>,
+Proc. SPIE, 1309:53–66, 1990.
+</li><li>S. Reichenbach and S. Park.
+"Two-Parameter Cubic Convolution for Image Reconstruction."
+<i>Visual Communications and Image Processing IV</i>, Proc. SPIE,
+1199:833–840, 1989.
+</li><li>S. Reichenbach, S. Park, and R. Alter-Gartenberg.
+"Optimal Edge-Detection Kernels."
+<i>Eighteenth Applied Imagery and Pattern Recognition Workshop:
+Combining Multiple Strategies for Vision</i>, SPIE, 1989.
+</li><li>S. Reichenbach and S. Park.
+"Optimal Focal-Plane Restoration."
+<i>International Workshop on Visual Information Processing for
+Television and Telerobotics</i>,
+NASA Conf. Pub., 3053:23–32, 1989.
+</li></ul>
+<p>
+<b>Funded Research Projects</b>
+</p><ul>
+<li>SBIR Phase II: Sample Classification and Biomarker Discovery by
+Comprehensive Metabolomic Analysis.
+PI.  National Science Foundation, October 1, 2011 – September 30, 2013.
+</li><li>Reference Methods for Detailed Quantitative Analysis of Bio-oils
+Using Comprehensive Two-dimensional Gas Chromatography (GCXGC).
+PI. Nebraska Center For Energy Sciences Research, January 1, 2010 –
+December 31, 2011.
+</li><li>SBIR Phase I: Sample Classification and Biomarker Discovery by
+Comprehensive Metabolomic Analysis.
+PI.  National Science Foundation, July 1, 2010 – June 30, 2011.
+</li><li>Reference Methods for Detailed Quantitative Analysis of Bio-oils
+Using Comprehensive Two-dimensional Gas Chromatography (GCXGC).
+PI.  Nebraska Center For Energy Sciences Research, Jan 1, 2010 -
+December 31, 2010.
+</li><li>STTR Phase I: Advanced Informatics for Chemical Imaging: Visualization,
+Mapping, and Analysis.
+PI.  National Science Foundation, January 1, 2008 – June 30, 2009.
+</li><li>SBIR Phase II: A Bioinformatics System for GCxGC-MS.
+PI.  National Science Foundation, March 1, 2005 – February 28, 2007.
+</li><li>Collaborative Research: SEI: Information Modeling for Comparative
+Visualizations and Analyses — Informatics for Comprehensive Two-Dimensional
+Gas Chromatography.
+PI, with C. Reddy (WHOI) and J. Dimandja (Spelman).
+National Science Foundation, September 1, 2004 – August 31, 2009.
+</li><li>Comparative Visualization and Analysis for GCxGC.
+PI.  National Institutes of Health, September 1, 2004 – February 28, 2005.
+</li><li>SBIR Phase I: A Bioinformatics System for GCxGC-MS.
+PI.  National Science Foundation, July 1, 2003 – December 31, 2003.
+</li><li>SBIR Phase I: Automated Pattern Recognition in Images Produced
+by Comprehensive Two-Dimensional Gas Chromatography.
+PI.  National Science Foundation, January 1, 2003 – June 30, 2003.
+</li><li>Risk Assessment and Exposure Analysis on the Agricultural Landscape.
+With S. Goddard, J. Deogun, M. Hayes, K. Hubbard, D. Jose, M. Svoboda,
+W. Waltman, and D. Wilhite.  USDA FCIC/RMA, October 1, 2002 – March 31, 2005.
+</li><li>Digital Government: A Decision Support System for Drought Risk Management.
+PI, with numerous co-investigators.  National Science Foundation, August 1,
+2001 – July 31, 2004.
+</li><li>Geospatial Data Integration for Decision Support.  With numerous
+co-investigators.  Nebraska Research Initiative, July 1, 1998 – June 30, 2003.
+</li><li>Processing of Two-Dimensional High-Speed Gas Chromatographic Images.
+Zoex Corporation, February 1, 1998 – July 31, 1999.
+</li><li>Nebraska Initiative for Aerospace Research and Industrial Development:
+Remote Sensing and Earth Data Systems.
+With R. Narayanan, J. Peake, and F. Schalles.
+NASA, October 1, 1996 – September 30, 1999.
+</li><li>Video Traffic-Accident Investigation.
+With P. McCoy, S. Seth, and A. Samal.
+Nebraska Department of Roads, Federal Highway Administration Priority
+Technologies Program, September 1, 1996 – August 31, 1997.
+</li><li>Digital Processing of Landsat Images.
+NASA Goddard Space Flight Center and UNL Center for Communication and
+Information Science, May 15, 1996 – May 14, 1997.
+</li><li>Progressive Data Compression for Archival and Browse of Satellite Imagery.
+With B. Kess.
+NASA Headquarters, July 1, 1994 – June 30, 1997.
+</li><li>Distributed Intelligent Data Management in Computer Vision Systems.
+With A. Samal and P. Romig.
+NASA Goddard Space Flight Center and UNL Center for Communication and
+Information Science, March 1, 1994 – May 1, 1995.
+</li><li>Independent Architecture Study of EOSDIS.
+With G. Seielstad, W. Perrizo, and R. Vetter.
+Hughes Applied Information Systems,
+March 1, 1994 – September 30, 1994.
+</li><li>Advanced Digital Image Processing for Robust High-Resolution Inspection.
+With A. Samal and P. Bhattacharya.
+Goodyear Tire and Rubber Company and UNL Center for Communication
+and Information Science, September 1, 1992 – October 31, 1993.
+</li><li>Investigation of FLIR Image Restoration Methods.
+Battelle Scientific Services, U.S. Army Center for Night Vision and
+Electro-Optics,
+August 10, 1992 – July 31, 1994.
+</li><li>The Institute for Visual Information Processing.
+With A. Samal.
+National Science Foundation and UNL Center for Communication and
+Information Science, April 1, 1992 – September 30, 1994.
+</li></ul>
+<p>
+<b>Stephen E. Reichenbach.</b>
+Phone: 1.402.472.5007;
+Fax: 1.402.472.7767;
+Email: <a href="mailto:reich@unl.edu"><i>reich@unl.edu</i></a>
+</p><p>
+</p></body>
+</html>

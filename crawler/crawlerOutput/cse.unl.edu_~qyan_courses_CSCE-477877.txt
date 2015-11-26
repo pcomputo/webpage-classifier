@@ -1,0 +1,214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Syllabus</title>
+<link href="./Syllabus_files/style.css" rel="stylesheet" type="text/css"/>
+</head>
+<body id="syllabus">
+<div id="syllint">
+<h1>CSCE 477/877 Cryptography and Computer Security (Fall 2015)</h1>
+<div id="information">
+<h2>Course Information</h2>
+<p><em>Intructor:</em> <a href="http://cse.unl.edu/~qyan">Qiben Yan</a>
+</p><p><em>Time:</em> MWF 1:30pm - 2:20pm</p>
+<p><em>Location:</em> 110 Avery Hall</p>
+<p><em>Office Hours:</em> M, W, 2:30PM - 3:30PM, 109 Schorr Center</p>
+</div>
+<div id="objectives">
+<h2>Objectives and Overview<a name="Objectives"></a></h2>
+<p> This course introduces basic cryptography techniques and computer security concepts, common attacks and methods to defend against them. You will learn cryptography basics, network protocol vulnerabilities and defenses, program, web and operating system security.  You will:
+  </p><ul><li>
+  gain exposure to practical computer security techniques and the underlying cryptographyic protocols</li>
+<li> learn fundamental principles of computer security </li>
+<li> learn to apply course material to improve thinking and problem solving in computer security</li>
+</ul>
+<p></p>
+</div>
+<div id="textbooks">
+<h2>Textbooks<a name="Textbooks"></a></h2>
+<p>The required textbook for this course is <em><a href="http://www.securitybook.net/">Introduction to Computer Security</a></em>, by Michael T. Goodrich and Roberto Tamassia.  You will be expected to
+  prepare with the assigned readings. </p>
+<p>
+  Although we will rely
+  primarily on this textbook for basic readings, we will supplement this
+  reading with various outside readings.  Some material covered comes from the following textbooks:
+	</p><ul>
+<li> <em><a href="http://www.math.umd.edu/~lcw/book.html">Introduction to Cryptography with Coding Theory</a></em>, Second Edition, by Wade Trappe, Lawrence C. Washington</li>
+<li> <em><a href="http://www.cs.umd.edu/~jkatz/imc.html">Introduction to Modern Cryptography</a></em>, Second Edition, by Jonathan Katz and Yehuda Lindell</li>
+</ul>
+<p></p>
+</div>
+<div id="honor">
+<h2>Academic Honesty</h2>
+<p>
+As a computer scientist, or someone taking a computer science class, you are expected to perform your work at all times in an ethical manner. This means that in addition to doing your own work and giving appropriate credit when the work of others is used, you are required to protect your work.
+All homework assignments, quizzes, exams, etc. must be your own work. No direct collaboration with fellow students, past or current, is allowed unless otherwise stated. The Computer Science &amp; Engineering department has an Academic Integrity Policy (http://cse.unl.edu/academic-integrity-policy). All students enrolled in any computer science course are bound by this policy. You are expected to read, understand, and follow this policy. Violations will be dealt with on a case by case basis and may result in a failing assignment or a failing grade for the course itself.
+</p>
+</div>
+<div id="pregrade"> <div id="Prerequisites">
+<h2>Prerequisites</h2>
+<p> This class is appropriate for undergraduate or graduate students
+with previous background in Linear Algebra, Algorithm and Data Structure. <i>CSCE 310 (Data Structures and Algorithms) or CSCE 311 (Data Structures and Algorithms for Informatics); MATH 314 (Linear Algebra) are
+prerequisites.</i> </p>
+</div>
+<div id="Grading">
+<h2>Grading</h2>
+<p>
+Grading will be determined using scores from four assignments, three exams, and a
+semester-long project with a presentation and writeup. The breakdown is estimated as follows.
+</p>
+<ul>
+<li>5%  Attendance</li>
+<li>20% 4 Homework Assignments </li>
+<li>50% 3 Exams (Midterms and Final)</li>
+<li>25% 1 Project</li>
+</ul>
+</div>
+</div>
+<div id="Schedule">
+<h2>Schedule<a name="Schedule"></a></h2>
+<p><i>Please note that this schedule is tentative and subject to change throughout the course of the term.</i></p>
+<p><b><a href="https://my.unl.edu/bbcswebdav/pid-3132608-dt-content-rid-26801256_1/courses/CSCE477001.1158/Projects.pdf">Project Topic Examples</a></b></p>
+<table>
+<tbody><tr>
+<th>Week</th>
+<th>Date</th>
+<th>Topics</th>
+<th>Notes/Resources</th>
+<th>Preparation</th>
+</tr>
+<tr class="lecture">
+<td>1</td>
+<td>Mon 08/24, Wed 08/26, Fri 08/28</td>
+<td><a href="https://my.unl.edu/bbcswebdav/pid-3113365-dt-content-rid-26785636_1/courses/CSCE477001.1158/lecture1-introduction.pdf">Introduction to Computer Security and Classical Cryptography</a><br/>
+</td><td><a href="https://www.schneier.com/essays/archives/1997/01/why_cryptography_is.html">Why Cryptography is Harder than It Looks</a><br/>
+<a href="./Docs/Modulo.pdf">Modulo Operation</a>
+</td>
+<td>Chapter 1 (Goodrich&amp;Tamassia), Chapter 2 (Trappe&amp;Washington)</td>
+</tr>
+<tr class="lecture">
+<td>2</td>
+<td>Mon 08/31, Wed 09/02, Fri 09/04</td>
+<td><a href="https://my.unl.edu/bbcswebdav/pid-3134055-dt-content-rid-26817973_1/courses/CSCE477001.1158/lecture2-Symmentric-Cryptography%283%29.pdf">Symmetric-key Cryptography (AES)</a> <br/> <a href="https://my.unl.edu/bbcswebdav/pid-3133791-dt-content-rid-26816024_1/courses/CSCE477001.1158/HW1.pdf">Homework Assignment 1</a><br/>
+</td><td></td>
+<td>Chapter 8.1 (Goodrich&amp;Tamassia), Chapter 5 (Trappe&amp;Washington)</td>
+</tr><tr>
+</tr><tr class="lecture">
+<td>3</td>
+<td>Mon 09/07 (Labor Day Off), Wed 09/09, Fri 09/11</td>
+<td><a href="https://my.unl.edu/bbcswebdav/pid-3145822-dt-content-rid-26957674_1/courses/CSCE477001.1158/lecture3-Block-Cipher-Modes-of-Operation%281%29.pdf">Block and Stream Cipher, Modes of Operation</a><br/>
+</td><td></td>
+<td>Chapter 4.5 (Trappe&amp;Washington)</td>
+</tr><tr>
+</tr><tr class="lecture">
+<td>4</td>
+<td>Mon 09/14, Wed 09/16, Fri 09/18</td>
+<td><a href="https://my.unl.edu/bbcswebdav/pid-3151659-dt-content-rid-27016750_1/courses/CSCE477001.1158/lecture4-numberTheory%282%29.pdf">Number Theory</a><br/>
+</td><td><a href="https://my.unl.edu/bbcswebdav/pid-3152397-dt-content-rid-27016744_1/courses/CSCE477001.1158/CSCE477877-Exam1-Fall15-Guide%281%29.pdf">Exam 1 Guide</a></td>
+<td>Chapter 3 (Trappe&amp;Washington)</td>
+</tr><tr>
+</tr><tr class="lecture">
+<td>5</td>
+<td>Mon 09/21, Wed 09/23, Fri 09/25</td>
+<td><a href="https://my.unl.edu/bbcswebdav/pid-3162205-dt-content-rid-27153835_1/courses/CSCE477001.1158/Lecture5-RSA%281%29.pdf">Public-Key Cryptography</a><br/>
+</td><td></td>
+<td>Chapter 6 (Trappe&amp;Washington)
+</td></tr><tr>
+</tr><tr class="lecture">
+<td>6</td>
+<td>Mon 09/28, Wed 09/30, Fri 10/02</td>
+<td><a href="https://my.unl.edu/bbcswebdav/pid-3166218-dt-content-rid-27264862_1/courses/CSCE477001.1158/Lecture6-Digital%20Signature%26Authentication%282%29.pdf">Digital Signature, Authentication</a>
+<br/> <a href="https://my.unl.edu/bbcswebdav/pid-3171771-dt-content-rid-27275801_1/courses/CSCE477001.1158/HW2.pdf">Homework Assignment 2</a><br/>
+<a href="https://my.unl.edu/webapps/blackboard/execute/content/file?cmd=view&amp;mode=designer&amp;content_id=_3171773_1&amp;course_id=_151016_1">Homework 2 Files</a>
+<br/>
+</td><td></td>
+<td>Chapter 7 (Trappe&amp;Washington)</td>
+</tr><tr>
+</tr><tr class="lecture">
+<td>7</td>
+<td>Mon 10/05, Wed 10/07, Fri 10/09</td>
+<td><a href="https://my.unl.edu/bbcswebdav/pid-3173019-dt-content-rid-27346738_1/courses/CSCE477001.1158/Lecture7-Hash%283%29.pdf">Hash, MAC</a><br/>
+</td><td></td>
+<td>Chapter 8 (Trappe&amp;Washington)</td>
+</tr><tr>
+</tr><tr class="lecture">
+<td>8</td>
+<td>Mon 10/12, Wed 10/14, Fri 10/16</td>
+<td><a href="https://my.unl.edu/bbcswebdav/pid-3173019-dt-content-rid-27346738_1/courses/CSCE477001.1158/Lecture7-Hash%283%29.pdf">Hash, MAC</a><br/>
+<a href="https://my.unl.edu/bbcswebdav/pid-3185694-dt-content-rid-27475587_1/courses/CSCE477001.1158/Lecture8-KeyManagement%284%29.pdf">Key Management</a><br/>
+</td><td><a href="https://crypto.stanford.edu/ssl-mitm/">SSL Man in the Middle</a></td>
+<td>Chapter 8 (Trappe&amp;Washington)</td>
+</tr><tr>
+</tr><tr class="lecture">
+<td>9</td>
+<td>Mon 10/19 (Fall Semester Break), Wed 10/21, Fri 10/23</td>
+<td><a href="https://my.unl.edu/bbcswebdav/pid-3185694-dt-content-rid-27475587_1/courses/CSCE477001.1158/Lecture8-KeyManagement%284%29.pdf">Key Management</a><br/>
+</td>
+<td> </td>
+<td>Chapter 8 (Trappe&amp;Washington)</td>
+</tr><tr>
+</tr><tr class="lecture">
+<td>10</td>
+<td>Mon 10/26, Wed 10/28, Fri 10/30</td>
+<td><a href="https://my.unl.edu/bbcswebdav/pid-3185694-dt-content-rid-27475587_1/courses/CSCE477001.1158/Lecture8-KeyManagement%284%29.pdf">PKI</a><br/>
+<a href="https://my.unl.edu/bbcswebdav/pid-3193610-dt-content-rid-27606244_1/courses/CSCE477001.1158/HW3%281%29.pdf">Homework Assignment 3</a><br/>
+<a href="https://my.unl.edu/webapps/blackboard/execute/content/file?cmd=view&amp;mode=designer&amp;content_id=_3193602_1&amp;course_id=_151016_1">Homework 3 Files </a><br/>
+</td>
+<td><a href="http://www.zdnet.com/article/chrome-does-certificate-revocation-better">Chrome Does Certificate Revocation Better</a><br/>
+<a href="https://www.imperialviolet.org/2014/04/19/revchecking.html">Revocation Checking</a>
+</td>
+<td>Chapter 8 (Trappe&amp;Washington)</td>
+</tr><tr>
+</tr><tr class="lecture">
+<td>11</td>
+<td>Mon 11/02, Wed 11/04, Fri 11/06</td>
+<td><a href="https://my.unl.edu/bbcswebdav/pid-3198034-dt-content-rid-27670772_1/courses/CSCE477001.1158/Lecture9-ECC%281%29.pdf">ECC</a>, <a href="https://www.youtube.com/watch?v=MFol6IMbZ7Y">SSL/TLS</a><br/>
+</td><td></td>
+<td>Chapter 16 (Trappe&amp;Washington)</td>
+</tr><tr>
+</tr><tr class="lecture">
+<td>12</td>
+<td>Mon 11/09, Wed 11/11, Fri 11/13</td>
+<td><a href="https://my.unl.edu/bbcswebdav/pid-3232209-dt-content-rid-27823436_1/courses/CSCE477001.1158/Lecture10-Malware%281%29.pdf">Malwares</a><br/>
+</td><td><a href="https://my.unl.edu/bbcswebdav/pid-3232210-dt-content-rid-27823437_1/courses/CSCE477001.1158/CSCE477877-Exam2_Fall15_Guide.pdf">Exam 2 Guide</a></td>
+<td>Chapter 4 (Goodrich&amp;Tamassia)</td>
+</tr><tr>
+</tr><tr class="lecture">
+<td>13</td>
+<td>Mon 11/16, Wed 11/18, Fri 11/20</td>
+<td><a href="https://my.unl.edu/bbcswebdav/pid-3238930-dt-content-rid-27895554_1/courses/CSCE477001.1158/Lecture11-OSSecurity%282%29.pdf">Operating System Security</a><br/>
+<a href="https://my.unl.edu/bbcswebdav/pid-3242091-dt-content-rid-27935500_1/courses/CSCE477001.1158/HW4%281%29.pdf">Homework 4</a></td>
+<td></td>
+<td>Chapter 3 (Goodrich&amp;Tamassia)</td>
+</tr><tr>
+</tr><tr class="lecture">
+<td>14</td>
+<td>Mon 11/23, Wed 11/25 (Thanksgiving Holiday), Fri 11/27 (Thanksgiving Holiday)</td>
+<td>Buffer Overflow Attacks and Countermeasures<br/>
+</td><td></td>
+<td></td>
+</tr><tr>
+</tr><tr class="lecture">
+<td>15</td>
+<td>Mon 11/30, Wed 12/02, Fri 12/04</td>
+<td>Web Security: XSS and SQL-Injection Attacks<br/>
+</td><td></td>
+<td></td>
+</tr><tr>
+</tr><tr class="lecture">
+<td>16</td>
+<td>Mon 12/07, Wed 12/09, Fri 12/11</td>
+<td>Project Presentation<br/>
+</td><td></td>
+<td></td>
+</tr><tr>
+</tr><tr class="exam">
+<td>17</td>
+<td>Mon 12/14</td>
+<td>Final Exam</td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+</body></html>

@@ -1,0 +1,47 @@
+<html>
+<head><title>Leen-Kiat Soh's CSCE475/875 Page</title>
+</head><body background="images/nothing.gif" bgcolor="white" link="#0000FF" text="#000000">
+<font face="arial">
+<br/><br/>
+<font size="+2">CSCE475/875 MULTIAGENT SYSTEMS Fall 2013</font>
+<br/>
+<br/>
+<hr/>
+<font color="red" size="+1">New Entries!! Syllabus, Schedule,
+Handouts 24-28</font>
+<ul><li><a href="syllabus.htm">COURSE SYLLABUS</a></li></ul>
+<ul><li><a href="schedule.htm">COURSE SCHEDULE (TENTATIVE)</a></li></ul>
+<ul><li><a href="TeamInfo.pdf">Team Information (as of October 2, 2013;
+12:07 PM)</a></li></ul>
+<ul><li><a href="handouts.html">HANDOUTS</a></li></ul>
+<ul><li><a href="wiki.htm">COLLABORATIVE TOPIC SUMMARY ASSIGNMENT (WIKI)</a></li></ul>
+<ul><li><a href="seminar.html">SEMINAR ASSIGNMENT</a></li></ul>
+<ul><li><a href="gamedays.html">GAME DAYS</a></li></ul>
+<ul><li><a href="finalproject.html">FINAL PROJECT</a></li></ul>
+<ul><li><a href="exam_solution.pdf">EXAM SOLUTION</a></li></ul>
+<!--
+
+
+
+
+<UL><LI><A HREF="lectures.html">LECTURES</A></UL></LI>
+
+<UL><LI><A HREF="resources.html">RESOURCES</A></UL></LI>
+
+-->
+<hr/><br/>
+<a href="http://blackboard.unl.edu/">Blackboard</a>
+<br/><br/>
+<hr/><br/>
+<img src="../../images/blueballs.jpeg"/>
+<i>
+<script language="JavaScript">
+   <!--  to hide script contents from old browsers
+    document.write("<I>  Last Updated: " + document.lastModified + "  </I>")
+   // end hiding contents from old browsers  -->
+ </script>
+</i>
+<br/>
+</font>
+</body>
+</html>

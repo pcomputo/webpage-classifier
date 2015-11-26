@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="ie iem7"><![endif]--><!--[if lt IE 7 ]><html class="ie ie6" lang="en"><![endif]--><!--[if IE 7 ]><html class="ie ie7" lang="en"><![endif]--><!--[if IE 8 ]><html class="ie ie8" lang="en"><![endif]--><!--[if (gte IE 9)|(gt IEMobile 7) ]><html class="ie" lang="en"><![endif]--><!--[if !(IEMobile) | !(IE)]><!--><html lang="en"><!-- InstanceBegin template="/Templates/fixed.dwt" codeOutsideHTMLIsLocked="false" --><!--<![endif]-->
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+<meta content="University of Nebraska-Lincoln | Web Developer Network" name="author"/>
+<meta content="initial-scale=1.0, width=device-width" name="viewport"/>
+<!-- For Microsoft -->
+<!--[if IE]>
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<![endif]-->
+<!-- For iPhone 4 -->
+<link href="/wdn/templates_4.0/includes/icons/h-apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+<!-- For iPad 1-->
+<link href="/wdn/templates_4.0/includes/icons/m-apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+<!-- For iPhone 3G, iPod Touch and Android -->
+<link href="/wdn/templates_4.0/includes/icons/l-apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed"/>
+<!-- For everything else -->
+<link href="/wdn/templates_4.0/includes/icons/favicon.ico" rel="shortcut icon"/>
+<!--
+    Membership and regular participation in the UNL Web Developer Network
+    is required to use the UNL templates. Visit the WDN site at 
+    http://wdn.unl.edu/. Click the WDN Registry link to log in and
+    register your unl.edu site.
+    All UNL template code is the property of the UNL Web Developer Network.
+    The code seen in a source code view is not, and may not be used as, a 
+    template. You may not use this code, a reverse-engineered version of 
+    this code, or its associated visual presentation in whole or in part to
+    create a derivative work.
+    This message may not be removed from any pages based on the UNL site template.
+    
+    $Id: fixed.dwt | 252c2891a48c70db689be6d897d4f34768b8258a | Thu Aug 1 15:08:19 2013 -0500 | Kevin Abel  $
+-->
+<!-- Load Cloud.typography fonts -->
+<link href="//cloud.typography.com/7717652/616662/css/fonts.css" media="all" rel="stylesheet" type="text/css"/>
+<!-- Load our base CSS file -->
+<!--[if gte IE 9]><!-->
+<link href="//unlcms.unl.edu/wdn/templates_4.0/css/all.css?dep=4.0.35" media="all" rel="stylesheet" type="text/css"/>
+<!--<![endif]-->
+<!-- Load the template JS file -->
+<script id="wdn_dependents" src="//unlcms.unl.edu/wdn/templates_4.0/scripts/compressed/all.js?dep=4.0.35" type="text/javascript"></script>
+<!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" media="all" href="//unlcms.unl.edu/wdn/templates_4.0/css/all_oldie.css?dep=4.0.35" />
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!-- For all IE versions, bring in the tweaks -->
+<!--[if IE]>
+    <link rel="stylesheet" type="text/css" media="all" href="//unlcms.unl.edu/wdn/templates_4.0/css/ie.css" />
+<![endif]-->
+<!-- Load the print styles -->
+<link href="//unlcms.unl.edu/wdn/templates_4.0/css/print.css" media="print" rel="stylesheet" type="text/css"/>
+<!-- InstanceBeginEditable name="doctitle" --><title>The Nebraska Hall of Computing | Computer Science &amp; Engineering | University of Nebraska–Lincoln</title><!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" --><!-- Place optional header elements here -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="http://cse.unl.edu/" rel="home"/>
+<link href="http://cse.unl.edu/node/387" rel="shortlink"/>
+<base href="http://cse.unl.edu/"/>
+<meta content="Drupal 7 (http://drupal.org)" name="Generator"/>
+<link href="http://cse.unl.edu/nebraska-hall-of-computing" rel="canonical"/>
+<link href="http://cse.unl.edu/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://cse.unl.edu/css/css_TZASMA-tn8wcD_3f-4ZLkqUj7GaVuQM8982ffwKEAC8.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://cse.unl.edu/css/css_MnXiytJtb186Ydycnpwpw34cuUsHaKc80ey5LiQXhSY.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://cse.unl.edu/css/css_0W-7vmZE_OOHzfISkqEXgtRQEgCry7hi_dWdyjicQ4Q.css" media="all" rel="stylesheet" type="text/css"/>
+<script src="http://cse.unl.edu/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js" type="text/javascript"></script>
+<script src="http://cse.unl.edu/js/js_IDBX5SzkJ9gGNq7x-qOE_2DZsexqguTJQGMKvi4w-Uw.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-57802722-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+  WDN.setPluginParam("idm", "login", "http://cse.unl.edu/user?destination=node/387");
+  WDN.setPluginParam("idm", "logout", "user/logout");
+
+//--><!]]>
+</script>
+<script src="http://cse.unl.edu/js/js_ftlcWLoD7Js98XLjiK6ihhdc_dZUm2QSh3iMQgyRNiE.js" type="text/javascript"></script>
+<script src="http://cse.unl.edu/js/js_Gjy5up1Zb1JJ5f-PrjXcTAon9SCO1EqifE9pd30EnT4.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"unl_four","theme_token":"mnPtCS5oSSMFaWQBCMMP8VJL1CmTsQBRBg9CDzmvyDc","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"1":1,"sites\/all\/modules\/unl\/unl.js":1,"public:\/\/custom\/custom_unl_four.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/unl_four\/css\/style.css":1,"sites\/all\/themes\/unl_four\/css\/book-overrides.css":1,"sites\/all\/themes\/unl_four\/css\/menu-block.css":1,"sites\/all\/themes\/unl_four\/css\/views.css":1,"public:\/\/custom\/custom_unl_four.css":1}},"unl":{"use_base_tag":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+<link href="includes/font-style.css" rel="stylesheet"/>
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet"/>
+<link href="includes/owl.carousel.css" rel="stylesheet"/>
+<link href="includes/owl.theme.css" rel="stylesheet"/>
+<script type="text/javascript">
+(function (d, t) {
+  var bh = d.createElement(t), s = d.getElementsByTagName(t)[0];
+  bh.type = 'text/javascript';
+  bh.src = '//www.bugherd.com/sidebarv2.js?apikey=axa0mgqmsdstehixcvox1a';
+  s.parentNode.insertBefore(bh, s);
+  })(document, 'script');
+</script>
+<script src="includes/cas.js"></script>
+<!-- InstanceEndEditable -->
+<!-- InstanceParam name="class" type="text" value="" -->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-387 node-type-page " data-version="4.0">
+<div class="region region-page-top page-top" id="page-top">
+</div>
+<nav class="skipnav" role="navigation">
+<a href="#maincontent">Skip Navigation</a>
+</nav>
+<div id="wdn_wrapper">
+<input class="wdn-content-slide wdn-input-driver" id="wdn_menu_toggle" type="checkbox" value="Show navigation menu"/>
+<noscript>
+<!-- This is a simple shim to provide vertical space for the noscript warning -->
+<div id="wdn_noscript_padding"></div>
+</noscript>
+<header class="wdn-content-slide wdn-band" id="header" role="banner">
+<div class="wdn-inner-wrapper">
+<div id="logo">
+<h3 class="wdn_list_descriptor wdn-text-hidden">Social Outposts</h3>
+<ul id="wdn_social">
+<li>
+<a class="wdn-icon-facebook-circled" href="https://www.facebook.com/UNLincoln">Facebook</a>
+</li>
+<li>
+<a class="wdn-icon-twitter-circled" href="https://twitter.com/UNLincoln">Twitter</a>
+</li>
+</ul>
+<a href="http://www.unl.edu/" id="wdn_logo_link" title="UNL website">UNL</a>
+</div>
+<div id="wdn_resources">
+<div aria-labelledby="wdn_idm_username" class="wdn-resource-label wdn-resource-login-trigger" id="wdn_identity_management" role="navigation">
+<div class="wdn-profile-options">
+<a accesskey="l" class="wdn-icon-user wdn-idm-login" href="https://login.unl.edu/cas/login" id="wdn_idm_username" title="Log in to UNL">
+            My.UNL Login
+        </a>
+<h3 class="wdn_list_descriptor wdn-text-hidden">Account Links</h3>
+<ul id="wdn_idm_user_options">
+<li id="wdn_idm_logout">
+<a href="https://login.unl.edu/cas/logout?url=http%3A//www.unl.edu/">Logout</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="wdn-resource-label" id="wdn_search">
+<form action="//www1.unl.edu/search/" id="wdn_search_form" method="get" role="search">
+<label class="wdn-icon-search" for="wdn_search_query">Search</label>
+<input accesskey="f" id="wdn_search_query" name="q" required="" type="search"/>
+<button title="Search" type="submit"></button>
+</form>
+</div>
+</div>
+<span id="wdn_institution_title">University of Nebraska–Lincoln</span>
+</div>
+<div class="wdn-share-this-page" id="wdn-main-share-button">
+<div class="wdn-share-button">
+<input class="wdn-input-driver" id="wdn_share_toggle" type="checkbox" value="Show share options"/>
+<label class="wdn-icon-share" for="wdn_share_toggle"><span class="wdn-text-hidden">Share This Page</span></label>
+<ul class="wdn-share-options">
+<li><a class="wdn-icon-link" href="http://go.unl.edu/?url=referer" id="wdn_createGoURL" rel="nofollow">Get a Go URL</a></li>
+<li class="outpost" id="wdn_emailthis"><a class="wdn-icon-mail" href="mailto:" rel="nofollow">Email this page</a></li>
+<li class="outpost" id="wdn_facebook"><a class="wdn-icon-facebook" href="https://www.facebook.com/sharer/sharer.php" rel="nofollow">Share on Facebook</a></li>
+<li class="outpost" id="wdn_twitter"><a class="wdn-icon-twitter" href="https://twitter.com/share" rel="nofollow">Share on Twitter</a></li>
+<li class="outpost" id="wdn_linkedin"><a class="wdn-icon-linkedin-squared" href="https://www.linkedin.com/shareArticle?mini=true" rel="nofollow">Share on LinkedIn</a></li>
+</ul>
+</div>
+</div>
+<div class="wdn-inner-wrapper">
+<div id="wdn_site_title">
+<span>
+<!-- InstanceBeginEditable name="titlegraphic" -->Computer Science &amp; Engineering<!-- InstanceEndEditable -->
+</span>
+</div>
+</div>
+</header>
+<div class="wdn-band" id="wdn_navigation_bar" role="navigation">
+<nav class="wdn-inner-wrapper" id="breadcrumbs">
+<!-- WDN: see glossary item 'breadcrumbs' -->
+<h3 class="wdn_list_descriptor wdn-text-hidden">Breadcrumbs</h3>
+<!-- InstanceBeginEditable name="breadcrumbs" -->
+<ul>
+<li><a href="http://www.unl.edu/">UNL</a></li><li><a href="http://cse.unl.edu/">Computer Science &amp; Engineering</a></li><li><a class="active-trail" href="http://cse.unl.edu/alumni-friends">Alumni &amp; Friends</a></li><li>Hall of Computing</li></ul>
+<!-- InstanceEndEditable -->
+</nav>
+<div id="wdn_navigation_wrapper">
+<nav class="wdn-band" id="navigation" role="navigation">
+<h3 class="wdn_list_descriptor wdn-text-hidden">Navigation</h3>
+<!-- InstanceBeginEditable name="navlinks" -->
+<ul><li class="first expanded"><a href="http://cse.unl.edu/about">About</a><ul><li class="first leaf"><a href="http://cse.unl.edu/newsroom">News</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/facilities">Facilities</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/events">Events</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/contact-us">Contact Us</a></li>
+<li class="last leaf"><a href="http://cse.unl.edu/accreditation">ABET Accreditation</a></li>
+</ul>
+</li>
+<li class="expanded"><a href="http://cse.unl.edu/prospective-students">Prospective Student</a><ul><li class="first leaf"><a href="http://cse.unl.edu/undergraduate">Undergraduate</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/graduate">Graduate</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/scholarships">Scholarships &amp; Aid</a></li>
+<li class="last leaf"><a href="http://cse.unl.edu/careers">Careers in CSE</a></li>
+</ul>
+</li>
+<li class="expanded"><a href="http://cse.unl.edu/current-student">Current Student</a><ul><li class="first leaf"><a href="http://cse.unl.edu/current-undergraduate">Undergraduate</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/current-graduate">Graduate</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/get-involved">Get Involved</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/career-experience">Career Experience</a></li>
+<li class="last leaf"><a href="http://cse.unl.edu/honors">Honors</a></li>
+</ul>
+</li>
+<li class="expanded"><a href="http://cse.unl.edu/research-innovation">Research &amp; Innovation</a><ul><li class="first leaf"><a href="http://cse.unl.edu/research-groups-facilities">Groups &amp; Facilities</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/current-colloquium-series">Colloquium Series</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/innovation-lab">Innovation Lab</a></li>
+<li class="last leaf"><a href="http://cse.unl.edu/undergraduate-research">Undergraduate Research</a></li>
+</ul>
+</li>
+<li class="expanded"><a href="http://cse.unl.edu/faculty-staff">Faculty &amp; Staff</a><ul><li class="first leaf"><a href="http://cse.unl.edu/directory-group">Directory</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/facultysearch">Employment Opportunities</a></li>
+<li class="last leaf"><a href="https://cse.unl.edu/faculty/protected" title="">Faculty Resources</a></li>
+</ul>
+</li>
+<li class="last expanded active-trail"><a class="active-trail" href="http://cse.unl.edu/alumni-friends">Alumni &amp; Friends</a><ul><li class="first leaf"><a href="http://cse.unl.edu/alumni-stories">Alumni Stories</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/give">Give</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/schorr-center-rental">Schorr Center - Rental</a></li>
+<li class="last leaf active-trail"><a class="active-trail active" href="http://cse.unl.edu/nebraska-hall-of-computing">Hall of Computing</a></li>
+</ul>
+</li>
+</ul>
+<!-- InstanceEndEditable -->
+<label class="wdn-icon-menu" for="wdn_menu_toggle">Menu</label>
+</nav>
+</div>
+</div>
+<!-- Navigation Trigger -->
+<div class="wdn-menu-trigger wdn-content-slide">
+<label class="wdn-icon-menu" for="wdn_menu_toggle">Menu</label>
+</div>
+<!-- End navigation trigger -->
+<div class="wdn-content-slide" id="wdn_content_wrapper" role="main">
+<div class="wdn-band">
+<div class="wdn-inner-wrapper">
+<div id="pagetitle">
+<!-- InstanceBeginEditable name="pagetitle" --><h1>The Nebraska Hall of Computing</h1><!-- InstanceEndEditable -->
+</div>
+</div>
+</div>
+<div class="wdn-main" id="maincontent">
+<!--THIS IS THE MAIN CONTENT AREA; WDN: see glossary item 'main content area' -->
+<!-- InstanceBeginEditable name="maincontentarea" -->
+<div class="wdn-band">
+<div class="region region-content content wdn-band" id="content">
+<div class="block block-system" id="block-system-main">
+<div class="content">
+<div class="node node-page" id="node-387">
+<div class="content">
+<div class="wdn-inner-wrapper">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden clearfix">
+<div class="field-items">
+<div class="field-item even"> <style scoped="">
+
+.nhoc_induction_year_tab{
+    display: none;
+}
+
+
+.views-field-field-inductee-bio{
+    border: 1px solid #ccc;
+    padding-left: 10px;
+    clear: both;
+    display: none;
+}
+
+@media (min-width: 480px) {
+    .image-left .views-field-field-inductee-photo{
+         display:inline;
+         float: left;
+         margin-right: 15px;
+        margin-bottom: 0;
+    }
+
+     .image-right .views-field-field-inductee-photo{
+         display:inline;
+         float: right;   
+         margin-left: 15px;
+        margin-bottom: 0;
+    }
+}
+
+.views-field-field-inductee-photo img{
+    border: 1px solid #ccc;
+    padding: 5px;
+    width: 210px;
+    height: auto;
+    margin:0;
+}
+
+
+
+</style>
+<p>The Nebraska Hall of Computing honors individuals with ties to Nebraska who have made significant contributions to one or
+   more of the fields of computer and information science and engineering, the development and utilization of computing technology,
+   and computing education.
+</p>
+<p>The Hall of Computing is sponsored and maintained by the Computer Science and Engineering Department of the University of
+   Nebraska–Lincoln. Plaques celebrating the honorees and their contributions are proudly displayed at the University of
+   Nebraska–Lincoln campus and the Hall of Computing website recognizes honorees with biographical sketches and photographs.
+</p>
+<section class="wdn-band">
+<div class="wdn-inner-wrapper wdn-inner-padding-sm">
+<h2 class="wdn-brand clear-top">Hall of Computing Inductees </h2>
+<div class="wdn-grid-set">
+<div class="wdn-col-full">
+<ul class="wdn_tabs" id="wdn-tabs-list">
+</ul>
+<div class="wdn_tabs_content component" id="nhoc_tabs_content">
+</div>
+</div>
+</div>
+</div>
+</section>
+<script type="text/javascript">
+   jQuery(document).ready(function() {
+       jQuery(".nhoc_induction_year_tab").each( function(){
+           jQuery(this).detach().appendTo('#nhoc_tabs_content')
+       });
+       jQuery( ".views-field-title span").each(function(){
+           jQuery(this).wrap( "<h5></h5>" );
+       });
+
+      jQuery(".views-field-field-inductee-summary p").append('<a class="toggle_bio" href="javascript:void(0);">&nbsp; <span style="font-size:small">show/hide Bio</span></a>');
+
+      jQuery(".toggle_bio").click( function(){
+          var stuff = jQuery(this).parentsUntil('.views-field-field-inductee-summary').parent().next().slideToggle(1000);
+      });
+   });
+</script> </div>
+</div>
+</div>
+<div class="field field-name-field-bands-bottom field-type-field-collection field-label-hidden clearfix">
+<div class="field-items">
+<div class="field-item even"><div class="entity entity-field-collection-item field-collection-item-field-bands-bottom clearfix">
+<div class="content">
+<div class="field field-name-field-view-reference field-type-viewreference field-label-hidden clearfix">
+<div class="field-items">
+<div class="field-item even"><div class="contextual-links-region"><div class="view view-nhoc-inductees view-id-nhoc_inductees view-display-id-page view-dom-id-ec7ba6075d2ec25fdba7141dcee589de">
+<div class="view-content">
+<script type="text/javascript">
+   jQuery(document).ready(function() {
+     jQuery("#wdn-tabs-list").append("<li><a href='#tab-2015'>2015</a></li>");
+   });
+</script>
+<div class="nhoc_induction_year_tab" id="tab-2015">
+<h3 class="wdn-brand">2015 Inductees</h3>
+<div class="image-left">
+<div class="views-field views-field-title"> <span class="field-content">Dr. Patricia E. Wirth</span> </div>
+<div class="views-field views-field-field-inductee-photo"> <div class="field-content"><img alt="" height="720" src="http://cse.unl.edu/alumni/nhoc/wirth-pic-web.jpg" width="540"/></div> </div>
+<div class="views-field views-field-field-inductee-summary"> <div class="field-content"> <p>In recognition of her research and fundamental contributions in the modeling and analysis of telecommunications and computer systems leading to world-class performance of the global AT&amp;T network for which she was named an AT&amp;T Fellow (the first woman to receive AT&amp;T’s highest technical honor), her leadership in AT&amp;T Labs in building a world renowned team in the areas of teletraffic theory, performance analysis and network design, for her leadership of the AT&amp;T Labs program that provided financial and mentoring support to women and minorities pursuing doctorates in the sciences and engineering for which this program was awarded the Presidential Award for Excellence in Science, Mathematics and Engineering Mentoring, and her dedication to personally mentoring and nurturing younger colleagues in technical disciplines, the University of Nebraska proudly inducts Nebraska native and outstanding UNL alumna Dr Patricia E. Wirth into the Nebraska Hall of Computing.</p> </div> </div>
+<div class="views-field views-field-field-inductee-bio"> <div class="field-content"> <p>Patricia Wirth grew up on a farm outside Nebraska City where an outstanding high school teacher sparked her love for mathematics. After receiving a four year Regents scholarship she earned a B.A. degree in mathematics in three years with honors from the University of Nebraska-Lincoln in 1971. In her first job after college she worked as a statistical research assistant at the Washington University School of Medicine studying innovative forms of health care delivery. She received the M.S. and D.Sc. degrees in Systems Science and Mathematics from Washington University in St. Louis in 1978 and 1981 respectively.</p>
+<p>In 1981 Pat joined AT&amp;T Bell Laboratories as a Member of Technical Staff until 1985 when she became a Technical Manager supervising performance modeling of AT&amp;T’s new 5ESS Switch, the first fully software controlled network switching element. In 1990 she was promoted to Head of the Department of Teletraffic Theory and System Performance. She led this evolving department that grew to over 50 experts chartered to assess and improve the performance of AT&amp;T's networks, products and services until her retirement in 2005. During this period she championed a company wide initiative to apply Software Architecture Reviews to all new significant software systems utilizing independent experts from within the company over a multi- day effort. This program led to significant improvements of major software systems meeting their business mission. The paper (co-authored) describing these experiences was named among IEEE Software's 25th Anniversary Thirty-Five Top Picks out of the 1200 peer reviewed full- length articles it had published through 2008.</p>
+<p>With the rapid growth of the global Internet in the mid-90s and the opportunity it presented for AT&amp;T as a growth business, Pat moved the major focus of her team. Contributions included the first end-to-end performance modeling of internet based services and associated actual measurable network metrics gathered in real time that alerted when customers were impacted. This work helped AT&amp;T enter into contractual arrangements with clear boundaries and associated measures of quality including penalties with major corporate clients that shared portions of the delivered service. Within AT&amp;T it also helped grow a large new business as a major internet backbone provider and as a provider of contractual services branded and provided by third parties. Additionally, Pat and her team were thought leaders in the international teletraffic community organizing conferences, delivering seminal papers and fostering exchanges and cooperation.</p>
+<p>While at AT&amp;T Pat also chaired the AT&amp;T Labs Fellowship Program that provided financial and mentoring support to women and minorities pursuing doctorates in the sciences and engineering; this program was awarded the Presidential Award for Excellence in Science, Mathematics and Engineering Mentoring and supported nearly 100 students during her tenure. She has received the YWCA Tribute to Women and Industry Award, the Women of AT&amp;T Management Executive Award and was honored as a “Master” by the University of Nebraska. In 1997 she was the first woman to be named an AT&amp;T Fellow, the highest technical award given at AT&amp;T, "for the application of teletraffic theory, network performance modeling and systems analysis leading to the world-class performance of the global AT&amp;T network."</p> </div> </div>
+</div>
+<br style="clear:both"/>
+<div class="image-right">
+<div class="views-field views-field-title"> <span class="field-content">Dr. Thomas L. Seevers</span> </div>
+<div class="views-field views-field-field-inductee-photo"> <div class="field-content"><img alt="" height="285" src="http://cse.unl.edu/alumni/nhoc/seevers-web.jpg" width="210"/></div> </div>
+<div class="views-field views-field-field-inductee-summary"> <div class="field-content"> <p>In recognition of his role in global technical leadership at IBM, including his contributions to the development and implementation of solution design methods, his contributions to design approaches for complex transformational IT solutions, his contributions in the areas of architectural insight and patterns, and for his contributions to the development of the Information Technology Architect profession, the Department of Computer Science and Engineering of the University of Nebraska–Lincoln proudly inducts Dr. Thomas L. Seevers into the Nebraska Hall of Computing.</p> </div> </div>
+<div class="views-field views-field-field-inductee-bio"> <div class="field-content"> <p>
+Dr. Tom Seevers is an IBM Fellow Emeritus and a Visiting Professor at the University of Nebraska-Lincoln Raikes School Design Studio. Dr. Seevers has played an important role at IBM and in the IT industry for nearly five decades. His accomplishments and contributions are focused in the area of architectural methods and insight. He has also played a significant role in development of the IT architect profession, providing technical leadership and mentoring to the broader community of IT architects. As an architect and senior technical executive, Dr. Seevers has contributed to architecture and solution design in working with some of the world’s largest financial institutions.</p>
+<p>Dr. Seevers retired from IBM in 2013 after nearly 49 years of service. During this time he held various positions in field engineering, systems engineering, IT architecture and technical management.  In assignments immediately prior to these, Dr. Seevers served as an Executive IT Architect, consulting with numerous Fortune 500 and government clients on strategic choices in information technology, including overall architecture, availability, transaction systems, client/server, network computing and object technology. Clients included some of the largest financial services companies in the U.S.</p> </div> </div>
+</div>
+<br style="clear:both"/>
+<div class="image-left">
+<div class="views-field views-field-title"> <span class="field-content">Dr. George F. Haddix</span> </div>
+<div class="views-field views-field-field-inductee-photo"> <div class="field-content"><img alt="Dr. George F. Haddix" height="420" src="http://cse.unl.edu/alumni/nhoc/Haddix-web.jpg" width="315"/></div> </div>
+<div class="views-field views-field-field-inductee-summary"> <div class="field-content"> <p>In recognition of over 50 years of contributions in computer software, services and education, his leadership in the establishment and growth of software and services companies in Nebraska and the midwest as evidenced by his senior executive and founding positions in several publicly traded companies and others, and his support of STEM education initiatives in local secondary and higher education, the Department of Computer Science and Engineering of the University of Nebraska-Lincoln inducts Dr. George F. Haddix into the Nebraska Hall of Computing.</p> </div> </div>
+<div class="views-field views-field-field-inductee-bio"> <div class="field-content"> <p>Dr. George F. Haddix, Ph.D. served as the Chief Executive Officer of PKWARE, INC. Dr. Haddix served as the Chief Executive Officer of Applied Communications Inc. He founded CSG Systems Inc., a subsidiary of CSG Systems International, Inc. and served as its President. Dr. Haddix served as Chairman and Chief Executive Officer of PKW Holdings, Inc.  He worked at PKW Holdings until 1997 and served as a Consultant to PKW Holdings, Inc., until December 1999.</p>
+<p>He also co-founded CSG Systems International Inc. in 1994 and served as its President and Chief Technical Officer from 1994 to September 1997. He served as President of CSG Holdings, Inc. from November 1994 to December 1997.</p>
+<p> He served as President and Chief Executive Officer of US WEST Network Systems, Inc. from 1987 to 1988. From 1989 to 1991, he served as General Partner in Hansen, Haddix and Associates. He served as the Chairman of the Board of PKWARE, Inc. He also served as Chairman of Applied Communications Inc. Dr. Haddix served as a Director of PKWARE, Inc. and served as Director of PKW Holdings, Inc. </p>
+<p>He served as Director of infoGROUP, Inc. (formerly, InfoUSA Inc) from March 1995 to December 9, 2008. He served as a Director of CSG Systems International Inc. from 1994 to May 2005. Dr. Haddix received a Ph.D. in Mathematics from Iowa State University in 1968, an MA from Creighton University and a BA from the University of Nebraska at Omaha, all in Mathematics and has served on the faculties of three universities.</p> </div> </div>
+</div>
+<br style="clear:both"/>
+<div class="image-right">
+<div class="views-field views-field-title"> <span class="field-content">Dr. Joe Inguanzo</span> </div>
+<div class="views-field views-field-field-inductee-photo"> <div class="field-content"><img alt="" height="420" src="http://cse.unl.edu/alumni/nhoc/Dr-Inguanzo-web.jpg" width="315"/></div> </div>
+<div class="views-field views-field-field-inductee-summary"> <div class="field-content"> <p>José “Joe” Inguanzo was born and raised on the island of Cuba, arriving in the U.S. on July 4, 1962. After high school, Joe took his aptitude for numbers to UNL, where he enrolled as an engineering undergraduate in the fall of 1964. He was soon drawn to the new field of computing and quickly gained enough expertise to work on the mainframe installation in Nebraska Hall. Intrigued by statistical analyses of graduate students’ survey data, he sharpened his skills and chose to focus on statistical applications of computing while earning his bachelor’s and master’s degrees. After earning his Ph.D., he co-founded Professional Research Consultants, Inc., with his wife, Joyce, also a UNL graduate. Today PRC is the industry’s largest, privately held, minority-owned, healthcare- exclusive custom market research consultancy. It is driven by Joe’s vision of helping hospitals and healthcare systems use custom research surveys and high-level mathematical analyses to become excellent from the perspectives of patients, employees and physicians. PRC now employs nearly 1,000 individuals.</p> </div> </div>
+<div class="views-field views-field-field-inductee-bio"> <div class="field-content"> <p>Dr. Joe Inguanzo came to Nebraska as one of the early refugees from Fidel Castro’s Cuba and soon registered at the University of Nebraska to pursue his degree in Electrical Engineering. He was an outstanding undergraduate and graduate student and while working for the University worked on and received his PhD in Electrical Engineering.</p>
+<p>After leaving the University he and his wife founded Professional Research Consultants. Under his 33 years of leadership it has grown into a firm working in the health systems area and employing over 400 Nebraskans.</p> </div> </div>
+</div>
+<br style="clear:both"/>
+<div class="image-left">
+<div class="views-field views-field-title"> <span class="field-content">Ronald Lockard</span> </div>
+<div class="views-field views-field-field-inductee-photo"> <div class="field-content"><img alt="" height="374" src="http://cse.unl.edu/alumni/nhoc/Lockard-web.jpg" width="280"/></div> </div>
+<div class="views-field views-field-field-inductee-summary"> <div class="field-content"> <p>Mr. Lockard graduated as Valedictorian from high school and attended UNL as a Regent’s Scholar majoring in math and physics. He was an initial member of the Nebraska Career Scholars Program for independent studies and is a member of Sigma Pi Sigma National Physics Honorary Society. While doing graduate work in the College of Business, Mr. Lockard worked as a graduate assistant in developing statistical programs for various UNL departments. He developed pattern recognition routines and storage techniques for use in learning programs and developed new linear programming techniques used to create a land use database and model for the entire U.S. He created an information technology company (TMI) which developed one of the first interactive transaction processing systems for the insurance industry and founded Transaction Application Group (TAG), an insurance third party administration firm (both now owned by DELL). Mr. Lockard is currently founder and CEO of Curazene, a biotech research firm.</p> </div> </div>
+<div class="views-field views-field-field-inductee-bio"> <div class="field-content"> <p>Ron Lockard was a Regents scholar at our University and majored in Mathematics and Physics. He was also elected to the Sigma Pi Sigma National Physics Honorary Society. Dr. Ted Jorgenson (a member of the Manhattan Project) was his faculty sponsor. He continued his studies in Business and Computer Science.</p>
+<p>His outstanding undergraduate record led to him recognizing the role that Computing would play in the future of science and business in our nation. He was determined to be a part of that  future. Upon graduation from UNL he took a position in the emerging central computing organization at UNL as the Programming Manager.</p> </div> </div>
+</div>
+<br style="clear:both"/>
+<div class="image-right">
+<div class="views-field views-field-title"> <span class="field-content">Dr. Sharad Seth</span> </div>
+<div class="views-field views-field-field-inductee-photo"> <div class="field-content"><img alt="" height="413" src="http://cse.unl.edu/alumni/nhoc/Sharad_Seth_for_NHOC-web.jpg" width="310"/></div> </div>
+<div class="views-field views-field-field-inductee-summary"> <div class="field-content"> <p>In recognition of his research contributions in VLSI testing for improving the quality of manufactured digital devices, for his pioneering work in document image analysis for the understanding of page layout and web tables, for service and teaching contributions during his forty-two year career at UNL, including the leadership of an interdisciplinary research center and devoted mentoring of students and colleagues, the Department of Computer Science and Engineering of the University of Nebraska–Lincoln proudly inducts Dr. Sharad Seth into the Nebraska Hall of Computing.</p> </div> </div>
+<div class="views-field views-field-field-inductee-bio"> <div class="field-content"></div> </div>
+</div>
+<br style="clear:both"/>
+</div>
+<script type="text/javascript">
+   jQuery(document).ready(function() {
+     jQuery("#wdn-tabs-list").append("<li><a href='#tab-2010'>2010</a></li>");
+   });
+</script>
+<div class="nhoc_induction_year_tab" id="tab-2010">
+<h3 class="wdn-brand">2010 Inductees</h3>
+<div class="image-left">
+<div class="views-field views-field-title"> <span class="field-content">Dr. P. Anandan</span> </div>
+<div class="views-field views-field-field-inductee-photo"> <div class="field-content"><img alt="" height="298" src="http://cse.unl.edu/anandan.png" width="210"/></div> </div>
+<div class="views-field views-field-field-inductee-summary"> <div class="field-content"> <p>In recognition of his research in video motion analysis and fundamental contributions in optical
+                           flow, motion estimation, mosaic based video representation, and 3D analysis, for his leadership
+                           at Microsoft Research in Redmond in building a world renowned team in computer vision and video
+                           processing, for his dedication as an ambassador for Microsoft Research University Relations program
+                           in India in developing strong relationships between Indian universities and Microsoft Research,
+                           and for his leadership role at Microsoft Research India in mentoring young researchers to focus
+                           on technology for underserved communities, the Department of Computer Science and Engineering
+                           of the University of Nebraska–Lincoln proudly inducts an outstanding alumnus Dr. P. Anandan into
+                           the Nebraska Hall of Computing.</p> </div> </div>
+<div class="views-field views-field-field-inductee-bio"> <div class="field-content"> <p><strong> P. Anandan</strong> is the managing director of Microsoft Research India. Microsoft Research India, which
+                           began operating in January 2005, conducts basic research in computing and engineering sciences
+                           relevant to Microsoft Corp.’s business and the global IT community, with a special focus on technology
+                           for emerging markets and underserved communities, digital geographics, mobility and networks,
+                           multilingual systems, rigorous software engineering, cryptography and security, applied mathematics,
+                           and algorithms research.</p>
+<p>Since June 1997, before being named managing director of Microsoft Research India, Anandan was a
+                           senior researcher at Microsoft Research headquarters in Redmond, Wash., where he built one of
+                           the world’s strongest research teams in computer vision and video processing.</p>
+<p>During that time, he also served as an ambassador for the Microsoft Research University Relations
+                           program in India. Through repeat visits to India’s leading institutions of higher learning, Anandan
+                           helped develop strong relationships between Indian universities and Microsoft Research. He has
+                           also represented Microsoft in meetings with the government of India to emphasize the company’s
+                           commitment to research and development. Anandan continues Microsoft Research’s ongoing relationships
+                           with the government and academic communities in his new role.</p>
+<p>Before joining Microsoft, Anandan was an assistant professor of computer science for four years at
+                           Yale University, where he founded the computer vision group. Following this, he was a research
+                           manager at Sarnoff Corp. His group developed state-of-the-art video stabilization technology and
+                           systems for ground and airborne video surveillance. Over two decades, his research work has resulted
+                           in numerous patents, academic papers and recognition in the form of several awards in computer
+                           vision. During a research career that has spanned two decades, Anandan has done pioneering research
+                           in video motion analysis and is recognized for his fundamental contributions in the area of optical
+                           flow, motion estimation, video mosaicking and 3-D scene analysis.</p>
+<p>Anandan holds a Ph.D. in computer science from the University of Massachusetts, Amherst, which presented
+                           him with a Distinguished Alumni award in 2006. He also attended the University of Nebraska, Lincoln,
+                           where he received his master of science in computer science, and the Indian Institute of Technology
+                           Madras, where he earned his undergraduate degree in electrical engineering.</p>
+<p>Anandan is a native of Chennai, India. His interests outside work include African drumming and the
+                           study of philosophy, especially philosophy of the mind.</p> </div> </div>
+</div>
+<br style="clear:both"/>
+<div class="image-right">
+<div class="views-field views-field-title"> <span class="field-content">Dr. George Nagy</span> </div>
+<div class="views-field views-field-field-inductee-photo"> <div class="field-content"><img alt="" height="298" src="http://cse.unl.edu/nagy.png" width="210"/></div> </div>
+<div class="views-field views-field-field-inductee-summary"> <div class="field-content"> <p>In recognition of his outstanding research contributions to a wide range of fields, including optical
+                           character recognition, document image analysis, geographic information systems, computational
+                           geometry, and interactive visual recognition, for his strong advocacy of designing adaptive systems
+                           that improve with use, for his leadership as professor and chair, in establishing the Department
+                           of Computer Science at the University of Nebraska – Lincoln on a firm foundation of teaching,
+                           research, and service during its formative years in the 1970s, and for his devotion to teaching
+                           and mentoring of students and faculty members, the Department of Computer Science and Engineering
+                           of the University of Nebraska–Lincoln proudly inducts Dr. George Nagy into the Nebraska Hall of
+                           Computing.</p> </div> </div>
+<div class="views-field views-field-field-inductee-bio"> <div class="field-content"> <p>
+<strong>George Nagy</strong> was born in Budapest in 1937. After WWII, a chance meeting between his
+                        father and a friend resulted in the family’s migration to Canada instead of Australia. He graduated
+                        in Engineering Physics from McGill University in 1959. On completing the MS at McGill and the PhD
+                        at Cornell, he joined IBM’s T.J. Watson Research Center, where he was assigned to work on Chinese
+                        character recognition because all the Chinese scientists were busy with Cyrillic OCR. He tells what
+                        brought him to Nebraska:
+
+                     </p>
+<blockquote>
+<p>“During the summer of 1966, I was chopping rats at Cornell University. Frank Rosenblatt, who had
+                           been my thesis advisor five years earlier and whose interests had shifted from perceptron models
+                           of cognition to neurochemical experiments, was attempting to understand and confirm the recently
+                           reported transfer of learning through brain extracts in worms and rats. I was assisting in the
+                           extraction of synaptic end-bulb substance from the cortex of rats trained to run a maze while
+                           waiting for the accumulation of the statistical data that Frank had invited me to analyze.</p>
+<p>In Frank’s absence, I frequently showed visitors through the lab. One visitor interested in learning
+                           more about neural networks was Don Nelson, director of the computing center of the University
+                           of Nebraska. After some discussion of brain models and my work at IBM on pattern recognition,
+                           he invited me to give two or three weeks of lectures to his staff — before the rise of computer
+                           science departments, many computing centers had a strong research orientation. Impressed by Don’s
+                           enthusiasm and wide knowledge, I set to work in the fall to prepare the material for the lectures.
+                           Already aware that most of the basic algorithms in pattern recognition and image processing were
+                           being continuously reinvented with perspectives from statistics, linear algebra, switching theory,
+                           combinatorics, control theory, and psychology, I programmed and illustrated each algorithm with
+                           the same example. I also read eclectically, and collected experimental applications. The lectures
+                           were well received, so immediately after my return I compiled my notes and submitted the material
+                           to the<em>Proceedings of the IEEE</em>. This article not only became a Citation Classic, but next
+                           year, while on leave from IBM with the departments of <em>informatique</em> and of <em>neurophysiologie</em>                           at the Université de Montréal, my notes passed the trial by fire in a graduate course.
+                        </p>
+<p>The first visit led to another invitation to Lincoln five years later. On the basis of that first
+                           agreeable experience, and impressed by the department’s talented young faculty and UNL’s exceptional
+                           computing facilities, I eagerly accepted the chairmanship of the University of Nebraska Department
+                           of Computer Science in 1972. One thing that I recall learning quickly was that at conferences
+                           in those years, recruiting committees had to queue up at the tables of the few available computer
+                           science faculty candidates!”</p>
+</blockquote>
+<p>At UNL Nagy coauthored conference papers and journal articles with more than a half dozen faculty and
+                        many students. In 1985, the declining health of aging parents prompted the family’s return to the
+                        East Coast. Since then, he has been Professor of Computer Engineering at RPI where he teaches pattern
+                        recognition, probability, and digital design. He participates in research projects with former UNL
+                        colleagues, keeps in touch with several Nebraska students (a few of whom have already retired), and
+                        enjoys introducing new graduate students from around the world to the joys and frustrations of research
+                        (23 PhDs to date). He is a Fellow of the IEEE and of the International Association for Pattern Recognition,
+                        and received a Lifetime Contributions award from the document analysis community. In his spare time
+                        he enjoys skiing, sailing, and writing prolix surveys.</p>
+<p class="MsoNormal">
+<span style="font-size: 9.0pt;">"State of the Art in Pattern Recognition," G. Nagy, <em>Proceedings of the IEEE</em>
+                         , vol. 56, #5, pp. 336-362, May 1968.  <em>Current Contents</em> "Citation Classic", pp. 12, January 22, 1979.</span>
+</p> </div> </div>
+</div>
+<br style="clear:both"/>
+<div class="image-left">
+<div class="views-field views-field-title"> <span class="field-content">Dr. William Sutherland</span> </div>
+<div class="views-field views-field-field-inductee-photo"> <div class="field-content"><img alt="" height="298" src="http://cse.unl.edu/alumni/nhoc/sutherland.png" width="210"/></div> </div>
+<div class="views-field views-field-field-inductee-summary"> <div class="field-content"> <p>In recognition of his role as the technical manager and mentor of three major research laboratories
+                           at Sun Microsystems, Xerox PARC, and BBN during the development of some of the most important
+                           computing innovations of the past half century, in particular, advanced microprocessors, the Java
+                           programming language, the development of the personal computer, and the Internet; for his fostering
+                           the collaboration between scientists at Caltech and Xerox PARC to produce educational materials
+                           in VLSI design that helped expedite the spread of the nascent technology, whose impact continues
+                           to transform our lives, the Department of Computer Science and Engineering of the University of
+                           Nebraska–Lincoln proudly inducts Nebraska native Dr. William (Bert) Sutherland into the Nebraska
+                           Hall of Computing. 
+                        </p> </div> </div>
+<div class="views-field views-field-field-inductee-bio"> <div class="field-content"> <p><strong>William R. (Bert) Sutherland</strong> (born 1936 in Hastings, Nebraska) was the longtime
+                           manager of three prominent research labs, including Sun Microsystems Laboratories (1992–1998),
+                           the Systems Science Laboratory at Xerox Palo Alto Research Center - PARC - (1975–1981), and the
+                           Computer Science Division of Bolt, Beranek and Newman, Inc. (1970-75) which helped develop the
+                           ARPANET.
+                        </p>
+<p>In these roles, Sutherland participated in the creation of the personal computer, the technology
+                           of advanced microprocessors, the Java programming language and the Internet.</p>
+<p>Unlike traditional corporate research managers, Sutherland added individuals from fields like psychology,
+                           cognitive science, and anthropology to enhance the work of his technology staff. He also directed
+                           his scientists to take their research, like the Xerox Alto "personal" computer, outside of the
+                           lab to allow people to use it in a corporate setting and to observe their interaction with it.</p>
+<p>In addition, Sutherland fostered a collaboration between the Caltech researchers who simplified the
+                           design of very large-scale integrated circuits (VLSI) -- his brother Ivan and Carver Mead -- and
+                           Lynn Conway of his PARC staff. With PARC resources made available by Bert, Mead and Conway developed
+                           a textbook and university syllabus that helped expedite the development and distribution of integrated
+                           circuit design technology whose impact is now immeasurable.
+                           <br/> Sutherland said that a research lab is primarily a teaching institution, "teaching whatever is
+                           new so that the new can become familiar, old, and used widely.</p>
+<p>Sutherland received his Bachelor's Degree in Electrical Engineering from Rensselaer Polytechnic Institute
+                           (1957), and his Master's Degree and Ph.D. from MIT (1963,1966); his PhD thesis advisor was Claude
+                           Shannon. During his military service as a carrier pilot in the United States Navy (1957-62), he
+                           was awarded the Legion of Merit as a Carrier Anti Submarine Warfare plane commander.</p> </div> </div>
+</div>
+<br style="clear:both"/>
+</div>
+<script type="text/javascript">
+   jQuery(document).ready(function() {
+     jQuery("#wdn-tabs-list").append("<li><a href='#tab-2008'>2008</a></li>");
+   });
+</script>
+<div class="nhoc_induction_year_tab" id="tab-2008">
+<h3 class="wdn-brand">2008 Inductees</h3>
+<div class="image-left">
+<div class="views-field views-field-title"> <span class="field-content">William C. Norris</span> </div>
+<div class="views-field views-field-field-inductee-photo"> <div class="field-content"><img alt="" height="280" src="http://cse.unl.edu/alumni/nhoc/william_norris_.jpg" width="210"/></div> </div>
+<div class="views-field views-field-field-inductee-summary"> <div class="field-content"> <p>In recognition of his pioneering work on high speed computational science and systems rooted in cryptography problems during World War II, his leadership and foresight in building a team of computer professionals skilled in both the engineering and marketing trade-offs necessary for successful product development including the first supercomputers, his recognition of the importance of Computer Aided Instruction (PLATO) and education for all levels of our society, his commitment to the development of inner-city jobs, and his forward-looking management style that led to the successful spin off of more than thirty enterprises, the Department of Computer Science and Engineering of the University of Nebraska–Lincoln proudly inducts William C. Norris into the Nebraska Hall of Computing.</p> </div> </div>
+<div class="views-field views-field-field-inductee-bio"> <div class="field-content"> <p><span>William C. Norris</span> was born near Red Cloud, Nebraska, on July 14th, 1911. He was raised on a farm on the Republican River in south central Nebraska. He and his two sisters, including twin sister Willa who later taught at Michigan State University, attended a one-room schoolhouse where their mother had been the first grade teacher. He attended the University of Nebraska –Lincoln to study Electrical Engineering and graduated in 1932.  Shortly before his graduation, his father died suddenly and Norris returned home to help save the family farm in the midst of the depression.</p>
+<p>He worked as a salesman for Westinghouse Electric for seven years until he left to work for the US Navy, where he rose to the rank of commander. In the Navy, he worked on intelligence problems related to the Enigma machine of the Germans and contributed to the breaking of that code. In Washington, he met and Married Jane Malley, a WAVES officer, with whom he would have eight children.</p>
+<p>After the war, he co-founded Engineering Research Associates, Inc., in St. Paul, Minnesota. ERA made contributions to the development of digital computer technology, and later merged with Sperry Rand Corporation. Norris headed the Univac Division of Sperry Rand before leaving to found the Control Data Corporation.</p>
+<p>Control Data started by selling magnetic drum memory systems to other computer manufacturers, but introduced their own mainframe, the CDC 1604, in 1958. The 1604 was primarily designed by Seymour Cray and the company soon followed with a series of increasingly powerful machines beginning with the CDC 3600. In 1965, they introduced the CDC 6600 which by all rights can be called the first supercomputer. The series of machines were very popular in research universities and government laboratories. As a result CDC, which had gone public, was suddenly the darling of Wall Street and in an envious leadership position with a machine ten times as fast as anything else on the market.</p>
+<p>Norris was among the first to recognize the importance of scientific computing and he had the vision to create the fastest computers in the world. He knew from his Navy contacts that such machines were needed. In that effort, he became famous for taking on IBM, which, at the time, was somewhat distant from the need for and possibilities of large scale computational science machines.</p>
+<p>He was also early and instrumental in convincing the country of the need to hasten the development of the use of computers in education. That vision led CDC to build PLATO, the first computer-aided instruction system. Using PLATO, the University of Illinois built an automated foreign language lab that set the standard for years to come of what could be done in this area. Other PLATO pioneers built “dry labs” that realistically reproduced the effects of traditional wet labs at a significantly lower cost of instruction. The logic and philosophy behind these learning units are easily recognized in many of today’s automated teaching units.</p>
+<p>Norris was also an industry maverick who built on Control Data's expansion in the late 1960s to bring jobs and training to inner-cities and disadvantaged communities. He argued long and hard that other industry leaders should follow his example and bring up the work capabilities of our undereducated population. He became a champion of moving factories into the inner-cities, providing stable incomes and "high-tech" training to thousands of people who would otherwise have little chance at either.</p>
+<p>The CDC 6600 was such a significant threat to IBM’s business, that they quickly started a project of their own to grab the performance crown back from CDC and for the first time pre-announced an advanced Systems 360 that was promised to be faster than the 6600. The machine didn't yet exist and CDC carefully documented sales CDC lost to the unfinished IBM project.  In 1968, Norris launched an anti-trust lawsuit against IBM, which was unable to deliver on its promise of a faster machine, and CDC was awarded $600 million in damages. Norris was a hero to all those who suffered under IBM’s marketing strategies.</p>
+<p>Norris continually purchased new companies to fold into CDC, and eventually returned to the peripheral market in the 1970s. This later move proved particularly wise. It was also during the 1970s that Cray left to form his own company, and quickly drove CDC out of its leadership position in the supercomputer market. This left CDC in second place in a market for a small number of machines. Soon large Japanese companies were gobbling up what Cray didn't. CDC tried to regain its footing in the supercomputer market by spinning off ETA Systems, in order to allow the developers to escape an increasingly difficult management structure inside CDC. This effort failed however and CDC gave up on the market entirely.</p>
+<p>In the 1980s, CDC was left primarily as a hard disk manufacturer and CDC’s manufacturing facilities included plants in Lincoln and in Omaha.  Their series of SCSI drives were particularly successful. CDC morphed into Ceridian which was first headed up by another UNL graduate Jim Ousley and today has gown to be a multi-billion dollar enterprise.</p>
+<p>Norris died on August 21 2006 in Bloomington Minnesota. The list of companies spun off from CDC over the years exceeds 30 and many still exist today with capital value exceeding many billions of dollars. Much of this success can be credited to Norris, who, though not educated in business and not subscribing to many of the then-held sacred cows of a successful business venture, gave rise to success that can only be measured by the return from hard work and diligent thinking that he brought with him from a Nebraska farm and a University of Nebraska education.</p>
+<p>Eckstein, Peter. “William Charles (“Bill”) Norris”, <em>IEEE Annals of the History of Computing</em>, IEEE Computer Society, April-June, 2007.</p>
+<p>Worthy, J.C.  <em>William C. Norris:  Portrait of a Maverick</em>, Ballinger, 1987.</p> </div> </div>
+</div>
+<br style="clear:both"/>
+<div class="image-right">
+<div class="views-field views-field-title"> <span class="field-content">Dr. Jay W. Forrester</span> </div>
+<div class="views-field views-field-field-inductee-photo"> <div class="field-content"><img alt="Dr. Jay W. Forrester" height="280" src="http://cse.unl.edu/alumni/nhoc/Forrester.jpg" width="210"/></div> </div>
+<div class="views-field views-field-field-inductee-summary"> <div class="field-content"> <p>In recognition of his pioneering accomplishments in the field of feedback control systems, his key role in the design and implementation of the Whirlwind digital computer, and his foundational work in systems dynamics, coupled with his dedication to teaching which continued into his nineties, and his nationally and internationally recognized efforts to continuously improve computer science and engineering, systems science, and computational management, the Department of Computer Science and Engineering of the University of Nebraska–Lincoln proudly inducts <strong>Dr. Jay W. Forrester</strong> into the Nebraska Hall of Computing.</p> </div> </div>
+<div class="views-field views-field-field-inductee-bio"> <div class="field-content"> <p><strong>Jay W. Forrester</strong> was born and educated in Nebraska. He is a pioneer computer engineer and systems scientist. Neither field existed when he first attended UNL in the 1930s.</p>
+<p>Born on a cattle ranch  near Anselmo, Nebraska in 1918, he recently celebrated his 90th birthday. In high school, he built a wind-driven, 12-volt electrical system using old car parts, which gave the ranch its first electric power. He had long decided to attend the University of Nebraska – Lincoln and had a scholarship to the Agriculture College, but decided to major in electrical engineering. He graduated in 1939 with distinction and served in the Army ROTC on campus. As he tells his own story:</p>
+<blockquote style="margin: 0 0 1.1em 30px;">I grew up on a cattle ranch in Nebraska in the middle of the United States. A ranch is a cross-roads of economic forces. Supply and demand, changing prices and costs, and economic pressures of agriculture become a very personal, powerful, and dominating part of life. Furthermore, in an agricultural setting, life must be very practical. It is not theoretical; it is not conceptual without purpose. One works to get results. It is full-time immersion in the real world. In high school, I built a wind-driven electric plant that provided our first electricity. That was a very practical activity. When I finished high school, I had received a scholarship to go to the Agricultural College [at UNL] when one of those important turning points intervened. Three weeks before enrolling at the Agricultural College, I decided it wasn't for me. Herding cattle in Nebraska winter blizzards never had appealed to me. So instead, I enrolled in the Engineering College at the University of Nebraska. Electrical engineering, as it turns out, was about the only academic field with a solid, central core of theoretical dynamics. And so, the road to the present began.</blockquote>
+<p>Upon graduation, Forrester went to graduate school at MIT and worked under Gordon Brown, who had just taken a position as a faculty member and who a year later founded the Servomechanisms Laboratory. This laboratory did pioneering research into control systems for machines, which led to the automatic fire-control and aiming systems used during the Second World War.</p>
+<p>This early work in feedback control systems was extremely practical and his knowledge led to being a support engineer for the experimental units installed on the USS Lexington. When they stopped working, he volunteered to go to Pearl Harbor in 1942. He fixed the problem as the ship sailed off-shore during the invasion of Tarawa.  He tells of that harrowing experience with the voice of a Nebraska rancher:</p>
+<blockquote style="margin: 0 0 1.1em 30px;">Having discovered the problem [with the faulty system], but not having time to fix it, the executive officer of the ship came to me and said they were about to leave port. He asked if I would like to come with them and finish my job? So I said "Yes," having no idea quite what that meant. We were off-shore during the invasion of Tarawa and then took a turn down through the middle between the Sunrise and Sunset chains of the Marshall Islands. The islands were occupied on both sides by Japanese fighter-plane bases and they didn't like having a U.S. Navy Task Force wrecking their airports. So they kept trying to sink our ships. After dark they dropped flares along one side of the task force and come in with torpedo planes from the other side. Finally at 11 p.m. they succeeded in hitting the Lexington, cutting off one of the four propellers and setting the rudder in a hard turn. Again, it gave a very practical view of how research and theory are related to the field application.</blockquote>
+<p>Together with other members of the lab, they were involved in the development of Whirlwind, the first all-digital computer.  As a part of the Whirlwind project, Forrester invented and patented coincident-current random-access magnetic core memory.  The Whirlwind work eventually became a component of SAGE  (Semi-Automatic Ground Environment) which became the  air defense system for North America. Forrester continued his research in electrical and computer engineering until 1956.</p>
+<p>He then left engineering to pursue the study and exploitation of Systems Dynamics, which he wisely felt had a great role to play in large organizations wrestling with complex interrelated sub-systems.  He moved to the MIT Sloan School of Management MIT, where he is currently the Germeshausen Professor Emeritus and Senior Lecturer. Forrester’s work in systems dynamics was so extensive that today he is recognized as the creator of this important field.</p>
+<p>Throughout his lifetime he has earned much recognition and received many awards including the IEEE Computer Pioneer Award and in 1989 he received the National Medal of Technology.  In 2006 he was inducted into the Operational Research Hall of Fame.</p>
+<p>Forrester says: "We grow good people in our Nebraska small towns, with honesty, sincerity and hard work as their byword it is no wonder they succeed."</p>
+<p>Forrester, Jay W.  "The Beginning of System Dynamics", Talk delivered at the International Meeting of the System Dynamics Society, Stuttgart, Germany, July 13, 1989. <a href="http://clexchange.org/ftp/documents/system-dynamics/SD1989-07BeginningofSD.pdf">http://clexchange.org/ftp/documents/system-dynamics/SD1989-07BeginningofSD.pdf</a></p>
+<p>"Jay W. Forrester", IEEE Biographies, 1972.  <a href="http://www.ieee.org/web/aboutus/history_center/biography/forrester.html">http://www.ieee.org/web/aboutus/history_center/biography/forrester.html</a></p>
+<p>"Jay Wright Forrester", Wikipedia, 2008. <a href="http://en.wikipedia.org/wiki/Jay_Wright_Forrester">http://en.wikipedia.org/wiki/Jay_Wright_Forrester</a></p>
+<p>"Jay W. Forrester Oral History", Computer World Honor Program International Archives, Interviewer: David Allison, National Museum of American History, 1998.  http://<a href="http://www.cwhonors.org/archives/histories/Forrester.pdf">www.cwhonors.org/archives/histories/Forrester.pdf</a></p>
+<p>Forrester, Jay W. "Designing the Future", UNL, <em>Contacts</em>, Spring, 2003.  <a href="http://www.nuengr.unl.edu/publications/ENonline/Spring03/Feature4.html">http://www.nuengr.unl.edu/publications/ENonline/Spring03/Feature4.html</a></p> </div> </div>
+</div>
+<br style="clear:both"/>
+<div class="image-left">
+<div class="views-field views-field-title"> <span class="field-content">Dr. Don J. Nelson</span> </div>
+<div class="views-field views-field-field-inductee-photo"> <div class="field-content"><img alt="" height="280" src="http://cse.unl.edu/alumni/nhoc/nelson_color.jpg" width="210"/></div> </div>
+<div class="views-field views-field-field-inductee-summary"> <div class="field-content"> <p>In recognition of his outstanding accomplishments in the field of computer science and engineering, his dedication working with students and faculty from almost every discipline of the university, his efforts to continuously improve computing infrastructure, his work to advance understanding of computational algorithms of high importance and complexity, and his entrepreneurial spirit as co-founder of the Institute for Computational Science, Co-Director of Center for Communication and Information, Director of Research Computing Group, founder of i2rd, and inspiration of many other spin-offs, the Department of Computer Science and Engineering of the University of Nebraska–Lincoln proudly inducts <strong>Dr. Don J. Nelson</strong> into the Nebraska Hall of Computing.</p> </div> </div>
+<div class="views-field views-field-field-inductee-bio"> <div class="field-content"> <p><strong>Don J. Nelson</strong> was born on a farm near Pilger, Nebraska, on August 17, 1930.  He attended District #50, a one-room country school house, through eighth grade and graduated from Pilger High School in 1948.  He attended the University of Nebraska and received his Bachelor's degree in Electrical Engineering.  He served as a member of the Technical Staff at Bell Labs in New York City and then entered active duty as a second lieutenant in the U.S. Air Force.</p>
+<p>During his military service, Nelson taught delivery of special weapons (atomic). He also designed and developed a trainer and textbook for pilots attending flight school at Sandia Air Force Base.  He returned to the University of Nebraska and received his Master's degree in Electrical Engineering.  He received his Ph.D. in Electrical Engineering at Stanford University and returned to Nebraska, retiring in 2005 after 50 years at UNL.</p>
+<p>As a graduate student, Nelson built the first Electronic Analog Computer (UNEBAC) for the University of Nebraska.  He was subsequently asked to serve as Director of the UNL Computing Center, which eventually grew to employ over 100 experts in computational science and served as the university's center for hardware and software support in the early days of computer usage.  Development of the university's computational core required financing to hire the best and brightest analysts and computer programmers.</p>
+<p>Nelson and his staff at the Computing Center put the Nebraska State Laws online into machine-readable form and designed and supervised the development of a Law Information Retrieval Program for the College of Law.  Later, Nelson designed and supervised the development of the Bill Drafting System for the Nebraska State Legislature.</p>
+<p>Faculty from every discipline looked to the Computing Center staff for assistance in development and programming for their research projects.  Funding for services from both inside and outside the university secured the Center's growth and facilitated its rise to prominence when computer expertise was scarce among universities nationwide.</p>
+<p>Nelson developed a Remote Job Entry System (NUROS) that allowed students and faculty researchers to obtain online access from their labs and offices.  These NUROS terminals were able to communicate with the Computing Center and have computational access and services, whether from the Press Box at Memorial Stadium or from London, England.</p>
+<p>During the rapid growth of the computer age, Nelson co-founded the Institute for Computational Sciences, which later became the Department of Computer Science.  After he left the UNL Computing Center and the Institute, he continued his work using computer programming to find solutions.  Committed to helping Nebraska industry, Nelson developed a simulation of the operation of the NPPD nuclear plant at Brownville, Nebraska, which allowed the safest and most optimum use of their nuclear resources.</p>
+<p>Nelson also designed and developed a simulation program for the U.S. Army, the Mobile Systems Equipment program, which simulated battlefield operations.  The system was later employed during Desert Storm and performed "in an exceptional manner" according to military sources.</p>
+<p>Nelson continued to teach undergraduate and graduate courses while pursuing his research interests in computer simulation and database management.  He had additional contracts with LT&amp;T, Square D Company, Talent +, ACTON, Transcrypt, Nebraska Department of Education, Western Nebraska Community College, Lincoln Public Schools, and several departments and colleges at the University of Nebraska.</p>
+<p>He served as Co-director of the Center for Communication and Information Science (Engineering Research Centers) and also as Director of the Research Computing Group. Later, he organized the structure and financing to create a private company, i2rd, which operates in Lincoln and provides software solutions to unique business software development problems.</p>
+<p>Nelson devoted his academic and research career of 50 years to helping the students at the University of Nebraska, Nebraska industry, and the people of the State of Nebraska.</p> </div> </div>
+</div>
+<br style="clear:both"/>
+<div class="image-right">
+<div class="views-field views-field-title"> <span class="field-content">Dr. Jerry Weinberg</span> </div>
+<div class="views-field views-field-field-inductee-photo"> <div class="field-content"><img alt="Dr. Jerry Weinberg" height="280" src="http://cse.unl.edu/alumni/nhoc/jerry_weinberg.jpg" width="210"/></div> </div>
+<div class="views-field views-field-field-inductee-summary"> <div class="field-content"> <p>In recognition of outstanding contributions for over 45 years in the field of software testing, his key role in the design and implementation of the first multiprogramming operating system, his contributions to the NASA Mercury Program, and his continuing efforts to improve the problem solving process in the world of software development and testing, the Department of Computer Science and Engineering of the University of Nebraska–Lincoln proudly inducts <strong>Dr. Jerry Weinberg</strong> into the Nebraska Hall of Computing.</p> </div> </div>
+<div class="views-field views-field-field-inductee-bio"> <div class="field-content"> <p><strong>Gerald M. Weinberg</strong>, a 1955 graduate of UNL, developed the first multi-programmed operating system for NASA’s Project Mercury and is a world-recognized expert on software development and testing. He is a gifted author of 40 books and more than 400 articles.</p>
+<p>His most well-known books are <em>The Psychology of Computer Programming</em> and <em>Introduction to General Systems Thinking</em> both of which are considered to be classics in the field.  The latter is related to the field of work of Jay Forrester another member of the Nebraska Hall of Computing.</p>
+<p>Remembering his experiences at UNL, Weinberg says:</p>
+<div style="margin: 0 0 1.1em 30px;">
+<p>I did physics in Brace and spent a lot of time rummaging in the attic among 19th Century physics experiments. I did my astronomy on the roof of Ferguson which presaged my work in NASA's Space program.</p>
+<p>As an undergraduate, I had the honor of being the first "computer" on the UNL campus. That was my job title in the Physics Department. I used a mechanical Friden, pencil, paper, and especially erasers, to invert 10x10 matrices for researchers in the department. There never was another computer on campus during my years there.</p>
+<p>I became a physics teaching assistant as a junior, and graduated third in my class with highest distinction in physics and English. My other two majors were mathematics and philosophy.</p>
+<p>I was elected to Sigma Xi, Phi Beta Kappa, and Pi Mu Epsilon, and took my National Science Foundation Fellowship to Berkeley, where I still found no computers. I went to work for IBM so I could finally get my hands on a computer, the first one in San Francisco.</p>
+<p>With IBM, I was a member of the team that built the world's first operating system, then came onto NASA's Mercury Project as the architect of the space tracking system which was built around the world's first multi-programmed operating system.</p>
+<p>I then took my PhD from Michigan in Communication Sciences and initiated the field of human-computer interaction with my book, <em>The Psychology of Computer Programming.</em></p>
+<p>I returned to Lincoln around 1970, when my wife Dani took a position in the anthropology department. I was an adjunct professor in Computer Science and also participated with Dani in the ADAPT program for experiential learning.</p>
+</div>
+<p>M.J. Buist and G.M. Weinberg, “Ballistic Missile and Space Technology”, 1, pp. 435-445. (Proceedings of the Fifth Symposium on Ballistic Missile and Space Technology, August, 1960), Academic Press, 1960.</p>
+<p>Weinberg, Gerald M. <em>An Introduction to General Systems Thinking (Silver Anniversary Edition)</em>, New York NY: Dorset House, 1998.</p>
+<p>Weinberg, Gerald M.  <em>The Psychology of Computer Programming: Silver Anniversary Edition</em>, New York NY: Dorset House, 2001.</p> </div> </div>
+</div>
+<br style="clear:both"/>
+<div class="image-left">
+<div class="views-field views-field-title"> <span class="field-content">Donald F. Dillon</span> </div>
+<div class="views-field views-field-field-inductee-photo"> <div class="field-content"><img alt="Donald F. Dillon" height="280" src="http://cse.unl.edu/alumni/nhoc/don_dillon.jpg" width="210"/></div> </div>
+<div class="views-field views-field-field-inductee-summary"> <div class="field-content"> <p>In recognition of outstanding contributions for over 40 years in the management of application software development, his leadership in the growth of a start-up banking software company to an internationally known firm listed on the New York Stock Exchange, and his commitment to strong product quality while leading the transition in banking and finance from manual processing to high speed automation, the Department of Computer Science and Engineering of the University of Nebraska–Lincoln proudly inducts <strong>Donald F. Dillon</strong> into the Nebraska Hall of Computing.</p> </div> </div>
+<div class="views-field views-field-field-inductee-bio"> <div class="field-content"> <p><strong>Donald F. Dillon</strong> was born in Alliance, Nebraska, the eighth of ten children of Tom and Katherine Dillon. He attended a one-room country school until his family moved to Alliance, where he attended a parochial grade and high school. Upon graduation from high school, he attended Regis University in Denver, Colorado, and then transferred to the University of Nebraska  – Lincoln, where he received his degree. After his graduation from college, he enlisted in the Nebraska National Guard and upon ending his active duty assignment in 1966, he went to work for the National Bank of Commerce in Lincoln, Nebraska. He started work as a computer operator, was then a programmer, systems analyst, and ultimately a Senior Vice President and Director of the Information Management.</p>
+<p>In 1976, Dillon and associate, Dale Jensen, recognized that the continuing miniaturization and cost-reductions of computer hardware could make the power of the computer available to the full-range of financial institutions, from the largest to the smallest of banks. They foresaw the potential for software that could meet the needs of these institutions. The software would have to be sophisticated enough to meet the ever-increasing demands of the banking industry and would require an on-going maintenance and support system. Together, they left their banking positions and founded Information Technology, Incorporated (ITI) , which grew to become a leading national provider of banking software and services. Developing a completely new line of software systems for financial institutions allowed them to take advantage of the latest innovations in computer hardware, without being limited to the older constructs of the existing software systems. Although the original market for these products was institutions being serviced by larger banks and independent processing firms, it was not long before larger and larger institutions, including the processing firms themselves, recognized the power  and superior functionality of these systems.  Now, well over 2,700 of the U.S. banks, savings institutions and processing firms are users of ITI’s products and services.  In May of 1995, ITI was acquired by Fiserv, Inc., and Dillon became Vice Chairman and a member of the Executive Committee for that firm. In July of 2000, Dillon became Chairman of the Board of Directors for Fiserv and also continues in his position as Chairman of ITI.</p>
+<p>Fiserv, Inc (NASDAQ: FISV), a Fortune 500 company, provides information management and electronic commerce systems and services to the financial and insurance industries. Headquartered in Brookfield, Wis., the company is the leading provider of core processing solutions for U.S. banks, credit unions, and thrifts. Fiserv was ranked as the largest provider of information technology services to the financial services industry worldwide in the 2004, 2005, and 2006 FinTech 100 surveys. The company serves more than 18,000 clients, including every one of the top 100 banks in the United States. In 2007, the company completed the acquisition of CheckFree, a leading provider of electronic commerce services. Fiserv reported nearly $4 billion in total revenue from continuing operations for 2007.</p>
+<p>Dillon has over 40 years of experience in the financial and data processing industries.  He is a member of the Board of Trustees for the University of Nebraska Foundation; a member of the University of Nebraska’s Directors Club, a Trustee of the Nebraska State Historical Society and formerly served as Chairman of the Board of Trustees and Executive Committee Member for Doane College in Crete, Nebraska. Dillon is also a Board Member of the Dillon Foundation, which he created in 1997 and which has granted several million dollars to various humanitarian and educational organizations within the State of Nebraska.</p>
+<p>In addition to his Fiserv Chairmanship, Dillon is active in various real estate and resort development activities along with investments in and support of high-tech start up companies.</p> </div> </div>
+</div>
+<br style="clear:both"/>
+<div class="image-right">
+<div class="views-field views-field-title"> <span class="field-content">Dale M. Jensen</span> </div>
+<div class="views-field views-field-field-inductee-photo"> <div class="field-content"><img alt="" height="280" src="http://cse.unl.edu/alumni/nhoc/dale_jensen.jpg" width="210"/></div> </div>
+<div class="views-field views-field-field-inductee-summary"> <div class="field-content"> <p>In recognition of outstanding contributions for over 40 years in the field of application software development, his entrepreneurial translations of ideas into products including his key role in the design and implementation of the first nationwide comprehensive banking software and his continuing support of innovative start-ups, his contributions to the development the information technology industry in Nebraska, and his support of the Department of Computer Science and Engineering’s faculty recruitment efforts, the Department of Computer Science and Engineering of the University of Nebraska–Lincoln proudly inducts <strong>Dale M. Jensen</strong> into the Nebraska Hall of Computing.</p> </div> </div>
+<div class="views-field views-field-field-inductee-bio"> <div class="field-content"> <p><strong>Dale M. Jensen</strong> is co-founder of Lincoln’s Information Technology Group, a worldwide systems firm in the banking software and systems area. At an early age, he developed an interest in and facility with computers. He developed a suite of banking software products that built on the emerging cheaper and more functional hardware.  These were the first full suite of software products for small and medium size banks, which previously had been blocked from the market by the high price of mainframe systems.</p>
+<p>Born and raised in Lincoln, Nebraska, Jensen began his career as the youngest Vice President of The National Bank of Commerce at age 23. After only three years, he co-founded Information Technology, a computer software and solutions provider for banks and savings institutions. Revolutionizing the banking industry at a time when rarely anyone could afford a computer, Jensen’s software and systems are utilized by one in four banks across the country.</p>
+<p>While growing Information Technology, Jensen began investing in companies and developing land throughout the 1980’s and 1990’s. During this time, he owned the largest contiguous farm in Minnesota with 26,000 acres. By 1996 Jensen sold Information Technology, for $383 million, retiring from his 20-year role as Executive Vice President to pursue other investment opportunities.</p>
+<p>Jensen is an innovative, forward thinker, whose high profile career spans thirty years, eight vertical markets, five states, countless accolades, and a three-continent tour with rock and roll legend Alice Cooper. He is a creative problem solver who has leveraged his fascination for science and technology to pioneer efforts in multiple industries.</p>
+<p>Jensen built his solid business reputation on the principals of integrity and hard work. He is well known for his philanthropic nature, earning the Boomer Esiason MVP Award for “Raising Awareness and Money” for the organization dedicated to fighting Cystic Fibrosis. In addition, he has endowed numerous teaching chairs at the University of Nebraska, including one at the University of Nebraska’s Department of Computer Science and Engineering.</p>
+<p>He funded the acquisition of a new public park and school buildings that bear his name. Throughout his years, Jensen has earned numerous awards and recognitions that include: three time elected Board Member of the Lincoln Airport Authority; twice appointed by the Governor of the State of Nebraska to be a member of the Judicial Qualifications Commission; member of “Leadership Lincoln III”, a community based leadership training program; selected to conduct motivational speeches to University classes on entrepreneurship; is a voting member of NARAS (National Association for Recording Arts and Sciences); board member of  the Arizona Diamondbacks baseball team; selected for the Department of Defense’s Joint Civilian Orientation Conference (JCOC 65) in 2002; and is an Honorary Squadron Commander at Luke AFB. He is the largest single owner of the World Series Champion Arizona Diamondbacks baseball team. He is currently working on developing an entertainment district in downtown Phoenix.</p>
+<p>In addition, he is the largest single investor in the “Sands Hills Golf Club,” near Mullen, Nebraska, voted “Best Modern Golf Course in the World,” (referring to any golf course built since 1960.) His other standout investments include Aikens Lake Wilderness Lodge in Manitoba Canada, Superior Shores Lodge in Two Harbors, Minnesota, Alice Cooper’stown Restaurant in Phoenix, and of course the Arizona Diamondbacks. His colorful career includes holdings in technology, professional sports, entertainment, oil and gas, land development, ranch and farm properties and the hotel, restaurant industries.</p>
+<p>An avid golfer, Jensen has played on some of the most prominent golf courses in the world. Jensen resides in Paradise Valley, Arizona with his wife Vicki, and enjoys vacationing at his second home near Pine River, Minnesota. He has one son Christopher, who also resides in the Phoenix area.</p> </div> </div>
+</div>
+<br style="clear:both"/>
+</div>
+</div>
+</div></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+<!-- InstanceEndEditable -->
+<!--THIS IS THE END OF THE MAIN CONTENT AREA.-->
+</div>
+</div>
+<div class="wdn-band wdn-content-slide" id="wdn_optional_footer">
+<div class="wdn-inner-wrapper">
+<!-- InstanceBeginEditable name="optionalfooter" -->
+<div class="region region-optionalfooter optionalfooter" id="optionalfooter">
+<div class="block block-block" id="block-block-103">
+<div class="content">
+</div>
+</div>
+</div>
+<!-- InstanceEndEditable -->
+</div>
+</div>
+<footer class="wdn-content-slide" id="footer" role="contentinfo">
+<div class="wdn-band" id="wdn_footer_related">
+<div class="wdn-inner-wrapper">
+<!-- InstanceBeginEditable name="leftcollinks" -->
+<div class="region region-leftcollinks leftcollinks" id="leftcollinks">
+<div class="block block-block" id="block-block-102">
+<h3>Related Links</h3>
+<div class="content">
+<ul>
+<li><a href="http://events.unl.edu/">UNL Events Calendar</a></li>
+<li><a href="http://cas.unl.edu/">College of Arts &amp; Science</a></li>
+<li><a href="http://engineering.unl.edu/">College of Engineering</a></li>
+<!--li><a href="http://ucomm.unl.edu/">University Communications</a></li-->
+<li><a href="http://www.unl.edu/chancellor/">Office of the Chancellor</a></li>
+</ul> </div>
+</div>
+</div>
+<!-- InstanceEndEditable -->
+</div>
+</div>
+<div class="wdn-band">
+<div class="wdn-inner-wrapper">
+<div class="footer_col" id="wdn_footer_contact">
+<h3>Contact Us</h3>
+<div class="wdn-contact-wrapper">
+<!-- InstanceBeginEditable name="contactinfo" -->
+<div class="region region-contactinfo contactinfo" id="contactinfo">
+<div class="block block-block" id="block-block-101">
+<div class="content">
+<p><strong>Department of Computer Science &amp; Engineering</strong><br/> 256 Avery Hall<br/> Lincoln, NE 68588-0115<br/>Phone: 402-472-2401</p> </div>
+</div>
+</div>
+<!-- InstanceEndEditable -->
+</div>
+</div>
+<div id="wdn_copyright">
+<div class="wdn-footer-text">
+<!-- InstanceBeginEditable name="footercontent" -->
+<div class="region region-footercontent footercontent" id="footercontent">
+<div class="block block-block" id="block-block-104">
+<div class="content">
+     © 2015 University of Nebraska–Lincoln | Lincoln, NE 68588 | 402-472-7211 | <a href="http://www.unl.edu/about-unl/" title="Click here to know more about UNL">About UNL</a><br/> UNL is an equal opportunity employer with a comprehensive plan for diversity. Find out more: <a href="https://employment.unl.edu/" target="_blank" title="Employment at UNL">employment.unl.edu</a> </div>
+</div>
+</div>
+<!-- InstanceEndEditable -->
+<span id="wdn_attribution"><br/><a href="http://www.unl.edu/equity/notice-nondiscrimination">Notice of Nondiscrimination</a><br/><br/>UNL web templates and quality assurance provided by the <a href="http://wdn.unl.edu/" title="UNL Web Developer Network">Web Developer Network</a> · <a href="https://webaudit.unl.edu/qa-test/" id="wdn_qa_link">QA Test</a></span>
+</div>
+<div id="wdn_logos">
+<div class="wdn-float-center">
+<a href="http://www.unl.edu/" id="unl_wordmark">UNL Home</a>
+<a href="http://www.bigten.org/" id="b1g_wordmark">Big Ten Website</a>
+<a href="http://www.cic.net/home" id="cic_wordmark">CIC Website</a>
+<a href="http://go.unl.edu/86bw" id="tips_wordmark">TIPS Incident Reporting</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Not currently used -->
+</footer>
+<noscript>
+<div id="wdn_noscript">
+<p class="wdn-content-slide">
+            Some parts of this site work best with JavaScript enabled.
+        </p>
+</div>
+</noscript>
+</div>
+</body>
+</html>

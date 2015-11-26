@@ -1,0 +1,337 @@
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Microsoft Word 97" name="Generator"/>
+<title>Fall 2003: CSCE 421/821</title>
+<meta content="C:\PROGRAM FILES\MICROSOFT OFFICE\OFFICE\html.dot" name="Template"/>
+</head>
+<body alink="#FF0000" bgcolor="#ffffff" link="#0000ff" text="#000000" vlink="#800080">
+<p><!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+</p>
+<h1 align="CENTER">CSCE421/821, Fall 2003: Foundations of Constraint
+Processing</h1> <p align="CENTER"><br/> <b><i><font color="#ff0000" size="4">Annnouncement: </font><font color="#008000" size="4">we
+will try to have at least one researcher from the industry to talk
+about the market of this technology, techniques implemented in
+industrial products,  and commercial success
+stories.</font></i></b> </p> <b></b><p>Prereq: CSCE310 (Data
+structures and algorithms) and CSCE476/876 (Introduction to AI) or
+<b><i>permission of instructor.</i></b> </p> <b></b><p>Course
+description:   
+
+Constraint satisfaction has emerged as a powerful approach to
+articulate and solve many problems in computer science, engineering,
+and management.  It is now the basis for new programming
+languages and innovative commercial systems for production scheduling,
+product configuration, personnel planning and timetabling, etc. 
+The course will review the foundations of constraint satisfaction and
+the basic mechanisms for constraint propagation.  It will cover
+aspects of modeling and representation, and will examine islands of
+tractability and methods for theoretical and empirical evaluation of
+problem `difficulty.'  If time permits, we will examine new
+methods for decomposition and symmetry identification, designed to
+overcome the complexity barrier and to support interactions with
+users. </p> <b></b><p>Time: Monday, Wednesday, and Friday from 10:30
+a.m. to 11:30 a.m. </p> <b></b><p>Place: Burnett Hall 119. </p>
+<b></b><p>Instructor:   Berthe Y. Choueiry <br/>
+                     
+Room 104, Ferguson Hall, <br/>
+                     
+email: choueiry@cse.unl.edu, tel: (402)472-5444. <br/>
+                     
+Office hours:  Monday &amp; Wednesday from 11:30 a.m. to 12:30
+p.m. (right after class)</p>
+<p>
+<b>TA:   Cate Anderson</b> <br/>
+         email:
+anderson@cse.unl.edu<br/>
+         <font color="#ff0000">Office location: Bld 501, Room 6, Desk
+6.13</font>
+<br/>
+         Office hours:
+Monday: 12:30-1:30 p.m. and
+Friday: 11:30-12:20 p.m.</p>
+<p>For quick response, email <b>cse421@cse.unl.edu</b>.  Your
+message will be forwarded to the TA, GRAs, and instructor. </p>
+<p><img height="12" src="new.gif" width="31"/> In an effort to provide you
+with the best possible support, the following research assistants will
+be holding office hours in Building 501, Room 3: </p>
+<ul>
+<li>Ryan Lim (ugrad): Tuesday, 1:00--2:00 pm </li>
+<li>Joel Gompert (MS): Wednesday, 2:30--3:30 pm </li>
+<li>Anagh Lal (MS): Thursday, 12:00--1:00 pm </li>
+</ul>
+<p><blink><a href="schedule.html"><b>Class schedule:</b></a></blink>
+the page will be regularly updated. Check it out <i>regularly</i> for
+reference to required and recommended reading material, homework
+texts, and announcements. </p> <b></b><p>Topics include but are not
+restricted to:</p>
+<ul>
+<li> Properties, computational complexity, and practical importance.</li>
+<li> Global and local consistency: algorithms, properties and
+computational complexity.</li>
+<li> Islands of tractability for minimality and global consistency.</li>
+<li> Intelligent backtracking.</li>
+<li> Look-ahead techniques.</li>
+<li> Ordering heuristics.</li>
+<li> Theoretical and empirical comparison of hybrid search
+algorithms.</li>
+<li> Phase transition.</li>
+<li> Modeling and reduction methods between representations.</li>
+<li> If time permits: Decomposition.  Symmetries and their
+approximations.  Temporal constraint networks.  Stochastic search.
+Reformulation and abstraction.  Dynamic/conditional Constraint
+Satisfaction (CSP).  Constrained Optimization Problem (COP).</li>
+<li>Other, depending on class interests. </li></ul>
+<b></b><p>Support: </p>
+<ul>
+<li>Rina Dechter, <i>Constraint Processing</i>, 2003, Morgan
+Kauffmann.  Available from bookstore. </li>
+<li>Edward Tsang, <i>Foundations of Constraint
+Satisfaction</i>. Available from instructor and on reserve at the Love
+Library. </li>
+<li>Technical papers given by instructor or available from the <a href="http://www.unl.edu/libr/ereservs/contents/csce421/csce421.html">Electronic Reserve </a>at the Love Library. </li></ul>
+<b></b><p>Protocol of the course: </p>
+<ul>
+<li>Lectures by instructor, three times per week. </li>
+<li>The workload will consist of: </li>
+<ul>
+<u><li><i>Required and recommended reading: </i></li></u>as  indicated
+in the<a href="schedule.html"> Class schedule.</a>   The
+content of the course will be dynamically adapted to students
+interests and performance.  
+
+<u><li><i>Programming, theoretical, and library-search
+assignments:</i></li></u>Programming assignments  homework must be
+turned in using the UNIX handin program on cse.unl.edu and turned
+in  before class on the due date.  Pen-and-paper assignments
+must be given to the instructor right before the lecture on the due
+date. Late homeworks are subject to a 20% deduction per day (including
+week-ends), any second after the due date counts as an entire
+day.  Programming assignments can be done in any programming
+language.  When code and data structures are provided, they will
+be mostly in Common Lisp (advice: use Allegro Common Lisp on Linux or
+a sun workstation).  Students are kindly requested to indicate
+how much time they approximately spend on each exercise; this
+information will be aggregated and used for planning purposes: it does
+not affect grading and the evaluation of individuals. 
+
+<u><li><i>Surprise quizzes:</i></li></u>There will be surprise quizzes
+throughout the semester  (with a frequency inversely proportional
+to students'  attendance).  Quizzes will address all
+material covered during the lectures and/or by the required
+reading.  No books or personal notes are allowed during the
+quizzes, unless explicitly specified. <b>Quizzes cannot be made
+up.</b>
+<u><li><i>Tests:</i></li></u>There will be a pre-test only.  <b>Test
+cannot be made up except by instructor's permission.</b>
+<u><li><i>Search competition:</i></li></u> Students will receive code and
+data that model a real-world application, all in LISP. Students will
+choose some search mechanism and implement it.  Results will be
+compared, winner will receive a book-gift certificate. 
+
+<u><li><i>Project research, report, and  presentation:</i></li></u>
+The project can be either a literature study/survey or the
+implementation of algorithms.  A presentation to the class is
+mandatory. The grade will take into account the quality of the
+research, report, and presentation. </ul>
+<li>It is the student's responsibility to ensure an account on 
+CSE  computers. </li> <li>Optional Text Book "Constraint
+Processing" by Rina Dechter, 1<sup>st</sup> edition. </li>
+<li>Discussions among students, instructor, and TA are
+encouraged.  Homeworks however are a <i>strictly</i> individual
+activity: <i>no sharing is permitted</i> (unless when specified by
+instructor).  Unethical behavior will be heavily sanctioned
+(e.g., a null grade on the task, department will be
+informed). <b>Absolute rule: Always acknowledge any help received from
+other individuals and always fully reference material used (e.g.,
+encyclopedia, book, paper, journal, web site).</b> </li> <li>Absence:
+maximum 6 sessions, <i>advanced notice required</i>. Attendance is
+taken.  Students are responsible for the material covered and
+announcements made during the class.  Also, there will be
+surprise quizzes. </li></ul>
+<b></b><p>Grading policy: </p>
+<ul>
+<li>Grades will be allocated as follows </li>
+<ul>
+<li>Pretest: 3%. </li>
+<li>Quizzes:  32% </li>
+<li>Assignments: 30% </li>
+<li>Individual project </li>
+<ul>
+<li>Search competition: Solving a real-world optimization problem (in Lisp): 35% (Code: 25%, Report: 10%) </li>
+<li>Project: 35%.  (Research and report: 25%. Presentation: 10%.) </li></ul>
+</ul>
+</ul>
+<p><img src="updated.gif"/><b>How can I imporve my grade?</b> </p>
+<ul>
+<li>Make a presentation of a research paper in class: 10% per
+presentation. <font color="#ff0000"> Maximum two presentations per
+student. Presentations must be made before December 1st,
+2003.</font></li>
+<li>Make a critical summary of research papers/topics discussed in
+class: 5% per summary. <font color="#ff0000"> Maximum four 
+summaries per student.  Deadline for submitting summaries December
+1, 2003.</font></li>
+<li>Write a chapter of a textbook: 20% per chapter. <font color="#ff0000"> Maximum two chapters per student. Deadline for
+submitting chapter write-ups December 1, 2003.</font>
+</li>
+<li>Do the weekly and final glossaries: maximum 10%. <font color="#ff0000"> Deadline for submitting final glossary December 5,
+2003.</font>
+</li>
+<li>Bonuses will be awarded to students who attend all lectures,
+interact lively, and participate in discussion in class. </li></ul>
+<b></b><p>Grade conversion: </p>
+<p align="CENTER"></p><center><table border="" cellspacing="1" width="123">
+<tr><td valign="MIDDLE" width="76%">
+<p align="CENTER">97%</p></td>
+<td valign="MIDDLE" width="24%">
+<p align="CENTER">A+</p></td>
+</tr>
+<tr><td valign="MIDDLE" width="76%">
+<p align="CENTER">94-96</p></td>
+<td valign="MIDDLE" width="24%">
+<p align="CENTER">A</p></td>
+</tr>
+<tr><td valign="MIDDLE" width="76%">
+<p align="CENTER">90--93</p></td>
+<td valign="MIDDLE" width="24%">
+<p align="CENTER">A-</p></td>
+</tr>
+<tr><td valign="MIDDLE" width="76%">
+<p align="CENTER"> 87--89</p></td>
+<td valign="MIDDLE" width="24%">
+<p align="CENTER">B+</p></td>
+</tr>
+<tr><td valign="MIDDLE" width="76%">
+<p align="CENTER">84--86</p></td>
+<td valign="MIDDLE" width="24%">
+<p align="CENTER">B</p></td>
+</tr>
+<tr><td valign="MIDDLE" width="76%">
+<p align="CENTER">80--83</p></td>
+<td valign="MIDDLE" width="24%">
+<p align="CENTER">B-</p></td>
+</tr>
+<tr><td valign="MIDDLE" width="76%">
+<p align="CENTER">75--79</p></td>
+<td valign="MIDDLE" width="24%">
+<p align="CENTER">C+</p></td>
+</tr>
+<tr><td valign="MIDDLE" width="76%">
+<p align="CENTER">67--74</p></td>
+<td valign="MIDDLE" width="24%">
+<p align="CENTER">C</p></td>
+</tr>
+<tr><td valign="MIDDLE" width="76%">
+<p align="CENTER">60--66</p></td>
+<td valign="MIDDLE" width="24%">
+<p align="CENTER">C-</p></td>
+</tr>
+<tr><td valign="MIDDLE" width="76%">
+<p align="CENTER">57--59</p></td>
+<td valign="MIDDLE" width="24%">
+<p align="CENTER">D+</p></td>
+</tr>
+<tr><td valign="MIDDLE" width="76%">
+<p align="CENTER">54--56</p></td>
+<td valign="MIDDLE" width="24%">
+<p align="CENTER">D</p></td>
+</tr>
+<tr><td valign="MIDDLE" width="76%">
+<p align="CENTER">51--53</p></td>
+<td valign="MIDDLE" width="24%">
+<p align="CENTER">D-</p></td>
+</tr>
+<tr><td valign="MIDDLE" width="76%">
+<p align="CENTER">&lt;=50</p></td>
+<td valign="MIDDLE" width="24%">
+<p align="CENTER">F</p></td>
+</tr>
+</table>
+</center>
+<p align="CENTER">Reminder from the College of Arts &amp; Sciences:  a C (2.0) is the minimum passing grade in a PASS/NO PASS course (NOT a C-) as well as the lowest grade one can receive and still count the class toward a major. </p>
+<b></b><p>Books on reserve at the Love Library (LL): </p>
+<ul>
+<li><i>Foundations of Constraint Satisfaction </i>by Edward
+Tsang. </li>
+<li><i>Artificial Intelligence, A Modern Approach</i> (AIMA), by
+Russell &amp; Norvig. Second Edition. </li>
+<li><i>Artificial Intelligence,</i> 3rd Edition.  Winston. </li>
+</ul>
+<b></b><p>Books available at the Love Library (LL): </p>
+<ul>
+<li><i>Artificial Intelligence, A Modern Approach</i> (AIMA), by
+Russell &amp; Norvig. CALL number Q335 .R86 1995. </li></ul>
+<b></b><p>Other references: </p>
+<ul>
+<li>The MIT Encyclopedia of the Cognitive Sciences. CALL  number
+BF311 .M556 1999, LIB USE ONLY. </li>
+<li>Encyclopedia of artificial intelligence, 1992, SECOND EDITION,
+call number Q335 .E53, LIB USE ONLY. </li>
+<li><a href="http://www.aaai.org/aitopics">AI Topics</a> of the
+American Association for Artificial Intelligence </li>
+<li>Web search engines (<a href="www.google.com">Google</a>, 
+
+<a href="http://citeseer.nj.nec.com/cs.com">CiteSeer</a>,
+
+<a href="http://www.altavista.com/">Altavista</a>, etc.) </li></ul>
+<b></b><p>Related material from the Web: </p>
+<i></i><p>Some industrial companies and start-ups implementing advanced constraint-based systems: (listed in random order) </p>
+<ul>
+<li><a href="http://www.cosytec.com/english/homepag2.htm">COSYTEC</a>, <a href="http://www.i2.com/"> I2 Technologies</a>,  <a href="http://www.peoplesoft.com/">PeopleSoft/Red Pepper, </a><a href="http://www.jdedwards.com/">J.D. Edwards/Numetrix </a>(<a href="http://www.jdedwards.com/public/0,1921,0%257E565%257E,00.html">production
+scheduling)</a><i>, </i><a href="http://www.jdedwards.com/">
+</a><a href="http://www.bluepumpkin.com/">Blue Pumpkin</a><a href="http://www.calico.com/">, </a><a href="http://www.ilog.fr/">Ilog, </a><a href="http://www.trilogy.com/">Trilogy, </a><a href="http://www.parc-technologies.com/">Parc Technologies Ltd</a>, <a href="http://www.carmen.se/">Carmen Systems, </a><a href="http://www.firepond.com/">Firepond</a>, <a href="http://www.otsys.com/">On Time Systems Inc.</a>, <i> OnTarget,
+etc.</i> </li></ul>
+<i></i><p>Courses: </p>
+<ul>
+<li><img height="12" src="new.gif" width="31"/><a href="http://www.ics.uci.edu/~dechter/ics-275a/fall-2001/">Constraint Networks</a> by Rina Dechter </li>
+<li><img height="12" src="new.gif" width="31"/><a href="Documents/Milano.pdf">Constraint Programming Approach to AI Applications</a>, by Michela Milano </li>
+<li><a href="http://kti.ms.mff.cuni.cz/~bartak/ESSLLI2002/index.html">Foundations of Constraint Satisfaction, ESSLI 2002</a>, by Roman Barak </li>
+<li><a href="http://kti.ms.mff.cuni.cz/~bartak/constraints/">Constraint Programming:</a> online textbook by Roman Barták. </li>
+<li><a href="http://ic-www.arc.nasa.gov/ic/projects/mba/cs329a/#abstract">Reasoning Methods in AI (CS329A, </a><a href="http://www.stanford.edu/class/cs227/">CS227</a><a href="http://ic-www.arc.nasa.gov/ic/projects/mba/cs329a/#abstract">):</a> courses by Pandu Nayak. </li>
+<li>Constraint Satisfaction Problems (<a href="http://www.cs.toronto.edu/~fbacchus/csc2512/">CSC2512F</a>): course by Fahiem Bacchus </li>
+<li><a href="Documents/Barbara-Smith-95_14.ps">Tutorial on Constraint Programming</a>, by Barbara Smith. </li>
+<li><a href="../CSE990-05/PS-Files/McAllester-Notes.ps">Lecture notes</a> by David McAllester. </li>
+<li>Bacchus' <a href="http://www.cs.toronto.edu/~fbacchus/csc2512/biblio.html">Constraint Programming Bibliography</a> </li></ul>
+<i></i><p>Groups: </p>
+<ul>
+<li><a href="http://liawww.epfl.ch/">LIA@EPFL</a> </li>
+<li><a href="http://www.dcs.st-and.ac.uk/~apes/">APES </a>Group in the UK. </li>
+<li><a href="http://www.cs.unh.edu/ccc/">Constraint Computation Center</a> of Freuder in Univ. of New Hampshire. </li>
+<li><a href="http://4c.ucc.ie/">Cork Constraint Computation Center (4C) </a>of Freuder in University College Cork, Ireland. </li></ul>
+<i></i><p>Archives and on-line systems: </p>
+<ul>
+<li> <img src="new.gif"/> <a href="http://homepages.cwi.nl/~jvhemert/randomcsp.html">RandomCSP
+1.8.0</a> by by J.I. van Hemert </li>
+<li> <img height="12" src="new.gif" width="31"/> <a href="http://www.xs4all.nl/~bcraenen/JavaCsp/"> various models of
+random generators in Java </a> by <a href="http://www.xs4all.nl/~bcraenen/">Bart Craenen</a></li>
+<li> (obsolete) <a href="Generator.java">Random generator in Java</a> by Zheying Yang (zyang@cse.unl.edu) </li>
+<li><a href="http://4c.ucc.ie/~tw/csplib/links.html">Links to Constratint Solvers</a>, via the <a href="http://4c.ucc.ie/~tw/csplib/">CSPLIB</a> </li>
+<li><a href="http://www.icparc.ic.ac.uk/eclipse/">The ECLiPSe Constraint Logic Programming System</a> </li>
+<li><a href="http://www.cs.unh.edu/ccc/archive/">Constraints archives</a> at CCC. </li>
+<li><a href="http://www.csplib.org/">CSPLib</a>: Problem Library on the Web. </li>
+<li><a href="http://www.lirmm.fr/~bessiere/generator.html">Random generator </a>in C at LIRMM </li>
+<li><a href="ftp://ftp.cs.strath.ac.uk/local/pat/csp-lab/">Random generato</a>r in Common Lisp by Patrick Prosser </li>
+<li><a href="../F02-421-821/Documents/Bacchus-generator.c">Random generator</a> in C courtesy of <a href="http://www.cs.toronto.edu/~fbacchus/">Fahiem Bacchus</a> (and P. van Run). </li>
+<li><a href="http://www.pms.informatik.uni-muenchen.de/software/jack/">JACK</a>: a library providing constraint programming and search for Java (high-level language, generic search engine, and a visualization tool). </li></ul>
+<i></i><p>Conferences: </p>
+<ul>
+<li>Constraint Programming (CP), <a href="http://www.aaai.org/">AAAI</a>, <a href="http://www.ijcai.org/">IJCAI</a>, <a href="http://www.eccai.org/">ECAI</a>, <a href="http://www.flairs.com/">FLAIRS</a>, etc. </li></ul>
+<i></i><p>Additional resources:<img height="12" src="new.gif" width="31"/> </p>
+<ul>
+<li>Lisp resources </li>
+<ul>
+<li><a href="http://csce.unl.edu/~emoss/LispHelp/index.html">Eric Moss: personal help page with Lisp</a> </li>
+<li>Eric Moss:  There is a new <a href="http://www.scieneer.com/">Common Lisp implementation on the market</a> (beta copy at this point).  It's supposedly good for multiprocessor systems that need multi-threaded apps using real OS threads. &lt;http://www.scieneer.com/ </li></ul>
+<li>Latex resources </li>
+<ul>
+<li>Joel Gompert: <a href="http://www2.eng.cam.ac.uk/~pmg26/hpage/teaching/graphics_LaTeX.html">Getting
+memory-efficient, pretty-looking, robust graphics with very fancy
+robust labels into LaTeX</a> </li> <li>Ryan Lim: <a href="../F02-421-821/Documents/latex_not_so_short_introduction.pdf">The
+not so short introduction to LaTex2x</a> </li></ul>
+</ul>
+<p></p><hr/>
+<address><a href="mailto:choueiry@cse.unl.edu">Berthe Y. Choueiry</a></address>
+<p><br/>
+Last modified: <script language="javascript"> document.write("<l>" + Date() + "<\/l><\/P>") </script></p></body>
+</html>

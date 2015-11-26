@@ -1,0 +1,82 @@
+<html>
+<head><title>Leen-Kiat Soh's CSCE156 Page</title>
+</head><body background="images/nothing.gif" bgcolor="white" link="#0000FF" text="#000000">
+<font face="arial">
+<hr/><br/><br/>
+<font size="+1">CSCE156 Introduction to Computer Science II Spring 2007</font><br/><br/>
+<hr/>
+<font color="red" size="+1"> Final Update!! Handout 15, Final Exam, Forum
+#7, PRS Quizzes #18 &amp; #19, Schedule (updated)</font><br/><hr/>
+<ul><li>
+<a href="CSCEHandinInstruction.htm">
+How to Handin your Programming HW Online?</a>
+</li></ul>
+<ul><li>
+<a href="http://www.unl.edu/webtraining/prs/index.shtml">
+What is the Personal Response System (PRS)?</a>
+</li></ul>
+<ul><li>
+<a href="IMINDS.htm">
+Computer-Supported Collaborative Learning: I-MINDS</a>
+</li></ul>
+<ul><li>
+<a href="syllabus.htm">
+Class Syllabus </a>
+</li></ul>
+<ul><li>
+<a href="schedule.htm">
+Class Schedule</a> (updated March 27, 2007)
+</li></ul>
+<ul><li>
+<a href="handouts.html">
+Handouts</a>
+</li></ul>
+<ul><li>
+<a href="quizzes.html">
+Pretest and PRS Quizzes</a>
+</li></ul>
+<ul><li>
+<a href="forums.html">
+In-Class Forums</a>
+</li></ul>
+<ul><li>
+<a href="http://csce.unl.edu/~cse156">
+Laboratory Assignments</a>
+<ul><li>
+<a href="http://calculus.unl.edu/edu/classes/CSCE156LabS07">
+EDU Testing Page</a>
+</li></ul>
+</li></ul>
+<ul><li>
+<a href="homeworks.html">
+Homework Assignments</a>
+</li></ul>
+<ul><li>
+<a href="exams.html">
+Exams</a>
+</li></ul>
+<ul><li>
+<a href="programs.html">
+Test Programs</a>
+</li></ul>
+<ul><li>
+<a href="resources.html">
+Resources</a>
+</li></ul>
+<br/>
+<hr/><br/>
+<a href="http://blackboard.unl.edu/">Blackboard</a>
+<br/><br/>
+<hr/><br/>
+<img src="../../images/blueballs.jpeg"/>
+<i>
+<script language="JavaScript">
+   <!--  to hide script contents from old browsers
+    document.write("<I>  Last Updated: " + document.lastModified + "  </I>")
+   // end hiding contents from old browsers  -->
+ </script>
+</i>
+<br/>
+</font>
+</body>
+</html>

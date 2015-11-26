@@ -1,0 +1,89 @@
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Massimiliano Pierobon | Home</title>
+<link href="piero.css" id="styleId" rel="stylesheet" type="text/css"/>
+<meta content="Dr. Massimiliano Pierobon is an Assistant Professor with the Department of Computer Science and Engineering, University of Nebraska-Lincoln. His research areas are in molecular communication, communication networks for nano-bio-medicine applications, microbial network engineering, biological circuits for communication." name="Description"/>
+<meta content="Nanonetworks, Molecular Communication, Biological Circuit, Molecular Signal Processing." name="Keywords"/>
+</head>
+<body>
+<div id="unlBanner">
+<div id="unlLogo">
+<a href="http://www.unl.edu" target="_blank"><img alt="UNL Logo" height="70" src="./UNL-logo.png"/></a>
+<a href="http://www.unl.edu" target="_blank"><img alt="UNL Logo" height="70" src="./R-U_N186c_L_tag_2c.png" style="float:right"/></a>
+</div>
+</div>
+<div id="unlSep">
+</div>
+<div id="topBack">
+<div id="header">
+<div id="leftImage">
+<a href="./index.html"><img alt="Picture" height="220px" src="./Pierobon.png"/></a>
+</div>
+<div id="mainTitle">
+<p style="font-weight:bold">Dr. Massimiliano Pierobon</p>
+<p style="font-size:0.7em;font-weight:bold">Assistant Professor</p>
+<p style="font-size:0.6em;font-weight:bold">
+<a href="http://www.cse.unl.edu" target="_new">Department of Computer Science &amp;amp Engineering </a><br/>
+<a href="http://www.unl.edu" target="_new">University of Nebraska-Lincoln</a><br/>
+                  Lincoln, NE, 68508</p>
+<p style="font-size:0.6em">
+<b>Office:</b> 109 Schorr Center<br/>
+<b>Phone:</b> (402) 472-5021<br/>
+<b>Email:</b> <a href="mailto:pierobon@cse.unl.edu">pierobon@cse.unl.edu</a></p>
+<p style="font-size:0.6em">
+<a href="http://scholar.google.com/citations?user=Rhu5LQIAAAAJ&amp;hl=en" target="_blank"><img alt="Google" height="30" src="./google.png" style="border-radius:5px;border:2px solid #"/></a>
+</p>
+</div>
+</div>
+</div>
+<div id="menuBack">
+<ul class="menu">
+<li><a href="./index.html">Biography</a></li>
+<li><a href="./research.html">Research</a>
+</li><li><a href="./publications.html">Publications</a></li>
+<li><a href="./service.html">Service</a></li>
+<li><a href="./teaching.html">Teaching</a></li>
+</ul>
+</div>
+<div id="centerBack">
+<div id="central">
+<div id="unlBody">
+<p class="title">Biography</p>
+<p align="justify" class="plaintext">Dr. Pierobon is currently an Assistant Professor with the <a href="http://www.cse.unl.edu" target="_blank">Department of Computer Science &amp;amp Engineering</a> at the <a href="http://www.unl.edu">University of Nebraska-Lincoln</a>. Dr. Pierobon holds also a courtesy appointment at the Department of Biochemistry, University of Nebraska-Lincoln, effective from September 2014. He received the BWN Lab Researcher of the Year Award at the Georgia Institute of Technology for his outstanding research achievements in 2011. He was also named IEEE Communications Letters 2013 Exemplary Reviewer in appreciation for his service as referee. He is a member of IEEE, ACM, and ACS. He is in the <a href="http://host.comsoc.org/transcom/board.html" target="_blank">Editorial board of IEEE Transactions on Communications</a>, in the Area of Modulation &amp; Signal Design, with the following designation: Biochemical and Molecular Communications. His current <a href="./research.html" target="_blank">research interests</a> are in molecular communication theory for nanonetworks, communication engineering applied to intelligent drug delivery systems, and biological circuit network engineering.</p>
+<p align="justify" class="plaintext">Massimiliano Pierobon received the Master of Science (B.S.+M.S.) degree in Telecommunication Engineering from the Politecnico di Milano, Milan, Italy, in 2005. During 2006, Massimiliano Pierobon worked as a researcher in the R &amp;amp D department of Siemens Carrier Networks, Milan, where he coauthored two filed patents on jitter buffer management. From January 2007 to July 2009 he was a graduate research assistant at the Politecnico di Milano in the fields of signal processing and pattern recognition. In November 2008 Massimiliano Pierobon joined the BWN lab, first as a visiting researcher and, from August 2009, as a Ph.D. student. He received the Ph.D. degree in Electrical and Computer Engineering from the <a href="http://www.gatech.edu" target="_blank">Georgia Institute of Technology</a>, Atlanta, GA, in August 2013, under the guidance of Professor <a href="http://www.ece.gatech.edu/research/labs/bwn/IFA/index.html" target="_blank">Ian F. Akyildiz</a>.
+                
+               
+                
+                
+                </p><p><br/></p>
+<p class="subtitle">Selected Honors and Awards</p>
+<p class="plaintext">
+</p><ul>
+<li><b>Courtesy appointment at the Department of Biochemistry, University of Nebraska-Lincoln</b>, effective from September 2014.<br/> <br/></li>
+<li><b><a href="http://www.comsoc.org/cl/review-appreciation-program">IEEE Communications Letters 2013 Exemplary Reviewer</a></b>, IEEE Communications Society (ComSoc), January 2014.<br/> <br/></li>
+<li><b><a href="http://news.unl.edu/newsrooms/unltoday/article/13-faculty-named-research-development-fellows/">Fellow of the Research Development Fellows Program (RDFP)</a></b>, UNL Office of Research and Economic Development (ORED), October 2013.<br/> <br/></li>
+<li><b>NSF Invitation and Travel Grant, Biocom2 Workshop Committee</b>, to attend the NSF Workshop on Biological Computations and Communications (Biocom2), Boston, Massachussetts, November 2012.<br/> <br/></li>
+<li><b><a href="http://www.ece.gatech.edu/research/labs/bwn/bwnawards.html">BWN Lab 2011 Researcher of the Year Award</a></b>, for his outstanding research achievements throughout the year.<br/> <br/></li>
+<li><b>Azcom Technology Grant</b>, awarded to outstanding graduate students to conduct research at the Politecnico di Milano, December 2006.<br/> <br/></li>
+<li><b>Siemens Carrier Network Patent Inventor Award</b>, awarded to employees and consultant who obtained significant research results and listed as authors on approved and published patents, June 2008.<br/> <br/></li>
+<li><b>"Cum laude" Politecnico di Milano honors</b>, awarded to outstanding M.S. students graduating with more than the maximum score (100/100) at the Politecnico di Milano, October 2005.<br/> <br/></li>
+<li><b>"A. Banfi" High School award</b>, awarded to outstanding students with the maximum score (60/60) in their high school diploma, December 1999.<br/> <br/></li>
+</ul>
+<div id="ad">
+<p class="subtitle">RA Positions Available</p>
+<p align="justify" class="plaintext">
+                I am currently looking for <b>self-motivated graduate students</b> willing to work in the interdisciplinary area of <b>molecular communication</b> as well as in <b>nanoscale networking</b>, <b>multi-agent intelligent biological systems</b>, <b>intelligent drug delivery systems</b> and <b>synthetic biology applied to communication</b>. A good physics and math background is needed. Knowledge on wireless communications and networking, signal processing, systems and controls are welcome. Background in biology and chemistry is useful.</p>
+</div>
+</div>
+</div>
+<div id="peu">
+<p>You are visitor:</p>
+<p><img alt="Visit Counter" src="http://www.ece.gatech.edu/cgi-bin/Count.cgi?df=maxpunl_index.dat&amp;chcolor=T&amp;prgb=ffffff&amp;dd=cd&amp;ft=2&amp;frgb=000000"/></p>
+<p>since August 16, 2013.</p>
+</div>
+</div>
+<div id="unlSep2">
+</div>
+</body>
+</html>

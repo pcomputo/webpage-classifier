@@ -1,0 +1,740 @@
+<html xmlns="http://www.w3.org/TR/REC-html40" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Word.Document" name="ProgId"/>
+<meta content="Microsoft Word 11" name="Generator"/>
+<meta content="Microsoft Word 11" name="Originator"/>
+<link href="quizmode_files/filelist.xml" rel="File-List"/>
+<link href="quizmode_files/editdata.mso" rel="Edit-Time-Data"/>
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>CXP+I-MINDS: QuizMode</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Leen-Kiat Soh</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Leen-Kiat Soh</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>15</o:TotalTime>
+  <o:Created>2007-09-17T17:47:00Z</o:Created>
+  <o:LastSaved>2007-09-17T17:47:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>1347</o:Words>
+  <o:Characters>7682</o:Characters>
+  <o:Company>University of Nebraska-Lincoln</o:Company>
+  <o:Lines>64</o:Lines>
+  <o:Paragraphs>18</o:Paragraphs>
+  <o:CharactersWithSpaces>9011</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DrawingGridHorizontalSpacing>3.9 pt</w:DrawingGridHorizontalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+@font-face
+	{font-family:"Eras Medium ITC";
+	panose-1:2 11 6 2 3 5 4 2 8 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+ /* Page Definitions */
+ @page
+	{mso-footnote-separator:url("quizmode_files/header.htm") fs;
+	mso-footnote-continuation-separator:url("quizmode_files/header.htm") fcs;
+	mso-endnote-separator:url("quizmode_files/header.htm") es;
+	mso-endnote-continuation-separator:url("quizmode_files/header.htm") ecs;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-footer:url("quizmode_files/header.htm") f1;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:511336590;
+	mso-list-template-ids:-178110078;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:935404977;
+	mso-list-template-ids:1554431980;}
+@list l1:level1
+	{mso-level-start-at:5;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l1:level2
+	{mso-level-start-at:2;
+	mso-level-text:"%1\.%2\.";
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l1:level3
+	{mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l1:level4
+	{mso-level-text:"%1\.%2\.%3\.%4\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l1:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l1:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l1:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l1:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l1:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9\.";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-1.25in;}
+@list l2
+	{mso-list-id:1342705940;
+	mso-list-template-ids:-1213407668;}
+@list l2:level1
+	{mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l2:level2
+	{mso-level-start-at:5;
+	mso-level-text:"%1\.%2\.";
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l2:level3
+	{mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l2:level4
+	{mso-level-text:"%1\.%2\.%3\.%4\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l2:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l2:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l2:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l2:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l2:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9\.";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-1.25in;}
+@list l3
+	{mso-list-id:1555585719;
+	mso-list-template-ids:-399978974;}
+@list l3:level1
+	{mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l3:level2
+	{mso-level-text:"%1\.%2\.";
+	mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l3:level3
+	{mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l3:level4
+	{mso-level-text:"%1\.%2\.%3\.%4\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l3:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l3:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l3:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l3:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l3:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9\.";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-1.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+<body lang="EN-US" link="blue" style="tab-interval:.5in" vlink="purple">
+<div class="Section1">
+<table border="0" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
+<td style="width:90.9pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="121">
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><!--[if gte vml 1]><v:shapetype
+   id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+   path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:80.25pt;
+   height:81.75pt'>
+   <v:imagedata src="quizmode_files/image001.png" o:title="IMINDSLogo"/>
+  </v:shape><![endif]--><img height="109" src="quizmode_files/image002.gif" v:shapes="_x0000_i1025" width="107"/><o:p></o:p></b></p>
+</td>
+<td style="width:387.9pt;padding:0in 5.4pt 0in 5.4pt" width="517">
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-size:36.0pt;font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Tahoma'>CXP-Powered I-MINDS <o:p></o:p></span></b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-size:36.0pt;font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Tahoma;color:#99CC00'>Capabilities 4.0</span></b><b style="mso-bidi-font-weight:
+  normal"><span style='font-size:36.0pt;font-family:"Eras Medium ITC";
+  color:#99CC00'><o:p></o:p></span></b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><o:p> </o:p></b></p>
+</td>
+</tr>
+</table>
+<p class="MsoNormal"><o:p> </o:p></p>
+<div align="center">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="width:485.95pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="648">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;background:red;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds.html"><span style="text-decoration:
+  none;text-underline:none">HOME</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/current.html"><span style="text-decoration:none;text-underline:none">CURRENT STATUS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:red;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/capabilities.html"><span style="text-decoration:none;text-underline:none">CXP+I-MINDS CAPABILITIES</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/team.html"><span style="text-decoration:none;text-underline:none">TEAM</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:green;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/history.html"><span style="color:white;text-decoration:none;text-underline:none">HISTORY</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/publications.html"><span style="color:white;text-decoration:none;text-underline:none">PUBLICATIONS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:green;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/distribution.html"><span style="color:white;text-decoration:none;text-underline:none">SOFTWARE
+  DISTRIBUTION</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/contact.html"><span style="color:white;text-decoration:none;text-underline:none">CONTACT</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+</table>
+</div>
+<p class="MsoNormal"><o:p> </o:p></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><b style="mso-bidi-font-weight:
+normal"><span style='font-size:16.0pt;font-family:"Eras Medium ITC";color:#99CC00'>QuizMode<o:p></o:p></span></b></p>
+<p class="MsoNormal"><o:p> </o:p></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC";color:#FF6600'>4.1.<span style="mso-spacerun:yes">  </span>Introduction</span></b><span style='font-family:"Eras Medium ITC";color:#FF6600'><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>Another new mode
+introduced in version 4 of CXP+I-MINDS is QuizMode.<span style="mso-spacerun:yes">  </span>This mode is especially useful in educational
+settings and allows moderators to create quizzes for users to take.<span style="mso-spacerun:yes">  </span>All quiz content is stored in our database
+for automatic retrieval when starting the mode, and all quiz results are
+persistently stored as well for future analysis using the QuizStats tool
+(described in Section 5.4).<span style="mso-spacerun:yes">  </span>For each
+quiz, moderators can also include support material in the form of files for
+users to open that might provide more information or help on particular
+questions.<span style="mso-spacerun:yes">  </span>Support material are
+automatically saved in the CXP+IMINDS directory on both moderator and user
+machines to protect against accidental deletion of the original file and to
+insure that the files are available until the moderator no longer wants
+them.<span style="mso-spacerun:yes">  </span>Please note that due to
+ConferenceXP transmission limitations, total support material for a particular
+quiz cannot be larger than 750KB in size.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC";color:#FF6600'>4.2.<span style="mso-spacerun:yes">  </span>Creating Quizzes/Questions</span></b><span style='font-family:"Eras Medium ITC";color:#FF6600'><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>To create a new
+quiz, moderators must simply load the QuizMode from the main CXP+IMINDS
+form.<span style="mso-spacerun:yes">  </span>They will first be created with
+the Quiz creation tab shown in Figure 4.1, where moderators can create and edit
+existing quizzes by setting the different available properties.<span style="mso-spacerun:yes">  </span>Quizzes have a name and any optional comments
+from a moderator, can have a set duration (i.e., the users can no longer choose
+answers after the time has expired), and can allow for users to attach their
+own comments to any question (e.g., if a user wants to elaborate on why they
+chose a particular answer for partial credit).<span style="mso-spacerun:yes"> 
+</span><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>The quiz
+creation tab also allows moderators to browse for new support material, view
+existing support material, or add support material to the current quiz.<span style="mso-spacerun:yes">  </span>Moderators can also save changes on this tab,
+as well as test the quiz they created before sending it to the users.<span style="mso-spacerun:yes">  </span>Finally, this tab also provides functionality
+for sending quizzes to users as either individual or collaborative quizzes (to
+be explained in Section 4.4), or to view stats from previously assigned
+quizzes.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shape id="_x0000_i1026"
+ type="#_x0000_t75" style='width:375pt;height:303pt'>
+ <v:imagedata src="quizmode_files/image003.png" o:title="Attachment"/>
+</v:shape><![endif]--><img border="0" height="404" src="quizmode_files/image004.jpg" v:shapes="_x0000_i1026" width="500"/><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Figure 4.1: Quiz Creation
+Tab</span></b><span style='font-family:"Eras Medium ITC"'><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>To create
+individual questions, as well as to assign them to quizzes, the moderator can
+use the Questions tab of QuizMode, shown in Figure 4.2.<span style="mso-spacerun:yes">  </span>To create a new question, the moderator
+simply presses the Create New button, which will display a blank question on
+the right side of the form.<span style="mso-spacerun:yes">  </span>To change
+the name of the question, enter in the question content, as well as enter all
+answers, the moderator simply has to choose the appropriate field on the right
+side, the type in the formation they want and select the proper answer.<span style="mso-spacerun:yes">  </span>If the moderator wants to provide specific
+feedback for when users submit a specific answer (such as why the answer is
+correct or incorrect), they can click on the answer they want feedback for,
+then type in the feedback in the text box to the left of the Save Question
+button.<span style="mso-spacerun:yes">  </span>The properties of the question,
+such as whether it has multiple answers, if users can try to answer the
+question more than once, and the number of points the question is worth, can
+all be set on the left side of the form.<span style="mso-spacerun:yes"> 
+</span>Templates are provided for quickly setting properties and include
+options such as True/False and Multiple Choice.<span style="mso-spacerun:yes"> 
+</span>To save the question, the moderator just needs to press the Save
+Question button.<span style="mso-spacerun:yes">  </span>This will add the question
+to the Unassigned Questions list if no quiz is selected, else it will assign
+the question to the selected quiz.<span style="mso-spacerun:yes"> 
+</span>Questions can be moved in and out of quizzes at the top of the left side
+of the form, and existing questions can be edited by selected the question,
+pressing the edit button, then changing the question content or properties
+using the same functionality as creating a quiz.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shape id="_x0000_i1027"
+ type="#_x0000_t75" style='width:438pt;height:353.25pt'>
+ <v:imagedata src="quizmode_files/image005.png" o:title="Cicero"/>
+</v:shape><![endif]--><img border="0" height="471" src="quizmode_files/image006.jpg" v:shapes="_x0000_i1027" width="584"/><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Figure 4.2:<span style="mso-spacerun:yes">  </span>Question Creation Tab<o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC";color:#FF6600'>4.3. Taking Quizzes</span></b><span style='font-family:"Eras Medium ITC";color:#FF6600'><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>On the user
+side, when taking quizzes, the QuizMode form consists of only the right side of
+the moderator form, as shown in Figure 4.3.<span style="mso-spacerun:yes"> 
+</span>Notice the quiz timer under the name, which automatically ticks
+down.<span style="mso-spacerun:yes">  </span>Once time has run out, users can
+no longer answers questions.<span style="mso-spacerun:yes">  </span>If users do
+not want to be bothered by the amount of time left, they can click on the
+timer, which causes the countdown to disappear.<span style="mso-spacerun:yes"> 
+</span>Clicking on the box again causes the timer to reappear.<span style="mso-spacerun:yes">  </span>As previously mentioned, any support material
+included with the quiz is available to users taking the quiz.<span style="mso-spacerun:yes">  </span>Users are allowed to advance to the next
+question or go back to previous questions.<span style="mso-spacerun:yes"> 
+</span>QuizMode tracks the results for each question when an answer is
+submitted.<span style="mso-spacerun:yes">  </span>Pressing Done with Quiz ends
+the quiz (after confirmation) and sends the results to the moderator. <o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shape id="_x0000_i1028"
+ type="#_x0000_t75" style='width:236.25pt;height:369pt'>
+ <v:imagedata src="quizmode_files/image007.png" o:title=""/>
+</v:shape><![endif]--><img border="0" height="492" src="quizmode_files/image008.jpg" v:shapes="_x0000_i1028" width="315"/><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Figure 4.3:</span></b><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes"> 
+</span>Quiz Mode User View<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>Quizzes can be
+assigned as either individual quizzes or collaborative quizzes.<span style="mso-spacerun:yes">  </span>The former kind allows each user to submit
+their own answers for questions without help from anyone.<span style="mso-spacerun:yes">  </span>Collaborative quizzes, on the other hand,
+allow students to work in their structured groups and submit a single set of
+answers for the whole group.<span style="mso-spacerun:yes">  </span>If the quiz
+is taken as a collaborative quiz, control of the form is handled by a
+token-based system.<span style="mso-spacerun:yes">  </span>In order to make
+changes, a user must request the token.<span style="mso-spacerun:yes"> 
+</span>If no one has the token, the moderator agent automatically assigns the
+token to the first user to request it.<span style="mso-spacerun:yes"> 
+</span>If someone already owns the token, they are prompted if they want to
+release the token.<span style="mso-spacerun:yes">  </span>If the owner
+confirms, the token is given to the requesting user, else the user’s request is
+added to a queue operated by the moderator, and they will be assigned the token
+whenever the current owner releases it.<span style="mso-spacerun:yes">  
+</span>In order to support collaborative actions, several more options appear
+on the quiz form during collaborative quizzes: request token, release token,
+and start discussion, which begins a new topic about the question in the
+StructuredChat form.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>When a user has
+the token, they can mark and submit answers, and switch which question is
+currently displayed.<span style="mso-spacerun:yes">  </span>Any action taken by
+the user with the token is automatically propagated to all of their
+collaborative partners’ displays.<span style="mso-spacerun:yes"> 
+</span>Whenever the user presses Done with Quiz, the results are submitted to
+the moderator for the group.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>In order to
+prevent problems caused by users joining sessions late or losing their network
+connection, we have added <i style="mso-bidi-font-style:normal">repair</i>
+mechanisms to the quiz mode to save completed work.<span style="mso-spacerun:yes">  </span>Whenever a user joins a session, the
+moderator agent checks the individual quiz results collections to see if it has
+a results set for the joining user.<span style="mso-spacerun:yes">  </span>If
+not, the agent sends the first matching quiz found and automatically sends it
+to the user.<span style="mso-spacerun:yes">  </span>While the user is taking
+the quiz, all of their actions are stored locally in case of loss.<span style="mso-spacerun:yes">  </span>When the user receives a quiz, the user agent
+first looks for a corresponding set of stored actions and fills in any work
+previously completed by the user.<span style="mso-spacerun:yes">  </span>If the
+user had already finished the quiz, but for some reason the results were not
+received by the moderator, the user agent automatically sends in the quiz
+results without asking the user to take the quiz again.<span style="mso-spacerun:yes">  </span>Whenever the moderator agent receives a new
+set of quiz results from a user, it checks the list of assigned quizzes again
+to make sure it has received results for every quiz from the submitting
+user.<span style="mso-spacerun:yes">  </span>If not, it once again assigns a
+make up quiz.<span style="mso-spacerun:yes">  </span>This process continues
+until results are received for every quiz.<span style="mso-spacerun:yes"> 
+</span>For collaborative quizzes, late joining or dropped users only need to
+receive information about quizzes currently being taken, so they automatically
+receive information about the state of the current quiz from the moderator,
+allowing them to fully participate.<o:p></o:p></span></p>
+<p class="MsoNormal"><o:p> </o:p></p>
+<div align="center">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="width:485.95pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="648">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;background:red;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds.html"><span style="text-decoration:
+  none;text-underline:none">HOME</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/current.html"><span style="text-decoration:none;text-underline:none">CURRENT STATUS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:red;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/capabilities.html"><span style="text-decoration:none;text-underline:none">CXP+I-MINDS CAPABILITIES</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/team.html"><span style="text-decoration:none;text-underline:none">TEAM</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:green;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/history.html"><span style="color:white;text-decoration:none;text-underline:none">HISTORY</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/publications.html"><span style="color:white;text-decoration:none;text-underline:none">PUBLICATIONS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:green;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/distribution.html"><span style="color:white;text-decoration:none;text-underline:none">SOFTWARE
+  DISTRIBUTION</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/contact.html"><span style="color:white;text-decoration:none;text-underline:none">CONTACT</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+</table>
+</div>
+<p class="MsoNormal"><o:p> </o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
+</div>
+</body>
+</html>

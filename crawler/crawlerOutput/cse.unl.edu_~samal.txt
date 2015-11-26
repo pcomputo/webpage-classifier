@@ -1,0 +1,178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="file:///Macintosh HD/Users/jholt/Temp/sites/cse/Templates/document.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!--
+    Membership and regular participation in the UNL Web Developer Network
+    is required to use the UNL templates. Visit the WDN site at 
+    http://wdn.unl.edu/. Click the WDN Registry link to log in and
+    register your unl.edu site.
+    All UNL template code is the property of the UNL Web Developer Network.
+    The code seen in a source code view is not, and may not be used as, a 
+    template. You may not use this code, a reverse-engineered version of 
+    this code, or its associated visual presentation in whole or in part to
+    create a derivative work.
+    This message may not be removed from any pages based on the UNL site template.
+    
+    $Id: document.dwt 536 2009-07-23 15:47:30Z bbieber2 $
+-->
+<link href="/wdn/templates_3.0/css/all.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="/wdn/templates_3.0/css/print.css" media="print" rel="stylesheet" type="text/css"/>
+<script src="/wdn/templates_3.0/scripts/all.js" type="text/javascript"></script>
+<!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" media="screen" href="/wdn/templates_3.0/css/ie.css" />
+<![endif]-->
+<meta content="University of Nebraska-Lincoln | Web Developer Network" name="author"/>
+<meta content="text/html;charset=utf-8" http-equiv="Content-type"/>
+<meta content="en" http-equiv="content-language"/>
+<meta content="en" name="language"/>
+<link href="/wdn/templates_3.0/images/favicon.ico" rel="shortcut icon"/>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>UNL | CSE | Professor Ashok Samal</title>
+<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="head" -->
+<!-- Place optional header elements here -->
+<!-- InstanceEndEditable -->
+</head>
+<body class="document">
+<p class="skipnav"> <a class="skipnav" href="#maincontent">Skip Navigation</a> </p>
+<div id="wdn_wrapper">
+<div id="header"> <a href="http://www.unl.edu/" title="UNL website"><img alt="UNL graphic identifier" id="logo" src="/wdn/templates_3.0/images/logo.png"/></a>
+<h1>University of Nebraska–Lincoln</h1>
+</div>
+<div id="wdn_navigation_bar">
+<div id="breadcrumbs">
+<!-- WDN: see glossary item 'breadcrumbs' -->
+<!-- InstanceBeginEditable name="breadcrumbs" -->
+<ul>
+<li><a href="http://www.unl.edu/" title="University of NebraskaLincoln">UNL</a></li>
+<li><a href="http://cse.unl.edu">CSE</a></li>
+<li>Ashok Samal</li>
+</ul>
+<!-- InstanceEndEditable --></div>
+<div id="wdn_navigation_wrapper">
+<div id="navigation"></div>
+</div>
+</div>
+<div id="wdn_content_wrapper">
+<div id="titlegraphic"><!-- InstanceBeginEditable name="titlegraphic" -->
+<h1>Professor Ashok Samal</h1>
+<!-- InstanceEndEditable --></div>
+<div id="pagetitle"><!-- InstanceBeginEditable name="pagetitle" -->
+<h2>Department of Computer Science &amp; Engineering</h2>
+<!-- InstanceEndEditable --></div>
+<div id="maincontent">
+<!--THIS IS THE MAIN CONTENT AREA; WDN: see glossary item 'main content area' -->
+<!-- InstanceBeginEditable name="maincontentarea" -->
+<div class="col left">
+<p><img alt="Ashok" height="254" src="ashok.jpg" width="199"/></p>
+<p>361 Avery Hall<br/>
+              Phone: (402) 472-2217<br/>
+FAX: (402) 472-7767<br/>
+              e-mail: samal at cse dot unl dot edu</p>
+<p>Full CV - Add link here?</p>
+<p><img alt="apply now" height="94" src="apply.png" width="210"/></p>
+<p><img alt="igert" height="94" src="igert.png" width="210"/></p>
+</div>
+<div class="three_col right">
+<ul class="wdn_tabs">
+<li><a href="#research">Research Summary</a></li>
+<li><a href="#publications">Selected Publications</a></li>
+<li><a href="#teaching">Teaching</a></li>
+<li><a href="#links">Useful Links</a></li>
+</ul>
+<div class="wdn_tabs_content">
+<div id="research">
+<h3><strong>Research Summary</strong></h3>
+<p><em>Image Understanding</em>: In the area of image understanding my focus has been in face processing and document image analysis. While much of the research community has focused on recognition of the face, I have focused on extracting the full complement of the information from the face (identify, gender, expression, attractiveness).  My research has made contributions in the applications where the appearance of the face is either unclear or is unavailable.  Using a landmark based approach, we have developed techniques to match faces, sketches, and faces of parents and children. My research in document image analysis centers on engineering drawings, topographic maps, and mixed mode documents. Extraction of high level information from documents is a significant challenge and is critical to archival and semantic analysis.  We have developed algorithms to extract underlying semantic structures from these three classes of documents.</p>
+<p><em>Geospatial Data Analysis and Spatial Data Mining</em>: Parsing the spatial organization to derive higher level features is a difficult challenge in geographic computation. We have developed techniques to extract these structures in their geographic contexts and exploit them for important problems including conflation and satellite image retrieval. My contribution in spatial data mining has been in explicitly incorporating the properties of the geographic space into the clustering algorithms; traditional clustering techniques are ineffective in the geospatial domain.</p>
+<em>Education Research</em>: I also have a strong interest in <em>education research</em>. My focus is on research based approaches to improving student learning in introductory CS courses. We have concentrated on three aspects:  (a) placement examination, (b) closed laboratories, and (c) Web-based learning objects. In order to identify the most effective instructional methods and strategies for CS students, we follow rigorous experimental protocols supported by and in accordance with current research in educational psychology and instructional technology. Our work is unique in the broader CS education research community, given its multi-faceted approach and our efforts to integrate education and research.  </div>
+<div id="publications">
+<h3>Selected Publications </h3>
+<p><strong>Image Understanding</strong></p>
+<ol>
+<li><em>Joyita Mallik</em>, Ashok Samal and Scott L. Gardner. A Content Based Image Retrieval System for a Biological Specimen Collection. Submitted to <em>Computer Vision and</em> <em>Image and Understanding</em>, January 2010.</li>
+<li><em>Ramalingamurthy Meduri</em>, Ashok Samal, and Scott L. Gardner. ParasiteWeb: Web Based Framework for Content Based Image Retrieval System for HWML Parasite Collection. Accepted for publication in <em>Occasional Papers of the Museum</em>, August 2008.</li>
+<li><em>Sarvani Kare</em>, Ashok Samal and David Marx.  Face Recognition using Bidimensional Regression. <em>Machine Vision and Applications</em>, Vol. 19, No. 1. 2008 </li>
+<li><em>Sudhindra Shukla</em> and Ashok Samal. Recognition and Quality Assessment of Data Charts in Mixed Mode Documents. Accepted for publication <em>to International Journal of Document Analysis and Recognition</em>, April 2008.</li>
+<li><em>Govinda Konda Naganathan</em>, Jeyam Subbiah, and Ashok Samal. Visible/Near-Infrared Hyperspectral Imaging for Beef Tenderness Prediction.  <em>Computers and Electronics in Agriculture</em>, Available online on 7 July 2008.</li>
+<li>Debasis Chaudhuri and Ashok Samal.  An Automatic Bridge Detection Technique for Multi-spectral Images. <em>IEEE Transactions in Geosciences and Remote Sensing</em>, Vol. 46, No, 9, pp. 2720-2727, September 2008.</li>
+<li><em>Kendra Schmid</em>, David Marx and Ashok Samal.  Computation of a Face Attractiveness Index Based on Neoclassical Canons, Symmetry, and Golden Ratios.  <em>Pattern Recognition</em>, Vol. 41, No. 8, pp. 2710-2717, August 2008. </li>
+<li>Debasis Chaudhuri and Ashok Samal. A Simple Method for Fitting Bounding Rectangle to Closed Regions. <em>Pattern Recognition</em>, Vol. 40, No. 7, pp. 1981-1989, 2007. </li>
+<li><em>Dongsheng Zhang</em>, James R. Brandle, and Ashok Samal. A Method for Estimating Fractal Dimension of Tree Crowns from Digital Images. <em>International Journal of Pattern Recognition and Artificial Intelligence</em>, Vol. 21, No. 3, pp. 543-559, 2007</li>
+<li><em>Jiazheng Shi</em>, Ashok Samal and David Marx. Face Recognition Using Landmark-based Bidimensional Regression. <em>Computer Vision and Image Understanding</em>, Vol.102, No. 2, pp. 117-133, 2006.</li>
+</ol>
+<p><strong>Geospatial Data Analysis and Spatial Data Mining</strong></p>
+<ol>
+<li>Deepti Joshi, Leen-Kiat Soh and Ashok Samal, Redistricting Using Heuristic-Based Polygonal Clustering,  IEEE International Conference on Data Mining (ICDM’2009), Miami, FL, December 6-9, 2009.</li>
+<li>Deepti Joshi, Leen-Kiat Soh and Ashok Samal, A Dissimilarity Function for Clustering Geospatial Polygons,  Proceedings of 17th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM-GIS), Seattle, WA, November 2009.</li>
+<li>D. Joshi, A. K. Samal, and L. K. Soh, Density-Based Clustering of Polygons, IEEE Symposium Series on Computational Intelligence and Data Mining, 2009, pp: 171-178.</li>
+<li>Tao Hong, Ashok Samal, and Leen-Kiat Soh. Computing Information Gain for Spatial Data Support. 16th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM-GIS), Irvine, CA, November 2008.</li>
+<li>Kendra Schmid, David Marx and Ashok Samal. Weighted Bidimensional Regression. Accepted for publication in Geographical Analysis), 2009.</li>
+<li>Leen-Kiat Soh, Ashok Samal and Lei Fu.  Techniques for Computing Fitness of Use (FoU) for Time Series Datasets with Applications in the Geospatial Domain.  Geoinformatica, Volume 12, No. 1, pp. 73-89, March 2008. </li>
+<li>A. Samal and S. Seth. Abstract Feature Extraction from Remotely Sensed Images of Urban Areas. in Encyclopedia of Geographic Information Systems. Eds. S. Shekhar and H. Xiong.  Springer, 2008, pp. 314-320.</li>
+<li>Tao Hong, Ashok Samal, and Leen-Kiat Soh. Computing Information Gain for Spatial Data Support. ACM-GIS, November 2008.</li>
+<li>A. Kerby, D. Marx, Ashok Samal, and V. Adamchuck. Spatial Clustering Using the Likelihood Function. Seventh IEEE International Conference on Data Mining, Workshop on Spatial and Spatio-Temporal Data Mining, Omaha, NE, pp. 637-642, October 2007.</li>
+<li>Ashok Samal, Sharad Seth and <em>Kevin Cueto</em>. A Feature-Based Approach to Conflation of Geospatial Sources. International<em> Journal of Geographic Information Science</em>, Vol.18, No. 3, pp. 459-490, 2004.</li>
+</ol>
+<p><strong>Education Research</strong></p>
+<ol>
+<li>Riley, S., Miller, L. D., Soh, L.-K., Samal, A., and Nugent, G. (2009).  A Framework for Automatic Empirically-Based Metadata Generation, Proceedings of the International Conference on Artificial Intelligence in Education (AIED’2009), Brighton, UK, July 6-10.  </li>
+<li>Nugent, G., Kupzyk, K., Riley, S. A., Miller, L. D., Hostetler, J., Soh, L.-K. and  Samal, A. (2009).  Empirical Usage Metadata in Learning Objects, Frontiers in Education (FIE’2009), October 18-21, San Antionio, Texas.</li>
+<li>Nugent, G., Soh, L.-K., Samal, A., and Miller, L. D. (2008).  Embedding and Validating Empirical Usage Intelligence in Learning Objects, Proceedings of the World Conference on Educational Multimedia, Hypermedia &amp; Telecommunications (ED-MEDIA’2008), Vienna, Austria, June 30 – July 4.</li>
+<li>Leen-Kiat Soh, Ashok Samal, and Gwen Nugent. An Integrated Framework for Improved Computer Science Education: Strategies, Implementations, and Results. Computer Science Education, Vol. 17, No. 1, pp. 59-83, 2007. </li>
+<li>Leen-Kiat Soh, Ashok Samal, and Gwen Nugent. A Framework for CS1 Closed Laboratories. Accepted for publication in the Journal of Educational Resources in Computing, Vol. 34, No. 3, pp. 271-281, 2006. </li>
+<li>Gwen Nugent, Leen-Kiat Soh, and Ashok Samal. Design, Development and Validation of Learning Objects. Journal of Educational Technology Systems Research, Volume 34, No. 3, pp. 271-281, 2005-2006.</li>
+<li>Leen-Kiat Soh, Ashok Samal, Suzette Person, Gwen Nugent, and Jeff Lang. Implementing CS1 with Embedded Instructional Research Design in Laboratories. IEEE Transactions on Education, Vol. 49, No. 1, pp. 157-165, 2006.</li>
+<li>Leen-Kiat Soh, Ashok Samal, Suzette Person, Gwen Nugent, and Jeff Lang. A Placement Test for Computer Science: Design, Implementation, and Analysis. Computer Science Education, Vol. 16, No. 1. pp. 19-36, March 2006.</li>
+<li>Ashok  Samal,  Gwen Nugent, Leen-Kiat Soh, Jeff Lang, and Suzette Person. Reinventing Computer Science Curriculum at University of Nebraska. Technology-Based Education: Bringing Researchers and Practitioners Together. Eds. L. PytlikZillig, M. Bodvarsson, and R. Bruning. Chapter 10, Information Age Publishing, 2005, pp. 203-224. </li>
+<li>Ashok Samal and Bhuvana Gopal. Technological Indicators of Impact of Course Management Systems. Web-based learning: What do we know? Where do we go? Eds. L. PytlikZillig and R. Bruning. Information Age Publishing, 2003, pp. 191-207</li>
+</ol>
+</div>
+<div id="teaching">
+<h3>Course Information</h3>
+<p>Introduction to Computer Science I</p>
+<p>        Data Mining</p>
+<p>        Computer Vision</p>
+</div>
+<div id="links">
+<p><a href="http://cse.unl.edu/grad/index.shtml">CSE Graduate Program</a></p>
+<p><a href="http://snr.unl.edu/igert/"> IGERT Program in Spatial Data Mining</a></p>
+<p>        Collaborators:</p>
+<ul>
+<li>David Marx</li>
+<li>Jordan Green</li>
+<li>Scott Gardner</li>
+<li>Jeyam Subbhiah</li>
+<li>Alan Tomkins</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- InstanceEndEditable -->
+<div class="clear"></div>
+<noscript>
+<p>
+Your browser does not appear to support JavaScript, or you have turned JavaScript off. You may use unl.edu without enabling JavaScript, but certain functions may not be available.
+</p>
+</noscript>
+<!--THIS IS THE END OF THE MAIN CONTENT AREA.-->
+</div>
+<div id="footer">
+<div id="footer_floater"></div>
+<div id="wdn_copyright"><!-- InstanceBeginEditable name="footercontent" -->
+                [an error occurred while processing this directive]
+                <!-- InstanceEndEditable -->
+<br/>
+UNL web templates and quality assurance provided by the <a href="http://wdn.unl.edu/" title="UNL Web Developer Network">Web Developer Network</a>
+<div id="wdn_logos">
+<a href="http://www.unl.edu/" id="unl_wordmark" title="UNL Home"><img alt="UNL Wordmark" src="/wdn/templates_3.0/css/footer/images/wordmark_white.png"/></a>
+<a href="http://www.cic.net/" id="cic_wordmark" title="CIC Website"><img alt="Committee on Institutional Cooperation Logo" src="/wdn/templates_3.0/css/footer/images/cic.png"/></a>
+<a href="http://www.bigten.org/" id="b1g_wordmark" title="Big Ten Website"><img alt="Big Ten Logo" src="/wdn/templates_3.0/css/footer/images/B1G.png"/></a>
+</div>
+
+          | <a href="http://validator.unl.edu/check/referer">W3C</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3">CSS</a> <a href="http://www.unl.edu/" id="wdn_unl_wordmark" title="UNL Home"><img alt="UNL's wordmark" src="/wdn/templates_3.0/css/footer/images/wordmark.png"/></a> </div>
+</div>
+</div>
+<div id="wdn_wrapper_footer"> </div>
+</div>
+</body>
+<!-- InstanceEnd --></html>

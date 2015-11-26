@@ -1,0 +1,347 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Mozilla/4.75 [en] (X11; U; SunOS 5.7 sun4u) [Netscape]" name="GENERATOR"/>
+<title>CSCE976 Advanced Artificial Intelligence</title>
+</head>
+<body alink="#FF0000" bgcolor="#FFFFFF" link="#0000EE" text="#000000" vlink="#551A8B">
+<center>
+<h1>
+CSCE976, Spring 2002: Advanced Artificial Intelligence</h1></center>
+<b>Prereq:          </b>CSCE876,
+or equivalent.  CSCE821 strongly recommended
+<p><b>Course description (from Graduate Program Guide to Policies and Requirements):
+</b>This
+is a course for students with some sophistication and considerable interest
+in exploring methods of designing and using algorithms useful for finding
+adequate answers to combinatorial large problems that require largely symbolic
+rather than numeric computing. It will be assumed that students are highly
+proficient in one or more high level computer languages and either are
+or will be able to function in functional and descriptive languages such
+as LISP and PROLOG.  The goal of the course will be to study, analyze
+and critique basic and current research papers and to engage in artificial
+intelligence projects and experiments either alone or in small groups. 
+Topics of study will include artificial intelligence environments, tools
+and expert systems building. Class participation will be encouraged for
+the review of the more recent AI literature.
+</p><p>The content of this course is modified every year. This year, we will
+focus on the following topics: planning, temporal reasoning, distributed
+constraint satisfaction, scheduling, spatial reasoning,  distributed
+problem-solving (multi-agent systems), and/or intelligent tutoring.
+</p><p><b>Time:</b>                
+Monday, Wednesday, from  2:30 to 3:45 p.m.
+</p><p><b>Place:</b>               
+CBA 141
+</p><p><b>Instructor:</b>      Prof. Berthe Y. Choueiry
+<br/>                           
+Room 104, Ferguson Hall
+<br/>                           
+choueiry@cse.unl.edu
+<br/>                           
+Tel: (402)472-5444
+</p><p><b>Office hours:</b>   Monday, Wednesday 3:45--4:45 p.m. 
+or by appointment
+</p><p><b><font color="#CC0000">Important</font></b>:     
+Regularly check out the page of <b><blink><font color="#FF0000"><a href="schedule.htm">class
+schedule </a></font></blink></b>for reference to required and recommended
+reading material, homework texts, and announcements.
+</p><p><b>Protocol of the course:</b>
+</p><blockquote>
+<li>
+Mainly discussions of technical papers, otherwise lectures by the instructor
+and presentations by students.</li>
+<li>
+Absence:  maximum 3 sessions, <i>advanced notice required.</i></li>
+<li>
+Collaboration and discussion within and outside the classroom <i>strongly
+encouraged </i>unless specified (e.g., for assignments, quizzes, or `riddles').</li>
+</blockquote>
+<b>Grading policy:</b>
+<ul>
+<li>
+<u>Students will be able to `compose' their grade, for up to 70% of the
+total grade, from the following menu:</u></li>
+<ul>
+<li>
+Presentation of a research paper  by a student: 20%. (<i>Grading</i>:
+clarity 20 points, organization 20 points, summary of contributions 30
+points, critical analysis 30 points, interaction with and responsiveness
+to audience 10 makeup points.)</li>
+<li>
+<i>Scribe</i> of a discussion topic or a paper presentation or a<i> critical
+summary </i>of a research paper: 5%.  A student takes notes of an
+entire discussion of a topic. One or more other students criticize the
+notes of the scribe and rate the minutes (Excellent, Good, Satisfactory,
+or Poor).</li>
+<li>
+Project (programming): 30% (mainly for students who have taken 476/876
+and 421/821)</li>
+<li>
+Term paper: 30%. (mainly for students who have taken 476/876 and 421/821)</li>
+</ul>
+<li>
+<u>The remaining 30% are allocated as follows:</u></li>
+<ul>
+<li>
+Surprise quizzes (mainly) and assignments (minimal): 20%.</li>
+<li>
+Class interaction and participation in discussions are (subjectively) evaluated
+for 10% of the total grade.</li>
+</ul>
+</ul>
+<img height="12" src="new.gif" width="31"/><b>How can I improve my grade?</b>
+<ul>
+<li>
+A bonus will be offered for a 100% attendance, starting second week of
+semester.</li>
+<li>
+Do the weekly and final glossaries: 5% (total).  Students who return
+every Monday, before class a glossary of terms listed in handouts will
+receive</li>
+<br/>a bonus.   Rules for glossary:
+<ul>
+<li>
+Students will be have to build an incremental and alphabetically sorted
+glossary of important terms.</li>
+<li>
+Terms to be included are the ones listed in the handouts distributed in
+class or sent my email.</li>
+<li>
+A glossary entry can be filled with: (1) its definition in AIMA, (2) its
+definition from another AI textbook or dictionary, or (3) the student own
+interpretation.</li>
+<li>
+All terms encountered during a week are due as a weekly glossary the following
+Monday.</li>
+<li>
+At the end of the course, the full alphabetically sorted glossary is due.
+(Hint:  choose a text editor that can sort entries alphabetically.)</li>
+</ul>
+</ul>
+<b>Grade conversion</b>:
+<br/> 
+<center><table border="" cols="2" nosave="" width="20%">
+<tr align="CENTER" nosave="">
+<td nosave="">
+<center>&gt;97%</center>
+</td>
+<td>
+<center>A+</center>
+</td>
+</tr>
+<tr>
+<td>
+<center>94-96</center>
+</td>
+<td>
+<center>A</center>
+</td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave="">
+<center>90--93</center>
+</td>
+<td>
+<center>A-</center>
+</td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave="">
+<center> 87--89</center>
+</td>
+<td>
+<center>B+</center>
+</td>
+</tr>
+<tr>
+<td>
+<center>84--96</center>
+</td>
+<td>
+<center>B</center>
+</td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave="">
+<center>80--83</center>
+</td>
+<td>
+<center>B-</center>
+</td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave="">
+<center>75--79</center>
+</td>
+<td>
+<center>C+</center>
+</td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave="">
+<center>67--74</center>
+</td>
+<td>
+<center>C</center>
+</td>
+</tr>
+<tr>
+<td>
+<center>60--66</center>
+</td>
+<td>
+<center>C-</center>
+</td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave="">
+<center>57--59</center>
+</td>
+<td>
+<center>D+</center>
+</td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave="">
+<center>54--56</center>
+</td>
+<td>
+<center>D</center>
+</td>
+</tr>
+<tr>
+<td>
+<center>51--53</center>
+</td>
+<td>
+<center>D-</center>
+</td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave="">
+<center>&lt;=50</center>
+</td>
+<td>
+<center>F</center>
+</td>
+</tr>
+</table></center>
+<p><b>Textbooks:</b>
+</p><li>
+No specific textbook is required for this course.  We will mainly
+use technical papers and sometimes chapters out of AIMA (the textbook of
+476/876).</li>
+<li>
+As the need arises, copies will be made available by, or can be retrieved
+from, the instructor.</li>
+<li>
+Main AI textbooks are available from the reserve desk or at Level 1A of
+the Love Library (see below).</li>
+<br/> 
+<p> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+</p><p><b>Books<u> on reserve</u> at the Love Library:</b>
+<br/><i>AI:</i>
+</p><ul>
+<li>
+<a href="http://iris.unl.edu/search/tParadigms+of+artificial/tparadigms+of+artificial/1,2,2,B/frameset&amp;F=tparadigms+of+artificial+intelligence+programming+case+studies+in+common+lisp&amp;1,1">Artificial
+Intelligence, A Modern Approach (</a>AIMA), by Russell &amp; Norvig.</li>
+<li>
+Artificial Intelligence, 3rd Edition.  Winston. ISBN 0201533774.</li>
+<li>
+<a href="http://iris.unl.edu/search/tParadigms+of+artificial/tparadigms+of+artificial/1,2,2,B/frameset&amp;F=tparadigms+of+artificial+intelligence+programming+case+studies+in+common+lisp&amp;1,1">Essentials
+of Artificial Intelligence</a>. Ginsberg. ISBN 1-558s60-22-6.  Call
+number Q335.G55 1993.</li>
+<li>
+<a href="http://iris.unl.edu/search/cQ335.N496+1998/cq+++335+n496+1998/-6,0,0,E/frameset&amp;F=cq+++335+n495+1998&amp;1,1">Artificial
+Intelligence: A New Synthesis.</a> Nilsson. ISBN 1-55860-535-5.  Call
+number Q335.N496 1998.</li>
+<li>
+<a href="http://iris.unl.edu/search/tParadigms+of+artificial/tparadigms+of+artificial/1,2,2,B/frameset&amp;F=tparadigms+of+artificial+intelligence+programming+case+studies+in+common+lisp&amp;1,1">Paradigms
+of Artificial Intelligence Programming.</a> Norvig. ISBN 1-55860-191-0.
+Call number QA76.6.N687.</li>
+</ul>
+<i>LISP:</i>
+<ul>
+<li>
+LISP, 3rd Edition. Winston &amp; Horn. ISBN 0-201-08319-1.</li>
+<li>
+ANSI Common Lisp, Paul Graham. ISBN 0-13-370875-6.</li>
+<li>
+<a href="http://iris.unl.edu/search/tParadigms+of+artificial/tparadigms+of+artificial/1,2,2,B/frameset&amp;F=tparadigms+of+artificial+intelligence+programming+case+studies+in+common+lisp&amp;1,1">Paradigms
+of Artificial Intelligence Programming.</a> Norvig. ISBN 1-55860-191-0.
+Call number QA76.6.N687.</li>
+</ul>
+<i>Specific topics:</i>
+<ul>
+<li>
+Foundations of Constraint Satisfaction by Edward Tsang.</li>
+<li>
+A mathematical introduction to logic by Enderton, Herbert B, CALL NO. QA9
+.E54 1972.</li>
+</ul>
+<p><br/><b>More books:</b>
+</p><ul>
+<li>
+<a href="http://iris.unl.edu/search/treadings+in+planning/treadings+in+planning/1,2,2,B/frameset&amp;F=treadings+in+planning&amp;1,1">Readings
+in Planning</a>. Morgan Kaufman, 1990, James Allen, James Hendler, and
+Austin Tate, editors. Call No Q335.5 .R32 1990</li>
+<li>
+Artificial Intelligence: Theory and Practice. Thomas Dean, James Allen,
+and Yiannis Alomonos. Addison-Wesley, 1995. Available from instructor.</li>
+<li>
+I<a href="http://iris.unl.edu/search/aYang%2C+Qiang/ayang+qiang/1,1,2,B/frameset&amp;F=ayang+qiang+1961&amp;2,,2">ntelligent
+Planning: A Decomposition and Abstraction Based Approach</a>. Qiang Yang.
+Springer-Verlag, 1997. Call Number Q334 .Y36 1997 .</li>
+</ul>
+<b>Useful links:</b>
+<ul>
+<li class="MsoNormal">
+Planning Systems: <a href="http://www.cs.washington.edu/homes/kautz/blackbox/index.html">BLACKBOX</a>,
+<a href="http://www-2.cs.cmu.edu/afs/cs.cmu.edu/user/avrim/www/graphplan.html">GRAPHPLAN
+</a>,
+<a href="http://www.informatik.uni-freiburg.de/~koehler/ipp.html">IPP
+(Interference Progression Planning)</a>, MEDIC (ftp.cs.washington.edu/pub/ai/medic.tar.gz),
+<a href="http://www.cs.washington.edu/ai/sgp.html">SGP (Sensory GraphPlan)</a>,
+<a href="http://www.dur.ac.uk/~dcs0www/research/stanstuff/stanpage.html">STAN</a></li>
+<li class="MsoNormal">
+UMD Planning page: The <a href="http://www.cs.umd.edu/projects/planning/index.html">AI
+Planning Domain Repository</a> , a collection of descriptions and pointers
+to domains for use in AI planning research.</li>
+<li class="MsoNormal">
+<a href="http://agents.umbc.edu/">UMBC AgentWeb</a> (Tim Finin's web page
+on Agents)</li>
+</ul>
+<div class="MsoNormal"><b>Some research groups involved in planning:</b></div>
+<ul>
+<li class="MsoNormal">
+<a href="http://www.salford.ac.uk/plansig/">UK Planning and Scheduling
+Special Interest Group web site.</a></li>
+<li class="MsoNormal">
+<a href="http://www.dur.ac.uk/~dcs0www/research/stanstuff/stanpage.html">The
+Durham Planning Group</a></li>
+<li class="MsoNormal">
+<a href="http://rakaposhi.eas.asu.edu/yochan.html/">Yochan (Rao's group
+at ASU)</a></li>
+<li class="MsoNormal">
+Planning and Scheduling Group at NASA Ames, headed by <a href="http://ic.arc.nasa.gov/ic/people/de2smith/index.html">David
+E. Smith</a></li>
+<li class="MsoNormal">
+<a href="http://www.cs.washington.edu/ai/">Planning at Univ. of Washington
+</a>(<a href="http://www.cs.washington.edu/homes/weld/">Weld</a>,
+Kautz, Hanks, Etzioni, etc.)</li>
+</ul>
+<hr/>
+<address>
+<a href="mailto:choueiry@cse.unl.edu">Berthe Y. Choueiry</a></address>
+<br/> 
+</body>
+</html>

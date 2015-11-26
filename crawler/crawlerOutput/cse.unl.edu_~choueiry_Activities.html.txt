@@ -1,0 +1,369 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Mozilla/4.75 [en] (X11; U; SunOS 5.7 sun4u) [Netscape]" name="GENERATOR"/>
+<title>Activities</title>
+</head>
+<body alink="#FF0000" bgcolor="#FFFFFF" link="#0000EE" text="#000000" vlink="#551A8B">
+<!-- font-family: Comic Sans MS; tahoma; -->
+<font size="+1"><b>Editorial Boards</b></font>
+<ol>
+<li> Associate Editor, Annals of Mathematics and Artificial Intelligence (AMAI), Springer, 2011--present.</li>
+<li> Guest Editor for a Special Issue of the Annals of Mathematics and Artificial Intelligence (AMAI), 2008-2010.</li>
+<li> Editorial Board of the Electronic Transactions on Artificial Intelligence (ETAI), 1998--present</li>
+</ol>
+<font size="+1"><b>Conference Organization</b></font>
+<ol>
+<li> Co-organizer of a AAAI 2015 session on federal funding (ARO, AFOSR, DARPA, NSF).<br/>
+Co-organizers: Sandip Sen, Sven Koenig, and Blai Bonet.
+
+</li><li> Chair of the track on Best Papers from Sister Conferences of the <a href="http://ijcai13.org">23rd   International Joint Conference on Artificial
+Intelligence</a> (IJCAI 2013).  Beijing, China, 2013.
+
+</li><li> Co-organizer of a AAAI 2013 Panel on NSF Funding Programs.<br/>
+Co-organizer: Sven Koenig.
+</li>
+<li>
+Chair of the Special Track on <a href="http://www.aaai.org/Conferences/AAAI/2011/aaai11nectarcall.php">New
+Scientific and Technical Advances in Research</a> (NECTAR) at the
+Twenty Fourth AAAI Conference on Artificial Intelligence (AAAI
+2011). San Francisco, CA, 2011. <br/> Co-chair: Alan Fern.  
+</li>
+<li>
+Co-location Co-Chair of the <a href="http://ijcai-11.iiia.csic.es/">Twenty Second International Joint
+Conference on Artificial Intelligence</a> (IJCAI 2011). Barcelona,
+Spain, 2011.  <br/> Co-Chair: Pedro Meseguer.
+</li>
+<li>
+Co-Chair of the Special Track on <a href="http://www.aaai.org/Conferences/AAAI/2010/aaai10nectarcall.php">New
+Scientific and Technical Advances in Research</a> (NECTAR) at the
+Twenty Fourth AAAI Conference on Artificial Intelligence (AAAI
+2010).  Atlanta, Georgia, 2010. <br/> Co-chair: Maria Gini.  
+</li>
+<li>
+Co-Chair of the <a href="http://isaim2008.unl.edu">Tenth
+International Symposium on Artificial Intelligence and Mathematics</a>
+(ISAIM 2008). Fort Lauderdale, Florida, 2008. <br/> Co-chair: Bob Givan. 
+</li>
+<li>
+Publicity Co-Chair of the 
+<a href="http://icaps07.icaps-conference.org/">
+International Conference on Automated Planning and Scheduling</a>
+(ICAPS 2007).   Providence, Rhode Island, 2007. <br/> Co-chair: Adi Botea.
+</li>
+<li>
+Co-chair of the <a href="http://www.cmi.univ-mrs.fr/~benhamou/symcon07/">Seventh
+International Workshop on Symmetry and Constraint Satisfaction
+Problems</a> (SymCon 2007) at the 13th International Conference on
+Principles and Practice of Constaint Programming (CP
+2007). Providence, Rhode Island, 2007. <br/> Other two co-chairs:
+Belaid Benhamou and Brahim Hnich.
+</li>
+<li>
+Chair of the Workshop Program of the Eighteenth National Conference on
+Artificial Intelligence (AAAI 2002). Edmonton, Alberta, Canada,
+2002. <br/> Co-chair: Janyce Wiebe.
+</li>
+<li>
+Co-Chair of the <a href="http://sara2000.unl.edu/index.php3">Fourth
+Symposium on Abstraction, Reformulation &amp; Approximation</a> (SARA
+2000). Horseshoe Bay, Texas, 2000 <br/> Co-chair: Toby Walsh.</li>
+<li>
+Co-Chair of the Workshop Program of the Seventeenth National
+Conference on Artificial Intelligence (AAAI 2000). Austin, Texas, 2000. <br/> Chair: Marie
+desJardins. </li>
+</ol>
+<font size="+1"><b>Program Committee Member</b></font>
+<ol>
+<li>
+(Senior Program Committee) International Joint Conference on
+Artificial Intelligence (IJCAI 2016).  New York City, NY, 2016.
+</li>
+<li>
+(Senior Program Committee) International Joint Conference on
+Artificial Intelligence (IJCAI 2015).  Buenos Aires, Argentina, 2015.
+</li>
+<li>Workshop on Intelligent Personalization (IP 2015), help in
+conjunction of the Intertantional Joint Conference on Artificial
+Intelligence (IJCAI 2015).  Buenos Aires, Argentina, 2015.
+</li>
+<li>Workshop on Teaching Constraint Programming, held in conjunction
+of the International Conference on Principles and Practive of
+Constraint Programming (CP 2015).  Cork, Ireland, 2015.</li>
+<li>Track on Constraint Solving and Programming of the 30 Annual ACM
+Symposium on Applied Computing (ACM SAC 2015). Salamanca, Spain,
+2015.</li>
+<li>
+(Senior Program Committee) Twentieth International Conference on
+Principles and Practice of Constraint Programming (CP 2014).  Lyon,
+France, 2014.
+</li>
+<li>
+Twenty-First European Conference on
+Artificial Intelligence (ECAI 2014), Prague, Czech Republic, 2014.
+</li>
+<li>
+Twenty-Eighth AAAI National Conference on Artificial Intelligence
+(AAAI 2014). Quebec City, Canada, 2014.</li>
+<li>
+SIGART/AAAI Doctoral Consortium Program of AAAI 2014.
+</li>
+<li>
+International Symposium on AI and Mathematics (ISAIM 2014).  Fort
+Lauderdale, Florida, 2014.
+</li>
+<li>Track on Constraint Solving and Programming of the 29 Annual ACM
+Symposium on Applied Computing (ACM SAC 2014). Gyeongju, Korea,
+2014.</li>
+<li>
+SIGART/AAAI Doctoral Consortium Program of AAAI 2013.
+</li>
+<li>Track on Constraint Solving and Programming of the 28 Annual ACM
+Symposium on Applied Computing (ACM SAC 2013). Coimbra, Portugal, 2013.</li>
+<li>
+SIGART/AAAI Doctoral Consortium Program of AAAI 2012.
+</li>
+<li>
+International Symposium on AI and Mathematics (ISAIM 2012).  Fort
+Lauderdale, Florida, 2012.
+</li>
+<li>Track on Constraint Solving and Programming of the 27 Annual ACM
+Symposium on Applied Computing (ACM SAC 2012).  Riva del Garda
+(Trento), Italy, 2012.</li>
+<li>
+International Symposium on Abstraction, Reformulation and
+Approximations (SARA 2011).  Parador de Cardona, Spain, 2011.
+</li>
+<li>
+SIGART/AAAI Doctoral Consortium Program of AAAI 2011 (+ panelist and mentor).
+</li>
+<li>Track on Constraint Solving and Programming of the 26 Annual ACM
+Symposium on Applied Computing (ACM SAC 2011).  Taiwan, 2011.</li>
+<li>
+First Workshop on Constraint Reasoning and Graphical Structures (CRAGS
+10) at the 16 International Conference on Principles and Practice of
+Constaint Programming (CP 2010). Scotland, 2010.</li>
+<li>
+SIGART/AAAI Doctoral Consortium Program of AAAI 2010 (and mentor).
+</li>
+<li>
+AAAI Workshop on Abstraction, Reformulation, and Approximation at the
+24th AAAI Conference on Artificial Intelligence (AAAI 2010).  Atlanta,
+Georgia, 2010.
+</li>
+<li>
+Track on Constraint Solving and Programming of the 25th Annual
+ACM Symposium on Applied Computing (ACM SAC 2010).  Sierre,
+Switzerland, 2010.
+</li>
+<li>
+Ninth International Workshop on Symmetry and Constraint Satisfaction
+Problems (SymCon 2009) at the 15th International Conference on
+Principles and Practice of Constaint Programming (CP 2009). Lisbon,
+Portugal, 2009.
+</li>
+<li>
+Track on Constraint Solving and Programming of the 24th Annual ACM
+Symposium on Applied Computing (ACM SAC 2009).  Hawai, 2009.
+</li>
+<li>
+SIGART/IJCAI Doctoral Consortium Program of IJCAI 2009 (and mentor).
+</li>
+<li>
+(Senior Program Committee) Twenty First International Joint Conference
+on Artificial Intelligence (IJCAI 2009).  Pasadena, California, 2009.
+</li>
+<li>
+International Symposium on Abstraction, Reformulation and
+Approximations (SARA 2009). Lake Arrowhead, Ca, 2009.
+</li>
+<li>
+(Senior Program Committee) Twenty Third Conference on
+Artificial Intelligence (AAAI 2008). Chicago, Illinois, 2008.
+</li>
+<li>
+Track on Constraint Solving and Programming of the 23rd Annual ACM
+Symposium on Applied Computing (ACM SAC 2008).  Brazil, 2008.
+</li>
+<li>
+Eighth International Workshop on Symmetry and Constraint Satisfaction
+Problems (SymCon 2008) at the 14th International Conference on
+Principles and Practice of Constaint Programming (CP 2008).  Sydney,
+Australia, 2008.
+</li>
+<li>
+Workshop on Knowledge Capture and Constraint Programming (KCCP
+2007). Whistler, Canada, 2007.
+</li>
+<li>
+The 19th IEEE International Conference on Tools with Artificial
+Intelligence (ICTAI 2007). Patras, Greece, 2007.
+</li>
+<li>
+International Symposium on Abstraction, Reformulation and
+Approximations (SARA 2007). Whistler, Canada, 2007.
+</li>
+<li>
+Track on Constraint Solving and Programming of the 22nd Annual ACM
+Symposium on Applied Computing (ACM SAC 2007).  Seoul, Korea, 2007.
+</li>
+<li>
+Thirteenth International Symposium on Temporal Representation and
+Reasoning (TIME 2006).  Budapest, Hungary, 2006.
+</li>
+<li>
+Track on AI Education, held at FLAIRS 2006.
+</li>
+<li>
+<a href="http://www.cs.fit.edu/~msilaghi/FLAIRS06/">Track on Secure
+Multiparty Computations and Distributed Constraint Reasoning</a>
+held at FLAIRS 2006.
+</li>
+<li>
+Track on Constraint Solving and Programming of the 21st Annual ACM
+Symposium on Applied Computing (ACM SAC 2006).  Dijon, France, 2006.
+</li>
+<li>
+Ninth International Symposium on AI and Mathematics (ISAIM 2006).
+Fort Lauderdale, Florida, 2006.
+</li>
+<li>
+International Symposium on Abstraction, Reformulation and
+Approximations (SARA 2005). Edinburgh, Scotland, UK, 2005.
+</li>
+<li>
+Special track on Secure Multi-Party Computations and Distributed
+Constraint Reasoning of FLAIRS 2005. Clearwater Beach, Florida, 2005.
+</li>
+<li>
+Workshop on CSP Techniques with Immediate Application (CSPIA),
+International Conference on Principles and Practice of Constraint
+Programming (CP 2004). Toronto, Canada, 2004.
+</li>
+<li>
+European Conference on
+Artificial Intelligence (ECAI 2004), Valencia, Spain, 2004.
+</li>
+<li>
+Special track on Secure Multi-Party Computations and Distributed
+Constraint Reasoning\/} of FLAIRS 2004.  Miami Beach, Florida, 2004.
+</li>
+<li>
+Workshop on Applications of
+Constraint Programming (ACP), International Conference on Principles
+and Practice of Constraint Programming (CP 2003). County Cork,
+Ireland, 2003.
+</li>
+<li>
+International Symposium on Abstraction, Reformulation and
+Approximations (SARA 2002).  Kananaskis, Canada, 2002.
+</li>
+<li>
+Seventh
+International Symposium on Artificial Intelligence and Mathematics 
+(AI and Math 2002), Fort Lauderdale, Florida, 2002.</li>
+<li>
+Sixth European Conference on Planning (ECP 2001). Toledo, Spain,
+2001.</li>
+<li>
+Seventeenth National Conference on Artificial Intelligence (AAAI
+2000). Austin, Texas, 2000.</li>
+<li>
+Fifth European Conference on Planning (ECP 1999). Durham, United
+Kingdom, 1999.</li>
+<li>
+Third Symposium on Abstraction, Reformulation &amp; Approximation
+(SARA 1998). Asilomar, CA, 1998.</li>
+</ol>
+<font size="+1"><b>Reviewer</b></font> (when not member of PC)
+<ol>
+<li> (Mentor) Doctoral Program of the Thirteenth International
+Confererence on Principles and Practice of Constraint Programming (CP
+2007).  Providence, RI, 2007.
+</li>
+<li>
+(Mentor) Twelveth AAAI/SIGART Doctoral Consortium
+Program held in conjunction with the Twenty-Second Conference on
+Artificial Intelligence (AAAI 2007).  Vancouver, Canada, 2007.
+</li>
+<li>
+Nineteenth Joint Conference on Artificial
+Intelligence (IJCAI 2005). Edinbourgh, Scotland, 2005.
+</li>
+<li>
+Student Abstracts and Poster Program at the Twenteeth National
+Conference on Artificial Intelligence (AAAI 2005).  Pittsburgh,
+Pensylvania, 2005.
+</li>
+<li>
+AAAI/SIGART Doctoral Consortium Program held in
+conjunction with the Twenteeth National Conference on Artificial
+Intelligence (AAAI 2005).  Pittsburgh, Pensylvania, 2005.
+</li>
+<li>
+Joint Annual Workshop of ERCIM/CoLogNet on Constraint
+Solving and Constraint Logic Programming (CSCLP 2004).  Lausanne,
+Switzerland, 2004.
+</li>
+<li>
+First International Symposium on Applications of Constraint Databases
+(CDB'04), held in conjunction with SIGMOD-PODS 2004. Paris, France,
+2004.
+</li>
+<li>
+Student Abstracts Program at the Nineteenth National
+Conference on Artificial Intelligence (AAAI 2004).  San Jose,
+California, 2004.
+</li>
+<li>
+Eighteenth International Joint Conference on Artificial Intelligence,
+Acapulco, Mexico, 2003.
+</li>
+<li>
+ACM Symposium on Applied Computing (ACM SAC 2003), Special Track on
+Computational Sciences. Melbourne, Florida, 2003.
+</li>
+<li>
+Fifteenth European Conference on Artificial Intelligence (ECAI
+2002). Lyon, France, 2002.
+</li>
+<li>
+<a href="http://www.cs.ucy.ac.cy/cp2001/">Seventh International
+Conference on Principles and Practice of Constraint Programming
+</a>(CP 2001).  Paphos, Cyprus, 2001.</li>
+<li>
+Seventeenth International Joint Conference on Artificial Intelligence
+(IJCAI 2001). Seattle, WA, 2001.</li>
+<li>
+Sixteenth Joint Conference on Artificial Intelligence
+(IJCAI 1999). Stockholm, Sweden, 1999.
+</li>
+<li>
+Thirtheenth European Conference on Artificial Intelligence (ECAI
+1998).  Brighton, UK, 1998</li>
+<li>
+Fifteenth International Joint Conference on Artificial
+Intelligence (IJCAI 1997).  Nagoya, Japan, 1997. <i>Selected as
+outstanding reviewer, less than 10% of the pool of reviewers</i>.</li>
+<li>
+Twelveth <a href="http://www.eccai.org/">European Conference on Artificial
+Intelligence</a> (ECAI 1996). Budapest, Hungary, 1996.</li>
+<li>
+Second International Conference on Principles and Practice of
+Constraint Programming (CP 1996). Cambridge, Massachusetts, 1996.</li>
+</ol>
+<font size="+1"><b>Department Service</b></font>
+<ul>
+<li> 2012--2013: CS Grad Program (Chair), Library Liaison, GTA</li>
+<li> 2011--2012: CS Grad Program (Chair), Library Liaison, GTA (advisory)</li>
+<li> 2010--2011: ProFF (Chair), CS Grad Program, Grad Admissions, Library Liaison, GTA (advisory)</li>
+<li> 2009--2010: ProFF (Chair), Grad Admissions, Library Liaison, GTA (advisory)</li>
+</ul>
+<hr/>
+<br/>Last modified: <script language="javascript">
+document.write("<l>" + Date() + "<\/l><\/P>") 
+
+</script>
+</body>
+</html>

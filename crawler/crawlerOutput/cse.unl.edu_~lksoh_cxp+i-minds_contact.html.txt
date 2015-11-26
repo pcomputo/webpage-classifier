@@ -1,0 +1,402 @@
+<html xmlns="http://www.w3.org/TR/REC-html40" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:st1="urn:schemas-microsoft-com:office:smarttags" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Word.Document" name="ProgId"/>
+<meta content="Microsoft Word 11" name="Generator"/>
+<meta content="Microsoft Word 11" name="Originator"/>
+<link href="contact_files/filelist.xml" rel="File-List"/>
+<link href="contact_files/editdata.mso" rel="Edit-Time-Data"/>
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>CXP+I-MINDS: Contact</title>
+<o:smarttagtype downloadurl="http://www.5iantlavalamp.com/" name="PlaceType" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype downloadurl="http://www.5iamas-microsoft-com:office:smarttags" name="State" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype downloadurl="http://www.5iantlavalamp.com/" name="PlaceName" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype downloadurl="http://www.5iamas-microsoft-com:office:smarttags" name="City" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype downloadurl="http://www.5iantlavalamp.com/" name="country-region" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype downloadurl="http://www.5iantlavalamp.com/" name="place" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype name="PostalCode" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Leen-Kiat Soh</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Leen-Kiat Soh</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>37</o:TotalTime>
+  <o:Created>2006-02-25T00:29:00Z</o:Created>
+  <o:LastSaved>2006-02-25T00:29:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>293</o:Words>
+  <o:Characters>1671</o:Characters>
+  <o:Company>University of Nebraska-Lincoln</o:Company>
+  <o:Lines>13</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>1961</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:DrawingGridHorizontalSpacing>3.9 pt</w:DrawingGridHorizontalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+@font-face
+	{font-family:"Eras Medium ITC";
+	panose-1:2 11 6 2 3 5 4 2 8 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-language:ZH-CN;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+<body lang="EN-US" link="blue" style="tab-interval:.5in" vlink="purple">
+<div class="Section1">
+<p class="MsoNormal"><o:p> </o:p></p>
+<table border="0" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
+<td style="width:90.9pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="121">
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><!--[if gte vml 1]><v:shapetype
+   id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+   path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:80.25pt;
+   height:81.75pt'>
+   <v:imagedata src="contact_files/image001.gif" o:title="IMINDSLogo"/>
+  </v:shape><![endif]--><img height="109" src="contact_files/image002.gif" v:shapes="_x0000_i1025" width="107"/><o:p></o:p></b></p>
+</td>
+<td style="width:387.9pt;padding:0in 5.4pt 0in 5.4pt" width="517">
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-size:36.0pt;font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Tahoma'>CXP-Powered I-MINDS <o:p></o:p></span></b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-size:36.0pt;font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Tahoma;color:#99CC00'>Contact</span></b><b style="mso-bidi-font-weight:normal"><span style='font-size:36.0pt;font-family:"Eras Medium ITC";color:#99CC00'><o:p></o:p></span></b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><o:p> </o:p></b></p>
+</td>
+</tr>
+</table>
+<p class="MsoNormal"><o:p> </o:p></p>
+<div align="center">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="width:485.95pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="648">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;background:red;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds.html"><span style="color:windowtext;
+  text-decoration:none;text-underline:none">HOME</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/current.html"><span style="color:windowtext;text-decoration:none;text-underline:none">CURRENT
+  STATUS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:red;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/capabilities.html"><span style="color:windowtext;text-decoration:none;text-underline:none">CXP+I-MINDS
+  CAPABILITIES</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/team.html"><span style="color:windowtext;text-decoration:none;text-underline:none">TEAM</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:green;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/history.html"><span style="color:white;text-decoration:none;text-underline:none">HISTORY</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/publications.html"><span style="color:white;text-decoration:none;text-underline:none">PUBLICATIONS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:green;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/distribution.html"><span style="color:white;text-decoration:none;text-underline:none">SOFTWARE
+  DISTRIBUTION</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/contact.html"><span style="color:white;text-decoration:none;text-underline:none">CONTACT</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+</table>
+</div>
+<p class="MsoNormal"><o:p> </o:p></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>For overall
+project information, please contact:<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span class="SpellE"><span style='font-family:"Eras Medium ITC"'>Leen-Kiat</span></span><span style='font-family:"Eras Medium ITC"'> <span class="SpellE">Soh</span><o:p></o:p></span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>E-mail</span></b><span style='font-family:
+"Eras Medium ITC"'>:<span style="mso-spacerun:yes">  </span><a href="mailto:lksoh@cse.unl.edu">lksoh@cse.unl.edu</a><o:p></o:p></span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>Tel</span></b><span style='font-family:
+"Eras Medium ITC"'>:<span style="mso-spacerun:yes">  </span>(402) 472-6738<o:p></o:p></span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>Fax</span></b><span style='font-family:
+"Eras Medium ITC"'>:<span style="mso-spacerun:yes">  </span>(402) 472-7767<o:p></o:p></span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>Postal Address</span></b><span style='font-family:"Eras Medium ITC"'>:<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>Department of
+Computer Science<o:p></o:p></span></p>
+<p class="MsoNormal"><st1:place w:st="on"><st1:placetype w:st="on"><span style='font-family:"Eras Medium ITC"'>University</span></st1:placetype><span style='font-family:"Eras Medium ITC"'> of <st1:placename w:st="on">Nebraska</st1:placename></span></st1:place><span style='font-family:"Eras Medium ITC"'><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>256 Avery Hall<o:p></o:p></span></p>
+<p class="MsoNormal"><st1:place w:st="on"><st1:city w:st="on"><span style='font-family:"Eras Medium ITC"'>Lincoln</span></st1:city><span style='font-family:"Eras Medium ITC"'>, <st1:state w:st="on">NE</st1:state> <st1:postalcode w:st="on">68588-0115</st1:postalcode> <st1:country-region w:st="on">USA</st1:country-region></span></st1:place><span style='font-family:"Eras Medium ITC"'><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>For detailed
+CXP+I-MINDS software support and maintenance, please contact:<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>L.D. Miller,
+Adam Eck<o:p></o:p></span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>E-mail</span></b><span style='font-family:
+"Eras Medium ITC"'>:<span style="mso-spacerun:yes">  </span><span class="GramE">{
+<span class="SpellE">lmille</span></span>, <span class="SpellE">aeck</span> <a href="mailto:%7d@cse.unl.edu">}@cse.unl.edu</a><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>For further
+information on Microsoft’s Conference XP Platform, please visit<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1026" type="#_x0000_t75" style='width:162.75pt;height:33.75pt'>
+ <v:imagedata src="contact_files/image003.gif" o:title="cxp_logo"/>
+</v:shape><![endif]--><img border="0" height="45" src="contact_files/image004.gif" v:shapes="_x0000_i1026" width="217"/><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><a href="http://www.conferencexp.net/">Microsoft Research Conference XP</a><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:
+Tahoma'><o:p> </o:p></span></p>
+<div align="center">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="width:485.95pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="648">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;background:red;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds.html"><span style="color:windowtext;
+  text-decoration:none;text-underline:none">HOME</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/current.html"><span style="color:windowtext;text-decoration:none;text-underline:none">CURRENT
+  STATUS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:red;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/capabilities.html"><span style="color:windowtext;text-decoration:none;text-underline:none">CXP+I-MINDS
+  CAPABILITIES</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/team.html"><span style="color:windowtext;text-decoration:none;text-underline:none">TEAM</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:green;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/history.html"><span style="color:white;text-decoration:none;text-underline:none">HISTORY</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/publications.html"><span style="color:white;text-decoration:none;text-underline:none">PUBLICATIONS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:green;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/distribution.html"><span style="color:white;text-decoration:none;text-underline:none">SOFTWARE
+  DISTRIBUTION</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/contact.html"><span style="color:white;text-decoration:none;text-underline:none">CONTACT</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+</table>
+</div>
+<p class="MsoNormal"><o:p> </o:p></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:
+Tahoma'><o:p> </o:p></span></p>
+</div>
+</body>
+</html>

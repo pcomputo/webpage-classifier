@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<meta content="1;url=http://vis.unl.edu/~yu" http-equiv="refresh"/>
+<script type="text/javascript">
+            window.location.href = "http://vis.unl.edu/~yu"
+        </script>
+<title>
+        Hongfeng Yu | University of Nebraska-Lincoln
+        </title>
+</head>
+<body>
+<!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
+        If you are not redirected automatically, follow the <a href="http://vis.unl.edu/~yu">link to my homepage</a>
+</body>
+</html>

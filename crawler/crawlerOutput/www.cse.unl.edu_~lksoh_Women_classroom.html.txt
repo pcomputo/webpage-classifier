@@ -1,0 +1,29 @@
+<html><body><center><img src="notes.gif"/></center><br/>
+<b>
+SOME EXTRACTED POINTS FROM</b><br/><br/>
+<font color="blue">
+Treu, K. and A. Skinner (2002). Ten Suggestions for a Gender-Equitable CS 
+Classroom, inroads SIGCSE Bulletin, 34(2):165-167.  Previously published in The
+Journal of Computing in Small Colleges, 12(2):244-248, 1996.
+</font>
+<hr/><br/>
+
+Ten suggestions for creating an inviting, nurturing environment for women in
+the discipline of computer science:
+
+<ul><li>Address female students by name as often as men are addressed by name</li></ul>
+<ul><li>Establish eye contact equally with men and women</li></ul>
+<ul><li>Avoid gesturing more often when men respond to questions or make
+comments</li></ul>
+<ul><li>Refrain from interrupting female students more often than males</li></ul>
+<ul><li>Allow women as much time to answer questions as the men are allowed</li></ul>
+<ul><li>In those instances when a woman can't answer a question, do not
+regularly go to a man with the assumption of getting the correct answer</li></ul>
+<ul><li>Offer hands-on experience and spend time teaching the basic to reduce
+anxiety throughout</li></ul>
+<ul><li>Explain the relevance of labs, assignments and lecture material to
+other areas or disciplines</li></ul>
+<ul><li>Discuss issues involving the ethics of programming</li></ul>
+<ul><li>Emphasize the positive social benefits of computing</li></ul>
+<br/><br/>
+</body></html>

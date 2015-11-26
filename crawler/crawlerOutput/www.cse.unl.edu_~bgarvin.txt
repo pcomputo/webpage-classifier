@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="en-US" http-equiv="Content-Language"/>
+<title>Brady J. Garvin</title>
+<script type="text/javascript"></script>
+<style media="all" title="currentStyle" type="text/css">
+      @import "css/simplicity-two-oh-two.css";
+    </style>
+</head>
+<body>
+<div id="window">
+<div id="container">
+<div id="navigation">
+<ul>
+<li class="active"><span>Home</span></li>
+<li><a href="teaching.html">Teaching</a></li>
+<li><a href="research.html">Research</a></li>
+<li><a href="resources.html">Resources</a></li></ul></div>
+<div id="main"><div id="outer-prettification"><div id="inner-prettification">
+<div id="header">
+<h1 id="title"><a href="index.html">Brady J. Garvin</a></h1></div>
+<div id="contents">
+<p><img class="right" src="./small_photo.jpg" title="Brady J. Garvin's Photo"/>I am a second-year Ph.D.
+		student in software engineering.  Currently, I'm working with my
+		advisor, <a href="/~myra">Dr. Myra Cohen</a>, and also
+		with <a href="/~dwyer">Dr. Matt Dwyer</a> on techniques for
+		preventing, finding, mitigating, and repairing <em>interaction
+		faults</em> in <em>highly–configurable systems</em>.</p>
+<p>A current version of my CV is
+	      available <a href="./cv.pdf">here</a>.</p>
+<div class="contact">
+		Brady J. Garvin (<a href="mailto:bgarvin@cse.unl.edu">bgarvin@cse.unl.edu</a>)<br/>
+		104D Avery Hall<br/>
+		Department of Computer Science and Engineering<br/>
+		University of Nebraska–Lincoln<br/>
+		Lincoln, NE 68588<br/></div>
+<p>My graduate program is currently supported by CFDA#47.076, the NSF
+	      Graduate Research Fellowship, and was previously supported by the
+		U.S. Department of Education under CFDA#84.200A.</p></div>
+<div id="footer">
+<p><a href="">© 2010 Brady J. Garvin</a></p></div>
+</div></div></div></div></div>
+</body></html>

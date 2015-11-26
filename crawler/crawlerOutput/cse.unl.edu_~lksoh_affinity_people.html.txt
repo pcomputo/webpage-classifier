@@ -1,0 +1,344 @@
+<html xmlns="http://www.w3.org/TR/REC-html40" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Word.Document" name="ProgId"/>
+<meta content="Microsoft Word 11" name="Generator"/>
+<meta content="Microsoft Word 11" name="Originator"/>
+<link href="people_files/filelist.xml" rel="File-List"/>
+<link href="people_files/editdata.mso" rel="Edit-Time-Data"/>
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>The Affinity Learning Project: People</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Leen-Kiat Soh</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Leen-Kiat Soh</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>23</o:TotalTime>
+  <o:Created>2006-04-21T21:44:00Z</o:Created>
+  <o:LastSaved>2006-04-21T21:44:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>201</o:Words>
+  <o:Characters>1149</o:Characters>
+  <o:Company>University of Nebraska-Lincoln</o:Company>
+  <o:Lines>9</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1348</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DrawingGridHorizontalSpacing>3.9 pt</w:DrawingGridHorizontalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+@font-face
+	{font-family:"Copperplate Gothic Light";
+	panose-1:2 14 5 7 2 2 6 2 4 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:"Century Gothic";
+	panose-1:2 11 5 2 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:TimesNewRomanPSMT;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-noshow:yes;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;
+	font-weight:bold;}
+span.MsoCommentReference
+	{mso-style-noshow:yes;
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+<body lang="EN-US" link="blue" style="tab-interval:.5in" vlink="purple">
+<div class="Section1">
+<div style="mso-element:para-border-div;border:none;border-bottom:solid windowtext 1.0pt;
+mso-border-bottom-alt:solid windowtext .75pt;padding:0in 0in 1.0pt 0in">
+<p align="center" class="MsoNormal" style="text-align:center;border:none;
+mso-border-bottom-alt:solid windowtext .75pt;padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-size:18.0pt;font-family:"Copperplate Gothic Light"'><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:106.5pt;
+ height:57.75pt'>
+ <v:imagedata src="people_files/image001.png" o:title=""/>
+</v:shape><![endif]--><img height="77" src="people_files/image002.jpg" v:shapes="_x0000_i1025" width="142"/><span style="mso-spacerun:yes">  </span><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="border:none;mso-border-bottom-alt:solid windowtext .75pt;
+padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-size:18.0pt;
+font-family:"Copperplate Gothic Light"'><o:p> </o:p></span></b></p>
+<p class="MsoNormal" style="border:none;mso-border-bottom-alt:solid windowtext .75pt;
+padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-size:18.0pt;
+font-family:"Copperplate Gothic Light"'>People<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="border:none;mso-border-bottom-alt:solid windowtext .75pt;
+padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-size:18.0pt;
+font-family:"Copperplate Gothic Light"'><o:p> </o:p></span></b></p>
+</div>
+<p class="MsoNormal"><b><span style='font-family:"Century Gothic"'><o:p> </o:p></span></b></p>
+<table border="0" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:1.45in;padding:0in 5.4pt 0in 5.4pt" width="139">
+<p class="MsoNormal"><span style='font-family:"Century Gothic";mso-bidi-font-family:
+  TimesNewRomanPSMT;mso-bidi-language:#004D'><!--[if gte vml 1]><v:shape id="_x0000_i1026"
+   type="#_x0000_t75" style='width:74.25pt;height:88.5pt'>
+   <v:imagedata src="people_files/image003.jpg" o:title="image002"/>
+  </v:shape><![endif]--><img height="118" src="people_files/image004.jpg" v:shapes="_x0000_i1026" width="99"/></span><b><span style='font-family:"Century Gothic"'><o:p></o:p></span></b></p>
+</td>
+<td style="width:5.2in;padding:0in 5.4pt 0in 5.4pt" valign="top" width="499">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+  mso-bidi-language:#004D'>Leen-Kiat Soh</span></b><span style='font-family:
+  "Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;mso-bidi-language:
+  #004D'>, PI of the project.<span style="mso-spacerun:yes"> 
+  </span>Originally, the PI was <b>Art Zygielbaum</b>.<span style="mso-spacerun:yes">  </span>Art retired and Soh assumes the PI
+  role.<span style="mso-spacerun:yes">  </span>Soh’s research interests are in
+  multiagent systems, intelligent agents, machine learning, with applications
+  to computer-aided education, information analysis, and image processing.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+  color:blue;mso-bidi-language:#004D'><a href="http://cse.unl.edu/~lksoh"><span style="text-decoration:none;text-underline:none">&gt;</span><span style="font-weight:normal;text-decoration:none;text-underline:none"> Homepage</span></a></span></b><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+  color:blue;mso-bidi-language:#004D'> </span><span style='font-family:"Century Gothic";
+  mso-bidi-font-family:TimesNewRomanPSMT;mso-bidi-language:#004D'><o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+  mso-bidi-language:#004D'><o:p> </o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:1.45in;padding:0in 5.4pt 0in 5.4pt" width="139">
+<p class="MsoNormal"><b><span style='font-family:"Century Gothic"'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1027" type="#_x0000_t75" style='width:64.5pt;height:86.25pt'>
+   <v:imagedata src="people_files/image005.jpg" o:title="dfowler"/>
+  </v:shape><![endif]--><img border="0" height="115" src="people_files/image006.jpg" v:shapes="_x0000_i1027" width="86"/><o:p></o:p></span></b></p>
+</td>
+<td style="width:5.2in;padding:0in 5.4pt 0in 5.4pt" valign="top" width="499">
+<p class="MsoNormal"><b><span style='font-family:"Century Gothic"'>David Fowler</span></b><span style='font-family:"Century Gothic"'>, closer collaborator of the
+  project.<span style="mso-spacerun:yes">  </span>Fowler is an expert in math
+  education and pedagogy.<span style="mso-spacerun:yes">  </span>He will work
+  with Soh to integrate formal concept maps and analysis with affinity
+  learning.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+  color:blue;mso-bidi-language:#004D'><a href="http://cehs07.unl.edu/fsinfo/cehs_pull.php?UserName=dfowler&amp;">&gt;<span style="font-weight:normal"> Homepage <o:p></o:p></span></a></span></b></p>
+<p class="MsoNormal"><b><span style='font-family:"Century Gothic"'><o:p> </o:p></span></b></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2">
+<td style="width:1.45in;padding:0in 5.4pt 0in 5.4pt" width="139">
+<p align="right" class="MsoNormal" style="text-align:right"><b><span style='font-family:"Century Gothic"'><o:p> </o:p></span></b></p>
+</td>
+<td style="width:5.2in;padding:0in 5.4pt 0in 5.4pt" valign="top" width="499">
+<p class="MsoNormal"><b><span style='font-family:"Century Gothic"'>Roger Feese</span></b><span style='font-family:"Century Gothic"'>, software developer of the
+  project.<span style="mso-spacerun:yes">  </span>Roger is also a system
+  administration staff member at the department of computer science and
+  engineering.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Century Gothic"'><o:p> </o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:3">
+<td style="width:1.45in;padding:0in 5.4pt 0in 5.4pt" width="139">
+<p align="right" class="MsoNormal" style="text-align:right"><b><span style='font-family:"Century Gothic"'><o:p> </o:p></span></b></p>
+</td>
+<td style="width:5.2in;padding:0in 5.4pt 0in 5.4pt" valign="top" width="499">
+<p class="MsoNormal"><b><span style='font-family:"Century Gothic"'>Liz Crabtree</span></b><span style='font-family:"Century Gothic"'>, to be included here.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Century Gothic"'><o:p> </o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes">
+<td style="width:1.45in;padding:0in 5.4pt 0in 5.4pt" width="139">
+<p align="right" class="MsoNormal" style="text-align:right"><b><span style='font-family:"Century Gothic"'><o:p> </o:p></span></b></p>
+</td>
+<td style="width:5.2in;padding:0in 5.4pt 0in 5.4pt" valign="top" width="499">
+<p class="MsoNormal"><b><span style='font-family:"Century Gothic"'>Nikki Kleeb</span></b><span style='font-family:"Century Gothic"'>, to be included here.<o:p></o:p></span></p>
+<p class="MsoNormal"><b><span style='font-family:"Century Gothic"'><o:p> </o:p></span></b></p>
+</td>
+</tr>
+</table>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></p>
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="width:477.9pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="637">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
+<td style="width:79.65pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="106">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/index.html"><span style="color:windowtext;
+  text-decoration:none;text-underline:none">Home</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:79.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="106">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/history.html"><span style="color:windowtext;text-decoration:none;text-underline:none">History</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:79.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="106">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/project.html"><span style="color:windowtext;text-decoration:none;text-underline:none">NSF Project</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:79.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="106">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/people.html"><span style="color:
+  windowtext;text-decoration:none;text-underline:none">People</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:79.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="106">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/contact.html"><span style="color:windowtext;text-decoration:none;text-underline:none">Contact
+  Info</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:79.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="106">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/related.html"><span style="color:windowtext;text-decoration:none;text-underline:none">Related
+  Sites</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+</table>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Century Gothic";mso-bidi-font-weight:
+bold'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Century Gothic";mso-bidi-font-weight:
+bold'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Century Gothic"'><o:p> </o:p></span></p>
+</div>
+</body>
+</html>

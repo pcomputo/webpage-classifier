@@ -1,0 +1,164 @@
+<html>
+<head>
+<title>CSE 235 -- Spring 2006</title>
+<link href="http://cse.unl.edu/~cbourke/main.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<h1>CSE 235 - Discrete Mathematics</h1>
+<h1>Spring 2006</h1>
+<h2>Announcements</h2>
+<ul>
+<li>Classes begin Monday, January 9th</li>
+</ul>
+<h2>Anonymous Suggestion Box</h2>
+<ul>
+<li>Feature disabled. </li>
+<!--	  <li><a href="email/email.html">Click here</a></li>  -->
+</ul>
+<h2>General Info</h2>
+<br/>
+<span style="margin-left: 3em">Time &amp; Place</span><br/>
+<div style="margin-left: 3.5em">
+		MWF<br/>
+		12:30 - 1:20<br/>
+		Avery Hall 109<br/><br/>
+		
+		Recitation<br/>
+		Mondays<br/>
+		4:30 - 5:20<br/>
+		Avery Hall 118<br/>
+</div><br/>
+<span style="margin-left: 3em">Instructor &amp; Office Hours</span><br/>
+<div style="margin-left: 3.5em">
+		Dr. Berthe Choueiry<br/>
+<a href="mailto:choueiry@cse.unl.edu">choueiry@cse.unl.edu</a><br/>
+                Office: Avery 123B<br/>
+		Hours: MW 3:30 - 4:30<br/>
+		Also by appointment<br/><br/>
+</div>
+<span style="margin-left: 3em">TA &amp; Office Hours</span><br/>
+<div style="margin-left: 3.5em">
+		Chris Bourke<br/>
+<a href="mailto:cbourke@cse.unl.edu">cbourke@cse.unl.edu</a><br/>
+                Office: Avery 123C<br/>
+		Hours: W/Th 2:30 - 3:30PM<br/>
+		Also by appointment<br/><br/>
+</div>
+<h2>Schedule</h2>
+<ul>
+<li>Schedule (<a href="schedule.html">.html</a>)</li>
+</ul>
+<h2>Handouts &amp; Files</h2>
+<ul>
+<li>Grades (<a href="files/grades.pdf">.pdf</a>) 
+        <span style="font-size: 9pt">updated 4/28 16:30</span></li>
+<li>Syllabus (<a href="files/syllabus.pdf">.pdf</a>)</li>
+</ul>
+<h3>Slides</h3>
+<div style="margin-left:4em">
+      All slides are PDF documents with Presentation, Handouts-with-notes, 
+      and Handouts-without-notes versions.</div>
+<ul>
+<li>Introduction (<a href="files/Introduction.pdf">.pdf</a>, 
+    <a href="files/Introduction-Handout.pdf">.pdf</a>, <a href="files/Introduction-HandoutNoNotes.pdf">.pdf</a>)</li>
+<li><img src="updated.gif"/>Logic (<a href="files/Logic.pdf">.pdf</a>, <a href="files/Logic-Handout.pdf">.pdf</a>, <a href="files/Logic-HandoutNoNotes.pdf">.pdf</a>)</li>
+<li>Logical Equivalences Cheat Sheet (<a href="files/LogicalEquivalences.pdf">.pdf</a>)</li>
+<li>Predicates &amp; Quantifiers (<a href="files/PredicatesQuantifiers.pdf">.pdf</a>, <a href="files/PredicatesQuantifiers-Handout.pdf">.pdf</a>, <a href="files/PredicatesQuantifiers-HandoutNoNotes.pdf">.pdf</a>).</li>
+<li>Proofs (<a href="files/Proofs.pdf">.pdf</a>, <a href="files/Proofs-Handout.pdf">.pdf</a>, <a href="files/Proofs-HandoutNoNotes.pdf">.pdf</a>).</li>
+<li>Sets (<a href="files/Sets.pdf">.pdf</a>, <a href="files/Sets-Handout.pdf">.pdf</a>, <a href="files/Sets-HandoutNoNotes.pdf">.pdf</a>).</li>
+<li>Functions (<a href="files/Functions.pdf">.pdf</a>, <a href="files/Functions-Handout.pdf">.pdf</a>, <a href="files/Functions-HandoutNoNotes.pdf">.pdf</a>).</li>
+<li>Relations (<a href="files/Relations.pdf">.pdf</a>, <a href="files/Relations-Handout.pdf">.pdf</a>, <a href="files/Relations-HandoutNoNotes.pdf">.pdf</a>).</li>
+<li>Partial Orders (<a href="files/PartialOrders.pdf">.pdf</a>, <a href="files/PartialOrders-Handout.pdf">.pdf</a>, <a href="files/PartialOrders-HandoutNoNotes.pdf">.pdf</a>).</li>
+<li>Algorithms (<a href="files/Algorithms.pdf">.pdf</a>, <a href="files/Algorithms-Handout.pdf">.pdf</a>, <a href="files/Algorithms-HandoutNoNotes.pdf">.pdf</a>).</li>
+<li>Algorithm Analysis (<a href="files/AlgorithmAnalysis.pdf">.pdf</a>, <a href="files/AlgorithmAnalysis-Handout.pdf">.pdf</a>, <a href="files/AlgorithmAnalysis-HandoutNoNotes.pdf">.pdf</a>).</li>
+<li>Asymptotics (<a href="files/Asymptotics.pdf">.pdf</a>, <a href="files/Asymptotics-Handout.pdf">.pdf</a>, <a href="files/Asymptotics-HandoutNoNotes.pdf">.pdf</a>).</li>
+<li>Number Theory (<a href="files/NumberTheory.pdf">.pdf</a>, <a href="files/NumberTheory-Handout.pdf">.pdf</a>, <a href="files/NumberTheory-HandoutNoNotes.pdf">.pdf</a>).</li>
+<li>Number Theory Applications (<a href="files/NumberTheoryApplications.pdf">.pdf</a>, <a href="files/NumberTheoryApplications-Handout.pdf">.pdf</a>, <a href="files/NumberTheoryApplications-HandoutNoNotes.pdf">.pdf</a>).</li>
+<li>Sequences and Sums (<a href="files/SequencesSums.pdf">.pdf</a>, <a href="files/SequencesSums-Handout.pdf">.pdf</a>, <a href="files/SequencesSums-HandoutNoNotes.pdf">.pdf</a>).</li>
+<li>Induction (<a href="files/Induction.pdf">.pdf</a>, <a href="files/Induction-Handout.pdf">.pdf</a>, <a href="files/Induction-HandoutNoNotes.pdf">.pdf</a>).</li>
+<li>Recursion (<a href="files/Recursion.pdf">.pdf</a>, <a href="files/Recursion-Handout.pdf">.pdf</a>, <a href="files/Recursion-HandoutNoNotes.pdf">.pdf</a>).</li>
+<li>Master Theorem (<a href="files/MasterTheorem.pdf">.pdf</a>, <a href="files/MasterTheorem-Handout.pdf">.pdf</a>, <a href="files/MasterTheorem-HandoutNoNotes.pdf">.pdf</a>).</li>
+<li>Combinatorics (<a href="files/Combinatorics.pdf">.pdf</a>, <a href="files/Combinatorics-Handout.pdf">.pdf</a>, <a href="files/Combinatorics-HandoutNoNotes.pdf">.pdf</a>).</li>
+<li>Graphs (<a href="files/Graphs.pdf">.pdf</a>, <a href="files/Graphs-Handout.pdf">.pdf</a>, <a href="files/Graphs-HandoutNoNotes.pdf">.pdf</a>).</li>
+<!--
+
+    <li>Quick Sort (<a href = "files/QuickSort-Handout.pdf">.pdf</a>)</li>
+
+    <li>Combinatorics/No Notes (<a href = "files/Combinatorics-Handout.pdf">.pdf</a>, <a href = "files/Combinatorics-HandoutNoNotes.pdf">.pdf</a>)</li>
+
+    <li>Graphs/No Notes (<a href = "files/Graphs-Handout.pdf">.pdf</a>, <a href="files/Graphs-HandoutNoNotes.pdf">.pdf</a>)</li>
+
+    <li>Trees/No Notes (<a href = "files/Trees-Handout.pdf">.pdf</a>, <a href="files/Trees-HandoutNoNotes.pdf">.pdf</a>)</li>
+
+    <li>Computational Models/No Notes (<a href = "files/ComputationalModels-Handout.pdf">.pdf</a>, <a href = "files/ComputationalModels-HandoutNoNotes.pdf">.pdf</a>)</li>
+-->
+</ul>
+<h3>Homework</h3>
+<ul>
+<li>Homework 01 (<a href="files/hw01.pdf">.pdf</a>)</li>
+<li>Homework 02 (<a href="files/hw02.pdf">.pdf</a>) <br/> 
+	        Files: (<a href="files/set/set.cpp">set.cpp</a>, 
+                <a href="files/set/set.h">set.h</a>, 
+                <a href="files/set/makefile">makefile</a>) <br/>
+</li>
+<li>Homework 03 (<a href="files/hw03.pdf">.pdf</a>) <br/> 
+        Files: (<a href="files/relation/relation.cpp">relation.cpp</a>, 
+                <a href="files/relation/relation.h">relation.h</a>)</li>
+<li>Homework 04 (<a href="files/hw04.pdf">.pdf</a>) <br/> 
+        Files: (<a href="files/IntMatrix.h">IntMatrix.h</a>) 
+                <img src="updated.gif"/><span style="font-size: 9pt">3/23</span></li>
+<li>Homework 05 (<a href="files/hw05.pdf">.pdf</a>)</li>
+<li>Homework 06 (<a href="files/hw06.pdf">.pdf</a>)</li>
+</ul>
+<!--
+    <li>Homework 04 (<a href="files/hw04.pdf">.pdf</a>) <br/> 
+        Files: (<a href="files/RSA/cipher01.txt">cipher01.txt</a>) <br/>
+	Resources: 
+         <ul>
+          <li><a href="http://www.swox.com/gmp/">gmp</a> (GNU 
+              multi-precision library)</li>
+          <li>Java's <a href="http://java.sun.com/j2se/1.5.0/docs/api/java/math/BigInteger.html">BigInteger</a>
+              Documentation</li>
+         </ul></li>
+    <li>Homework 05 (<a href="files/hw05.pdf">.pdf</a>) </li> 
+    <li>Homework 06 (<a href="files/hw06.pdf">.pdf</a>) <br/>
+        Graph01: (<a href="files/GI/Graph01.data">.data</a>, <a href="files/GI/Graph01.data.pdf">.pdf</a>) <br/>
+        Graph02: (<a href="files/GI/Graph02.data">.data</a>, <a href="files/GI/Graph02.data.pdf">.pdf</a>) <br/>
+	The Bijection: (<a href="files/GI/Iso.out">.out</a>)
+	</li> 
+-->
+<h2>Useful Links</h2>
+<ul>
+<li>CSE 235 <a href="http://www.cse.unl.edu/~cse235/handin">webhandin</a>
+</li><li>Dr. Scott's <a href="http://csce.unl.edu/~sscott/presentation-tips/">
+	Tips On Technical Writing</a></li>
+<li>UNL Computer Science and Engineering <a href="http://www.cse.unl.edu/undergrads/academic_integrity.php">Academic Integrity Policy</a></li>
+<li>C++<ul>
+<li><a href="http://www.blueturnip.com/projects/edu/cs/cpp/C++tutorial.html">Java to C++ Transition Tutorial</a></li>
+<li><a href="http://www.eecg.toronto.edu/ece106/C++tutorial.html">Another Java to C++ Tutorial</a></li>
+<li><a href="http://www.cs.nott.ac.uk/~jog/CFJ/slides/lecture5.pdf">C++ For Java Programmers</a> (PDF, Lecture series)</li>
+<li><a href="http://www.cplusplus.com/doc/tutorial/">C++ Tutorial</a></li>
+<li>Makefile Tutorials: <a href="http://vertigo.hsrl.rutgers.edu/ug/make_help.html">one</a>, 
+	  <a href="http://www.opussoftware.com/tutorial/TutMakefile.htm">Another</a></li>
+<li>Using Command Line Arguments <a href="http://www.juicystudio.com/tutorial/cpp/command.asp">example</a></li>
+<li>Cornell's <a href="http://www.library.cornell.edu/nr/bookcpdf.html">Numerical Recipes in C</a></li>
+</ul></li>
+<li>Code Documentation<ul>
+<li><a href="http://www.possibility.com/Cpp/CppCodingStandard.html">C++ Coding Standard</a></li>
+<li><a href="http://java.sun.com/j2se/javadoc/">JavaDoc</a> -- The original documentation tool for Java</li>
+<li><a href="http://www.cppdoc.com/">CppDoc</a> Platform independent C++ documentation tool that produces HTML</li>
+<li><a href="http://www.joelinoff.com/ccdoc/index.html">CC Doc</a> Another C++ Documentation tool</li>
+<li><a href="http://www.phpdoc.de/">PHP Doc</a> Documentation tool for PHP code.</li>
+</ul></li>
+<li>LaTeX<ul>
+<li>Example Homework LaTeX document (<a href="files/hw_example.tex">.tex</a>, 
+        <a href="files/hw_example.pdf">.pdf</a>)</li>
+<li><a href="http://www.tug.org">TeX Users Group</a></li>
+<li><a href="http://www.tug.org/begin">Getting Started With LaTeX</a></li>
+<li><a href="http://www.ctan.org/tex-archive/info/lshort/english/lshort.pdf">The Not-So-Short Introduction to LaTeX 2e</a> (PDF)</li>
+<li>LaTeX Quick Reference Card (<a href="http://www.cse.unl.edu/~cbourke/latex/TeXRefCard.pdf">.pdf</a>)
+	  </li><li><a href="http://www.winedt.com">WinEDT</a> -- A Windows LaTeX Frontend</li>
+</ul></li>
+<div style="margin-bottom: 5em"></div>
+</ul></body>
+</html>

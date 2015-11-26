@@ -1,0 +1,369 @@
+<html xmlns="http://www.w3.org/TR/REC-html40" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Word.Document" name="ProgId"/>
+<meta content="Microsoft Word 11" name="Generator"/>
+<meta content="Microsoft Word 11" name="Originator"/>
+<link href="history_files/filelist.xml" rel="File-List"/>
+<link href="history_files/editdata.mso" rel="Edit-Time-Data"/>
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>The Affinity Learning Project: History</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Leen-Kiat Soh</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Leen-Kiat Soh</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>8</o:TotalTime>
+  <o:Created>2006-04-21T21:43:00Z</o:Created>
+  <o:LastSaved>2006-04-21T21:43:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>784</o:Words>
+  <o:Characters>4474</o:Characters>
+  <o:Company>University of Nebraska-Lincoln</o:Company>
+  <o:Lines>37</o:Lines>
+  <o:Paragraphs>10</o:Paragraphs>
+  <o:CharactersWithSpaces>5248</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DrawingGridHorizontalSpacing>3.9 pt</w:DrawingGridHorizontalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+@font-face
+	{font-family:"Copperplate Gothic Light";
+	panose-1:2 14 5 7 2 2 6 2 4 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:"Century Gothic";
+	panose-1:2 11 5 2 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:TimesNewRomanPSMT;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:TimesNewRomanPS-BoldMT;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-noshow:yes;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;
+	font-weight:bold;}
+span.MsoCommentReference
+	{mso-style-noshow:yes;
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+<body lang="EN-US" link="blue" style="tab-interval:.5in" vlink="purple">
+<div class="Section1">
+<div style="mso-element:para-border-div;border:none;border-bottom:solid windowtext 1.0pt;
+mso-border-bottom-alt:solid windowtext .75pt;padding:0in 0in 1.0pt 0in">
+<p align="center" class="MsoNormal" style="text-align:center;border:none;
+mso-border-bottom-alt:solid windowtext .75pt;padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-size:18.0pt;font-family:"Copperplate Gothic Light"'><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:106.5pt;
+ height:57.75pt'>
+ <v:imagedata src="history_files/image001.png" o:title=""/>
+</v:shape><![endif]--><img height="77" src="history_files/image002.jpg" v:shapes="_x0000_i1025" width="142"/><o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;border:none;
+mso-border-bottom-alt:solid windowtext .75pt;padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-size:18.0pt;font-family:"Copperplate Gothic Light"'><o:p> </o:p></span></b></p>
+<p class="MsoNormal" style="border:none;mso-border-bottom-alt:solid windowtext .75pt;
+padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-size:18.0pt;
+font-family:"Copperplate Gothic Light"'>Background &amp; History<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="border:none;mso-border-bottom-alt:solid windowtext .75pt;
+padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-size:18.0pt;
+font-family:"Copperplate Gothic Light"'><o:p> </o:p></span></b></p>
+</div>
+<p class="MsoNormal"><b><span style='font-family:"Century Gothic"'><o:p> </o:p></span></b></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'>The Affinity Learning System is similar to, but
+distinguishable from, other electronic tutor development efforts. Many
+educational simulation, electronic tutor or virtual classroom programs, such as
+the IMMEX system (www.immex.ucla.edu) developed at UCLA, provide opportunities
+for students to participate in active learning. Affinity can accommodate these
+types of presentations and assessments. In addition, Affinity adds customized
+support to help students overcome misconceptions, missing knowledge, or missing
+skills. Like IMMEX, Affinity provides data allowing instructors to understand
+how students used the system and how well they learned. Affinity-based lessons
+in mathematics, geosciences, and medical education have shown positive learning
+achievement (Zygielbaum and Feese, in press). The system can also distinguish
+student learning strategies – such as those used by male and female students
+(Zygielbaum and Grandgenett, 2001).<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPS-BoldMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></b></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'>Affinity is based on predicting the likely misconceptions
+of students. Misconceptions are detected through embedded assessments and
+resolved through remediation or augmentation learning nodes. Lessons are
+prepared by breaking down the topic to be taught into small learning
+experiences or “learning nodes.” Lessons appear as a hierarchical network of
+interconnected nodes. Each node consists of a web-based presentation of
+material and an assessment of student understanding of the material. As a
+student completes one learning node, he or she is directed to a subsequent node
+based on the outcome of the assessment. The student is either directed to
+continue in the learning progression or diverted to an augmentation node. If
+the outcome is unanticipated or not covered by a succeeding node, the system
+notifies the faculty member and the student. The faculty member then enhances
+the lesson by adding new node(s) and interconnections to better serve the
+student (Bruning, Zygielbaum and Grandgenett, 2001).<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'>Students’ progress through the network of learning
+nodes is monitored by the web-serving computer. Each node outcome is assigned a
+weight by the author that indicates the educational value of that response. A
+large weight denotes an element critical to understanding the overall topic. A
+small weight indicates ancillary information. If the instructor wishes to track
+learning efficiency (progress versus time), he or she may assign negative
+weights to particular outcomes. Data collected include the order of node
+visitation, the related sequence of outcome weights, time spent on each node,
+and the results of assessments. These data are presented graphically to the
+instructor.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'>Understanding misconceptions is the basis of Affinity
+and relates to the work of James Minstrell work at FACET Innovations
+(www.facetinnovations.com). Under NSF and other funding, Minstrell has
+developed methods of identifying and collecting misconceptions and create the
+DIAGNOSER software system.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style="font-family:TimesNewRomanPSMT;mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D"><o:p> </o:p></span></p>
+<div style="mso-element:para-border-div;border:none;border-bottom:solid windowtext 1.5pt;
+padding:0in 0in 1.0pt 0in">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none;
+border:none;mso-border-bottom-alt:solid windowtext 1.5pt;padding:0in;
+mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-family:"Century Gothic";
+mso-bidi-font-family:TimesNewRomanPS-BoldMT;mso-bidi-language:#004D'>Why Pursue
+Research on Affinity<o:p></o:p></span></b></p>
+</div>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'>Affinity Learning has provided insight into student
+behavior and learning strategy. It offers the potential aid in educational
+research and to develop more effective online teaching. For example, in the
+past, the PI and his colleagues have implemented response to each learning node
+assessment individually. In the future, building upon techniques developed to
+identify matching<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'>DNA sequences, sequences of learning nodes will be
+compared to develop templates indicating student mastery and correct
+identification of misconception. Applied to large sets of students, such
+techniques could provide guidance in how to present lessons and what knowledge
+or skills are required as prerequisites. Based on such sequence information,
+the Affinity Learning nodes could be reconfigured dynamically in response to
+observed student behavior by techniques such as the use of intelligent software
+agents.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'>Most assessment in education, whether formative or
+summative, is done at the level of the answers to problems. The Affinity
+Learning System offers the potential to assess student actions while they are
+in the process of solving problems (what NCITE has entitled “microassessment”).<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'>The ability to identify and correct misconceptions at
+this level will provide targeted, immediate help to students. Micro-assessment
+will prove useful in many fields. For example, in mathematics, most instructors
+are less interested in the answer to a problem then they are in the way the
+student got to the answer. In computer science, the concept of recursion is
+very difficult for students. The essence of the difficulty appears as students
+attempt to create recursive solutions to programming problems. Affinity
+software will identify and help correct student misconceptions as they attempt
+to employ recursion in solving problems.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></p>
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="width:477.9pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="637">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
+<td style="width:79.65pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="106">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/index.html"><span style="color:windowtext;
+  text-decoration:none;text-underline:none">Home</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:79.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="106">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/history.html"><span style="color:windowtext;text-decoration:none;text-underline:none">History</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:79.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="106">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/project.html"><span style="color:windowtext;text-decoration:none;text-underline:none">NSF Project</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:79.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="106">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/people.html"><span style="color:
+  windowtext;text-decoration:none;text-underline:none">People</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:79.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="106">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/contact.html"><span style="color:windowtext;text-decoration:none;text-underline:none">Contact
+  Info</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:79.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="106">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/related.html"><span style="color:windowtext;text-decoration:none;text-underline:none">Related
+  Sites</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+</table>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Century Gothic"'><o:p> </o:p></span></p>
+</div>
+</body>
+</html>

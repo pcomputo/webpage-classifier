@@ -1,0 +1,132 @@
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Myra Cohen" name="Author"/>
+<title>Myra B. Cohen Home Page</title>
+<style>
+
+<!--
+
+
+
+h5 {Color:"#CC0066"}
+
+A:link {Color: "##6600FF"}
+
+hr{ Color: "##CC0066"}
+
+-->
+
+</style>
+</head>
+<body align="center">
+<hr color="red"/>
+<table border="0" spacing="2">
+<tr>
+<td><font color="blue"><a href="index.html"> Home </a></font> </td>
+<td> | </td>
+<td><font color="blue"><a href="about.html"> About Me </a></font> </td>
+<td> | </td>
+<td><font color="blue"><a href="research.html"> Research</a></font> </td>
+<td> | </td>
+<td><font color="blue"><a href="teaching.html"> Teaching</a></font> </td>
+<td> | </td>
+<td><font color="blue"><a href="students.html"> Students</a></font> </td>
+<td> | </td>
+<td><font color="blue"><a href="activities.html"> Activities</a></font> </td>
+<td> | </td>
+<td><font color="blue"><a href="http://e2.unl.edu"> ESQuaReD</a></font> </td>
+</tr>
+</table>
+<hr color="red"/>
+<table align="center" width="100%">
+<tr>
+<td width="5%">
+</td>
+<td align="left">
+<h1>
+<font color="darkblue">
+
+Myra B. Cohen
+</font>
+</h1>
+</td>
+</tr>
+<tr>
+<td width="5%">
+</td>
+<td align="left">
+<h3>
+Susan J. Rosowski  Associate Professor<br/>
+Department of Computer Science and Engineering<br/>
+University of Nebraska - Lincoln <br/>
+Lincoln, NE 68588-0115, USA <br/>
+</h3>
+</td>
+<td align="left">
+<img height="230" src="image/myra.jpg" width="200"/>
+</td>
+</tr>
+<tr>
+<td width="5%">
+</td>
+<td align="left">
+<h3>
+Office: 364 Avery Hall <br/>
+Phone: 402-472-2305 <br/>
+Fax: 402-472-7767 <br/>
+E-mail:  <font color="blue">  myra [AT] cse.unl.edu </font><br/>
+</h3>
+</td>
+</tr>
+<tr>
+</tr>
+</table>
+<h3>
+<font color="blue">  ASE 2015 in Lincoln, NE. <br/>
+    Plan on 
+  attending! </font></h3>
+<table>
+<tr>
+<td>
+<a href="http://ase2015.unl.edu"><img alt="ASE 2015: November 9â13, 2015,
+					   Lincoln, Nebraska." src="http://ase2015.unl.edu/assets/promote.jpg" style="width: 600px; max-width: 90%;" title="ASE 2015"/></a>
+</td>
+<!--
+<td>
+&nbsp;
+</td>
+<td>
+<a href="http://ase2013.org/"> International Conference on Automated
+    Software Engineering  </a> <br> Palo Alto, CA, November 11-15th, 2013
+<br>Abstracts Due May 10th
+</td>
+</tr>
+<tr>
+<td>
+<h3> <font color=blue> Upcoming Conferences:</font> </h3>
+</td>
+<td>
+&nbsp;
+</td>
+<td>
+&nbsp;
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="http://issta2013.inf.usi.ch/"> International 
+     Symposium on Software Testing and Analysis</a>
+  <br /> Lugano Switzerland, July 15-20th,  2013</div>
+</td>
+<td> <td> 
+</td>
+</td>
+-->
+<td>  
+</td>
+</tr>
+</table>
+</body>
+</html>

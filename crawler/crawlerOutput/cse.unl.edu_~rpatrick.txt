@@ -1,0 +1,19 @@
+<html>
+<head><title>Ryan Patrick - University of Nebraska - Lincoln</title></head>
+<body alink="#f5f3eb" link="#000000" vlink="#c60202">
+<img src="images/headshot.jpg"/>
+<a href="index.html" style="text-decoration: none"><font size="15"><b>About Me</b></font></a>
+       &amp;nbsp
+    <a href="teaching/index.html" style="text-decoration: none"><font size="15"><b>Teaching</b></font></a>
+       &amp;nbsp
+    <a href="code/index.html" style="text-decoration: none"><font size="15"><b>Code</b></font></a>
+<br/>
+<hr/>
+    I am currently a Lecturer in the Department of Computer Science and Engineering at the <a href="http://cse.unl.edu" style="text-decoration: none"><b>University of Nebraska - Lincoln</b></a>.<br/><br/>
+    Previously, I was at the <a href="http://www.cs.ucf.edu" style="text-decoration: none"><b>University of Central Florida</b></a>. I worked in the <a href="http://sreal.ucf.edu" style="text-decoration: none"><b>Synthetic Reality Lab</b></a>, under <a href="http://www.ist.ucf.edu/people/gwelch" style="text-decoration: none"><b>Dr. Gregory Welch</b></a>.<br/><br/>
+    I earned my Master's degree in Computer Science from <a href="http://www.cs.wright.edu/cse" style="text-decoration: none"><b>Wright State University</b></a> in Fairborn, Ohio in June 2010. While at Wright State, I was a member of the <a href="http://www.cs.wright.edu/atrc" style="text-decoration: none"><b>Assistive Technologies Research Center</b></a> and was an advisee of <a href="http://www.cs.wright.edu/atrc/director.html" style="text-decoration: none"><b>Dr. Nikolaos Bourbakis</b></a>.<br/><br/>
+    I earned my Bachelor's degree in Computer Science from <a href="http://cs.tcnj.edu" style="text-decoration: none"><b>The College of New Jersey</b></a> in Ewing, New Jersey, in May 2008. At TCNJ, I conducted research under the direction of <a href="http://www.tcnj.edu/~salgian" style="text-decoration: none"><b>Dr. Andrea Salgian</b></a> and was a mentor to the <a href="http://goteam2016.com" style="text-decoration: none"><b>FIRST Robotics Team 2016</b></a> of <a href="http://www.ewing.k12.nj.us/Domain/62" style="text-decoration: none"><b>Ewing High School</b></a> during the 2008 season.<br/><br/>
+    I am a proud member of Ewing High School's Class of 2004.<br/><br/>
+    I can be contacted <a href="mailto:rypat@unl.edu" style="text-decoration: none"><b>rypat@unl.edu</b></a>.
+  </body>
+</html>

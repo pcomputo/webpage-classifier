@@ -1,0 +1,3 @@
+<html>
+<head><meta content="0;URL=Welcome.shtml" http-equiv="REFRESH"/>
+</head></html>

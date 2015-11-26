@@ -1,0 +1,70 @@
+<html>
+<head><title>Leen-Kiat Soh's CSCE235 Page</title>
+</head><body background="images/nothing.gif" bgcolor="white" link="#0000FF" text="#000000">
+<font face="arial">
+<hr/><br/><br/>
+<font size="+1">CSCE235 Introduction to Discrete Structures Spring 2003</font><br/><br/>
+<hr/>
+<font color="red" size="+1">New Entries!! Final and Solution</font>
+<br/>
+<hr/>
+<!--
+<FONT SIZE=+1 COLOR=red>One of your classmates, Martin Fournier, consulted 
+the Webster dictionary and found out that Q.E.D stands for quod erat
+demonstrandum (Latin), which means "which was to be demonstrated".  Thanks!!
+</FONT>
+<BR>
+<HR>
+-->
+<ul><li>
+<img src="syllabus.gif"/>
+<a href="syllabus.html">
+Class Syllabus</a>
+</li></ul>
+<ul><li>
+<img src="schedule.gif"/>
+<a href="schedule.html">
+Class Schedule</a>
+</li></ul>
+<ul><li>
+<img src="quiz.gif"/>
+<a href="quizzes.html">
+Quizzes</a>
+</li></ul>
+<ul><li>
+<img src="hw.gif"/>
+<a href="homeworks.html">
+Homework Assignments</a>
+</li></ul>
+<ul><li>
+<img src="bulb2.gif"/>
+<a href="lightbulbs.html">
+Light Bulbs</a>
+</li></ul>
+<ul><li>
+<img src="sup.gif"/>
+<a href="handouts.html">
+Handouts</a>
+</li></ul>
+<ul><li>
+<img src="exam.gif"/>
+<a href="exams.html">
+Exams</a>
+</li></ul>
+<br/>
+<hr/><br/>
+<a href="http://blackboard.unl.edu/">Blackboard</a>
+<br/><br/>
+<hr/><br/>
+<img src="../../images/blueballs.jpeg"/>
+<i>
+<script language="JavaScript">
+   <!--  to hide script contents from old browsers
+    document.write("<I>  Last Updated: " + document.lastModified + "  </I>")
+   // end hiding contents from old browsers  -->
+ </script>
+</i>
+<br/>
+</font>
+</body>
+</html>

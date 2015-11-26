@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta content="5; URL=http://committees.comsoc.org/ontc" http-equiv="Refresh"/>
+<title>ONTC</title>
+<style type="text/css">
+		@import "sample.css";
+	</style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18127115-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<div id="container">
+<div id="header">
+<h1>ONTC</h1>
+Optical Networking Technical Committee
+</div>
+<div id="main">
+<!-- DO NOT CHANGE ANYTHING ABOVE THIS LINE -->
+<div align="center">
+<h1>We've moved to a new location:</h1>
+<h1><a href="http://committees.comsoc.org/ontc/">http://committees.comsoc.org/ontc/</a></h1>
+<p></p>
+<p></p>
+<p>You will be automatically forwarded to the new site in 5 seconds.</p>
+</div>
+<!-- DO NOT CHANGE ANYTHING BELOW THIS LINE -->
+<!-- footer starts here -->
+</div> <!-- for main !-->
+</div> <!-- for container !-->
+</body>
+</html>

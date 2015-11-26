@@ -1,0 +1,657 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Mozilla/4.75 [en] (X11; U; SunOS 5.7 sun4u) [Netscape]" name="GENERATOR"/>
+<title>Courses taught</title>
+</head>
+<body alink="#FF0000" bgcolor="#FFFFFF" link="#0000EE" text="#000000" vlink="#551A8B">
+<ul> </ul>
+<h3>
+Courses taught at UNL</h3>
+<ul>
+<li>
+Fall 2015:</li>
+<ul>
+<li>
+<a href="http://cse.unl.edu/~choueiry/F15-421-821/">Foundations of
+Constraint Processing</a> (CSCE 421/821), <i>x students (3 ugrads,
+x grads), 3 credit hours</i>.</li>
+</ul>
+<li>
+Summer 2015:</li>
+<ul>
+</ul>
+<li>
+Spring 2015:</li>
+<ul>
+<li>
+<a href="http://cse.unl.edu/~choueiry/S15-476-876/">Introduction to
+Artificial Intelligence</a> (CSCE 476/876), <i>23 students (15
+ugrads, 7 grads), 3 credit hours</i>.</li>
+<li>
+<a href="http://cse.unl.edu/~choueiry/S15-921/">Advanced Constraint
+Processing--Tractability</a> (CSCE 921), <i>5 students (0
+ugrads, 5 grads), 3 credit hours</i>.</li>
+<li>Ordering Heuristics  (CSCE 999), <i>1 grad</i>,
+3 credit hours</li>
+<li>Heuristics for dynamic algorithms selection (CSCE 999), <i>1 grad</i>,
+3 credit hours</li>
+</ul>
+<li>
+Fall 2014:</li>
+<ul>
+<li>
+<a href="http://cse.unl.edu/~choueiry/F14-421-821/">Foundations of
+Constraint Processing</a> (CSCE 421/821), <i>16 students (8 ugrads,
+8 grads), 3 credit hours</i>.</li>
+<li>
+Dynamic AND/OR Search (CSCE 999), <i>1 grad</i>,
+3 credit hours
+</li>
+<li>
+Adaptive Methods for Constraint Propagation (CSCE 999), <i>1 grad</i>,
+3 credit hours
+</li>
+<li>
+Modeling and Solving 2D Puzzles Using Constraints (CSCE 899), <i>1 grad</i>,
+3 credit hours
+</li>
+</ul>
+<li>
+Summer 2014:</li>
+<ul>
+<li>
+Adaptive Methods for Constraint Propagation (CSCE 999), <i>1 grad</i>,
+3 credit hours
+</li>
+<li>
+Algorithms for Generalized Arc Consistency (CSCE 899), <i>1 grad</i>,
+1 credit hour
+</li></ul>
+<li>
+Spring 2014:</li>
+<ul>
+<li>
+Heuristics for dynamic algorithms selection (CSCE 999), <i>1 grad</i>,
+9 credit hours
+</li>
+<li>CSCE899-001, Relation Bundling in Non-Binary CSPs (CSCE 899), <i>1
+grad</i>, 3 credit hours
+</li>
+<li>Algorithms for Generalized Arc Consistency (CSCE 899), <i>1
+grad</i>, 1 credit hour
+</li>
+<li>Modeling and Solving 2D Puzzles Using Constraints (CSCE 899),
+<i>1
+grad</i>, 3 credit hours
+</li>
+<li>
+An Interactive Graphical Interface for Eternity II (CSCE 898), <i>1
+grad</i>, 3 credit hours
+</li>
+<li>Online Project Assignment Manager (OPRAM) (CSCE 897),  <i>1
+grad</i>, 6 credit hours
+</li>
+<li>A Portfolio Approach for Consistency Propagation Algorithms in
+CSPs (CSCE 399H), <i>1 ugrad</i>, 3 credit hours
+</li>
+</ul>
+<li>
+Fall 2013:</li>
+<ul>
+<li>
+Study &amp; Analysis of Constraints in Program Analysis (CSCE 999),
+<i>1 grad</i>, 9 credit hours
+</li>
+<li>Algorithms for Generalized Arc Consistency (CSCE 899), <i>1
+grad</i>, 2 credit hours</li>
+<li>Constraint Modeling and Solving for Interactive
+Clue (CSCE 899),  <i>1 grad</i>, 3 credit hours</li>
+<li>A Portfolio Approach for Consistency Propagation Algorithms in CSPs
+(CSCE 399H), <i>1 ugrad</i>, 3 credit hours
+</li>
+</ul>
+<li>
+Summer 2013:</li>
+<ul>
+<li>
+Study &amp; Analysis of Constraints in Program Analysis (CSCE 999), 
+<i>1 grad</i>, 3 credit hours</li>
+<li>
+Summer internship (CSCE 891), <i>2 grads</i>, 1 credit hour</li>
+</ul>
+<li>Spring 2013:</li>
+<ul>
+<li><a href="http://www.cse.unl.edu/~choueiry/S13-235">Discrete
+Mathematics</a> (CSCE 235), 45<i> students (45 ugrads), 3
+credit hours</i></li>
+<li>
+<a href="http://cse.unl.edu/~choueiry/S13-921/">Advanced
+Constraint Processing</a> (CSCE 921), <i>7 students (2 ugrads,
+5 grads), 3 credit hours</i>.</li>
+<li>Tree Decomposition for CSPs (CSCE 999), <i>1 grad</i>, 1 credit hour </li>
+<li>Symmetry Dectection in CSPs (CSCE 999), <i>1 grad</i>, 3 credit hours </li>
+<li> Relation Bundling for Non-Binary CSPs (CSCE899), <i>1 grad</i>, 3 credit hours</li>
+<li>Interchangeability in Multi-Dimenstional CSPs (CSCE 899), <i>1 grad</i>, 3
+credit hours</li>
+<li> Online Project Assignment Manager (OPRAM) (CSCE898), <i>1
+grad</i>, 3 credit hours</li>
+<li> Conflict Analysis &amp; Generalization in Constraint Satisfaction Problems (CSCE399H), <i>1 ugrad</i>, 3 credit hours</li>
+</ul>
+<li>Fall 2012:</li>
+<ul>
+<li>
+<a href="http://cse.unl.edu/~choueiry/F12-421-821/">Foundations of
+Constraint Processing</a> (CSCE 421/821)<!-- , <i>15 students (6 ugrads,
+9 grads), 3 credit hours</i>-->.</li>
+<li>Tree Decomposition for CSPs (CSCE 999), <i>1 grad</i>, 1 credit hour </li>
+<li> Symmetry Detection in CSPs (CSCE 999), <i>1 grad</i>, 3
+credit hours</li>
+<li> Relation Bundling for Non-Binary CSPs (CSCE899), <i>1 grad</i>, 3
+credit hours</li>
+<li> Conflict Analysis &amp; Generalization in Constraint Satisfaction
+Problems (CSCE 496H), <i>1 ugrad</i>, 3 credit hours</li>
+</ul>
+<li>
+Spring 2012:</li>
+<ul>
+<li><a href="http://www.cse.unl.edu/~choueiry/S12-235">Discrete
+Mathematics</a> (CSCE 235), 34<i> students (34 ugrads), 3
+credit hours</i></li>
+<li><a href="http://www.cse.unl.edu/~choueiry/S12-476-876">Introduction to
+Artificial Intelligence</a> (CSCE 476/876), 26<i> students (21 ugrads,
+5 grads), 3 credit hours</i></li>
+<li> Problem Solving with Constraints (CSCE 496H), <i>1 ugrad,</i> 3
+credit hours</li>
+<li> Problem Solving with Constraints II (CSCE 496), <i>3 ugrads,</i>
+3 credit hours</li>
+<li>
+Path Consistency Algorithms for CSPs (CSCE 899), <i>1 grad,</i> 3 credit hours</li>
+<li>
+Tree Decomposition for CSPs (CSCE 999), <i>1 grad,</i> 1 credit hour</li>
+</ul>
+<li>
+Fall 2011:</li>
+<ul>
+<li><a href="http://www.cse.unl.edu/~choueiry/F11-496-896">Problem
+Solving with Constraints</a> (CSCE 496/896), <i>9 students (8 ugrads,
+1 grad), 3 credit hours</i></li>
+<li>
+Modeling, Reformulation, and Reasoning with Constraints (CSCE 898), <i>1 grad,</i> 3 credit hours</li>
+<li>
+Consistency Methods in Constraint Processing (CSCE 899), <i>1 grad,</i> 3 credit hours</li>
+<li>
+Path Consistency Algorithms for CSPs (CSCE 899), <i>1 grad,</i> 3 credit hours</li>
+<li>
+Structure-Guided Constraint Propagation (CSCE 996), <i>1 grad,</i> 3 credit hours</li>
+<li>
+Tree Decomposition for CSPs (CSCE 999), <i>1 grad,</i> 1 credit hour</li>
+</ul>
+<li>
+Spring 2011:</li>
+<ul>
+<li><a href="http://www.cse.unl.edu/~choueiry/S11-235">Discrete
+Mathematics</a> (CSCE 235), 71<i> students (70 ugrads, 1 grad), 3
+credit hours</i></li>
+<li><a href="http://www.cse.unl.edu/~choueiry/S11-421-821">Foundations of
+Constraint Processing</a> (CSCE 421/821), 19<i> students (9 ugrads, 10
+grads), 3 credit hours</i></li>
+<!--
+<li>
+Tree Decomposition in CSPs (CSCE 999), <i>1 grad,</i> 9 credit hours</li>
+
+<li>
+Consistency Methods in CSPs (CSCE 996), <i>1 grad,</i> 3 credit hours</li>
+
+<li>
+Highly Distributed Real-Time Agent (CSCE 491), <i>1 ugrad,</i> 3 credit hours</li>
+-->
+</ul>
+<li>
+Fall 2010:</li>
+<ul>
+<li><a href="http://www.cse.unl.edu/~choueiry/F10-235">Discrete Mathematics</a>
+(CSCE 235), xx<i> students (xx ugrads, xx grad), 3 credit hours</i></li>
+<li>
+Tree Decomposition in CSPs (CSCE 999), <i>1 grad,</i> 9 credit hours</li>
+<li>
+Consistency Methods in CSPs (CSCE 996), <i>1 grad,</i> 3 credit hours</li>
+<li>
+Highly Distributed Real-Time Agent (CSCE 491), <i>1 ugrad,</i> 3 credit hours</li>
+</ul>
+<li>
+Spring 2010:</li>
+<ul>
+<li><a href="http://www.cse.unl.edu/~choueiry/S10-235">Discrete
+Mathematics</a> (CSCE 235), 30<i> students (29 ugrads, 1 grad), 3
+credit hours</i></li>
+<li><a href="http://www.cse.unl.edu/~choueiry/S10-476-876">Introduction to
+Artificial Intelligence</a> (CSCE 476/876), 15<i> students (7 ugrads,
+8 grads), 3 credit hours</i></li>
+<li>
+Consistency Methods in Constraint Satisfaction (CSCE 999), <i>1 grad,</i> 3 credit hours</li>
+<li>
+Symmetry in CSPs (CSCE 996), <i>3 grads,</i> 3 credit hours</li>
+</ul>
+<li>
+Fall 2009:</li>
+<ul>
+<li>
+<a href="http://www.cse.unl.edu/~choueiry/F09-990-02">Advanced
+Constraint Processing</a> (CSCE 990-02), <i>3 grads, 3
+undergrads</i> 3 credit hours</li>
+<li>
+Consistency Methods in Constraint Satisfaction (CSCE 999), <i>1 grad,</i> 6 credit hours</li>
+<li>
+Computer Games in Computer Science
+ (CSCE 496-005), <i>2 ugrads,</i> 2 credit hours</li>
+<li>
+Implementation of a Computer Game (CSCE 496-006), <i>2 ugrads,</i>1 credit hour</li>
+<li>
+<a href="http://www.cse.unl.edu/~choueiry/F09-896-004">Basic Concepts and Algorithms in Constraint Processing</a> (CSCE 896), <i>3 grads,</i>2  credit hours</li>
+<li>
+Study and Evaluation of Efficient Constraint Propagation Algorithms
+(CSCE 996), <i>3 grads,</i>1 credit hour</li>
+</ul>
+<li>
+Summer 2009:</li>
+<ul>
+<li>
+Foundations of Constraint Processing (CSCE 996), <i>1 grad,</i> 3
+credit hours</li>
+<li>
+Consistency Methods in Constraint Satisfaction (CSCE 999), <i>1 grad,</i> 3 credit hours</li>
+<li>
+Senior Design Project (CSCE 491), <i>1 ugrad</i>, 3credit hours</li>
+</ul>
+<li>
+Spring 2009:</li>
+<ul>
+<li><a href="http://www.cse.unl.edu/~choueiry/S09-421-821">Foundations
+of Constraint Processing</a> (CSCE 421/821), 10<i> students (6 ugrads, 4
+grads), 3 credit hours</i></li>
+<li><a href="http://www.cse.unl.edu/~choueiry/S09-476-876">Introduction to
+Artificial Intelligence</a> (CSCE 476/876), 14<i> students (11 ugrads,
+3 grads), 3 credit hours</i></li>
+<li>
+Tree-Decomposition Methods for Solving CSPS
+(CSCE 996), <i>1 grad,</i> 5 credit hours</li>
+<li>
+Consistency Methods in Constraint Satisfaction (CSCE 999), <i>1
+grad,</i> 3 credit hours</li>
+</ul>
+<li>
+Fall 2008:</li>
+<ul>
+<li><a href="http://www.cse.unl.edu/~choueiry/F08-235">Discrete
+Mathematics</a> (CSCE 235), 30<i> students (30 ugrads, 0 grad), 3
+credit hours</i></li>
+<li>
+Tree-Decomposition Methods for Solving CSPS
+(CSCE 996), <i>1 grad,</i> 3 credit hours</li>
+</ul>
+<li>
+Summer 2008:</li>
+<ul>
+<li>
+Tree-Decomposition in CSPS (CSCE 996), <i>1 grad,</i> 3 credit hours</li>
+</ul>
+<li>
+Spring 2008:</li>
+<ul>
+<li><a href="http://www.cse.unl.edu/~choueiry/S08-476-876/index.html">Introduction
+to Artificial Intelligence</a> (CSCE 476/876), 8<i> students
+(5 ugrads, 3 grads), 3 credit hours</i></li>
+<li><a href="http://www.cse.unl.edu/~choueiry/S08-421-821/index.html">Foundations
+of Constraint Processing</a> (CSCE 421/821), 10<i> students (3 ugrads,
+3 grad), 3 credit hours</i></li>
+</ul>
+<!--
+<li>
+Databases and Constraint Processing 
+(CSCE 996), <i>1 grad,</i> 3 credit hours</li>
+
+-->
+<li>
+Fall 2007:</li>
+<ul>
+<li><a href="http://www.cse.unl.edu/~choueiry/F07-235/index.html">Discrete
+Mathematics</a> (CSCE 235), 27<i> students (27 ugrads, 0 grad), 3
+credit hours</i></li>
+<li>
+Databases and Constraint Processing 
+(CSCE 996), <i>1 grad,</i> 3 credit hours</li>
+</ul>
+<!--
+-->
+<li>
+Spring 2007:</li>
+<ul>
+<li>
+Structural Decomposition Methods for Constraint Satisfaction Problems
+(CSCE 999), <i>1 grad,</i> 1 credit hour</li>
+<li>
+Consistency Techniques (CSCE 399H), <i>1 ugrad,</i> 3 credit hours</li>
+<li>
+Data Fusion from Web Sources
+(USC, directed research), <i>1 grad,</i>2 credit hours</li>
+<li>
+Graphical Data Acquisition for Combinatorial Games
+(USC, directed research), <i>1 grad,</i>1 credit hour</li>
+</ul>
+<!--
+-->
+<li>
+Fall 2006:</li>
+<ul>
+<li>
+Structural Decomposition Methods for Constraint Satisfaction Problems
+(CSCE 999), <i>1 grad,</i>1 credit hour</li>
+<li>
+Constraint Processing for Scatter Chart Labeling (CSCE 899), <i>1
+grad,</i> 6 credit hours</li>
+</ul>
+<!--
+-->
+<li>
+Summer 2006:</li>
+<ul>
+<li>
+Structural Decomposition Methods for Constraint Satisfaction Problems
+(CSCE 999), <i>1 grad,</i> 3 credit hours</li>
+<li> Constraint Processing for Geospatial Reasoning (CSCE 996), <i>1
+grad,</i> 3 credit hours</li>
+<li> Interactive Problem Solving (CSCE 996), <i>1 grad,</i> 3
+credit hours</li>
+<li> Constraint Processing Techniques in Combinatorial Games (CSCE
+496H), <i>1 undergrad,</i> 3 credit hours</li>
+<li> Constraint Processing Techniques in Combinatorial Games (CSCE
+399H), <i>1 undergrad,</i> 3 credit hours</li>
+</ul>
+<!--
+-->
+<li>
+Spring 2006:</li>
+<ul>
+<li><a href="http://www.cse.unl.edu/~choueiry/S06-476-876/index.html">Introduction
+to Artificial Intelligence</a> (CSCE 476/876), 12<i> students (9 ugrads,
+3 grads), 3 credit hours</i></li>
+<li><a href="http://www.cse.unl.edu/~choueiry/S06-235/index.html">Discrete
+Mathematics</a> (CSCE 235), 15<i> students (14 ugrads, 1 grad), 3
+credit hours</i></li>
+<li>
+Decomposition Methods for CSPs (CSCE 999), <i>1 grad,</i> 6
+credit hours</li>
+<li>
+Interactive Problem Solving (CSCE 897), <i>1 grad,</i> 6
+credit hours</li>
+<li>
+Constraint Processing Techniques in Combinatorial Games (CSCE 496H),
+<i>1 undergrad,</i> 3 credit hours</li>
+</ul>
+<!--
+-->
+<li>
+Fall 2005:</li>
+<ul>
+<li>
+<a href="http://www.cse.unl.edu/~choueiry/F05-421-821/index.html">Foundations
+of Constraint Processing </a> (CSCE 421/821), <i>6 students (1 ugrad,
+5 grads), 3 credit hours</i></li>
+<li>
+Decomposition Methods for CSPs (CSCE 999), <i>1 grad,</i> 5
+credit hours</li>
+<li>
+ Interactive Problem Solving (CSCE 996), <i>1 grad,</i> 3
+credit hours</li>
+</ul>
+<li>
+Summer 2005:</li>
+<ul>
+<li>
+Breaking Symmetries During Search (CSCE 897), <i>1 grad,</i> 2
+credit hours</li>
+<li>
+Breaking Symmetries During Search (CSCE 897), <i>1 grad,</i> 1
+credit hours</li>
+</ul>
+<!--
+-->
+<li>
+Spring 2005:</li>
+<ul>
+<li>
+<a href="http://www.cse.unl.edu/~choueiry/S05-476-876/index.html">Introduction
+to Artificial Intelligence</a> (CSCE 476/876), 26<i> students (17 ugrads,
+9 grads), 3 credit hours</i></li>
+<li>
+Neighborhood Interchangeability for Non-Binary CSPs and DataBases (CSCE 899), <i>1 grad,</i> 1
+credit hours</li>
+<li>
+Using Maximal Independent Sets to Decompose a CSP (CSCE 899), <i>1 grad,</i> 5
+credit hours</li>
+<li>
+Decomposition Methods for CSPs (CSCE 999), <i>1 grad,</i> 5
+credit hours</li>
+</ul>
+<li>
+Fall 2004:</li>
+<ul>
+<li>
+<a href="http://www.cse.unl.edu/~choueiry/F04-421-821/index.html">Foundations
+of Constraint Processing </a> (CSCE 421/821), <i>10 students (4 ugrad,
+6 grads), 3 credit hours</i></li>
+<li>
+Dynamic Bundling and applications to databases (CSCE 899), <i>1
+grad,</i> 1 credit hour</li>
+<li>
+Decomposition of Non-Binary CSPs (CSCE 999), <i>1 grad,</i> 1
+credit hour</li>
+</ul>
+<li>
+Summer 2004:</li>
+<ul>
+<li>
+Improving Stochastic Local Search Using Maximal Independent Sets (CSCE
+899), <i>1 grad,</i> 1 credit hour</li>
+<li>
+Interchangeability in Non-Binary CSPS and applications to Databases (CSCE
+899), <i>1 grad,</i> 3 credit hours</li>
+<li>
+Decomposition of Non-Binary CSPs (CSCE 999), <i>1 grad,</i> 3
+credit hours</li>
+</ul>
+<li>
+Spring 2004:</li>
+<ul>
+<li>
+<a href="http://www.cse.unl.edu/~choueiry/S04-476-876/index.html">Introduction
+to Artificial Intelligence</a> (CSCE 476/876), 23<i> students (18 ugrads,
+5 grads), 3 credit hours</i></li>
+<li>
+Interactive Problem Solving (CSCE 897), <i>1 grad,</i> 6 credit hours</li>
+<li>
+Selective Query Processing (CSCE 996), <i>1 grad,</i> 1 credit hour</li>
+<li>
+Advanced Systematic Search Techniques for Overconstrained Problems (CSCE
+899), <i>1 grad,</i> 1 credit hour</li>
+<li>
+Computation of Interchangeability in Finite CSPs (CSCE
+899), <i>1 grad,</i> 3 credit hours</li>
+<li>
+Investigation of Constraint Processing Techniques for Join
+Optimization (CSCE 996), <i>1 grad,</i> 3 credit hours</li>
+</ul>
+<li>
+Fall 2003:</li>
+<ul>
+<li>
+<a href="http://www.cse.unl.edu/~choueiry/F03-421-821/index.html">Foundations
+of Constraint Processing </a> (CSCE 421/821), <i>21 students (7 ugrad,
+14 grads), 3 credit hours</i></li>
+<li>
+<a href="http://www.cse.unl.edu/~choueiry/F03-LABMEET/index.html">Weekly
+Lab Meeting </a>, <i>xx students (1 ugrad, xx grads), 0 credit hours</i></li>
+<li> Decomposition Techniques (CSCE 896), <i>1 grad, 3 credit hours</i></li>
+<li> Iterative Improvement Techniques for Tightly Constrained
+Satisfaction Problems (CSCE 899), <i>1 grad, 1 credit hour</i></li>
+<li> Stochastic Systematic Search (CSCE 899), <i>1 grad, 1
+credit hours</i></li>
+<li> View Materialization in Databases (CSCE 996), <i>1 grad, 3
+credit hours</i></li>
+<li> Masters project (CSCE 897), <i>1 grad, 3 credit hours</i></li>
+</ul>
+<li>
+Summer 2003:</li>
+<ul>
+<li>
+Iterative Search Techniques for Solving Over-Constrained CSPs (CSCE
+899), <i>1 grad, 3 credit hours</i></li>
+<li>
+Discovering Symmetries in Planning (CSCE 899), <i>1 grad, 3
+credit hours</i></li>
+<li>
+Interactive Problem Solving (CSCE 899), <i>1 grad, 3 credit hours</i></li>
+<li>
+CSP and DB Techniques (CSCE 996), <i>1 grad, 3 credit hours</i></li>
+<li>
+Planning Techniques in Computer Animation (CSCE 996), <i>1 grad, 3
+credit hours</i></li>
+</ul>
+<li>
+Spring 2003:</li>
+<ul>
+<li>
+<a href="http://www.cse.unl.edu/~choueiry/S03-990-06/index.html">Advanced
+Constraint Processing</a> (CSCE 990-06), 10<i> students (0 ugrads, 10 grads),
+3credit hours</i></li>
+<li>
+<a href="http://www.cse.unl.edu/~choueiry/S03-476-876/index.html">Introduction
+to Artificial Intelligence</a> (CSCE 476/876), 40<i> students (22 ugrads,
+18 grads), 3 credit hours</i></li>
+<li>
+<a href="http://www.cse.unl.edu/~choueiry/ScientificWriting/">Communications
+for Computer Scientists </a> (CSCE 996 CommCS),
+<i>12 students (0 ugrads,
+12 grads), 1 credit hour</i></li>
+<li>
+
+
+Advanced Systematic Search Techniques for Overconstrained Problems (CSCE
+899), <i>1 grad,</i> 5 credit hours</li>
+<li>
+Study and Comparison of Consistency Algorithms (CSCE 897), <i>1 grad,
+3 credit hours</i></li>
+<li>
+Local Search Techniques for Overconstrained Problems (CSCE 899), <i>1 grad,
+3 credit hours</i></li>
+<li> Temporal Reasoning (CSCE 899), <i>1 grad, 9 credit hours</i></li>
+<li>
+Discovering Symmetries in Planning (CSCE 899), <i>1 grad, 3credit hours</i></li>
+</ul>
+<li>
+Fall 2002:</li>
+<ul>
+<li>
+<a href="http://www.cse.unl.edu/~choueiry/F02-421-821/index.html">Foundations
+of Constraint Processing </a> (CSCE 421/821), <i>30 students (11 ugrad,
+19 grads), 3 credit hours</i></li>
+<li>
+Local Search Techniques in Constrained Optimization (CSCE 899), <i>1 student,
+3 credit hours</i></li>
+<li>
+Abstractions in Planning (CSCE 899). <i>1 grad, 3credit hours</i></li>
+<li>
+Constraint Algorithms for Temporal Constraint Problems (CSCE 996),<i> 1
+grad, 3credit hours</i></li>
+<li>
+Temporal Reasoning (CSCE 899), <i>1 grad, 3 credit hours.</i></li>
+</ul>
+<li>
+Summer 2002:</li>
+<ul>
+<li>
+Constraints in Computer Animation (CSCE 996), <i>1 grad, 1 credit hour</i></li>
+<li>
+Constraints in Computer Animation (CSCE 996), <i>1 grad, 1 credit hour</i></li>
+<li>
+Temporal Reasoning (CSCE 996). <i>1 grad, 3 credit hours</i></li>
+<li>
+Constraint Modeling and Reformulation (CSCE 996 ). <i>1 grad. 1 credit hour.</i></li>
+<li>
+Reformulation of Decomposable Constraints (CSCE 996). <i>1 grad. 1 credit hour</i></li>
+<li>
+Handling Preferences with Local Search Techniques (CSCE996). <i>1 grad,
+3 credit hours</i></li>
+</ul>
+<li>
+Spring 2002:</li>
+<ul>
+<li>
+<a href="http://www.cse.unl.edu/~choueiry/S02-476-876/index.html">Introduction
+to Artificial Intelligence
+</a> (CSCE 476/876),
+<i>42 students, 3 credit hours.</i></li>
+<li>
+<a href="http://www.cse.unl.edu/~choueiry/S02-976/index.html">Advanced
+Artificial Intelligence</a> (CSCE 976), <i>8 students, 3 credit hours.</i></li>
+<li>
+Dynamically detecting and Exploiting Symmetry in Finite Constraint Satisfaction
+Problems (CSCE 899)<i>, 1 grad, 3 credit hours.</i></li>
+</ul>
+<li>
+Fall 2001:</li>
+<ul>
+<li>
+<a href="http://www.cse.unl.edu/~choueiry/F01-421-821/index.html">Foundations
+of Constraint Satisfaction
+</a> (CSCE 421/821).
+<i>19 students, 3 credit hours.</i></li>
+<li>
+A Constraint Processing Approach to Assigning Graduate Teaching Assistants
+to Courses (CSCE 496H), <i>1 ugrad, 3 credit hours</i></li>
+</ul>
+<li>
+Summer 2001:</li>
+<ul>
+<li>
+Discovering Symmetries in Constraint Satisfaction Problems (CSCE899). <i>1
+grad, 3 credit hours.</i></li>
+<li>
+Mobile Communications (CSCE996). <i>1 grad, 3 credit hours.</i></li>
+</ul>
+<li>
+Spring 2001:
+<ul>
+<li>
+<a href="http://cse.unl.edu/~choueiry/S01-310/">Data Structures
+and Algorithms </a> (CSCE310) <i>70 students, 3 credit hours.</i></li>
+<li>
+<a href="http://cse.unl.edu/~choueiry/S01-476-876/">Introduction
+to Artificial Intelligence </a> (CSCE 476/876). <i>40 students, 3 credit hours.</i></li>
+</ul>
+</li><li>
+Fall 2000: <a href="http://www.cse.unl.edu/~choueiry/F00-CSCE990/">Foundations of
+Constraint Satisfaction </a> (CSCE 990). <i>2 grads (0 ugrad, 2 grads),
+3 credit hours.</i></li>
+<li>
+Summer 2000:  Advanced AI Planning (CSCE 496). <i>1 grad, 3 credit hours.</i></li>
+<li>
+Spring 2000: <a href="http://www.cse.unl.edu/~choueiry/CSCE476-876/index.htm">Introduction
+to Artificial Intelligence </a> (CSCE 476/876). <i>30-40 students, 3
+credit hours.</i></li>
+<li>
+Fall 1999: <a href="http://www.cse.unl.edu/~choueiry/CSE990-05/">Theory and Practice
+of Constraint Satisfaction </a> (CSCE 990-05). <i>5 students (0 ugrad, 5
+grads), 3 credit hours.</i></li>
+</ul>
+<hr/>
+<address>
+<a href="mailto:choueiry@cse.unl.edu">Berthe Y. Choueiry</a></address>
+<br/>Last modified: <script language="javascript">
+document.write("<l>" + Date() + "<\/l><\/P>") 
+
+</script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<html><body><center><img src="notes.gif"/></center><br/>
+<b>
+SOME EXTRACTED POINTS FROM</b><br/><br/>
+<font color="blue">
+Gurer, D. (2002). Women in Computing History, inroads SIGCSE Bulletin,
+34(2):116-120.
+
+</font>
+<hr/><br/>
+
+Online sites containing biographies of women in technology:
+
+<ul><li>United Kingdom Ambassor SIte (ACM-W site).  <a href="http://www-theory.dcs.st-and.ac.uk/~tom/women/" target="TOP">Link</a></li></ul>
+<ul><li>Pioners Honored at Grace Hopper Conference'91 (ACM-W Site).  <a href="http://www.acm.org/women/speech.html" target="TOP">Link</a></li></ul>
+<ul><li>Old TAP site (ACM-W site).  <a href="http://www.cs.yale.edu/homes/tap/past-women-cs.html" target="TOP">Link</a></li></ul>
+<ul><li>WITI Museum.  <a href="http://www.witi.com/center/witimuseum" target="TOP">Link</a></li></ul>
+<ul><li>AWC Lovelance Awards.  <a href="http://www.awc-hq.org/lovelace/index.html" target="TOP">Link</a></li></ul>
+<ul><li>SDSC Women in Science.  <a href="http://www.sdsc.edu/ScienceWomen" target="TOP">Link</a></li></ul>
+<ul><li>Biographies of Women in Mathematics at Agnes Scott College.  <a href="http://www.agnesscott.edu/Iriddle/women" target="TOP">Link</a></li></ul>
+<ul><li>Men and Women Computing Pioneers.  <a href="http://ei.cs.vt.edu/~history/people.html" target="TOP">Link</a></li></ul>
+<br/><br/>
+
+Topics to discuss:
+<ul><li>Topics pertaining to the personal lives of mentees</li></ul>
+<ul><li>Topics involving general school-related matters</li></ul>
+<ul><li>Topics concerning graduate school</li></ul>
+<ul><li>Topics oriented toward career matters</li></ul>
+<br/><br/>
+</body></html>

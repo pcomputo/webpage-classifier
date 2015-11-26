@@ -1,0 +1,288 @@
+<html>
+<head>
+<title>Byrav Ramamurthy - University of Nebraska-Lincoln (Teaching)</title>
+<style type="text/css">
+
+<!--
+
+.style1 {color: #CA0000}
+
+-->
+a img { border: none; }
+.mycontent a:link  { color: #CC0000; }
+
+</style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18127115-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<script type="text/javascript">
+    /*<![CDATA[*/
+<!--
+
+  // JS function for uncrypting spam-protected emails:
+function UnCryptMailto(s) {//
+var n=0;
+var r="";
+for(var i=0; i < s.length; i++) {
+n=s.charCodeAt(i);
+if (n>=8364) {n = 128;}
+r += String.fromCharCode(n-(1));
+}
+return r;
+}
+  // JS function for uncrypting spam-protected emails:
+function linkTo_UnCryptMailto(s){//
+location.href=UnCryptMailto(s);
+}
+
+function openPic(url,winName,winParams){//
+var theWindow = window.open(url,winName,winParams);
+if (theWindow){theWindow.focus();}
+}
+
+// -->
+/*]]>*/
+</script>
+<!--body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#FFFFFF" alink="#FFFFFF" vlink="#FFFFFF"-->
+<body alink="#FFFFFF" bgcolor="#e8e8e8" leftmargin="0" link="#FFFFFF" marginheight="0" marginwidth="0" topmargin="0" vlink="#FFFFFF">
+<table bordercolor="#111111" cellpadding="0" cellspacing="0" height="244" id="AutoNumber1" style="border-collapse: collapse; border-width: 0" width="100%">
+<tr>
+<td bgcolor="#E2E2E2" height="68" style="border-style: none; border-width: medium" valign="top" width="100%">
+<table border="0" bordercolor="#111111" cellpadding="0" cellspacing="0" height="72" id="AutoNumber5" style="border-collapse: collapse; border-width: 0" width="100%">
+<tr>
+<td bgcolor="#CA0000" height="65" style="border-style: none; border-width: none" width="30%">
+<a href="http://www.unl.edu"><img src="UNL.gif" width="100"/></a>
+</td>
+<!--        <td width="30%" style="border-style: none; border-width: none" height="70" bgcolor="#CA0000">
+
+        <p align="center" style="margin-top: 0; margin-bottom: 0">
+
+        <a href="http://cse.unl.edu" style="text-decoration:none"><font face="Times New Roman" color="#FFFFFF" size="4">         
+
+Computer Science &amp; Engineering
+	
+
+		</font></a>
+
+        </td> -->
+<td bgcolor="#CA0000" height="70" style="border-style: none; border-width: none" width="40%">
+<p align="center" style="margin-top: 0; margin-bottom: 0">
+<a style="text-decoration:none"><font color="#FFFFFF" face="Times New Roman" size="3">         
+
+		Home Page of Prof. Byrav Ramamurthy
+
+	
+
+		</font></a>
+</p></td>
+<td align="right" bgcolor="#CA0000" height="70" style="border-style: none; border-width: none" width="30%">
+<a href="http://cse.unl.edu/~byrav"><img src="byravpicname.gif"/></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="14" style="border-style: none; border-width: medium" width="100%">
+<table border="0" bordercolor="#111111" cellpadding="0" cellspacing="0" id="AutoNumber2" style="border-collapse: collapse; border-width: 0" width="100%">
+<tr>
+<td align="center" bgcolor="#000000" bordercolor="#E2E2E2" style="border-left-style: none; border-left-width: medium; border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" width="20%">
+<b><font color="#FFFFFF" face="Arial" size="2">  </font></b></td>
+<td align="center" bgcolor="#000000" bordercolor="#E2E2E2" style="border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" width="20%">
+<b><font color="#FFFFFF" face="Arial" size="2"></font></b></td>
+<td align="center" bgcolor="#000000" bordercolor="#E2E2E2" style="border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" width="20%">
+<b><font color="#FFFFFF" face="Arial" size="2"> </font></b></td>
+<td align="center" bgcolor="#000000" bordercolor="#E2E2E2" style="border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" width="20%">
+<b><font color="#FFFFFF" face="Arial" size="2"></font></b></td>
+<td align="center" bgcolor="#000000" bordercolor="#E2E2E2" style="border-right-style: none; border-right-width: medium; border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" width="20%">
+<b><font color="#FFFFFF" face="Arial" size="2"></font></b></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="123" style="border-style: none; border-width: none" valign="top" width="100%">
+<table border="0" bordercolor="#111111" cellpadding="0" cellspacing="0" id="AutoNumber6" style="border-collapse: collapse; border-width: 0" width="70%">
+<tr>
+<td bgcolor="#CA0000" style="border-style: none; border-width: medium" valign="top" width="20%">
+<div align="center">
+<center>
+<p> </p>
+<table border="0" bordercolor="#111111" cellpadding="0" cellspacing="0" height="0" id="AutoNumber7" style="border-collapse: collapse" width="83%">
+<tr>
+<td bgcolor="#CA0000" bordercolor="#CA0000" height="1" valign="top" width="100%">
+<p style="margin-left: 4; margin-top: 2; margin-bottom: 2">
+<font color="#FFFFFF" size="2"><a href="byrav.html">Home</a><br/><br/></font></p></td>
+</tr>
+<tr>
+<td bgcolor="#CA0000" bordercolor="#CA0000" height="1" valign="top" width="100%">
+<p style="margin-left: 4; margin-top: 2; margin-bottom: 2">
+<font color="#FFFFFF" size="2"><a href="Research.html">Research</a><br/><br/></font></p></td>
+</tr>
+<tr>
+<td bgcolor="#CA0000" bordercolor="#CA0000" height="1" valign="top" width="100%">
+<p style="margin-left: 4; margin-top: 2; margin-bottom: 2">
+<font color="#FFFFFF" size="2"><a href="Publications.html">Publications</a><br/><br/></font></p></td>
+</tr>
+<tr>
+<td bgcolor="#CA0000" bordercolor="#CA0000" height="1" valign="top" width="100%">
+<p style="margin-left: 4; margin-top: 2; margin-bottom: 2">
+<font color="#FFFFFF" size="2"><a href="Teaching.html">Teaching</a><br/><br/></font></p></td>
+</tr>
+<tr>
+<td bgcolor="#CA0000" bordercolor="#CA0000" height="1" valign="top" width="100%">
+<p style="margin-left: 4; margin-top: 2; margin-bottom: 2">
+<font color="#FFFFFF" size="2"><a href="Service.html">Service</a><br/><br/></font></p></td>
+</tr>
+<tr>
+<td bgcolor="#CA0000" bordercolor="#CA0000" height="1" valign="top" width="100%">
+<p style="margin-left: 4; margin-top: 2; margin-bottom: 2">
+<font color="#FFFFFF" size="2"><a href="CV.html">Biography</a><br/><br/></font></p></td>
+</tr>
+<tr>
+</tr><tr>
+<td bgcolor="#CA0000" bordercolor="#CA0000" height="1" valign="top" width="100%">
+<p style="margin-left: 4; margin-top: 2; margin-bottom: 2">
+<font color="#FFFFFF" size="2"><a href="Students.html">Students</a><br/><br/></font></p></td>
+</tr>
+<tr>
+<td bgcolor="#CA0000" bordercolor="#CA0000" height="1" valign="top" width="100%">
+<p style="margin-left: 4; margin-top: 2; margin-bottom: 2">
+<font color="#FFFFFF" size="2"><a href="Recent.html">Recent News</a><br/><br/></font></p></td>
+</tr>
+</table>
+</center>
+</div>
+<p> </p>
+<p> </p>
+</td>
+<div>
+<td bgcolor="#e8e8e8" rowspan="2" style="border-collapse: collapse; border-width: 0" valign="top" width="20%">
+<br/><img align="right" height="200" src="byravpic.jpg"/> 
+		</td>
+<td bgcolor="#e8e8e8" rowspan="2" style="border-collapse: collapse; border-width: 0" valign="top" width="80%">
+<font face="Helvetica, sans-serif" size="2"> <br/>
+<font color="#CC0000"><b>   Byrav Ramamurthy</b></font><br/>
+<br/><font color="#CC0000">		      Professor and
+  Graduate Chair</font><!--<img src="animated-new.gif"></img>--><br/>
+<font color="#CC0000">		      Department of Computer Science and Engineering </font><br/>
+<font color="#CC0000">		      University of Nebraska Lincoln </font><br/>
+<font color="#CC0000">		      Lincoln NE 68588-0115 USA</font><br/>
+<font color="#CC0000">		      Office: 103, Schorr Center </font><br/>
+<font color="#CC0000">		    Phone: (402) 472-7791</font><br/>
+<font color="#CC0000">		    Fax: (402) 472-7767</font><br/>
+<font color="#CC0000">
+     E-mail: <a class="imagelink" href="javascript:linkTo_UnCryptMailto('nbjmup;czsbwAdtf/vom/fev')"><img border="0" src="email-byrav.png" valign="bottom"/></a></font><br/>
+<br/>
+<br/>
+<font face="Helvetica, sans-serif"> <br/>
+<font color="#CC0000" size="3">
+<b>
+      Short Bio: 
+               </b>
+<font color="#CC0000" size="2">
+
+Byrav Ramamurthy is currently a Professor and Graduate Chair in the Department
+of Computer Science and Engineering at the University of
+Nebraska-Lincoln (UNL). He is the author of the book "Design of
+Optical WDM Networks - LAN, MAN and WAN Architectures" and a co-author
+of the book "Secure Group Communications over Data Networks" published
+by Kluwer Academic Publishers/Springer in 2000 and 2004 respectively.
+He served as the Chair of the IEEE Communication Society's
+<a href="http://cse.unl.edu/~byrav/ONTC/"><font color="#CC0000" face="Arial" size="2">Optical Networking Technical Committee (ONTC)</font></a>  during 2009-2011.  
+He served as
+the <a href="http://cse.unl.edu/~byrav/INFOCOM2011/index.html"><font color="#CC0000" face="Arial" size="2">IEEE
+    INFOCOM 2011</font></a> TPC Co-Chair.  
+He is currently an Editor-in-Chief for the Springer Photonic Network
+Communications (<a href="http://www.springer.com/computer/communication+networks/journal/11107"><font color="#CC0000" face="Arial" size="2">PNET</font></a>) journal.
+<br/><br/>
+His research areas include optical and wireless networks, peer-to-peer
+networks for multimedia streaming, network security and
+telecommunications. His research work is supported by the
+U.S. National Science Foundation, U.S. Department of Energy, U.S. Department of Agriculture, NASA,
+AT&amp;T Corporation, Agilent Tech., Ciena, HP and OPNET Inc. 
+
+</font>
+</font><br/>
+<!-- UPDATE: I am on sabbatical leave from the University of 
+Nebraska-Lincoln during Spring Semester 2009 (January - May 2009).
+I was a visiting faculty member at the <a  href="http://www.iitm.ac.in/"><font face="Arial" size="2" color="#CC0000">Indian Institute of 
+Technology - Madras (IIT-M)</a> </font>in  Chennai (<a href="http://www.chennai.tn.nic.in/chndistprof.htm#loc"><font face="Arial" size="2" color="#CC0000">website</font></a>) (<a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=iit+madras+chennai&sll=37.0625,-95.677068&sspn=48.822589,87.099609&ie=UTF8&ll=12.989588,80.235729&spn=0.029565,0.042529&t=p&z=15"><font face="Arial" size="2" color="#CC0000">map</font></a>), India. Currently, I am a Visiting Researcher at <a href="http://www.research.att.com/"><font face="Arial" size="2" color="#CC0000">AT&amp;T Labs-Research</a></font>, in New Jersey, USA. Please send me an 
+email or leave a voicemail (see above) if you need to reach me.  -->
+</font></font></td></div></tr>
+</table>
+<table border="0" bordercolor="#111111" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-width: 0" width="100%">
+<tr>
+<td align="center" bgcolor="#CC0000" bordercolor="#E2E2E2" style="border-left-style: none; border-left-width: medium; border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" width="20%">
+<b><font color="#FFFFFF" face="Arial" size="2">  </font></b></td>
+<td align="center" bgcolor="#CC0000" bordercolor="#E2E2E2" style="border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" width="20%">
+<b><font color="#FFFFFF" face="Arial" size="2"></font></b></td>
+<td align="center" bgcolor="#CC0000" bordercolor="#E2E2E2" style="border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" width="20%">
+<b><font color="#FFFFFF" face="Arial" size="2"> </font></b></td>
+<td align="center" bgcolor="#CC0000" bordercolor="#E2E2E2" style="border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" width="20%">
+<b><font color="#FFFFFF" face="Arial" size="2"></font></b></td>
+<td align="center" bgcolor="#CC0000" bordercolor="#E2E2E2" style="border-right-style: none; border-right-width: medium; border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" width="20%">
+<b><font color="#FFFFFF" face="Arial" size="2"></font></b></td>
+</tr>
+</table>
+<!--
+<p>
+<font face="Helvetica, sans-serif">            <br>
+              <font color="#CC0000" size="3" >
+			  <b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Short Bio of Prof. Byrav Ramamurthy
+               </b>
+
+<font color="#CC0000" size="2" >
+
+			 <blockquote>
+
+Byrav Ramamurthy is currently an Associate Professor in the Department
+of Computer Science and Engineering at the University of
+Nebraska-Lincoln (UNL). He is the author of the book "Design of
+Optical WDM Networks - LAN, MAN and WAN Architectures" and a co-author
+of the book "Secure Group Communications over Data Networks" published
+by Kluwer Academic Publishers/Springer in 2000 and 2004 respectively.
+He serves as the Vice Chair of the IEEE Communication Society's
+Optical Networking Technical Committee (ONTC).  He served as the IEEE
+INFOCOM 2008 TPC Vice Chair (EDAS) and Miniconference TPC Co-pchair. He
+served as the General Co-chair for the ICCCN 2009 conference. 
+<br><br>
+His research areas include optical and wireless networks, peer-to-peer
+networks for multimedia streaming, network security and
+telecommunications. His research work is supported by the
+U.S. National Science Foundation, U.S. Department of Energy, U.S. Department of Agriculture,
+AT&amp;T Corporation, Agilent Tech., and OPNET Inc. 
+
+</blockquote>  			
+</font>
+</font><br>
+-->
+<table border="0" bordercolor="#111111" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-width: 0" width="100%">
+<tr>
+<td align="center" bgcolor="#CC0000" bordercolor="#E2E2E2" style="border-left-style: none; border-left-width: medium; border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" width="20%">
+<b><font color="#FFFFFF" face="Arial" size="2">  </font></b></td>
+<td align="center" bgcolor="#CC0000" bordercolor="#E2E2E2" style="border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" width="20%">
+<b><font color="#FFFFFF" face="Arial" size="2"></font></b></td>
+<td align="center" bgcolor="#CC0000" bordercolor="#E2E2E2" style="border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" width="20%">
+<b><font color="#FFFFFF" face="Arial" size="2"> </font></b></td>
+<td align="center" bgcolor="#CC0000" bordercolor="#E2E2E2" style="border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" width="20%">
+<b><font color="#FFFFFF" face="Arial" size="2"></font></b></td>
+<td align="center" bgcolor="#CC0000" bordercolor="#E2E2E2" style="border-right-style: none; border-right-width: medium; border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" width="20%">
+<b><font color="#FFFFFF" face="Arial" size="2"></font></b></td>
+</tr>
+</table>
+<div id="MicrosoftTranslatorWidget" style="width: 200px; min-height: 83px; border-color: #170D07; background-color: #362F2A;"><noscript><a href="http://www.microsofttranslator.com/bv.aspx?a=http%3a%2f%2fcse.unl.edu%2f">Translate this page</a><br/>Powered by <a href="http://www.microsofttranslator.com">Microsoft速 Translator</a></noscript></div> <script type="text/javascript"> /* <![CDATA[ */ setTimeout(function() { var s = document.createElement("script"); s.type = "text/javascript"; s.charset = "UTF-8"; s.src = ((location && location.href && location.href.indexOf('https') == 0) ? "https://ssl.microsofttranslator.com" : "http://www.microsofttranslator.com" ) + "/ajax/v2/widget.aspx?mode=notify&from=en&layout=ts"; var p = document.getElementsByTagName('head')[0] || document.documentElement; p.insertBefore(s, p.firstChild); }, 0); /* ]]> */ </script>
+</td></tr></table></body>
+</html>

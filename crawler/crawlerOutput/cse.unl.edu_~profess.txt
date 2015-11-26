@@ -1,0 +1,246 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>PROFESS Database</title>
+<link href="yui/assets/yui.css" rel="stylesheet" type="text/css"/>
+<link href="yui/build/container/assets/skins/sam/container.css" rel="stylesheet" type="text/css"/>
+<link href="yui/build/tabview/assets/skins/sam/tabview.css" rel="stylesheet" type="text/css"/>
+<link href="yui/build/button/assets/skins/sam/button.css" rel="stylesheet" type="text/css"/>
+<script src="yui/build/yahoo/yahoo-min.js" type="text/javascript"></script>
+<script src="yui/build/dom/dom-min.js" type="text/javascript"></script>
+<script src="yui/build/event/event-min.js" type="text/javascript"></script>
+<script src="yui/build/dragdrop/dragdrop-min.js" type="text/javascript"></script>
+<script src="yui/build/container/container-min.js" type="text/javascript"></script>
+<script src="yui/build/element/element-beta-min.js" type="text/javascript"></script>
+<script src="yui/build/button/button-beta-min.js" type="text/javascript"></script>
+<script src="yui/build/utilities/utilities.js" type="text/javascript"></script>
+<script src="yui/build/tabview/tabview.js" type="text/javascript"></script>
+<script src="yui/build/yahoo-dom-event/yahoo-dom-event.js" type="text/javascript"></script>
+<script src="javascript/tooltip.js" type="text/javascript"></script>
+<script src="javascript/listEC.js" type="text/javascript"></script>
+<script src="javascript/cogName.js" type="text/javascript"></script>
+<script src="javascript/quickQuery.js" type="text/javascript"></script>
+<link href="extjs/resources/css/ext-all.css" rel="stylesheet" type="text/css"/>
+<script src="extjs/adapter/ext/ext-base.js" type="text/javascript"></script>
+<script src="extjs/ext-all.js" type="text/javascript"></script>
+<script src="javascript/professor.js" type="text/javascript"></script>
+<link href="css/combos.css" rel="stylesheet" type="text/css"/>
+<link href="./css/yui_mytabview.css" rel="stylesheet" type="text/css"/>
+<link href="./css/yui_mycontainer.css" rel="stylesheet" type="text/css"/>
+<link href="./css/layout.css" rel="stylesheet" type="text/css"/>
+<link href="./css/colors.css" rel="stylesheet" type="text/css"/>
+<link href="images/interface/profess_ico.ico" rel="icon" type="image/vnd.microsoft.icon"/>
+<style type="text/css">
+a:hover {
+	color:	#fea726; /* orange */
+}
+
+#cogName_div, #quickQuery_div {
+	width:					auto;
+	left:					30px;
+	right:					16%;
+}
+</style>
+</head>
+<body class="yui-skin-sam" id="yahoo-com">
+<center><img alt="PROFESS" src="images/interface/logo.png" title="PROFESS Database"/></center>
+<center><big><br/></big><p class="release">Release 1.5<br/><small><small>(2013-08-25)</small></small></p></center>
+<br/><br/><br/><br/>
+<div style="width:25%;float:right;">
+<div id="faq_links">
+<div class="hd"><img alt="Link" src="images/interface/helpSmall.gif" style="float:left;margin-right:10px;margin-top:4px;" title="Useful links"/>Help and Documentation</div>
+<div class="bd">
+<div style="margin-left:20px;">
+<p style="text-indent:-20px;"><b>Documentation</b><br/>
+					• <a href="documentation.php#gettingstarted">Getting started</a><br/>
+					• <a href="documentation.php#queries">Advanced queries</a><br/>
+					• <a href="documentation.php#coredatabases">Core databases</a><br/>
+					• <a href="documentation.php#modules">Modules</a>
+</p><br/>
+<p style="text-indent:-20px;"><b>FAQ</b><br/>
+					• <a href="faq.php#whatisprofess">What is and what is <i>not</i> PROFESS?</a><br/>
+					• <a href="faq.php#whowillbeinterestedinprofess">Who will be interested in PROFESS?</a><br/>
+					• <a href="faq.php#howtousetheprofessor">How to query PROFESS?</a><br/>
+					• <a href="faq.php#howtodownloaddata">How to download the data?</a><br/>
+					• <a href="faq.php">More...</a><br/>
+</p><br/>
+</div>
+</div>
+<div class="ft">
+</div>
+</div>
+<br/>
+<div id="index_news">
+<div class="hd"><img alt="Stats" src="images/interface/stats.png" style="float:left;margin-right:10px;margin-top:4px;" title="Statistics"/>Database Statistics</div>
+<div class="bd">
+<div style="margin-left:20px;">
+<p style="text-indent:-20px;"><b>Function</b></p><table><tr><td width="160px">• <a href="http://www.ncbi.nlm.nih.gov/COG/">eggNOG Clusters</a></td> <td align="right" width="60px">224,847</td></tr><tr><td>• <a href="http://www.chem.qmul.ac.uk/iubmb/enzyme/">Enzyme Classes</a></td> <td align="right">5,093</td></tr><tr><td>• <a href="http://www.geneontology.org/">GO Terms</a></td> <td align="right">27,606</td></tr><tr><td>• <a href="http://www.genome.jp/kegg/ligand.html">Ligands</a></td> <td align="right">9,330</td></tr><tr><td>• <a href="http://pfam.sanger.ac.uk/">PFAM</a></td> <td align="right">10,340</td></tr><tr><td>• <a href="http://genome.cshlp.org/content/16/5/686.abstract">Protein Interactions</a></td> <td align="right">67,113</td></tr></table><p style="text-indent:-20px;"><b>Evolution</b></p><table><tr><td width="160px">• <a href="http://www.essentialgene.org/">Essential Genes</a></td> <td align="right" width="60px">6,099</td></tr></table><p style="text-indent:-20px;"><b>Structure</b></p><table><tr><td width="160px">• <a href="http://www.cathdb.info/">CATH Classes</a></td> <td align="right" width="60px">2,178</td></tr><tr><td>• <a href="http://www.rcsb.org/">Protein Structures</a></td> <td align="right">56,699</td></tr><tr><td>• <a href="#">Structure Comparisons</a></td> <td align="right">401,967</td></tr></table><p style="text-indent:-20px;"><b>Sequence</b></p><table><tr><td width="160px">• <a href="http://www.uniprot.org/">Protein Sequences</a></td> <td align="right" width="60px">10,891,633</td></tr></table><p style="text-indent:-20px;"><b>Disease</b></p><table><tr><td width="160px">• <a href="#">Pancreatic cancer</a></td> <td align="right" width="60px">2,013</td></tr></table><p style="text-indent:-20px;"><b>Other</b></p><table><tr><td width="160px">• <a href="http://www.ncbi.nlm.nih.gov/taxonomy">Taxonomy</a></td> <td align="right" width="60px">558,282</td></tr></table> </div>
+</div>
+<div class="ft">
+				Last update: 2013-08-25		</div>
+</div>
+<br/>
+<div id="index_team">
+<div class="hd"><img alt="Team" src="images/interface/user.png" style="float:left;margin-right:10px;margin-top:4px;" title="Develpment Team"/>Development Team</div>
+<div class="bd">
+<div style="margin-left:20px;">
+<p style="text-indent:-20px;"><b>Contact:</b>   
+					<a href="about.php#contact">Thomas Triplet</a></p>
+<br/>
+<p style="text-indent:-20px;"><b>Database Design and Programming</b><br/>
+					• <a href="about.php#PeterRevesz">Peter Revesz</a><br/>
+					• <a href="about.php#ThomasTriplet">Thomas Triplet</a>
+</p><br/>
+<p style="text-indent:-20px;"><b>Genomics</b><br/>
+					• <a href="about.php#MarkGriep">Mark A. Griep</a><br/>
+					• <a href="about.php#RobertPowers">Robert Powers</a><br/>
+					• <a href="about.php#MatthewShortridge">Matthew D. Shortridge</a><br/>
+					• <a href="about.php#JaimeStark" target="_blank">Jaime Stark</a><br/>
+</p>
+</div>
+</div>
+<div class="ft" style="text-align:center;">
+<br/>
+<img alt="UNL" src="images/documentation/unl.png" style="float:left;margin-right:20px;"/>
+<a href="http://cse.unl.edu/" target="_blank">Computer
+		      Science Department</a><br/><a href="http://chem.unl.edu/" target="_blank">Chemistry
+			Department</a><br/><a href="http://www.unl.edu/" target="_blank">University of
+			  Nebraska-Lincoln</a><br/> <br/>
+			  © 2011 University of Nebraska Board of Regents<br/><a href="docs/licence.doc">Licence terms</a> <a href="docs/disclamer.docx">DISCLAMER</a>
+</div>
+</div>
+</div>
+<div style="width:70%;">
+<div style="margin:20px;">
+<p style="text-align:justify;font-size:12pt;color:white;">PROFESS is a biology database system that integrates databases describing PROtein Functions, Evolution, Structures and Sequences. PROFESS aims at assisting researchers in the functional and evolutionary analysis of the abundant number of novel proteins continually identified from whole-genome sequencing. <a class="faq_link" href="faq.php" title="Get more details">Read more...</a></p></div><br/>
+<div id="index_search">
+<div class="hd" style="color:#fea726;"><img alt="Search" src="images/interface/49.png" style="float:left;margin-right:10px;margin-top:4px;" title="Query the database"/>Ask the PROFESSor</div>
+<div class="bd">
+<div style="padding:20px;">
+<form action="include/lib/quickquery.php" method="GET" name="searchForm">
+<table width="100%"><tr>
+<td width="85%">
+<input id="quickquery" name="quickquery" size="40" style="width: 99%; height: 20px;padding:5px 10px 0;" type="text"/>
+</td>
+<td style="text-align:right;padding-left:30px;"><button id="query" name="query" onclick="customSubmit();" style="width: 150px;" type="button" value="all"><img alt="Search" src="images/interface/49.png" style="float:left;margin-top:4px;" title="Query the database"/></button></td>
+</tr></table>
+</form>
+</div>
+</div>
+<div class="ft">
+<p style="text-transform: uppercase;">
+<a class="menu" href="search.php" title="Advanced search">Advanced Search</a> |
+				<a class="menu" href="sql_query.php" title="SQL query">SQL Query</a> |
+				<a class="menu" href="documentation.php" title="Tips to efficiently use PROFESS">Help</a> |
+				<a class="menu" href="faq.php" title="Frequently Asked Questions">FAQ</a> |
+				<a class="menu" href="about.php" title="Contact us or learn more about people working on PROFESS">About</a>
+</p>
+</div>
+</div>
+<br/><br/>
+<div id="errorbrowser"></div>
+<h4 class="index">Latest News</h4>
+<div style="margin:20px;">
+<p class="index_news">
+<b>06/06/2010</b><br/>
+			PROFESS has been published in the journal <i>Database</i>. Full-text article is available open-source <a class="faq_link" href="http://database.oxfordjournals.org/content/2010/baq011.full" target="_blank" title="Full-text">online</a>.
+		</p><br/>
+<p class="index_news">
+<b>04/10/2010</b><br/>
+			The <a class="faq_link" href="search.php" title="Advanced search">BLAST search</a> has been improved. You can now visualize the ouput from BLAST and select relevant protein sequences to further query PROFESS.
+		</p><br/>
+<p class="index_news">
+<b>03/30/2010</b><br/>
+			Release 1.5 now includes sequences from Swiss-PROT and TrEMBL from <a class="faq_link" href="http://www.uniprot.org/" target="_blank">UniProt</a>. This major update also includes <a class="faq_link" href="http://eggnog.embl.de/" target="_blank">eggNOG</a>, which replaces the older COG/KOG database and significantly increases the number of orthologous clusters.
+		</p><br/>
+<p class="index_news">
+<b>02/21/2010</b><br/>
+			Release 1.2 enables BLASTP queries against sequences within PROFESS. BLAST queries are available on the <a class="faq_link" href="search.php" title="Advanced search">Advanced Search</a> page.
+		</p><br/>
+<p class="index_news">
+<b>08/12/2009</b><br/>
+			The <a class="faq_link" href="http://www.essentialgene.org/" target="_blank">Database of Essential Genes</a> and the <a class="faq_link" href="http://dip.doe-mbi.ucla.edu/" target="_blank">Database of Interacting Proteins</a> are now part of PROFESS 1.1.
+		</p><br/>
+<p class="index_news">
+<b>04/23/2009</b><br/>
+			Release of PROFESS 1.0, which integrates <a class="faq_link" href="http://www.cathdb.info/" target="_blank">CATH</a>, <a class="faq_link" href="http://www.ncbi.nlm.nih.gov/COG/" target="_blank">COG</a>, <a class="faq_link" href="http://www.chem.qmul.ac.uk/iubmb/enzyme/" target="_blank">EC</a>, <a class="faq_link" href="http://www.essentialgene.org/" target="_blank">Essential Genes in <i>E. coli</i></a>, <a class="faq_link" href="http://www.geneontology.org/" target="_blank">GO</a>, <a class="faq_link" href="http://www.genome.jp/kegg/ligand.html" target="_blank">KEGG Ligands</a>, <a class="faq_link" href="http://www.rcsb.org/" target="_blank">PDB</a>, <a class="faq_link" href="http://pfam.sanger.ac.uk/" target="_blank">PFAM</a>, <a class="faq_link" href="http://genome.cshlp.org/content/16/5/686.abstract" target="_blank">Protein/Protein interactions in <i>E. coli</i></a> and <a class="faq_link" href="http://www.uniprot.org/taxonomy/" target="_blank">UniProtKB Taxonomy</a>. If you would like a specific database to be integrated within PROFESS, contact us!
+		</p><br/>
+<p class="index_news">
+<b>04/07/2009</b><br/>
+			First public release of PROFESS 0.7 (beta). Note this version is still under development and some features are missing. Please help us to improve the system by sending us your feedback and comments.
+		</p><br/>
+</div>
+</div>
+<div id="waiter_panel">
+<div class="hd">Querying, please wait...</div>
+<div class="bd" style="overflow:hidden;"><img alt="Loading..." src="images/interface/loading.gif"/></div>
+<div class="ft">
+		Please do not refresh the page.
+	</div>
+</div>
+<script type="text/javascript">
+
+
+YAHOO.namespace("fessop");
+
+
+YAHOO.fessop.waiter_panel = new YAHOO.widget.Panel("waiter_panel", { width:"240px", modal:true, visible:true, fixedcenter:true, close:false, draggable:false, zindex:9999} );
+YAHOO.fessop.waiter_panel.render();
+YAHOO.fessop.waiter_panel.hide();
+
+
+
+YAHOO.fessop.index_news = new YAHOO.widget.Module("index_news");
+YAHOO.fessop.index_news.render();
+
+YAHOO.fessop.faq_links = new YAHOO.widget.Module("faq_links");
+YAHOO.fessop.faq_links.render();
+
+YAHOO.fessop.index_team = new YAHOO.widget.Module("index_team");
+YAHOO.fessop.index_team.render();
+
+YAHOO.fessop.index_search = new YAHOO.widget.Module("index_search");
+YAHOO.fessop.index_search.render();
+
+
+var index_sendSearchButton = new YAHOO.widget.Button("query", { onclick: { fn: customSubmit } });
+
+
+
+function customSubmit()   {
+	try{
+		document.body.style.overflow = 'none';
+		YAHOO.fessop.waiter_panel.show();
+		index_sendSearchButton.set('disabled',true);
+	} catch(err) {}
+	document.searchForm.submit();
+}
+
+
+// Takes appropriate action if IE7 or older
+function detectBrowser() {
+	if (/MSIE (\d+\.\d+);/.test(navigator.userAgent)){
+		var ieversion=new Number(RegExp.$1) ;
+		showText("<img src='images/interface/warning.png' alt='Warning' style='float:left;margin-right:20px;'><p style='color:#ffcc00;'>Your browser (Internet Explorer "+ieversion+") may slow down with largest clusters. <a href='faq.php#whichbrowsersarecompatiblewithprofess' style='color:#ffcc00;'>More information...</a></p><br><br>", 'errorbrowser');
+
+		if (ieversion<8) {
+			document.getElementById("quickquery_div").style.margin = '-4em 0 0 1.5em';
+			document.getElementById("quickquery_div").style.width = '600px';
+		}
+	}
+}
+
+
+detectBrowser();
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1996764-8");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

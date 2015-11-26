@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="ie iem7"><![endif]--><!--[if lt IE 7 ]><html class="ie ie6" lang="en"><![endif]--><!--[if IE 7 ]><html class="ie ie7" lang="en"><![endif]--><!--[if IE 8 ]><html class="ie ie8" lang="en"><![endif]--><!--[if (gte IE 9)|(gt IEMobile 7) ]><html class="ie" lang="en"><![endif]--><!--[if !(IEMobile) | !(IE)]><!--><html lang="en"><!-- InstanceBegin template="/Templates/fixed.dwt" codeOutsideHTMLIsLocked="false" --><!--<![endif]-->
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+<meta content="University of Nebraska-Lincoln | Web Developer Network" name="author"/>
+<meta content="initial-scale=1.0, width=device-width" name="viewport"/>
+<!-- For Microsoft -->
+<!--[if IE]>
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<![endif]-->
+<!-- For iPhone 4 -->
+<link href="/wdn/templates_4.0/includes/icons/h-apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+<!-- For iPad 1-->
+<link href="/wdn/templates_4.0/includes/icons/m-apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+<!-- For iPhone 3G, iPod Touch and Android -->
+<link href="/wdn/templates_4.0/includes/icons/l-apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed"/>
+<!-- For everything else -->
+<link href="/wdn/templates_4.0/includes/icons/favicon.ico" rel="shortcut icon"/>
+<!--
+    Membership and regular participation in the UNL Web Developer Network
+    is required to use the UNL templates. Visit the WDN site at 
+    http://wdn.unl.edu/. Click the WDN Registry link to log in and
+    register your unl.edu site.
+    All UNL template code is the property of the UNL Web Developer Network.
+    The code seen in a source code view is not, and may not be used as, a 
+    template. You may not use this code, a reverse-engineered version of 
+    this code, or its associated visual presentation in whole or in part to
+    create a derivative work.
+    This message may not be removed from any pages based on the UNL site template.
+    
+    $Id: fixed.dwt | 252c2891a48c70db689be6d897d4f34768b8258a | Thu Aug 1 15:08:19 2013 -0500 | Kevin Abel  $
+-->
+<!-- Load Cloud.typography fonts -->
+<link href="//cloud.typography.com/7717652/616662/css/fonts.css" media="all" rel="stylesheet" type="text/css"/>
+<!-- Load our base CSS file -->
+<!--[if gte IE 9]><!-->
+<link href="//unlcms.unl.edu/wdn/templates_4.0/css/all.css?dep=4.0.35" media="all" rel="stylesheet" type="text/css"/>
+<!--<![endif]-->
+<!-- Load the template JS file -->
+<script id="wdn_dependents" src="//unlcms.unl.edu/wdn/templates_4.0/scripts/compressed/all.js?dep=4.0.35" type="text/javascript"></script>
+<!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" media="all" href="//unlcms.unl.edu/wdn/templates_4.0/css/all_oldie.css?dep=4.0.35" />
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!-- For all IE versions, bring in the tweaks -->
+<!--[if IE]>
+    <link rel="stylesheet" type="text/css" media="all" href="//unlcms.unl.edu/wdn/templates_4.0/css/ie.css" />
+<![endif]-->
+<!-- Load the print styles -->
+<link href="//unlcms.unl.edu/wdn/templates_4.0/css/print.css" media="print" rel="stylesheet" type="text/css"/>
+<!-- InstanceBeginEditable name="doctitle" --><title>Academic Integrity Policy | Computer Science &amp; Engineering | University of Nebraska–Lincoln</title><!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" --><!-- Place optional header elements here -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="http://cse.unl.edu/" rel="home"/>
+<link href="http://cse.unl.edu/node/331" rel="shortlink"/>
+<base href="http://cse.unl.edu/"/>
+<meta content="Drupal 7 (http://drupal.org)" name="Generator"/>
+<link href="http://cse.unl.edu/academic-integrity-policy" rel="canonical"/>
+<link href="http://cse.unl.edu/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://cse.unl.edu/css/css_TZASMA-tn8wcD_3f-4ZLkqUj7GaVuQM8982ffwKEAC8.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://cse.unl.edu/css/css_MnXiytJtb186Ydycnpwpw34cuUsHaKc80ey5LiQXhSY.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://cse.unl.edu/css/css_0W-7vmZE_OOHzfISkqEXgtRQEgCry7hi_dWdyjicQ4Q.css" media="all" rel="stylesheet" type="text/css"/>
+<script src="http://cse.unl.edu/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js" type="text/javascript"></script>
+<script src="http://cse.unl.edu/js/js_IDBX5SzkJ9gGNq7x-qOE_2DZsexqguTJQGMKvi4w-Uw.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-57802722-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+  WDN.setPluginParam("idm", "login", "http://cse.unl.edu/user?destination=node/331");
+  WDN.setPluginParam("idm", "logout", "user/logout");
+
+//--><!]]>
+</script>
+<script src="http://cse.unl.edu/js/js_ftlcWLoD7Js98XLjiK6ihhdc_dZUm2QSh3iMQgyRNiE.js" type="text/javascript"></script>
+<script src="http://cse.unl.edu/js/js_Gjy5up1Zb1JJ5f-PrjXcTAon9SCO1EqifE9pd30EnT4.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"unl_four","theme_token":"DY5qjfcLALttMH29VNOnCsPyarq9yHQIqgnLAjdnY7A","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"1":1,"sites\/all\/modules\/unl\/unl.js":1,"public:\/\/custom\/custom_unl_four.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/unl_four\/css\/style.css":1,"sites\/all\/themes\/unl_four\/css\/book-overrides.css":1,"sites\/all\/themes\/unl_four\/css\/menu-block.css":1,"sites\/all\/themes\/unl_four\/css\/views.css":1,"public:\/\/custom\/custom_unl_four.css":1}},"unl":{"use_base_tag":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+<link href="includes/font-style.css" rel="stylesheet"/>
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet"/>
+<link href="includes/owl.carousel.css" rel="stylesheet"/>
+<link href="includes/owl.theme.css" rel="stylesheet"/>
+<script type="text/javascript">
+(function (d, t) {
+  var bh = d.createElement(t), s = d.getElementsByTagName(t)[0];
+  bh.type = 'text/javascript';
+  bh.src = '//www.bugherd.com/sidebarv2.js?apikey=axa0mgqmsdstehixcvox1a';
+  s.parentNode.insertBefore(bh, s);
+  })(document, 'script');
+</script>
+<script src="includes/cas.js"></script>
+<!-- InstanceEndEditable -->
+<!-- InstanceParam name="class" type="text" value="" -->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-331 node-type-page " data-version="4.0">
+<div class="region region-page-top page-top" id="page-top">
+</div>
+<nav class="skipnav" role="navigation">
+<a href="#maincontent">Skip Navigation</a>
+</nav>
+<div id="wdn_wrapper">
+<input class="wdn-content-slide wdn-input-driver" id="wdn_menu_toggle" type="checkbox" value="Show navigation menu"/>
+<noscript>
+<!-- This is a simple shim to provide vertical space for the noscript warning -->
+<div id="wdn_noscript_padding"></div>
+</noscript>
+<header class="wdn-content-slide wdn-band" id="header" role="banner">
+<div class="wdn-inner-wrapper">
+<div id="logo">
+<h3 class="wdn_list_descriptor wdn-text-hidden">Social Outposts</h3>
+<ul id="wdn_social">
+<li>
+<a class="wdn-icon-facebook-circled" href="https://www.facebook.com/UNLincoln">Facebook</a>
+</li>
+<li>
+<a class="wdn-icon-twitter-circled" href="https://twitter.com/UNLincoln">Twitter</a>
+</li>
+</ul>
+<a href="http://www.unl.edu/" id="wdn_logo_link" title="UNL website">UNL</a>
+</div>
+<div id="wdn_resources">
+<div aria-labelledby="wdn_idm_username" class="wdn-resource-label wdn-resource-login-trigger" id="wdn_identity_management" role="navigation">
+<div class="wdn-profile-options">
+<a accesskey="l" class="wdn-icon-user wdn-idm-login" href="https://login.unl.edu/cas/login" id="wdn_idm_username" title="Log in to UNL">
+            My.UNL Login
+        </a>
+<h3 class="wdn_list_descriptor wdn-text-hidden">Account Links</h3>
+<ul id="wdn_idm_user_options">
+<li id="wdn_idm_logout">
+<a href="https://login.unl.edu/cas/logout?url=http%3A//www.unl.edu/">Logout</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="wdn-resource-label" id="wdn_search">
+<form action="//www1.unl.edu/search/" id="wdn_search_form" method="get" role="search">
+<label class="wdn-icon-search" for="wdn_search_query">Search</label>
+<input accesskey="f" id="wdn_search_query" name="q" required="" type="search"/>
+<button title="Search" type="submit"></button>
+</form>
+</div>
+</div>
+<span id="wdn_institution_title">University of Nebraska–Lincoln</span>
+</div>
+<div class="wdn-share-this-page" id="wdn-main-share-button">
+<div class="wdn-share-button">
+<input class="wdn-input-driver" id="wdn_share_toggle" type="checkbox" value="Show share options"/>
+<label class="wdn-icon-share" for="wdn_share_toggle"><span class="wdn-text-hidden">Share This Page</span></label>
+<ul class="wdn-share-options">
+<li><a class="wdn-icon-link" href="http://go.unl.edu/?url=referer" id="wdn_createGoURL" rel="nofollow">Get a Go URL</a></li>
+<li class="outpost" id="wdn_emailthis"><a class="wdn-icon-mail" href="mailto:" rel="nofollow">Email this page</a></li>
+<li class="outpost" id="wdn_facebook"><a class="wdn-icon-facebook" href="https://www.facebook.com/sharer/sharer.php" rel="nofollow">Share on Facebook</a></li>
+<li class="outpost" id="wdn_twitter"><a class="wdn-icon-twitter" href="https://twitter.com/share" rel="nofollow">Share on Twitter</a></li>
+<li class="outpost" id="wdn_linkedin"><a class="wdn-icon-linkedin-squared" href="https://www.linkedin.com/shareArticle?mini=true" rel="nofollow">Share on LinkedIn</a></li>
+</ul>
+</div>
+</div>
+<div class="wdn-inner-wrapper">
+<div id="wdn_site_title">
+<span>
+<!-- InstanceBeginEditable name="titlegraphic" -->Computer Science &amp; Engineering<!-- InstanceEndEditable -->
+</span>
+</div>
+</div>
+</header>
+<div class="wdn-band" id="wdn_navigation_bar" role="navigation">
+<nav class="wdn-inner-wrapper" id="breadcrumbs">
+<!-- WDN: see glossary item 'breadcrumbs' -->
+<h3 class="wdn_list_descriptor wdn-text-hidden">Breadcrumbs</h3>
+<!-- InstanceBeginEditable name="breadcrumbs" -->
+<ul>
+<li><a href="http://www.unl.edu/">UNL</a></li><li><a href="http://cse.unl.edu/">Computer Science &amp; Engineering</a></li><li><a class="active-trail" href="http://cse.unl.edu/current-student">Current Student</a></li><li><a class="active-trail" href="http://cse.unl.edu/current-undergraduate">Undergraduate</a></li><li>Academic Integrity Policy</li></ul>
+<!-- InstanceEndEditable -->
+</nav>
+<div id="wdn_navigation_wrapper">
+<nav class="wdn-band" id="navigation" role="navigation">
+<h3 class="wdn_list_descriptor wdn-text-hidden">Navigation</h3>
+<!-- InstanceBeginEditable name="navlinks" -->
+<ul><li class="first expanded"><a href="http://cse.unl.edu/about">About</a><ul><li class="first leaf"><a href="http://cse.unl.edu/newsroom">News</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/facilities">Facilities</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/events">Events</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/contact-us">Contact Us</a></li>
+<li class="last leaf"><a href="http://cse.unl.edu/accreditation">ABET Accreditation</a></li>
+</ul>
+</li>
+<li class="expanded"><a href="http://cse.unl.edu/prospective-students">Prospective Student</a><ul><li class="first leaf"><a href="http://cse.unl.edu/undergraduate">Undergraduate</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/graduate">Graduate</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/scholarships">Scholarships &amp; Aid</a></li>
+<li class="last leaf"><a href="http://cse.unl.edu/careers">Careers in CSE</a></li>
+</ul>
+</li>
+<li class="expanded active-trail"><a class="active-trail" href="http://cse.unl.edu/current-student">Current Student</a><ul><li class="first leaf active-trail"><a class="active-trail" href="http://cse.unl.edu/current-undergraduate">Undergraduate</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/current-graduate">Graduate</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/get-involved">Get Involved</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/career-experience">Career Experience</a></li>
+<li class="last leaf"><a href="http://cse.unl.edu/honors">Honors</a></li>
+</ul>
+</li>
+<li class="expanded"><a href="http://cse.unl.edu/research-innovation">Research &amp; Innovation</a><ul><li class="first leaf"><a href="http://cse.unl.edu/research-groups-facilities">Groups &amp; Facilities</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/current-colloquium-series">Colloquium Series</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/innovation-lab">Innovation Lab</a></li>
+<li class="last leaf"><a href="http://cse.unl.edu/undergraduate-research">Undergraduate Research</a></li>
+</ul>
+</li>
+<li class="expanded"><a href="http://cse.unl.edu/faculty-staff">Faculty &amp; Staff</a><ul><li class="first leaf"><a href="http://cse.unl.edu/directory-group">Directory</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/facultysearch">Employment Opportunities</a></li>
+<li class="last leaf"><a href="https://cse.unl.edu/faculty/protected" title="">Faculty Resources</a></li>
+</ul>
+</li>
+<li class="last expanded"><a href="http://cse.unl.edu/alumni-friends">Alumni &amp; Friends</a><ul><li class="first leaf"><a href="http://cse.unl.edu/alumni-stories">Alumni Stories</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/give">Give</a></li>
+<li class="leaf"><a href="http://cse.unl.edu/schorr-center-rental">Schorr Center - Rental</a></li>
+<li class="last leaf"><a href="http://cse.unl.edu/nebraska-hall-of-computing">Hall of Computing</a></li>
+</ul>
+</li>
+</ul>
+<!-- InstanceEndEditable -->
+<label class="wdn-icon-menu" for="wdn_menu_toggle">Menu</label>
+</nav>
+</div>
+</div>
+<!-- Navigation Trigger -->
+<div class="wdn-menu-trigger wdn-content-slide">
+<label class="wdn-icon-menu" for="wdn_menu_toggle">Menu</label>
+</div>
+<!-- End navigation trigger -->
+<div class="wdn-content-slide" id="wdn_content_wrapper" role="main">
+<div class="wdn-band">
+<div class="wdn-inner-wrapper">
+<div id="pagetitle">
+<!-- InstanceBeginEditable name="pagetitle" --><h1>Academic Integrity Policy</h1><!-- InstanceEndEditable -->
+</div>
+</div>
+</div>
+<div class="wdn-main" id="maincontent">
+<!--THIS IS THE MAIN CONTENT AREA; WDN: see glossary item 'main content area' -->
+<!-- InstanceBeginEditable name="maincontentarea" -->
+<div class="wdn-band">
+<div class="region region-content content wdn-band" id="content">
+<div class="block block-system" id="block-system-main">
+<div class="content">
+<div class="node node-page" id="node-331">
+<div class="content">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden clearfix">
+<div class="field-items">
+<div class="field-item even"> <section class="wdn-grid">
+<div class="wdn-inner-wrapper add-padding-top">
+<h2>Academic Integrity</h2>
+<p>
+<a href="http://cse.unl.edu">Department of Computer Science and Engineering</a>
+<br/>
+<a href="http://www.unl.edu">University of Nebraska-Lincoln</a>
+<br/> Adopted May 3, 2001
+        </p>
+<p style="text-align: justify;">This document presents the position of the Department of Computer Science and Engineering, University of Nebraska-Lincoln, on the subject of Academic Integrity. This document is consistent with and expands on the University's overall 
+            <a href="http://stuafs.unl.edu/dos/code">Student Code of Conduct</a>, and is an adaptation (with permission) of 
+            <a href="http://dev.cs.gwu.edu/academics/integrity/cs_integrity">Academic Integrity in Computer Science</a>  from the Department of Computer Science, School of Engineering and Applied Science, George Washington University.
+        </p>
+<p style="text-align: justify;">It is the responsibility of each teacher, teaching assistant, researcher, and student to understand and vigorously promote and enforce this Policy for Academic Integrity. This document will be widely distributed and prominently displayed as a constant reminder of this policy.  Academic integrity and dishonesty are carefully defined and numerous examples of both are presented so that there can be little doubt where the line between the two lies.  Guidelines and procedures are given for enforcement of academic integrity.  Consequences are specified. An appeals process is presented that protects both the due process rights of the accused and the academic freedom of the instructor. Furthermore, all necessary assistance will be given to make available tools for the detection of dishonesty, develop techniques to avoid dishonesty, and further elucidate and promote professional ethics.</p>
+<h4 class="grayheader">Overview</h4>
+<ul>
+<li>The UNL CSE Department adheres to high standards for academic honor and integrity. CSE Department students, teachers, and staff will neither engage in nor tolerate academic dishonesty. This standard requires all individuals to report any information regarding violations to the CSE Department Chair. The CSE Department will pursue all reported violations and appropriately punish persons judged guilty of academic dishonesty.</li>
+<li>Academic dishonesty includes cheating, fabrication or falsification of student work, plagiarism, complicity in academic dishonesty, misrepresentation to avoid academic work, and failure to properly report any information regarding academic dishonesty. Examples include copying or allowing others to copy solutions from unauthorized sources (such as other students, textbooks, or the Internet), unauthorized collaboration with others (including tutors, TAs, and helpdesk staff), and modifying or deleting the files of others.</li>
+<li>Every student enrolled in a course, assisting someone enrolled in a course, or employed by the Department of Computer Science and Engineering is implicitly agreeing to abide by the following 
+                <i>Statement of Compliance with Academic Integrity Policy:</i>
+<br/>
+<ul>
+<li>I have read and agree to abide by the Academic Integrity Policy of the Department of Computer Science and Engineering. I understand that should I violate this policy, I will be subject to the consequences outlined in the policy.</li>
+</ul>
+</li>
+<li>Students found guilty of academic dishonesty will be punished as outlined in the policy, which may include failing the course or expulsion from the University.</li>
+</ul>
+<h4 class="grayheader">Definition</h4>
+<p>You are acting with academic integrity to the extent that you do your academic work honestly and ethically, and in particular:</p>
+<ul>
+<li>taking full credit for your own work, and giving full credit to others who have helped you, or whose work you have incorporated into your own.</li>
+<li>representing your own work honestly and accurately.</li>
+<li>cooperating with other students on academic exercises only where specifically authorized.</li>
+<li>properly reporting information regarding academic dishonesty.</li>
+</ul>
+<h4 class="grayheader">Why should I act with academic integrity?</h4>
+<ul>
+<li>
+<i>Pride in yourself:</i> You should be able to look at yourself in the mirror and see an honest, ethical person looking back.
+            </li>
+<li>
+<i>Pride in your work:</i> You should be able to tell yourself that you completed your work using your own knowledge and skills, without deceiving your colleagues, your instructors, or yourself.
+            </li>
+<li>
+<i>Pride in your profession:</i> You should make yourself ready to move on to subsequent courses, graduation, or employment fully prepared. If you have "cheated" in your work, taking credit for others' efforts, you have cheated yourself. The main reason you are in a university Computer Science and Engineering program is to learn to be a professional in this field, and if you cheat, probably you have not learned what you were supposed to learn.
+            </li>
+</ul>
+<h4 class="grayheader">Why should I care if others act with academic integrity?</h4>
+<ul>
+<li>
+<i>The value of your degree is reduced:</i> If you graduate from a program with a reputation for tolerating unethical or dishonest behavior, what will employers or graduate schools think of you? They will have no way to know that you were one of the honest ones.
+            </li>
+<li>
+<i>The world may be a more unpleasant place:</i>In every aspect of modern life we are dependent on computers and the software that operates them. Indeed, we trust our lives and our businesses to computers and software. Nearly all Computer Science and Engineering graduates will, at some point in their careers, be responsible for some important aspect of a computer system whose failure might hurt someone's business or body. Graduates who got their education on the strength of others' work, not their own, may well be incompetent and dangerous in the workplace.  For example:
+
+                <ul>
+<li>Would you drive a car whose computerized braking system was developed by former students you knew had cheated their way through school?</li>
+<li>Would you trust your credit card numbers to the e-commerce site developed by former students who cheated their way through school?</li>
+</ul>
+</li>
+</ul>
+</div>
+</section>
+<section class="wdn-band wdn-light-neutral-band">
+<div class="wdn-inner-wrapper add-padding-top">
+<h2 class="leader">Academic Dishonesty</h2>
+<h4 class="grayheader">Definition</h4>
+<p>According to the 
+            <a href="http://stuafs.unl.edu/dos/code">Student Code of Conduct</a>, Section 4.2,  academic dishonesty includes, but is not limited to, the following:
+        </p>
+<ol>
+<li>
+<b>
+<u>Cheating</u>
+</b>. Copying or attempting to copy from an academic test or examination of another student; using or attempting to use unauthorized materials, information, notes, study aids or other devices for an academic test, examination or exercise; engaging or attempting to engage the assistance of another individual in misrepresenting the academic performance of a student; or communicating information in an unauthorized manner to another person for an academic test, examination or exercise.
+            </li>
+<li>
+<b>
+<u>Fabrication or Falsification</u>
+</b>. Falsifying or fabricating any information or citation in any academic exercise, work, speech, test or examination. Falsification is the alteration of information, while fabrication is the invention or counterfeiting of information.
+            </li>
+<li>
+<b>
+<u>Plagiarism</u>
+</b>. Presenting the work of another as one's own (i.e., without proper acknowledgment of the source) and submitting examinations, theses, reports, speeches, drawings, laboratory notes or other academic work in whole or in part as one's own when such work has been prepared by another person or copied from another person.
+            </li>
+<li>
+<b>
+<u>Abuse of Academic Materials</u>
+</b>. Destroying, defacing, stealing, or making inaccessible library or other academic resource material.
+            </li>
+<li>
+<b>
+<u>Complicity in Academic Dishonesty</u>
+</b>. Helping or attempting to help another student to commit an act of academic dishonesty.
+            </li>
+<li>
+<b>
+<u>Falsifying Grade Reports</u>
+</b>. Changing or destroying grades, scores or markings on an examination or in an instructor's records.
+            </li>
+<li>
+<b>
+<u>Misrepresentation to Avoid Academic Work</u>
+</b>. Misrepresentation by fabricating an otherwise justifiable excuse such as illness, injury, accident, etc., in order to avoid or delay timely submission of academic work or to avoid or delay the taking of a test or examination.
+            </li>
+<li>
+<b>
+<u>Other</u>
+</b>. Academic units and members of the faculty may prescribe and give students prior notice of additional standards of conduct for academic honesty in a particular course, and violation of any such standard of conduct shall constitute misconduct under this Code of Conduct and the University Disciplinary Procedures.
+            </li>
+</ol>
+<h4 class="grayheader">Guidelines</h4>
+<p>Unless specifically prohibited by the instructor, it is acceptable to discuss the meaning of assignments. Discussing general approaches and strategies for solutions may be permissible, but unless specifically allowed, such communications should not include written material or code and should not transmit substantive or specific elements of a solution. In particular, shared flowcharts, pseudocode, code, or documentation are not allowed unless specifically permitted by the instructor.
+            <br/>
+<i>Any cooperation beyond discussing general approaches and general strategies, including shared pseudocode or flowcharts, shared code, or shared documentation, is not allowed unless specifically permitted by the instructor.</i>
+</p>
+<p>Courses involving computer programming require special consideration because use of the computer permits easy copying and trivial modification of programs. The following guidelines are provided to help in determining whether an incident of academic dishonesty has occurred.</p>
+<ul>
+<li>The instructor may suspect students of program plagiarism if they submit a program that is so similar to the program submitted by a present or past student in the course that one solution may be converted to the other by a simple mechanical transformation.</li>
+<li>The instructor may suspect students of cheating, whether on a program or an examination, if they cannot explain both the intricacies of their solution and the techniques and principles used to generate that solution.</li>
+<li>In a collaborative team assignment, the instructor may suspect a student of failure to adequately complete that  assignment if observation or questioning leads the instructor to believe the student has not shouldered an equitable portion of the burden in the assignment.</li>
+</ul>
+<p>All CSE students, teachers, and staff share in upholding high standards for academic honor and integrity. Consistent with this responsibility, the CSE Department standard of conduct requires all CSE students, teachers, and staff to report any and all information regarding academic dishonesty to the CSE Department Chair.</p>
+<h4 class="grayheader">Examples</h4>
+<p>The following lists are not intended to be exhaustive.</p>
+<p>
+<strong>You are 
+                <i>not</i> acting dishonestly if you
+            </strong>
+</p>
+<ul>
+<li>discuss generally class notes, handouts, practice problems and text material with other students;</li>
+<li>have permission to collaborate with other students on a project, and you list all collaborators;</li>
+<li>receive appropriate advice from instructors, teaching assistants, or staff members involved in the course;</li>
+<li>appropriately share knowledge with other students about syntax errors, coding tricks, or other language-specific information that makes programming easier;</li>
+<li>appropriately engage, with other students, in a general discussion of the nature of an assignment, the requirements for an assignment, or general implementation strategies, so long as no one is using a writing implement (computers included) or looking at any code (with the possible exception of helping another student debug their code, if this is permitted by the instructor);</li>
+<li>appropriately engage, with other students, in discussion of course concepts or programming strategies in preparation for an assignment or examination;</li>
+<li>copy code and cite its source 
+                <i>on assignments for which the instructor allows inclusion of code other than your own.</i>
+</li>
+</ul>
+<p>
+<strong>You 
+                <em>are</em> acting dishonestly if, unless specifically authorized by the instructor, you
+            </strong>
+</p>
+<ul>
+<li>turn in the work of any other person(s) (former students, friends, textbook authors, people on the Internet, etc.) and represent it as your own work;</li>
+<li>knowingly permit another person to turn in your work as his or her own work;</li>
+<li>copy material (code, documentation, etc.) from the work of another student;</li>
+<li>deliberately transform borrowed sections of code or other material in order to disguise its origin;</li>
+<li>fabricate compilation or execution results, represent a program that did not compile properly as one that did, or one that did not execute properly as one that did;</li>
+<li>collaborate with other persons on a project and fail to inform the instructor of this;</li>
+<li>steal or obtain examinations, answer keys, or program samples from the instructors' files or computer directories;</li>
+<li>use unauthorized materials during an open-book or closed-book examination, or communicate during an examination in an unauthorized way with another person;</li>
+<li>modify or delete another student's or an instructor's computer files;</li>
+<li>leave your work in an insecure area (unprotected file, open trash barrel, lab desk, recycle bin) where other students may easily access it;</li>
+<li>do not report information regarding academic dishonesty.</li>
+</ul>
+<h4 class="grayheader">Consequences</h4>
+<p>According to Section 4.2 b of the 
+            <a href="http://stuafs.unl.edu/dos/code">Student Code of Conduct</a>, In cases where an instructor finds that a student has committed any act of academic dishonesty, the instructor may in the exercise of his or her professional judgment impose an academic sanction as severe as giving the student a failing grade in the course. Before imposing an academic sanction the instructor shall first attempt to discuss the matter with the student. If deemed necessary by either the instructor or the student, the matter may be brought to the attention of the student's major adviser, the instructor's department chairperson or head, or the dean of the college in which the student is enrolled. When academic sanction is imposed which causes a student to receive a lowered course grade, the instructor shall make a report in writing of the facts of the case and the academic sanction imposed against the student to the instructor's department chairperson or head and to the Judicial Officer. The student shall be provided with a copy of this report. Further, the instructor may recommend the institution of disciplinary proceedings against the student for violation of this Code, if the instructor in the exercise of his or her professional judgment believes that such action is warranted. In addition to academic sanctions, one or more of the following disciplinary sanctions may be imposed: warning, restitution, probation, behavioral requirement, suspension, or expulsion, as outlined in Section 5 of the 
+            <a href="http://stuafs.unl.edu/dos/code">Student Code of Conduct</a> for more information about disciplinary actions.
+        </p>
+<p>It is CSE Department policy that all information regarding academic dishonesty shall be reported to the CSE Department Chair. The CSE Department Chair is to communicate these reports to the appropriate CSE Department Committee (the Academic Integrity and Grading Committee for undergraduate students, the CSE Graduate Committee for graduate students, and the CSE Faculty Advisory Committee for instructors and staff) for investigation and consideration of all related matters and of additional sanctions. Such sanctions may range from a reduced grade (including failure in the course) to expulsion from the department or university.</p>
+<h4 class="grayheader">Appeals</h4>
+<p>Students who believe they are not guilty of academic dishonesty or believe that the academic sanction imposed by the course instructor is too severe, may appeal to the chair of the Department of Computer Science and Engineering.   The chair may turn the matter over to an appropriate committee (the Undergraduate Advising Committee, the Graduate Committee, or an ad hoc committee). The committee will meet with the student and the instructor, review the evidence, and make a recommendation to the instructor regarding the incident.  The instructor will review the recommendation, and may or may not amend the original decision.  If the student is not satisfied with the outcome of the appeal within the department, he is free to appeal at the university level as permitted in Section 4.2.c and d of the 
+            <a href="http://stuafs.unl.edu/dos/code">Student Code of Conduct</a> : c. In cases where an instructor's finding of academic dishonesty is admitted by the student and an academic sanction is imposed by the instructor which the student believes to be too severe, the student shall have the right to appeal the severity of the academic sanction through the applicable grade appeal procedure.
+            <br/> d. In cases where an instructor's finding of academic dishonesty is disputed by the student, the matter shall be referred to the Judicial Officer for disposition in accordance with the University Disciplinary Procedures. Any academic sanction imposed by the instructor shall be held in abeyance pending a final decision of guilt or innocence under the University Disciplinary Procedures. If it is determined through these procedures that the student is not guilty of academic dishonesty, the instructor's academic sanction shall be set aside. If it is determined that the student is guilty of academic dishonesty, the instructor's academic sanction shall be imposed in addition to any disciplinary sanction which may be imposed under the University Disciplinary Procedures, subject to the student's right to appeal the severity of the academic sanction through the applicable grade appeal procedure.
+        </p>
+</div>
+</section>
+<section class="wdn-grid">
+<div class="wdn-inner-wrapper add-padding-top">
+<h4 class="grayheader">Faculty, Staff, Graduate and Undergraduate TAs, Tutors, and Helpdesk staff:</h4>
+<ol>
+<li>Anyone who works for the Department of Computer Science and Engineering is required to read and understand the academic integrity policy, and sign a statement saying they understand and agree to abide by the policy.</li>
+<li>The Department of Computer Science and Engineering will pursue the dismissal of anyone found guilty of academic dishonesty, and additional sanctions may be imposed.</li>
+</ol>
+<h4 class="grayheader">Related Links</h4>
+<ul class="links">
+<li>
+<a href="http://stuafs.unl.edu/dos/code">Student Code of Conduct, UNL</a>
+</li>
+<li>
+<a href="http://dev.cs.gwu.edu/academics/integrity/cs_integrity">Academic Integrity in Computer Science</a>, Department of Computer Science, George Washington University
+            </li>
+<li>
+<a href="http://onlineethics.org">onlineethics.org</a>, Online Ethics Center for Engineering and Science
+            </li>
+<li>
+<a href="http://www.acm.org/constitution/code.html">ACM Code of Ethics</a>
+</li>
+<li>
+<a href="http://www.ieee.org/about/corporate/governance/p7-8.html">IEEE Code of Ethics</a>
+</li>
+</ul>
+</div>
+</section> </div>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+<!-- InstanceEndEditable -->
+<!--THIS IS THE END OF THE MAIN CONTENT AREA.-->
+</div>
+</div>
+<div class="wdn-band wdn-content-slide" id="wdn_optional_footer">
+<div class="wdn-inner-wrapper">
+<!-- InstanceBeginEditable name="optionalfooter" -->
+<div class="region region-optionalfooter optionalfooter" id="optionalfooter">
+<div class="block block-block" id="block-block-103">
+<div class="content">
+</div>
+</div>
+</div>
+<!-- InstanceEndEditable -->
+</div>
+</div>
+<footer class="wdn-content-slide" id="footer" role="contentinfo">
+<div class="wdn-band" id="wdn_footer_related">
+<div class="wdn-inner-wrapper">
+<!-- InstanceBeginEditable name="leftcollinks" -->
+<div class="region region-leftcollinks leftcollinks" id="leftcollinks">
+<div class="block block-block" id="block-block-102">
+<h3>Related Links</h3>
+<div class="content">
+<ul>
+<li><a href="http://events.unl.edu/">UNL Events Calendar</a></li>
+<li><a href="http://cas.unl.edu/">College of Arts &amp; Science</a></li>
+<li><a href="http://engineering.unl.edu/">College of Engineering</a></li>
+<!--li><a href="http://ucomm.unl.edu/">University Communications</a></li-->
+<li><a href="http://www.unl.edu/chancellor/">Office of the Chancellor</a></li>
+</ul> </div>
+</div>
+</div>
+<!-- InstanceEndEditable -->
+</div>
+</div>
+<div class="wdn-band">
+<div class="wdn-inner-wrapper">
+<div class="footer_col" id="wdn_footer_contact">
+<h3>Contact Us</h3>
+<div class="wdn-contact-wrapper">
+<!-- InstanceBeginEditable name="contactinfo" -->
+<div class="region region-contactinfo contactinfo" id="contactinfo">
+<div class="block block-block" id="block-block-101">
+<div class="content">
+<p><strong>Department of Computer Science &amp; Engineering</strong><br/> 256 Avery Hall<br/> Lincoln, NE 68588-0115<br/>Phone: 402-472-2401</p> </div>
+</div>
+</div>
+<!-- InstanceEndEditable -->
+</div>
+</div>
+<div id="wdn_copyright">
+<div class="wdn-footer-text">
+<!-- InstanceBeginEditable name="footercontent" -->
+<div class="region region-footercontent footercontent" id="footercontent">
+<div class="block block-block" id="block-block-104">
+<div class="content">
+     © 2015 University of Nebraska–Lincoln | Lincoln, NE 68588 | 402-472-7211 | <a href="http://www.unl.edu/about-unl/" title="Click here to know more about UNL">About UNL</a><br/> UNL is an equal opportunity employer with a comprehensive plan for diversity. Find out more: <a href="https://employment.unl.edu/" target="_blank" title="Employment at UNL">employment.unl.edu</a> </div>
+</div>
+</div>
+<!-- InstanceEndEditable -->
+<span id="wdn_attribution"><br/><a href="http://www.unl.edu/equity/notice-nondiscrimination">Notice of Nondiscrimination</a><br/><br/>UNL web templates and quality assurance provided by the <a href="http://wdn.unl.edu/" title="UNL Web Developer Network">Web Developer Network</a> · <a href="https://webaudit.unl.edu/qa-test/" id="wdn_qa_link">QA Test</a></span>
+</div>
+<div id="wdn_logos">
+<div class="wdn-float-center">
+<a href="http://www.unl.edu/" id="unl_wordmark">UNL Home</a>
+<a href="http://www.bigten.org/" id="b1g_wordmark">Big Ten Website</a>
+<a href="http://www.cic.net/home" id="cic_wordmark">CIC Website</a>
+<a href="http://go.unl.edu/86bw" id="tips_wordmark">TIPS Incident Reporting</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Not currently used -->
+</footer>
+<noscript>
+<div id="wdn_noscript">
+<p class="wdn-content-slide">
+            Some parts of this site work best with JavaScript enabled.
+        </p>
+</div>
+</noscript>
+</div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Matt Dwyer's Contact Information</title>
+</head>
+<body>
+<h1>My official title is</h1>
+<em>Leonard A. Lovell Professor of Software Engineering</em><br/>
+<p>
+</p><h1>My official address is</h1>
+   Department of Computer Science and Engineering<br/>
+   256 Avery Hall<br/>
+   University of Nebraska<br/>
+   Lincoln, NE 68588-0115<br/>
+<p>
+</p><h1>Getting in contact with me</h1>
+   email: name@machine where name=dwyer, machine=cse.unl.edu<br/>
+   in person: Mon.-Th. 256 Avery Hall (2nd floor, North East Corner)<br/>
+   in person: Fri. 359 Avery Hall (3rd floor, North West Corner)<br/>
+   phone: (402) 472-2186<br/>
+   fax: (402) 472-7767<br/>
+</body>
+</html>

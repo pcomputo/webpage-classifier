@@ -1,0 +1,70 @@
+<html>
+<head><title>Leen-Kiat Soh's RAIK183 Page</title>
+</head><body background="images/nothing.gif" bgcolor="white" link="#0000FF" text="#000000">
+<font face="arial">
+<hr/><br/><br/>
+<font size="+1">RAIK 183H Computer Problem Solving Essentials Fall 2014</font><br/><br/>
+<hr/>
+<font color="red" size="+1"> NEW!! Exam 1 Solution!, Handouts, Clicker Quizzes, HWs,
+Labs</font><br/><hr/>
+<ul><li>
+<a href="http://cse.unl.edu/~raik183h/handin">
+How to Handin your Programming HW Online?</a>
+</li></ul>
+<ul><li>
+<a href="syllabus.pdf">
+Class Syllabus <font color="red"></font></a>
+</li></ul>
+<ul><li>
+<a href="schedule.pdf">
+Class Schedule</a>
+</li></ul>
+<ul><li>
+<a href="handouts.html">
+Handouts</a>
+</li></ul>
+<ul><li>
+<a href="programs.html">
+Test Programs</a>
+</li></ul>
+<ul><li>
+<a href="homeworks.html">
+Homework Assignments</a>
+</li></ul>
+<ul><li>
+<a href="labs.html">
+Laboratory Assignments</a>
+</li></ul>
+<ul><li>
+<a href="forums.html">
+In-Class Forums</a>
+</li></ul>
+<ul><li>
+<a href="prs.html">
+Clicker Quizzes</a>
+</li></ul>
+<ul><li>
+<a href="exams.html">
+Exams</a>
+</li></ul>
+<ul><li>
+<a href="resources.html">
+Resources</a>
+</li></ul>
+<br/>
+<hr/><br/>
+<a href="http://blackboard.unl.edu/">Blackboard</a>
+<br/><br/>
+<hr/><br/>
+<img src="../../images/blueballs.jpeg"/>
+<i>
+<script language="JavaScript">
+   <!--  to hide script contents from old browsers
+    document.write("<I>  Last Updated: " + document.lastModified + "  </I>")
+   // end hiding contents from old browsers  -->
+ </script>
+</i>
+<br/>
+</font>
+</body>
+</html>

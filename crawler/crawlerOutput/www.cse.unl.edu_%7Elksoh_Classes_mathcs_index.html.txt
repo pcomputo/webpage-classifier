@@ -1,0 +1,53 @@
+<html>
+<head><title>Leen-Kiat Soh's MATH+CS Resource Page</title>
+</head><body background="images/nothing.gif" bgcolor="white" link="#0000FF" text="#000000">
+<font face="arial">
+<hr/><br/>
+<font size="+1">Mathematics + Computer Science Resource Page</font><br/><br/>
+<ul><li>
+In the September 2003 issue of Communications of the ACM, there is a
+special discussion on why CS students are required to take Math classes.  Here
+are the articles.
+
+<ul><li>Devlin, K. (2003).  Why Universities Require Computer Science Students
+to Take Math, Communications of the ACM, vol. 46, no. 9, pp. 37-39.
+<a href="devlin2003.pdf">Download PDF</a>
+</li></ul>
+<ul><li>Bruce, K. B., R. L. S. Drysdale, C. Kelemen, and A. Tucker (2003).  Why
+Math?, Communications of the ACM, vol. 46, no. 9, pp. 41-44.
+<a href="bruceetal2003.pdf">Download PDF</a>
+</li></ul>
+<ul><li>Henderson, P. B. (2003).  Mathematical Reasoning in Software
+Engineering, Communications of the ACM, vol. 46, no. 9, pp. 45-50.
+<a href="henderson2003.pdf">Download PDF</a>
+</li></ul>
+<ul><li>Almstrum, V. L. (2003).  What is the Attraction to Computing?,
+Communications of the ACM, vol. 46, no. 9, pp. 51-55.
+<a href="almstrum2003.pdf">Download PDF</a>
+</li></ul>
+</li></ul>
+<ul><li>
+Final Report of the Joint ACM/IEEE Task Force on Computing Curricula 2001. 
+<a href="http://www.computer.org/education/cc2001/final/index.htm" target="TOP">Link</a>
+</li></ul>
+<ul><li>
+SIGCSE Committee on the Implementation of a Discrete Mathematics Course (I am a
+member), facilitated by Doug Baldwin and Bill Marion
+<ul><li>Uses of Discrete Math in CS
+<a href="http://webs.wofford.edu/sloanjd/DMUses.htm" target="TOP">Link</a>
+</li></ul>
+</li></ul>
+<br/>
+<hr/><br/>
+<img src="../../images/blueballs.jpeg"/>
+<i>
+<script language="JavaScript">
+   <!--  to hide script contents from old browsers
+    document.write("<I>  Last Updated: " + document.lastModified + "  </I>")
+   // end hiding contents from old browsers  -->
+ </script>
+</i>
+<br/>
+</font>
+</body>
+</html>

@@ -1,0 +1,196 @@
+<html xmlns="http://www.w3.org/TR/REC-html40" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Word.Document" name="ProgId"/>
+<meta content="Microsoft Word 10" name="Generator"/>
+<meta content="Microsoft Word 10" name="Originator"/>
+<link href="Intro_files/filelist.xml" rel="File-List"/>
+<title>Introduction</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>lksoh</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>lksoh</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>2</o:TotalTime>
+  <o:Created>2005-04-19T19:01:00Z</o:Created>
+  <o:LastSaved>2005-04-19T19:01:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>301</o:Words>
+  <o:Characters>1718</o:Characters>
+  <o:Company>University Of Nebraska</o:Company>
+  <o:Lines>14</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2015</o:CharactersWithSpaces>
+  <o:Version>10.4219</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:DrawingGridHorizontalSpacing>3.9 pt</w:DrawingGridHorizontalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:553679495 -2147483648 8 0 66047 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:297342150;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1345513754 123524082 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;
+	color:blue;}
+@list l1
+	{mso-list-id:441612586;
+	mso-list-type:hybrid;
+	mso-list-template-ids:247396770 123524082 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;
+	color:blue;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]-->
+</head>
+<body lang="EN-US" link="blue" style="tab-interval:.5in" vlink="purple">
+<div class="Section1">
+<div style="border-top:solid windowtext 1.0pt;border-left:none;border-bottom:
+solid windowtext 1.0pt;border-right:none;mso-border-top-alt:solid windowtext .5pt;
+mso-border-bottom-alt:solid windowtext .5pt;padding:1.0pt 0in 1.0pt 0in">
+<p class="MsoNormal" style="text-align:justify;border:none;mso-border-top-alt:
+solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:0in;
+mso-padding-alt:1.0pt 0in 1.0pt 0in"><span style="font-size:14.0pt;font-family:
+Tahoma;color:blue">Initiative's Objectives<o:p></o:p></span></p>
+</div>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:14.0pt;
+font-family:Tahoma;color:#3366FF"><o:p> </o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span class="SpellE"><span style="font-size:14.0pt;font-family:Tahoma;color:#3366FF">Phenology</span></span><span style="font-size:14.0pt;font-family:Tahoma;color:#3366FF"> studies the seasonal
+timing of different developmental stages and the life cycles of plants and
+animals.<span style="mso-spacerun:yes">  </span>Understanding the processes
+that impact these developmental stages and forecasting <span class="SpellE">phenological</span>
+stages are important to growers, food processors, crop insurance and seed
+companies,<span style="mso-spacerun:yes">  </span>the commodities markets, and
+those who enjoy the aesthetics of plants.<span style="mso-spacerun:yes"> 
+</span>Similarly, climate change modeling and satellite-based forecasting
+systems need basic <span class="SpellE">phenology</span> networks and models to
+interpret their spectral data, especially the “greenness” or photosynthetic
+response to the environment.<span style="mso-spacerun:yes">  </span>In Nebraska
+and the High Plains region, a <span class="SpellE">phenology</span> network and
+the resulting models are needed to:<span style="mso-spacerun:yes">  </span>1)
+simulate alternative crop adaptation and rotations, 2) better target genotypes
+with value added quality traits to the landscape, 3) improve irrigation water
+management, 4) design new decision support systems for integrated pest
+management and organic <span class="SpellE">agroecosystems</span>, forecast
+insect and plant disease outbreaks, and 5) provide the <span class="SpellE">cyberinfrastructure</span>
+that can lead to information fusion for complex ecosystems and societies.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><i><span style="font-size:14.0pt;
+font-family:Tahoma;color:#3366FF"><o:p> </o:p></span></i></p>
+<p class="MsoNormal" style="text-align:justify"><i><span style="font-size:14.0pt;
+font-family:Tahoma;color:#3366FF"><o:p> </o:p></span></i></p>
+<div style="border-top:solid windowtext 1.0pt;border-left:none;border-bottom:
+solid windowtext 1.0pt;border-right:none;mso-border-top-alt:solid windowtext .5pt;
+mso-border-bottom-alt:solid windowtext .5pt;padding:1.0pt 0in 1.0pt 0in">
+<p class="MsoNormal" style="text-align:justify;border:none;mso-border-top-alt:
+solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:0in;
+mso-padding-alt:1.0pt 0in 1.0pt 0in"><span style="font-size:14.0pt;font-family:
+Tahoma;color:blue;mso-bidi-font-style:italic">What is <span class="SpellE">Phenology</span>?<o:p></o:p></span></p>
+</div>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:14.0pt;
+font-family:Tahoma;color:#3366FF"><o:p> </o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span class="SpellE"><span style="font-size:14.0pt;font-family:Tahoma;color:#3366FF">Phenology</span></span><span style="font-size:14.0pt;font-family:Tahoma;color:#3366FF"> is the study of the
+seasonal timing of different developmental stages, or more simply the life
+cycles of plant and animals (after Bradley et al., 1999).<span style="mso-spacerun:yes">  </span><span class="SpellE">Organismal</span> <span class="SpellE">phenological</span> development is driven by thermal time and
+modified by genes that control <span class="SpellE">vernalization</span> (or
+dormancy) and photoperiod.<span style="mso-spacerun:yes">  </span>At the
+ecosystem level, there is a critical need to understand how the <span class="SpellE">phenology</span> of the myriad of co-existing organisms are
+related to each other so that partial information from these organisms can be
+used to develop an <span class="SpellE">indepth</span> understanding of<span style="mso-spacerun:yes">  </span>the ecosystem.<span style="mso-spacerun:yes">  </span>For example, we hope to integrate information
+from key cultivars (wheat, soybeans, corn, grapes, and ornamentals) and
+indicator species (prairie grasses or threatened/endangered species) to develop
+a rich understanding of ecosystem health and its response to environmental
+change.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:14.0pt;
+font-family:Tahoma;color:#3366FF"><o:p> </o:p></span></p>
+<p class="MsoNormal"><o:p> </o:p></p>
+</div>
+</body>
+</html>

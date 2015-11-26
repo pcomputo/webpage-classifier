@@ -1,0 +1,1839 @@
+<html xmlns="http://www.w3.org/TR/REC-html40" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Word.Document" name="ProgId"/>
+<meta content="Microsoft Word 11" name="Generator"/>
+<meta content="Microsoft Word 11" name="Originator"/>
+<link href="buddygroup3.0_files/filelist.xml" rel="File-List"/>
+<link href="buddygroup3.0_files/editdata.mso" rel="Edit-Time-Data"/>
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>CXP+I-MINDS BuddyGroup 3.0</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Leen-Kiat Soh</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Leen-Kiat Soh</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>102</o:TotalTime>
+  <o:Created>2006-12-11T20:57:00Z</o:Created>
+  <o:LastSaved>2006-12-11T20:57:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>3447</o:Words>
+  <o:Characters>19650</o:Characters>
+  <o:Company>University of Nebraska-Lincoln</o:Company>
+  <o:Lines>163</o:Lines>
+  <o:Paragraphs>46</o:Paragraphs>
+  <o:CharactersWithSpaces>23051</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DrawingGridHorizontalSpacing>3.9 pt</w:DrawingGridHorizontalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+@font-face
+	{font-family:"Eras Medium ITC";
+	panose-1:2 11 6 2 3 5 4 2 8 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+ /* Page Definitions */
+ @page
+	{mso-footnote-separator:url("buddygroup3.0_files/header.htm") fs;
+	mso-footnote-continuation-separator:url("buddygroup3.0_files/header.htm") fcs;
+	mso-endnote-separator:url("buddygroup3.0_files/header.htm") es;
+	mso-endnote-continuation-separator:url("buddygroup3.0_files/header.htm") ecs;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-footer:url("buddygroup3.0_files/header.htm") f1;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:7222870;
+	mso-list-template-ids:-1551751244;}
+@list l0:level1
+	{mso-level-start-at:5;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l0:level2
+	{mso-level-start-at:3;
+	mso-level-text:"%1\.%2\.";
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l0:level3
+	{mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l0:level4
+	{mso-level-text:"%1\.%2\.%3\.%4\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l0:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l0:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l0:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l0:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l0:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9\.";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-1.25in;}
+@list l1
+	{mso-list-id:41753724;
+	mso-list-template-ids:-857811366;}
+@list l1:level1
+	{mso-level-start-at:5;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l1:level2
+	{mso-level-start-at:2;
+	mso-level-text:"%1\.%2\.";
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l1:level3
+	{mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l1:level4
+	{mso-level-text:"%1\.%2\.%3\.%4\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l1:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l1:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l1:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l1:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l1:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9\.";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-1.25in;}
+@list l2
+	{mso-list-id:161505768;
+	mso-list-template-ids:-1360114470;}
+@list l2:level1
+	{mso-level-start-at:5;
+	mso-level-text:%1;
+	mso-level-tab-stop:21.0pt;
+	mso-level-number-position:left;
+	margin-left:21.0pt;
+	text-indent:-21.0pt;}
+@list l2:level2
+	{mso-level-start-at:6;
+	mso-level-text:"%1\.%2";
+	mso-level-tab-stop:21.0pt;
+	mso-level-number-position:left;
+	margin-left:21.0pt;
+	text-indent:-21.0pt;}
+@list l2:level3
+	{mso-level-text:"%1\.%2\.%3";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l2:level4
+	{mso-level-text:"%1\.%2\.%3\.%4";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l2:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l2:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l2:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l2:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l2:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-1.25in;}
+@list l3
+	{mso-list-id:401021970;
+	mso-list-template-ids:67698719;}
+@list l3:level1
+	{mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l3:level2
+	{mso-level-text:"%1\.%2\.";
+	mso-level-tab-stop:.55in;
+	mso-level-number-position:left;
+	margin-left:.55in;
+	text-indent:-.3in;}
+@list l3:level3
+	{mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:.85in;
+	text-indent:-.35in;}
+@list l3:level4
+	{mso-level-text:"%1\.%2\.%3\.%4\.";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.2in;
+	text-indent:-.45in;}
+@list l3:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.";
+	mso-level-tab-stop:1.75in;
+	mso-level-number-position:left;
+	margin-left:1.55in;
+	text-indent:-.55in;}
+@list l3:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.";
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	margin-left:1.9in;
+	text-indent:-.65in;}
+@list l3:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.";
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.75in;}
+@list l3:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.";
+	mso-level-tab-stop:2.75in;
+	mso-level-number-position:left;
+	margin-left:2.6in;
+	text-indent:-.85in;}
+@list l3:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9\.";
+	mso-level-tab-stop:3.25in;
+	mso-level-number-position:left;
+	margin-left:3.0in;
+	text-indent:-1.0in;}
+@list l4
+	{mso-list-id:511336590;
+	mso-list-template-ids:-178110078;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";}
+@list l4:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5
+	{mso-list-id:666596486;
+	mso-list-type:hybrid;
+	mso-list-template-ids:630462882 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l5:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l6
+	{mso-list-id:974409306;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1154804292 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l6:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l7
+	{mso-list-id:1026298060;
+	mso-list-type:hybrid;
+	mso-list-template-ids:97148078 67698703 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l7:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8
+	{mso-list-id:1400522406;
+	mso-list-template-ids:8268542;}
+@list l8:level1
+	{mso-level-start-at:2;
+	mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l8:level2
+	{mso-level-start-at:2;
+	mso-level-text:"%1\.%2\.";
+	mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l8:level3
+	{mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l8:level4
+	{mso-level-text:"%1\.%2\.%3\.%4\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l8:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l8:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l8:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l8:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l8:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9\.";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-1.25in;}
+@list l9
+	{mso-list-id:1482385987;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1421311854 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l9:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l10
+	{mso-list-id:1513304062;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1539169644 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l10:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l11
+	{mso-list-id:1557813584;
+	mso-list-template-ids:817001020;}
+@list l11:level1
+	{mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;}
+@list l11:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l11:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:1.75in;
+	mso-level-number-position:right;
+	margin-left:1.75in;
+	text-indent:-9.0pt;}
+@list l11:level4
+	{mso-level-tab-stop:2.25in;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;}
+@list l11:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:2.75in;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-.25in;}
+@list l11:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:3.25in;
+	mso-level-number-position:right;
+	margin-left:3.25in;
+	text-indent:-9.0pt;}
+@list l11:level7
+	{mso-level-tab-stop:3.75in;
+	mso-level-number-position:left;
+	margin-left:3.75in;
+	text-indent:-.25in;}
+@list l11:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:4.25in;
+	mso-level-number-position:left;
+	margin-left:4.25in;
+	text-indent:-.25in;}
+@list l11:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:4.75in;
+	mso-level-number-position:right;
+	margin-left:4.75in;
+	text-indent:-9.0pt;}
+@list l12
+	{mso-list-id:1638876036;
+	mso-list-template-ids:-586227194;}
+@list l12:level1
+	{mso-level-start-at:2;
+	mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l12:level2
+	{mso-level-start-at:2;
+	mso-level-text:"%1\.%2\.";
+	mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l12:level3
+	{mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l12:level4
+	{mso-level-text:"%1\.%2\.%3\.%4\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l12:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l12:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l12:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l12:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l12:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9\.";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-1.25in;}
+@list l13
+	{mso-list-id:1701975280;
+	mso-list-type:hybrid;
+	mso-list-template-ids:817001020 389174540 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l13:level1
+	{mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;}
+@list l13:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l13:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:1.75in;
+	mso-level-number-position:right;
+	margin-left:1.75in;
+	text-indent:-9.0pt;}
+@list l14
+	{mso-list-id:1759598108;
+	mso-list-template-ids:1246771732;}
+@list l14:level1
+	{mso-level-start-at:2;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.5in;}
+@list l14:level2
+	{mso-level-start-at:2;
+	mso-level-text:"%1\.%2\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l14:level3
+	{mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l14:level4
+	{mso-level-text:"%1\.%2\.%3\.%4\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l14:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l14:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l14:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l14:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l14:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9\.";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-1.25in;}
+@list l15
+	{mso-list-id:1794977799;
+	mso-list-template-ids:-78195586;}
+@list l15:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l15:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l15:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l15:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l15:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l15:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l15:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l15:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l15:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l16
+	{mso-list-id:1834565737;
+	mso-list-type:hybrid;
+	mso-list-template-ids:151038254 546193732 67698713 -910909366 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l16:level1
+	{mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;}
+@list l16:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l16:level3
+	{mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:1.75in;
+	mso-level-number-position:right;
+	margin-left:1.75in;
+	text-indent:-9.0pt;
+	mso-ascii-font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+@list l17
+	{mso-list-id:1885023886;
+	mso-list-template-ids:817001020;}
+@list l17:level1
+	{mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;}
+@list l17:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l17:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:1.75in;
+	mso-level-number-position:right;
+	margin-left:1.75in;
+	text-indent:-9.0pt;}
+@list l17:level4
+	{mso-level-tab-stop:2.25in;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;}
+@list l17:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:2.75in;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-.25in;}
+@list l17:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:3.25in;
+	mso-level-number-position:right;
+	margin-left:3.25in;
+	text-indent:-9.0pt;}
+@list l17:level7
+	{mso-level-tab-stop:3.75in;
+	mso-level-number-position:left;
+	margin-left:3.75in;
+	text-indent:-.25in;}
+@list l17:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:4.25in;
+	mso-level-number-position:left;
+	margin-left:4.25in;
+	text-indent:-.25in;}
+@list l17:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:4.75in;
+	mso-level-number-position:right;
+	margin-left:4.75in;
+	text-indent:-9.0pt;}
+@list l18
+	{mso-list-id:1945650735;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1632768644 -910909366 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l18:level1
+	{mso-level-text:"%1\.\.\.";
+	mso-level-tab-stop:1.75in;
+	mso-level-number-position:right;
+	margin-left:1.75in;
+	text-indent:-9.0pt;
+	mso-ascii-font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+@list l19
+	{mso-list-id:1960062389;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1514810882 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l19:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+<body lang="EN-US" link="blue" style="tab-interval:.5in" vlink="purple">
+<div class="Section1">
+<table border="0" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
+<td style="width:90.9pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="121">
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+   coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+   filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:80.25pt;
+   height:81.75pt'>
+   <v:imagedata src="buddygroup3.0_files/image001.png" o:title="IMINDSLogo"/>
+  </v:shape><![endif]--><img height="109" src="buddygroup3.0_files/image002.gif" v:shapes="_x0000_i1025" width="107"/><o:p></o:p></span></b></p>
+</td>
+<td style="width:387.9pt;padding:0in 5.4pt 0in 5.4pt" width="517">
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-size:36.0pt;font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Tahoma'>CXP-Powered I-MINDS <o:p></o:p></span></b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-size:36.0pt;font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Tahoma;color:#99CC00'>Capabilities 3.0</span></b><b style="mso-bidi-font-weight:
+  normal"><span style='font-size:36.0pt;font-family:"Eras Medium ITC";
+  color:#99CC00'><o:p></o:p></span></b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></b></p>
+</td>
+</tr>
+</table>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<div align="center">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="width:485.95pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="648">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;background:red;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds.html"><span style="text-decoration:
+  none;text-underline:none">HOME</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/current.html"><span style="text-decoration:none;text-underline:none">CURRENT STATUS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:red;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/capabilities.html"><span style="text-decoration:none;text-underline:none">CXP+I-MINDS CAPABILITIES</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/team.html"><span style="text-decoration:none;text-underline:none">TEAM</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:green;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/history.html"><span style="color:white;text-decoration:none;text-underline:none">HISTORY</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/publications.html"><span style="color:white;text-decoration:none;text-underline:none">PUBLICATIONS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:green;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/distribution.html"><span style="color:white;text-decoration:none;text-underline:none">SOFTWARE
+  DISTRIBUTION</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/contact.html"><span style="color:white;text-decoration:none;text-underline:none">CONTACT</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+</table>
+</div>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><b style="mso-bidi-font-weight:
+normal"><span style='font-size:16.0pt;font-family:"Eras Medium ITC";color:#99CC00'>BuddyGroup
+3.0<o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>This BuddyGroup
+capability was completed in February 2006 and revised in May 2006, and revised
+again in December 2006.<span style="mso-spacerun:yes">  </span>It has advanced
+message management, statistics display, and student group support.<span style="mso-spacerun:yes">  </span>All messages are tracked and themed using a
+message tree, allowing I-MINDS to track in fine resolution every group
+discussion.<span style="mso-spacerun:yes">  </span>It also computes statistics
+on the fly, allowing a student to monitor how his or her buddies (peers) have
+been doing in the group.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>This capability
+is the “bread-and-butter” of I-MINDS: it collects and analyzes data
+automatically for our student agents.<span style="mso-spacerun:yes"> 
+</span>This also provides wonderful opportunities as a testbed for educational
+research studies.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>As this is one
+of our intelligent capabilities (which are usually significantly complex than
+our other capabilities), here we provide a detailed discussion of the features
+and requirements, including installation guideline.<o:p></o:p></span></p>
+<p class="MsoNormal"><o:p> </o:p></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-size:16.0pt;font-family:"Eras Medium ITC";color:#FF6600'>1.<span style="mso-spacerun:yes">  </span>Buddy Group<o:p></o:p></span></b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>1.1.<span style="mso-spacerun:yes"> 
+</span>Introduction<o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>In version 2,
+buddy group was its own capability modified from the chat capability included
+with ConferenceXP.<span style="mso-spacerun:yes">  </span>In I-MINDS version 3,
+buddy group is a capability mode of merged capability.<span style="mso-spacerun:yes">  </span>It retains the same form as the original
+capability with text boxes for displaying received messages and entering new
+messages.<span style="mso-spacerun:yes">  </span>This mode also retains the
+Send button from the original.<span style="mso-spacerun:yes"> 
+</span>Improvements to chat include an additional text box where message you
+are responding two is displayed.<b style="mso-bidi-font-weight:normal"><span style="mso-spacerun:yes">  </span></b>This text box includes a popup menu with
+two items: ‘History’ and ‘Clear’, whose functionality is described in the next<b style="mso-bidi-font-weight:normal"> </b>section. This capability also contains
+an ‘Options’ menu with three items: ‘Display Statistics’, ‘Database Search’ and
+‘Manage Buddy’, the first two of which are described in the next<b style="mso-bidi-font-weight:normal"> </b>section.<span style="mso-spacerun:yes">  </span>The ‘Manage Buddy’ option is described, along
+with its form, in section 2.4.<span style="mso-spacerun:yes">  </span>In figure
+2.1 we show an example of the Buddy Group capability form.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1026" type="#_x0000_t75" style='width:286.5pt;height:4in'>
+ <v:imagedata src="buddygroup3.0_files/image003.png" o:title=""/>
+</v:shape><![endif]--><img border="0" height="384" src="buddygroup3.0_files/image004.jpg" v:shapes="_x0000_i1026" width="382"/><o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Figure 1.1. The Buddy Group
+capability form<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes">   
+</span><o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>1.2.<span style="mso-spacerun:yes">  </span>Flow of Control<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes">   
+</span><o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'>Unlike the question answering mode in
+merged capability, there is only one version of buddy group.<span style="mso-spacerun:yes">  </span>This mode is designed to be used by both teachers
+and students simultaneously.<span style="mso-spacerun:yes">  </span>The buddy
+group mode connects to the I-MINDS database through merged capability agent
+class, described above.<span style="mso-spacerun:yes">  </span>Participants can
+send messages to each other by using the buddy group mode.<span style="mso-spacerun:yes">  </span>These messages are composed into a Message
+object using the methods in merged capability agent, described above.<span style="mso-spacerun:yes">  </span>The tags used from table 1.1 are
+Buddy_Message and Buddy_Response.<span style="mso-spacerun:yes">  </span>These
+Message objects are then multicast using the SendObject method to the rest of
+the classroom.<span style="mso-spacerun:yes">  </span>It is important to
+mention that only participants running buddy group mode in merged capability
+who are in the sender’s classroom will receive the message and only
+participants in your buddy group will display it.<span style="mso-spacerun:yes">  </span>This process is described in more detail in section
+2.4, below.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'>In the buddy group mode, it is possible
+to select a previously received message by just clicking on it in the message
+text box.<span style="mso-spacerun:yes">  </span>The selected message is added
+to the response text box.<span style="mso-spacerun:yes">  </span>While the
+response text box contains a message, any new messages sent by the user will be
+'in response' to this message. To clear the message just right-click the
+response text box to bring up the menu and select 'Clear'.<span style="mso-spacerun:yes">  </span>To view the Message Tree for the previously
+received message just select 'History' from popup menu.<span style="mso-spacerun:yes">  </span>See figure 2.2 for an example.<span style="mso-spacerun:yes">  </span>This will cause the MessageTree form to
+become visible, displaying the tree view for the message tree (figure 2.3).<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes">   
+</span><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;mso-layout-grid-align:
+none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1027" type="#_x0000_t75" style='width:284.25pt;height:286.5pt'>
+ <v:imagedata src="buddygroup3.0_files/image005.png" o:title=""/>
+</v:shape><![endif]--><img border="0" height="382" src="buddygroup3.0_files/image006.jpg" v:shapes="_x0000_i1027" width="379"/><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;mso-layout-grid-align:
+none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>Figure 1.2.<span style="mso-spacerun:yes">  </span>The popup menu for the Respond To field<o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;mso-layout-grid-align:
+none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;mso-layout-grid-align:
+none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shape id="_x0000_i1028"
+ type="#_x0000_t75" style='width:287.25pt;height:4in'>
+ <v:imagedata src="buddygroup3.0_files/image007.png" o:title=""/>
+</v:shape><![endif]--><img border="0" height="384" src="buddygroup3.0_files/image008.jpg" v:shapes="_x0000_i1028" width="383"/><o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;mso-layout-grid-align:
+none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>Figure 1.3:<span style="mso-spacerun:yes">  </span>Message Tree for [16:58] Teacher: some
+question.<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'>The BuddyGroup capability also tracks a
+wide range of statistics based on student message traffic.<span style="mso-spacerun:yes">  </span>These statistics can be viewed by students
+for anyone in their buddy group by selecting the ‘Display Statistics’ item in
+the ‘Options’ menu.<span style="mso-spacerun:yes">  </span>This will cause the
+Statistics form to appear.<span style="mso-spacerun:yes">  </span>For more
+information on the statistics tracked consult the documentation in the
+Statistics form class.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'>The ‘Database Search’ item in the options
+menu brings up a form where participants can search for specific messages.<span style="mso-spacerun:yes">  </span>There are many filter options that the user
+can specify including: message substrings, sender identifier, message type, and
+even the dates received.<span style="mso-spacerun:yes">  </span>The database
+search form acts as an interface for users who wish to query the I-MIND
+database for messages sent in previous sessions.<span style="mso-spacerun:yes">  </span>This is helpful for users when they miss a
+session or are trying to find new buddies.<span style="mso-spacerun:yes"> 
+</span>In the current version, there is no provision for proprietary
+information in the I-MINDS system; all logged messages are available to any
+participant.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes">   
+</span><o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>1.3.<span style="mso-spacerun:yes">  </span>New Concepts<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes">   
+</span><o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'>It is worth pointing out that messages
+for this capability mode and those for the question answering mode are both
+stored in the same table in the I-MINDS database.<span style="mso-spacerun:yes">  </span>In fact, from a design point of view we
+consider questions and messages to be the same thing.<span style="mso-spacerun:yes">  </span>Said another way, each question is a message
+in the I-MINDS database.<span style="mso-spacerun:yes">  </span>Questions asked
+to the teacher by students (in question answering) have their recipient flag
+set to 'TEACHER'.<span style="mso-spacerun:yes">  </span>All messages sent by
+buddy group have their recipient flag set to 'BUDDIES'.<span style="mso-spacerun:yes">  </span>In version 3, we have added two new recipient
+flags and modified the existing ones.<span style="mso-spacerun:yes"> 
+</span>These new recipient flags are summarized in table 2.1.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes">   
+</span><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;mso-layout-grid-align:
+none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'>Table
+2.1:<span style="mso-spacerun:yes">  </span>Changes to Recipient Flags<o:p></o:p></span></p>
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:351.9pt;margin-left:5.15pt;border-collapse:collapse;mso-padding-alt:
+ 0in 5.4pt 0in 5.4pt" width="469">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:12.75pt">
+<td nowrap="" style="width:138.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="185">
+<p class="MsoNormal"><span style='font-size:10.0pt;font-family:"Eras Medium ITC";
+  mso-bidi-font-family:Arial'>BUDDY-MESSAGE<o:p></o:p></span></p>
+</td>
+<td nowrap="" style="width:53.3pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="71">
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-size:10.0pt;font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial'>--&gt;<o:p></o:p></span></p>
+</td>
+<td nowrap="" style="width:159.85pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="213">
+<p class="MsoNormal"><span style='font-size:10.0pt;font-family:"Eras Medium ITC";
+  mso-bidi-font-family:Arial'>Message starting new topic<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;height:12.75pt">
+<td nowrap="" style="width:138.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="185">
+<p class="MsoNormal"><span style='font-size:10.0pt;font-family:"Eras Medium ITC";
+  mso-bidi-font-family:Arial'>BUDDY-RESPONSE<o:p></o:p></span></p>
+</td>
+<td nowrap="" style="width:53.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="71">
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-size:10.0pt;font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial'>--&gt;<o:p></o:p></span></p>
+</td>
+<td nowrap="" style="width:159.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="213">
+<p class="MsoNormal"><span style='font-size:10.0pt;font-family:"Eras Medium ITC";
+  mso-bidi-font-family:Arial'>Response to existing message<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2;height:12.75pt">
+<td nowrap="" style="width:138.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="185">
+<p class="MsoNormal"><span style='font-size:10.0pt;font-family:"Eras Medium ITC";
+  mso-bidi-font-family:Arial'>TEACHER-QUESTION<o:p></o:p></span></p>
+</td>
+<td nowrap="" style="width:53.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="71">
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-size:10.0pt;font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial'>--&gt;<o:p></o:p></span></p>
+</td>
+<td nowrap="" style="width:159.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="213">
+<p class="MsoNormal"><span style='font-size:10.0pt;font-family:"Eras Medium ITC";
+  mso-bidi-font-family:Arial'>Question to teacher<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:12.75pt">
+<td nowrap="" style="width:138.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="185">
+<p class="MsoNormal"><span style='font-size:10.0pt;font-family:"Eras Medium ITC";
+  mso-bidi-font-family:Arial'>TEACHER-RESPONSE<o:p></o:p></span></p>
+</td>
+<td nowrap="" style="width:53.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="71">
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-size:10.0pt;font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial'>--&gt;<o:p></o:p></span></p>
+</td>
+<td nowrap="" style="width:159.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="213">
+<p class="MsoNormal"><span style='font-size:10.0pt;font-family:"Eras Medium ITC";
+  mso-bidi-font-family:Arial'>Response to question<o:p></o:p></span></p>
+</td>
+</tr>
+</table>
+</div>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'>For buddy group we introduce the concept
+of Message Trees.<span style="mso-spacerun:yes">  </span>Message Trees provide
+the ability for one message to initiate an expanding flow of dialog.<span style="mso-spacerun:yes">  </span>According to our concept, a Message Tree
+starts with a single message--a question asked by one of the students.<span style="mso-spacerun:yes">  </span>This message forms the root of the Message
+Tree. <span style="mso-spacerun:yes"> </span>Questions are displayed in bold by
+the buddy group form.<span style="mso-spacerun:yes">  </span>When another
+student responds to this question it this linkage is stored on the I-MINDS
+database. New messages can respond to either the original message or any
+previous response.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'>This leads to a tree-like data structure
+and is why refer to them as message trees.<span style="mso-spacerun:yes"> 
+</span>The above linkage is maintained in Message_Tree table in the I-MINDS
+database.<span style="mso-spacerun:yes">  </span>Because each message has a unique
+Message_ID it is possible to construct a Message Tree at any time.<span style="mso-spacerun:yes">  </span>The MessageTree class included in this
+project file does just that.<span style="mso-spacerun:yes">  </span>By using a
+recursive algorithm on the I-MINDS database the stored messages can be
+extracted and added to a tree view data object to facilitate display.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></b></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>1.4.<span style="mso-spacerun:yes">  </span>Buddy Manager<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes">   
+</span><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>In the pervious
+version of I-MINDS, we provided a dropdown menu of online participants for the
+user to select his or her buddies from.<span style="mso-spacerun:yes"> 
+</span>This had the disadvantages that both the user and her respective buddy
+had to be online at the same time, for the buddy relationship to be
+established.<span style="mso-spacerun:yes">  </span>In the new version of
+I-MINDS we have added an entirely new interface for adding buddies, called the
+buddy manager.<span style="mso-spacerun:yes">   </span>Figure 2.4 shows a
+screenshot of the buddy manager form.<span style="mso-spacerun:yes"> 
+</span>The buddy manager becomes visible whenever the user selected ‘Manage
+Buddy Form’ from the options menu in the buddy group mode.<span style="mso-spacerun:yes">  </span>The buddy manager form shows all the
+participants who are currently stored in the I-MINDS database and indicates
+whether they are on or offline.<span style="mso-spacerun:yes">  </span>There
+are two checkboxes for each participant, one for adding the participant as a
+buddy and the other for adding her as a buddy, temporarily.<span style="mso-spacerun:yes">  </span>Temp buddies are counted as buddies for
+purposes of receiving messages, but the relationship is asymmetric rather than
+symmetric.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shape id="_x0000_i1029"
+ type="#_x0000_t75" style='width:282pt;height:234.75pt'>
+ <v:imagedata src="buddygroup3.0_files/image009.png" o:title=""/>
+</v:shape><![endif]--><img border="0" height="313" src="buddygroup3.0_files/image010.jpg" v:shapes="_x0000_i1029" width="376"/><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Figure 2.4:</span></b><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes"> 
+</span>Buddy Manager Form<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>Maintaining the
+symmetric relationship between buddies requires a fairly complicated
+handshaking procedure between the two participants and the I-MINDS
+database.<span style="mso-spacerun:yes">  </span>When you remove a buddy a
+message is created use the Remove_Buddy tag and that message is sent to your
+old buddy.<span style="mso-spacerun:yes">  </span>The database immediately
+removes your old buddy from your buddy group.<span style="mso-spacerun:yes"> 
+</span>When your old buddy receives the Remove_Buddy message, her agent will automatically
+remove you from her buddy group as well and inform her of this fact.<span style="mso-spacerun:yes">  </span>Adding a new buddy is somewhat more
+complicated because we must wait until your new buddy accepts the invitation to
+become buddies.<span style="mso-spacerun:yes">  </span>When you check the Buddy
+box for a participant, your agent sends an Add_Request message to your
+potential buddy.<span style="mso-spacerun:yes">  </span>When the message is
+received, her agent will popup a confirmation box asking her if she would like
+to add you as a buddy.<span style="mso-spacerun:yes">  </span>Based on her
+decision, her agent sends one of the following three response messages:<span style="mso-spacerun:yes">  </span>Add_Buddy, Response_Not_Added,
+Response_Cannot_Add.<span style="mso-spacerun:yes">  </span>The first indicates
+that she has added you as a buddy; your agent will then add her to your buddy
+group.<span style="mso-spacerun:yes">  </span>The second indicates that she has
+declined your offer of being a buddy and the third indicates that she cannot
+become your buddy because her buddy group is full.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>In version 3, it
+is possible to both add and remove buddies who are offline as well as
+online.<span style="mso-spacerun:yes">  </span>This is done by maintaining an
+offline mailbox of messages in the I-MINDS database.<span style="mso-spacerun:yes">  </span>If you try and add a participant as a buddy
+who is offline, your agent will leave her a message in the offline
+mailbox.<span style="mso-spacerun:yes">  </span>The next time she logs on her
+agent will check its mailbox and present her with the same confirmation
+box.<span style="mso-spacerun:yes">  </span>Depending on your status, her agent
+will either send a message directly or leave your agent a message with her
+decision.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes">    </span><o:p></o:p></span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-size:14.0pt;font-family:"Eras Medium ITC"'>5.<span style="mso-spacerun:yes">  </span>Database<o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>The I-MINDS
+database is currently running MySQL version 5.<span style="mso-spacerun:yes"> 
+</span>In the future we intend to switch over from MySQL to SQL Server or
+something similar.<span style="mso-spacerun:yes">  </span>The basic structure
+should easily transfer over to any relational database.<span style="mso-spacerun:yes">  </span>The database was designed using a combination
+of DBDesigner4, an open source designer from fabForce, and
+phpMyAdmin-2.6.3.<span style="mso-spacerun:yes">  </span>For an illustration of
+the I-MINDS database consult figure 5.1 below.<span style="mso-spacerun:yes"> 
+</span>The mysqldump textfile of the database can be found in the same folder
+as the source code.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>Unlike in
+previous versions, in version 3 we have completely done away with the
+ComponentTestLibarary.dll which contained DataAdapters.<span style="mso-spacerun:yes">  </span>The merged capability class now has its own
+database connection object, which is set to look at the DSN described in the
+section 6 below.<span style="mso-spacerun:yes">  </span>The merged capability
+agent class now contains almost all of the database queries necessary to run
+both merged capability and the buddy group and question answering modes.<span style="mso-spacerun:yes">  </span>Certain peripheral classes such as the
+MessageTree still maintain their own data tables, but use the database
+connections stored in merged capability.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p align="center" class="MsoNormal" style="margin-left:63.0pt;text-align:center;
+text-indent:-63.0pt"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1030" type="#_x0000_t75" style='width:569.25pt;height:358.5pt'>
+ <v:imagedata src="buddygroup3.0_files/image011.png" o:title="IMINDS30"/>
+</v:shape><![endif]--><img border="0" height="478" src="buddygroup3.0_files/image012.jpg" v:shapes="_x0000_i1030" width="759"/><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Figure 5.1:</span></b><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes"> 
+</span>The DBDesigner model for the I-MINDS database<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>As you can see
+from figure 5.1, the database for I-MINDS version 3 has become fairly
+complicated.<span style="mso-spacerun:yes">  </span>It has grown considerably
+from the one used in previous versions.<span style="mso-spacerun:yes"> 
+</span>New tables were added to support the concept of classrooms.<span style="mso-spacerun:yes">  </span>As a matter of fact, the classrooms table is
+now the heart of the database replacing the sessions table from version 2.<span style="mso-spacerun:yes">  </span>We have retained the message table but added
+several new variables to support future work on agents.<span style="mso-spacerun:yes">  </span>Several new tables have been added to support
+the forthcoming structured group mode and the new buddy manager form in the
+buddy group mode.<span style="mso-spacerun:yes">  </span>There are several
+satellite tables used for recording statistics on PGM experiments.<span style="mso-spacerun:yes">  </span>The use of these tables will be addressed in
+future technical reports.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-size:14.0pt;font-family:"Eras Medium ITC"'>6.<span style="mso-spacerun:yes">  </span>Installation<o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>This section
+leads you through the installation for ConferenceXP and our capabilities.<span style="mso-spacerun:yes">  </span>The first program to install is the
+mysql-connector-odbc-3.51 driver.<span style="mso-spacerun:yes">  </span>We
+have included this with our source code.<span style="mso-spacerun:yes"> 
+</span>Next, if you have not already done so download the CXP Client version
+3.5.<span style="mso-spacerun:yes">  </span>Before you install it make sure
+that the Microsoft Journal Viewer has been installed.<span style="mso-spacerun:yes">  </span>Please consult the ConferenceXP client
+installation guide for more information.<span style="mso-spacerun:yes"> 
+</span><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>We provide the
+database dump file so that users can upload the I-MINDS database to their local
+server.<span style="mso-spacerun:yes">  </span>The installation is relatively
+straight forward assuming you have access to MySQL server version 4.1 or
+higher.<span style="mso-spacerun:yes">  </span>Table 6.1 gives the console
+command.<span style="mso-spacerun:yes">  </span>If your machines do not have
+access to the internet you will need to install your own venue service on one
+of your machines.<span style="mso-spacerun:yes">  </span>The Venue Service can
+be downloaded from the ConferenceXP website. <o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'>mysql –u<i style="mso-bidi-font-style:
+normal">username</i> –p<i style="mso-bidi-font-style:normal">password</i> &lt;
+iminds.sql<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Table 6.1:</span></b><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes"> 
+</span>console command to upload database<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>Alternatively,
+you could connect to the I-MINDS database running on cse.unl.edu.<span style="mso-spacerun:yes">  </span>The user name and password are given in Table
+6.2. A word of caution though, the I-MINDS database on CSE is our test bed and
+is subject to design revisions which could break previous versions of the
+capabilities.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'>Site: cse.unl.edu; Database: lmille;
+MySQL user: lmille; MySQL password: GNEZWS<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Table 6.2:<span style="mso-spacerun:yes">  </span></span></b><span style='font-family:"Eras Medium ITC"'>connection
+information for the I-MINDS database on CSE<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>To run the
+capability you must first create an ODBC data source in Windows XP.<span style="mso-spacerun:yes">  </span>This data source is what the C# code will use
+to connect to the database.<span style="mso-spacerun:yes">  </span>To do this,
+open Administrative Tools/Data Sources (ODBC).<span style="mso-spacerun:yes"> 
+</span>Add a new System DSN with the above information (see figure 6.1).<span style="mso-spacerun:yes">  </span>If you are running your own MySQL server the
+Server, User and Password entries may change from figure 6.1.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1031" type="#_x0000_t75" style='width:321.75pt;height:270.75pt'>
+ <v:imagedata src="buddygroup3.0_files/image013.png" o:title=""/>
+</v:shape><![endif]--><img border="0" height="361" src="buddygroup3.0_files/image014.jpg" v:shapes="_x0000_i1031" width="429"/><o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Figure 6.1: Data Source for
+the I-MINDS database.<o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>The merged
+capability should be pasted into the CXPClient folder in the manner of all
+capabilities.<span style="mso-spacerun:yes">  </span>The Stemmer folder
+containing combiner.exe and the licenseI-MINDS rtf file should each be pasted
+into the CXPClient folder.<span style="mso-spacerun:yes">  </span>There is also
+an images folder used by the virtual classroom which should be pasted into the
+same location.<span style="mso-spacerun:yes">  </span>Remember that there are
+two separate versions of the merged capability (one for teacher, another for
+student).<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1032" type="#_x0000_t75" style='width:321.75pt;height:270.75pt'>
+ <v:imagedata src="buddygroup3.0_files/image013.png" o:title=""/>
+</v:shape><![endif]--><img border="0" height="361" src="buddygroup3.0_files/image015.jpg" v:shapes="_x0000_i1032" width="429"/><o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Figure 4.1: Data Source for
+the I-MINDS database.<o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>The Buddy Group
+or Question Answering capabilities should be pasted into the CXPClient folder
+in the manner of all capabilities.<span style="mso-spacerun:yes">  </span>You
+should also paste the ComponentTestLibrary.dll into the same folder.<span style="mso-spacerun:yes">  </span>The Stemmer folder containing combiner.exe
+and the licenseI-MINDS rtf file should each be pasted into the CXPClient
+folder.<span style="mso-spacerun:yes">  </span>Remember that there are two
+separate versions of the Q&amp;A capability (teacher and student).<span style="mso-spacerun:yes">  </span>The Question Answering capability uses the
+xApplication4 payload type while Buddy Group uses the xApplication5 payload
+type.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-size:16.0pt;font-family:"Eras Medium ITC";color:#FF6600'>5.<span style="mso-spacerun:yes">  </span>Change Log<o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>This section
+covers the changes the I-MINDS team has made to the BuddyGroup capability with
+version 2.<span style="mso-spacerun:yes">  </span>These changes include
+additional features, bug fixes, and database structure changes.<span style="mso-spacerun:yes">  </span>None of these changes break the functionality
+described above.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>5.1.<span style="mso-spacerun:yes"> 
+</span>Data Adapters<o:p></o:p></span></b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>One significant
+change we made in this version is how the database is accessed by our source
+code.<span style="mso-spacerun:yes">  </span>In v1 most of our source code
+other than the statistics class used C# DataAdapters to access the
+database.<span style="mso-spacerun:yes">  </span>In brief, DataAdapters select
+all the records in a table and populate a C# DataTable with the results.<span style="mso-spacerun:yes">  </span>This can be very convenient because once the
+DataTable is populated you can manipulate the data (add, remove, update
+records) without querying the database.<span style="mso-spacerun:yes"> 
+</span>However, we encountered horrible concurrency issues with this
+implementation (see figure 5.1).<span style="mso-spacerun:yes">  </span>Because
+of the way capabilities work, it was very difficult to synchronize all the
+DataAdapters.<span style="mso-spacerun:yes">  </span>This led to all sorts of
+bizarre errors relating to database concurrency.<span style="mso-spacerun:yes">  </span>The decision was made to remove all the
+DataAdapters and replace them with SQL queries throughout the BuddyGroup
+codebase.<span style="mso-spacerun:yes">  </span>This eliminated the
+concurrency errors because all the students were dealing directly with the
+database (see figure 5.2).<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shape id="_x0000_i1033"
+ type="#_x0000_t75" style='width:292.5pt;height:266.25pt'>
+ <v:imagedata src="buddygroup3.0_files/image016.png" o:title=""/>
+</v:shape><![endif]--><img border="0" height="355" src="buddygroup3.0_files/image017.jpg" v:shapes="_x0000_i1033" width="390"/><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Figure 5.1:</span></b><span style='font-family:"Eras Medium ITC"'> Buddy Group v1 Design<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shape id="_x0000_i1034"
+ type="#_x0000_t75" style='width:285.75pt;height:267.75pt'>
+ <v:imagedata src="buddygroup3.0_files/image018.png" o:title=""/>
+</v:shape><![endif]--><img border="0" height="357" src="buddygroup3.0_files/image019.jpg" v:shapes="_x0000_i1034" width="381"/><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Figure 5.2:</span></b><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes"> 
+</span>Buddy Group v2 Design<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="margin-left:24.0pt;text-indent:-24.0pt;mso-list:l1 level2 lfo20;
+tab-stops:list 24.0pt"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+"Eras Medium ITC";mso-bidi-font-family:"Eras Medium ITC"'><span style="mso-list:Ignore">5.2.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>MAX(Session_ID)<o:p></o:p></span></b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>In v1, the
+Session ID was determined by simply taking the MAX(Session_ID) from the
+database.<span style="mso-spacerun:yes">  </span>This worked well until we
+started using Question Answering at the same time.<span style="mso-spacerun:yes">  </span>A scenario occurred where Buddy Group was
+started and students joined and queried for their Session ID.<span style="mso-spacerun:yes">  </span>A Question Answering capability was then
+started incrementing the Session ID.<span style="mso-spacerun:yes">  </span>If
+additional students join the Buddy Group they will no longer receive the
+correct Session ID.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>In v2, the
+Session ID is determined once when the capability is created.<span style="mso-spacerun:yes">  </span>It is then broadcast to each participant when
+they join the capability.<span style="mso-spacerun:yes">  </span>In affect, the
+Session ID is “buffered” for all participants.<span style="mso-spacerun:yes"> 
+</span>Because of this, when the participant who started the capability leaves
+the Session ID is not lost.<span style="mso-spacerun:yes">  </span>This also
+solves the problem where a student accidentally starts up another Buddy Group
+capability.<span style="mso-spacerun:yes">  </span>Now Buddy Group and Question
+Answering can coexist peacefully without corrupting the database.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="margin-left:24.0pt;text-indent:-24.0pt;mso-list:l0 level2 lfo18;
+tab-stops:list 24.0pt"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+"Eras Medium ITC";mso-bidi-font-family:"Eras Medium ITC"'><span style="mso-list:Ignore">5.3.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>Students_In_Buddy_Group
+and Students_In_Session<o:p></o:p></span></b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>In v1, both
+these tables were N:M linking tables connecting two other tables.<span style="mso-spacerun:yes">  </span>The limitation on N:M linking talbes is that
+each pair of values is a unique primary key.<span style="mso-spacerun:yes"> 
+</span>The database will not allow us to have the same student in the same
+buddy group twice, for example.<span style="mso-spacerun:yes">  </span>In
+affect, we knew which students were in which Buddy Group or Sessions, but that
+is all we knew.<span style="mso-spacerun:yes">  </span>We wanted to be able to
+track which students where in a buddy group during an interval of sessions and
+when students joined and left a session.<span style="mso-spacerun:yes"> 
+</span>This required more than just N:M linking tables.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>Both the above
+tables were replaced with triply-linked tables.<span style="mso-spacerun:yes"> 
+</span>Students_In_Buddy_Group now links with the Session table as well as the
+previous two.<span style="mso-spacerun:yes">  </span>Students_In_Session now
+has a timestamp key for when the student joins the session.<span style="mso-spacerun:yes">  </span>To reduce the amount of records triply-linked
+tables often produce we wanted to store intervals.<span style="mso-spacerun:yes">  </span>This was accomplished by adding a fourth
+column to each table which was not a primary key.<span style="mso-spacerun:yes">  </span>When records were added to either table this
+fourth column was initially null.<span style="mso-spacerun:yes">  </span>When
+the interval was completed this fourth column would be set.<span style="mso-spacerun:yes">  </span>For example when a student is initially added
+to Students_In_Buddy_Group a record similar to table 5.1 is added.<span style="mso-spacerun:yes">  </span>When and if the student is removed from the
+buddy group this record is updated and the Session_Removed value is set (table
+5.2).<span style="mso-spacerun:yes">  </span>From this one record we deduce the
+student with the identifier <a href="mailto:lmille@cs.eunl.edu">lmille@cs.eunl.edu</a>
+was a member of Buddy Group 22 from session 356 to 412.<span style="mso-spacerun:yes">  </span>This saves us 55 records in the database, not
+too shabby.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<div align="center">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:338.0pt;margin-left:4.65pt;border-collapse:collapse;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="451">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:12.75pt">
+<td nowrap="" style="width:110.0pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="147">
+<p class="MsoNormal"><b><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial'>Student_Identifer<o:p></o:p></span></b></p>
+</td>
+<td nowrap="" style="width:52.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="69">
+<p class="MsoNormal"><b><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial'>Group_ID<o:p></o:p></span></b></p>
+</td>
+<td nowrap="" style="width:81.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="108">
+<p class="MsoNormal"><b><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial'>Session_Added<o:p></o:p></span></b></p>
+</td>
+<td nowrap="" style="width:95.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="127">
+<p class="MsoNormal"><b><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial'>Session_Removed<o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:12.75pt">
+<td nowrap="" style="width:110.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="147">
+<p class="MsoNormal"><u><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial;color:blue'><a href="mailto:lmille@cse.unl.edu">lmille@cse.unl.edu</a><o:p></o:p></span></u></p>
+</td>
+<td nowrap="" style="width:52.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="69">
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial'>22<o:p></o:p></span></p>
+</td>
+<td nowrap="" style="width:81.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="108">
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial'>356<o:p></o:p></span></p>
+</td>
+<td nowrap="" style="width:95.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="127">
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial'>NULL<o:p></o:p></span></p>
+</td>
+</tr>
+</table>
+</div>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Table 5.1: </span></b><span style='font-family:"Eras Medium ITC"'>Students_In_Buddy_Group record<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<div align="center">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:338.0pt;margin-left:4.65pt;border-collapse:collapse;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="451">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:12.75pt">
+<td nowrap="" style="width:110.0pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="147">
+<p class="MsoNormal"><b><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial'>Student_Identifer<o:p></o:p></span></b></p>
+</td>
+<td nowrap="" style="width:52.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="69">
+<p class="MsoNormal"><b><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial'>Group_ID<o:p></o:p></span></b></p>
+</td>
+<td nowrap="" style="width:81.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="108">
+<p class="MsoNormal"><b><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial'>Session_Added<o:p></o:p></span></b></p>
+</td>
+<td nowrap="" style="width:95.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="127">
+<p class="MsoNormal"><b><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial'>Session_Removed<o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:12.75pt">
+<td nowrap="" style="width:110.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="147">
+<p class="MsoNormal"><u><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial;color:blue'><a href="mailto:lmille@cse.unl.edu">lmille@cse.unl.edu</a><o:p></o:p></span></u></p>
+</td>
+<td nowrap="" style="width:52.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="69">
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial'>22<o:p></o:p></span></p>
+</td>
+<td nowrap="" style="width:81.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="108">
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial'>356<o:p></o:p></span></p>
+</td>
+<td nowrap="" style="width:95.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt" valign="bottom" width="127">
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Arial'>412<o:p></o:p></span></p>
+</td>
+</tr>
+</table>
+</div>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Table 5.2:</span></b><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes"> 
+</span>Students_In_Buddy_Group record<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="margin-left:24.0pt;text-indent:-24.0pt;mso-list:l0 level2 lfo18;
+tab-stops:list 24.0pt"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+"Eras Medium ITC";mso-bidi-font-family:"Eras Medium ITC"'><span style="mso-list:Ignore">5.4.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>Load
+Messages<o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>In v1, each
+message was broadcast to each student immediately after it was added to the
+database.<span style="mso-spacerun:yes">  </span>This worked fine in practice,
+but happens if one of your buddies arrives late?<span style="mso-spacerun:yes">  </span>We decided it would be nice to have the
+option to ask the database for the messages sent to your buddies for this
+session.<span style="mso-spacerun:yes">  </span>We added the “Load Messages”
+menu item to the Options menu.<span style="mso-spacerun:yes">  </span>Pressing
+it queries the database for the messages sent during this session.<span style="mso-spacerun:yes">  </span>This list is filtered by who your buddies
+are.<span style="mso-spacerun:yes">  </span>It will not return messages for
+students who are not currently your buddies.<span style="mso-spacerun:yes"> 
+</span>These messages are identically formatted to those received in real time.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>5.5<span style="mso-spacerun:yes"> 
+</span>MessageTree<o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>The MessageTree
+class was modified so that it has the ability to generate a full message tree
+for any message regardless of its position in the tree.<span style="mso-spacerun:yes">   </span>This is done by first determining the root
+for message tree (the message ID which started the topic) and then generating
+the full subtree from this message.<span style="mso-spacerun:yes">  </span>This
+reduces the complexity of some of the queries in the Statistics class
+considerably.<span style="mso-spacerun:yes">  </span>The MessageTree class can
+be configured to only generate the subtree for the given message ID.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="margin-left:21.0pt;text-indent:-21.0pt;mso-list:l2 level2 lfo19;
+tab-stops:list 21.0pt"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+"Eras Medium ITC";mso-bidi-font-family:"Eras Medium ITC"'><span style="mso-list:Ignore">5.6<span style='font:7.0pt "Times New Roman"'>  </span></span></span></b><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>Statistics<o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>It was
+determined through testing that several of the statistics queries in v1 where
+not returning exactly the results we wanted.<span style="mso-spacerun:yes"> 
+</span>A minor change to the way we stored messages in the database
+considerably reduced the complexity of some of the queries while increasing the
+validity of their results.<span style="mso-spacerun:yes">  </span>This was done
+by storing whether or not the message was a topic-starter or response in the
+Message table.<span style="mso-spacerun:yes">  </span>The Recipient column now
+contains the value “BUDDIES-TOPIC” or “BUDDIES-RESPONSE” where
+appropriate.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>The queries in
+v1 for Dialog Involvement only looked at the responses and their parents.<span style="mso-spacerun:yes">  </span>Thus they only worked only for message trees
+of max height 2.<span style="mso-spacerun:yes">  </span>In v2, we can query for
+all the messages that are “BUDDIES-TOPIC” and use the full message tree feature
+described above in MessageTree to compute the statistics for message trees of
+any height.<span style="mso-spacerun:yes">  </span>We were also able to clean
+up some of the statistics queries in v2 such as those for
+ComputeAverageResponseTime.<span style="mso-spacerun:yes">  </span>All queries
+now check the same session interval.<span style="mso-spacerun:yes">  </span>In
+v1, ComputeSessionMessages and ComputeSessionMessageToTeacher (along with their
+averages) did not use this session interval determined by the Calculate
+menu.<span style="mso-spacerun:yes">  </span>This has been fixed in v2.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="margin-left:21.0pt;text-indent:-21.0pt;mso-list:l2 level2 lfo19;
+tab-stops:list 21.0pt"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+"Eras Medium ITC";mso-bidi-font-family:"Eras Medium ITC"'><span style="mso-list:Ignore">5.7<span style='font:7.0pt "Times New Roman"'>  </span></span></span></b><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>Database
+Search<o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>The Database
+Search form can be used by both students and teachers to look up both messages
+and users in the database.<span style="mso-spacerun:yes">  </span>Messages are
+searchable based on the message itself, the sender, the group they were sent
+to, by score, by session, and also by time and date the messages were received,
+answered, or discarded.<span style="mso-spacerun:yes">  </span>Any combination
+of these properties can be used at once thanks to intelligent querying.<span style="mso-spacerun:yes">  </span>Students are searchable by name and
+identifier.<span style="mso-spacerun:yes">  </span>The Database Search form is
+accessible from the Options menu.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-size:14.0pt;font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<div align="center">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="width:485.95pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="648">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;background:red;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds.html"><span style="text-decoration:
+  none;text-underline:none">HOME</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/current.html"><span style="text-decoration:none;text-underline:none">CURRENT STATUS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:red;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/capabilities.html"><span style="text-decoration:none;text-underline:none">CXP+I-MINDS CAPABILITIES</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/team.html"><span style="text-decoration:none;text-underline:none">TEAM</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:green;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/history.html"><span style="color:white;text-decoration:none;text-underline:none">HISTORY</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/publications.html"><span style="color:white;text-decoration:none;text-underline:none">PUBLICATIONS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:green;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/distribution.html"><span style="color:white;text-decoration:none;text-underline:none">SOFTWARE
+  DISTRIBUTION</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/contact.html"><span style="color:white;text-decoration:none;text-underline:none">CONTACT</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+</table>
+</div>
+<p class="MsoNormal"><span style='font-size:14.0pt;font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+</div>
+</body>
+</html>

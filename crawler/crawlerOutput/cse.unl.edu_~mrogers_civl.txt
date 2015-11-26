@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Michael Rogers</title>
+<link href="http://cse.unl.edu/~mrogers/style.css" rel="stylesheet" type="text/css"/>
+<link href="http://cse.unl.edu/~mrogers/menu.css" rel="stylesheet" type="text/css"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+</head>
+<body>
+<div id="wrap">
+<div id="masthead">
+<h1>Michael Rogers</h1>
+</div>
+<div id="menucontainer">
+<div id="menu">
+<ul>
+<li><a href="http://cse.unl.edu/~mrogers/">Home</a></li>
+<li><a class="current" href="http://cse.unl.edu/~mrogers/civl/">CIVL</a></li>
+</ul>
+</div>
+</div>
+<div id="container">
+<a href="http://cse.unl.edu/~mrogers/civl/Compare.html" target="_blank">CIVL/Java Comparison</a>
+</div>
+</div>
+</body>
+</html>

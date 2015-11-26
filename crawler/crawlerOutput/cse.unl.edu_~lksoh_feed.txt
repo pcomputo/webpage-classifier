@@ -1,0 +1,167 @@
+<html><body><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+<title>Leen-Kiat Soh's Homepage</title>
+<atom:link href="http://cse.unl.edu/~lksoh/feed/" rel="self" type="application/rss+xml"></atom:link>
+<link/>http://cse.unl.edu/~lksoh
+	<description></description>
+<lastbuilddate>Mon, 16 Nov 2015 19:41:43 +0000</lastbuilddate>
+<generator>http://wordpress.org/?v=2.8.6</generator>
+<language>en</language>
+<sy:updateperiod>hourly</sy:updateperiod>
+<sy:updatefrequency>1</sy:updatefrequency>
+<item>
+<title></title>
+<link/>http://cse.unl.edu/~lksoh/376/
+		<comments>http://cse.unl.edu/~lksoh/376/#comments</comments>
+<pubdate>Mon, 16 Nov 2015 19:41:36 +0000</pubdate>
+<dc:creator>admin</dc:creator>
+<category></category>
+<guid ispermalink="false">http://cse.unl.edu/~lksoh/376/</guid>
+<description>Our Aida Poem Analysis project has been featured on the 2014-2015 Research at the University report:   http://research.unl.edu/annualreport/2015/finding-poetry-amid-historic-news-pages/
+]]&gt;</description>
+<content:encoded>Our Aida Poem Analysis project has been featured on the 2014-2015 Research at the University report:   http://research.unl.edu/annualreport/2015/finding-poetry-amid-historic-news-pages/
+]]&gt;</content:encoded>
+<wfw:commentrss>http://cse.unl.edu/~lksoh/376/feed/</wfw:commentrss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title></title>
+<link/>http://cse.unl.edu/~lksoh/375/
+		<comments>http://cse.unl.edu/~lksoh/375/#comments</comments>
+<pubdate>Fri, 09 Oct 2015 18:28:44 +0000</pubdate>
+<dc:creator>admin</dc:creator>
+<category></category>
+<guid ispermalink="false">http://cse.unl.edu/~lksoh/375/</guid>
+<description>We have two papers accepted to SIGCSE’2016!
+<p>Flanigan, A., M. Peteranetz, D. F. Shell, and L.-K. Soh (2016). Students’ Initial Course Motivation and Their Achievement and Retention in College CS1 Courses, accepted to SIGCSE’2016, Memphis, TN, March 2-5.</p>
+<p>Eck, A., L.-K. Soh, and D. F. Shell (2016). Investigating Differences in Wiki-based Collaborative Activities between Student Engagement Profiles [...]]]&gt;</p></description>
+<content:encoded>We have two papers accepted to SIGCSE’2016!
+<p>Flanigan, A., M. Peteranetz, D. F. Shell, and L.-K. Soh (2016). Students’ Initial Course Motivation and Their Achievement and Retention in College CS1 Courses, accepted to SIGCSE’2016, Memphis, TN, March 2-5.</p>
+<p>Eck, A., L.-K. Soh, and D. F. Shell (2016). Investigating Differences in Wiki-based Collaborative Activities between Student Engagement Profiles in CS1, accepted to SIGCSE’2016, Memphis, TN, March 2-5.</p>
+]]&gt;</content:encoded>
+<wfw:commentrss>http://cse.unl.edu/~lksoh/375/feed/</wfw:commentrss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title></title>
+<link/>http://cse.unl.edu/~lksoh/367/
+		<comments>http://cse.unl.edu/~lksoh/367/#comments</comments>
+<pubdate>Mon, 27 Jul 2015 15:16:03 +0000</pubdate>
+<dc:creator>admin</dc:creator>
+<category></category>
+<guid ispermalink="false">http://cse.unl.edu/~lksoh/367/</guid>
+<description>Our work in computational creativity has just recently been published on Communications of the ACM: Here
+]]&gt;</description>
+<content:encoded>Our work in computational creativity has just recently been published on Communications of the ACM: <a href="http://cacm.acm.org/magazines/2015/8/189850-learning-through-computational-creativity/abstract">Here</a>
+]]&gt;</content:encoded>
+<wfw:commentrss>http://cse.unl.edu/~lksoh/367/feed/</wfw:commentrss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title></title>
+<link/>http://cse.unl.edu/~lksoh/365/
+		<comments>http://cse.unl.edu/~lksoh/365/#comments</comments>
+<pubdate>Wed, 15 Jul 2015 13:46:23 +0000</pubdate>
+<dc:creator>admin</dc:creator>
+<category></category>
+<guid ispermalink="false">http://cse.unl.edu/~lksoh/365/</guid>
+<description>Our joint work with Dr. Liz Lorang in intelligent image analysis on archival newspapers on poem identification has been published: Here is the paper
+]]&gt;</description>
+<content:encoded>Our joint work with Dr. Liz Lorang in intelligent image analysis on archival newspapers on poem identification has been published: <a href="http://www.dlib.org/dlib/july15/lorang/07lorang.html">Here is the paper</a>
+]]&gt;</content:encoded>
+<wfw:commentrss>http://cse.unl.edu/~lksoh/365/feed/</wfw:commentrss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title></title>
+<link/>http://cse.unl.edu/~lksoh/363/
+		<comments>http://cse.unl.edu/~lksoh/363/#comments</comments>
+<pubdate>Tue, 14 Jul 2015 13:26:39 +0000</pubdate>
+<dc:creator>admin</dc:creator>
+<category></category>
+<guid ispermalink="false">http://cse.unl.edu/~lksoh/363/</guid>
+<description>Take a look at Lincoln, NE! A recent ranking of Lincoln, NE as a college town!
+]]&gt;</description>
+<content:encoded>Take a look at Lincoln, NE! <a href="https://www.aier.org/sites/default/files/Files/cdi/2014/2014_Lincoln.pdf">A recent ranking of Lincoln, NE as a college town!</a>
+]]&gt;</content:encoded>
+<wfw:commentrss>http://cse.unl.edu/~lksoh/363/feed/</wfw:commentrss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title></title>
+<link/>http://cse.unl.edu/~lksoh/361/
+		<comments>http://cse.unl.edu/~lksoh/361/#comments</comments>
+<pubdate>Tue, 30 Jun 2015 15:37:10 +0000</pubdate>
+<dc:creator>admin</dc:creator>
+<category></category>
+<guid ispermalink="false">http://cse.unl.edu/~lksoh/?p=361</guid>
+<description>Our journal paper “Developing an Image-Based Classifier for Detecting Poetic Content in Historic Newspaper Collections” was accepted to the D-Lib Magazine.  This is joint work with Dr. Liz Lorang and students M. Datla and S. Kulwicki.
+]]&gt;</description>
+<content:encoded>Our journal paper “Developing an Image-Based Classifier for Detecting Poetic Content in Historic Newspaper Collections” was accepted to the D-Lib Magazine.  This is joint work with Dr. Liz Lorang and students M. Datla and S. Kulwicki.
+]]&gt;</content:encoded>
+<wfw:commentrss>http://cse.unl.edu/~lksoh/361/feed/</wfw:commentrss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title></title>
+<link/>http://cse.unl.edu/~lksoh/359/
+		<comments>http://cse.unl.edu/~lksoh/359/#comments</comments>
+<pubdate>Tue, 30 Jun 2015 15:35:25 +0000</pubdate>
+<dc:creator>admin</dc:creator>
+<category></category>
+<guid ispermalink="false">http://cse.unl.edu/~lksoh/?p=359</guid>
+<description>We have a technical paper accepted to ICER’2015 @ Omaha, NE!  “Exploring Changes in Computer Science Students’ Implicit Theories of Intelligence across the Semester”.  This is joint work with Dr. Duane Shell, and his students Flanigan and Peteranetz.
+]]&gt;</description>
+<content:encoded>We have a technical paper accepted to ICER’2015 @ Omaha, NE!  “Exploring Changes in Computer Science Students’ Implicit Theories of Intelligence across the Semester”.  This is joint work with Dr. Duane Shell, and his students Flanigan and Peteranetz.
+]]&gt;</content:encoded>
+<wfw:commentrss>http://cse.unl.edu/~lksoh/359/feed/</wfw:commentrss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title></title>
+<link/>http://cse.unl.edu/~lksoh/357/
+		<comments>http://cse.unl.edu/~lksoh/357/#comments</comments>
+<pubdate>Tue, 30 Jun 2015 15:32:44 +0000</pubdate>
+<dc:creator>admin</dc:creator>
+<category></category>
+<guid ispermalink="false">http://cse.unl.edu/~lksoh/?p=357</guid>
+<description>Adam Eck will be teaching a new course Survey Informatics @ UNL in Fall 2015!
+]]&gt;</description>
+<content:encoded>Adam Eck will be teaching a new course Survey Informatics @ UNL in Fall 2015!
+]]&gt;</content:encoded>
+<wfw:commentrss>http://cse.unl.edu/~lksoh/357/feed/</wfw:commentrss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title></title>
+<link/>http://cse.unl.edu/~lksoh/355/
+		<comments>http://cse.unl.edu/~lksoh/355/#comments</comments>
+<pubdate>Tue, 28 Apr 2015 22:27:12 +0000</pubdate>
+<dc:creator>admin</dc:creator>
+<category></category>
+<guid ispermalink="false">http://cse.unl.edu/~lksoh/355/</guid>
+<description>Congratulations to Adam Eck.  He has been awarded the Outstanding Ph.D. Student Award by CSE @ UNL, 2015!
+]]&gt;</description>
+<content:encoded>Congratulations to Adam Eck.  He has been awarded the Outstanding Ph.D. Student Award by CSE @ UNL, 2015!
+]]&gt;</content:encoded>
+<wfw:commentrss>http://cse.unl.edu/~lksoh/355/feed/</wfw:commentrss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title></title>
+<link/>http://cse.unl.edu/~lksoh/353/
+		<comments>http://cse.unl.edu/~lksoh/353/#comments</comments>
+<pubdate>Sat, 25 Apr 2015 03:28:08 +0000</pubdate>
+<dc:creator>admin</dc:creator>
+<category></category>
+<guid ispermalink="false">http://cse.unl.edu/~lksoh/?p=353</guid>
+<description>The IAMAS group helped host Dr. Ed Durfee of the University of Michigan here on April 23rd.  Thank you, Dr. Durfee, for your colloquium talk on multiagent organization and your lecture on multiagent scheduling!  Thank you too for your valuable insights and productive discussions!
+]]&gt;</description>
+<content:encoded>The IAMAS group helped host Dr. Ed Durfee of the University of Michigan here on April 23rd.  Thank you, Dr. Durfee, for your colloquium talk on multiagent organization and your lecture on multiagent scheduling!  Thank you too for your valuable insights and productive discussions!
+]]&gt;</content:encoded>
+<wfw:commentrss>http://cse.unl.edu/~lksoh/353/feed/</wfw:commentrss>
+<slash:comments>0</slash:comments>
+</item>
+</channel>
+</rss>
+</body></html>

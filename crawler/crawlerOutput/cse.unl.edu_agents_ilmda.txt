@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8" content="text/html" http-equiv="Content-Type"/>
+<link href="index.css" rel="stylesheet" type="text/css"/>
+<title> Welcome to our ILMDA Homepage !!</title>
+</head>
+<body>
+<div id="test">
+<table bgcolor="#FFFFFF" border="0" bordercolor="#9685BA" cellpadding="10" id="uniform">
+<tr>
+<td id="uniform" valign="top">
+<div class="menu">
+<img alt="arrow" height="23" src="arrow.JPG" width="28"/>
+<a href="index.html">Home</a>
+<hr/>
+<a href="objectives.html">Objectives</a>
+<hr/>
+<a href="history.html">History</a>
+<hr/>
+<a href="current_status.html">Current<br/>Status</a>
+<hr/>
+<a href="people.html">People</a>
+<hr/>
+<a href="publications.html">Publications</a>
+<hr/>
+<a href="presentations.html">Presentations</a>
+<hr/>
+<a href="software_products.html">Software<br/>Products</a>
+<hr/>
+<a href="funding_sources.html">Funding<br/>Sources</a>
+<hr/>
+<a href="contact.html">Contact</a>
+<hr/>
+<a href="related_projects.html">Related<br/>Projects</a>
+<hr/>
+<a href="affiliations.html">Affiliations</a>
+</div>
+</td>
+<td id="background">
+<p id="title">Intelligent Learning Material Delivery Agent (ILMDA)</p><br/><br/>
+			Welcome to our Intelligent Learning Material Delivery Agent (ILMDA) homepage !!
+		</td>
+</tr>
+</table></div>
+<center>This website is created and maintained by Akira Endo for the ILMDA group.</center>
+</body>
+</html>

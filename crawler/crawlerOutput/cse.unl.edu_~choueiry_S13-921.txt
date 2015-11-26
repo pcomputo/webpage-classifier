@@ -1,0 +1,114 @@
+<html><head>
+<title>Spring 2013, CSCE 921</title>
+<link href="index_files/style.css" media="all" rel="stylesheet" type="text/css"/>
+</head><body>
+<div id="header">
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td cellpadding="0" valign="center">
+<div id="title">CSCE 921</div>
+<table cellpadding="15">
+</table>
+</td>
+<td align="right" style="font-size: 11pt;" valign="top">
+<div id="title">Advanced Constraint Processing</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<table cellspacing="5" width="100%">
+<tbody><tr>
+<td style="border: 1px solid rgb(170, 204, 170); background-color: rgb(250, 255, 250); width: 176px;" valign="top">
+<div id="menu">
+<div class="section">
+<h1>Main Pages</h1>
+<a href="index.html">General</a>
+<a href="protocol.html">Syllabus &amp; Protocol</a>
+<a href="grading.html">Grading Policy</a>
+<a href="safety.html">Safety Net</a>
+<a href="handouts.html">Handouts</a>
+<a href="schedule.html">Schedule</a>
+<a href="homework.html">Homework</a>
+<a href="glossaries.html">Glossaries</a>
+<a href="wiki.html">Wiki</a>
+<h1>Resources</h1>
+<a href="catch.html">Your Catch</a>
+<a href="resources.html">Resources</a>
+<a href="contacts.html">Contact Us</a>
+</div>
+</div>
+</td>
+<td id="contents" valign="top">
+<div style="overflow: auto; height: 500px;">
+<div style="margin-right: 10px;">
+<!-- 
+<P><blink><A HREF="schedule.html"><B>Class schedule:</B></A></blink>
+the page will be regularly updated. Check it out <I>regularly</I> for
+announcements of required/recommended reading material, homework, etc. </P> 
+<hr>
+
+-->
+<h1>General Information</h1>
+<a href="http://seneca.unl.edu/wiki/index.php/S13-921">Wiki page</a>
+<p> <b>Prereq: </b>CSCE 421/821: Foundations of Constraint Processing.</p>
+<p><b>Course description:</b> This course is a continuation of the
+course on Foundations of Constraint Processing (CSCE 421/821).  It is
+intended for students with some sophistication and considerable
+interest in exploring methods for designing and using algorithms
+useful for solving combinatorial problems.  The goal of the course is
+to study, analyzem and critique basic and current research papers.
+Projects are optional.  Topics may include (and are not restricted to):
+</p><ul>
+<li> Temporal reasoning,</li>
+<li> Symmetry and interchangeability,</li>
+<li> Spatial reasoning,</li>
+<li> Continuous CSPs,</li>
+<li> Distributed constraint satisfaction,</li>
+<li> Global constraints,</li>
+<li> Soft constraints,</li>
+<li> OR Methods in CP,</li>
+<li> etc.</li>
+</ul>
+Active class participation is an essential component of the course. 
+
+
+<p><b>Lectures:</b> Mondays and Wednesdat, from 3:30 p.m. to 4:45 p.m.<br/>
+<b>Location</b>: Avery Hall, Room 109.</p>
+<p><b>Make-up Class:</b> To be scheduled as necessary<br/>
+</p><p><b>Instructor</b>:   Prof.  Berthe Y. Choueiry
+<br/>     
+Office location: Room 360, Avery Hall,
+<br/>     
+choueiry AT cse.unl.edu, tel: (402)472-5444.
+<br/>     
+<font color="#FF0000"><b>Office hours</b>: Tuesday/Thursday 2:00 pm-3:00 pm
+p.m.</font> or by appointment.</p>
+<p>For a quick response, please use <a href="piazza.com/class#spring2013/csce921">Piazza</a> for all communications.
+</p>
+<!--
+<p><b>For a quick response</b>, email the instructor directly. 
+<br>
+<b>To broadcast a message to the class</b>, email cse921-ml@cse.unl.edu.
+</p>
+-->
+<p><b>Textbooks (check the bookstore):</b>
+</p><ul>
+<li>
+Required: Constraints Processing, Rina Dechter, Morgan Kauffman, 2003.</li>
+<li>
+Required: Handbook of Constraint Programming, Rossi et al., Editors, Elsevier, 2006.</li>
+<li>
+Papers are available from the UNL libraries (electronic resources,
+Math Library, etc.).</li>
+</ul>
+<br/>
+</div>
+</div>
+<br/><br/>
+<!-- hhmts start -->
+Last modified: Thu Feb  7 15:00:48 CST 2013
+<!-- hhmts end -->
+</td></tr></tbody></table></body>
+</html>

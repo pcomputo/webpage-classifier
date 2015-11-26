@@ -1,0 +1,262 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="text/css" http-equiv="Content-Style-Type"/>
+<title>My Homepage</title>
+<meta content="Cocoa HTML Writer" name="Generator"/>
+<meta content="1265" name="CocoaVersion"/>
+<style type="text/css">
+    p.p2 {margin: 0.0px 0.0px 6.0px 0.0px; font: 12.0px Times; background-color: #808080; min-height: 14.0px}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px 'Times New Roman'}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px Times; min-height: 14.0px}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; min-height: 14.0px}
+    p.p6 {margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px 'Times New Roman'}
+    p.p7 {margin: 0.0px 0.0px 6.0px 0.0px; font: 13.0px 'Times New Roman'}
+    p.p8 {margin: 0.0px 0.0px 12.0px 0.0px; text-align: right; font: 12.0px 'Times New Roman'; color: #0000ff}
+    p.p9 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}
+    p.p11 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px 'Times New Roman'}
+    p.p12 {margin: 0.0px 0.0px 6.0px 0.0px; font: 12.0px 'Times New Roman'}
+    p.p13 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}
+    p.p14 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px 'Times New Roman'}
+    p.p15 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Times New Roman'}
+    p.p16 {margin: 0.0px 0.0px 12.0px 0.0px; text-align: right; font: 12.0px 'Times New Roman'; color: #0433ff}
+    p.p17 {margin: 0.0px 0.0px 12.0px 0.0px; text-align: justify; font: 12.0px 'Times New Roman'}
+    p.p19 {margin: 0.0px 0.0px 12.0px 0.0px; text-align: right; font: 12.0px Times; color: #0000ff}
+    li.li7 {margin: 0.0px 0.0px 6.0px 0.0px; font: 13.0px 'Times New Roman'}
+    li.li10 {margin: 0.0px 0.0px 8.0px 0.0px; font: 13.0px 'Times New Roman'}
+    li.li18 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Times New Roman'; color: #0000ee}
+    span.s1 {text-decoration: underline ; color: #0000ee}
+    span.s2 {text-decoration: underline}
+    span.s3 {text-decoration: underline ; color: #0000ff}
+    span.s4 {color: #000000}
+    span.Apple-tab-span {white-space:pre}
+    table.t1 {width: 891.0px}
+    td.td1 {width: 540.0px; padding: 8.0px 8.0px 8.0px 8.0px}
+    td.td2 {width: 319.0px; padding: 8.0px 8.0px 8.0px 8.0px}
+    ol.ol1 {list-style-type: decimal}
+    ul.ul1 {list-style-type: disc}
+  </style>
+</head>
+<body>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px 'Times New Roman'"><b>Juan Cui</b></h1>
+<p class="p2"><br/></p>
+<table border="0" cellpadding="8" cellspacing="0" width="800">
+<tr>
+<td align="LEFT" class="style1" valign="TOP" width="540"><p>
+</p><p class="p3">Assistant Professor, Department of Computer Science and Engineering <br/>
+Courtesy Assistant Professor, School of Biological Science<br/>
+Univeristy of Nebraska-Lincoln<br/>
+Courtesy Assistant Professor, Department of Biochemistry and Molecular Biology, University of Nebraska Medical Center <br/>
+<br/>
+122B, Avery Hall, 1144 T Street <br/>
+Lincoln, NE, 65888-0115 <br/>
+Phone: 402-472-5023 <br/>
+Email: <a href="mailto:jcui@cse.edu.edu"><span class="s1">jcui@cse.unl.edu</span></a> <br/>
+<b><a href="http://sbbi.unl.edu"><span class="s3">Visit Cui' Group &gt;&gt;&gt;</span></a></b></p>
+</td><td align="CENTER" class="style1" colspan="2" valign="MIDDLE" width="421"><img height="140" src="./pic2.png" width="119"/></td>
+</tr>
+<tr>
+</tr>
+</table>
+<p class="p5"><br/></p>
+<p class="p2"><br/></p>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px 'Times New Roman'"><b>Research Interests:</b></h3>
+<p class="p7">Computational and systems biology, bioinformatics, cancer informatics, data mining and machine learning</p>
+<p align="right" style='margin-top: -3; font-family: "Times New Roman", Times, serif;'><a href="#top">[top]</a></p>
+<p class="p2"><br/></p>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px 'Times New Roman'"><b>Education and Training:</b></h3>
+<p class="p7">•  Assistant research scientist/group leader in cancer bioinformatics (2011~2013), Department of Biochemistry and Molecular Biology, University of Georgia</p>
+<p class="p7">•  Postdoc. /group leader in cancer bioinformatics (2008~2011), Department of Biochemistry and Molecular Biology, University of Georgia</p>
+<p class="p7">•  Ph.D in Bioinformatics (2008), Department of Computational Science and Department of Pharmacy, National University of Singapore</p>
+<p class="p7">•  B.E. in Information engineering (2002), School of Electronic Engineering, Northwestern Polytechnic University, China</p>
+<p align="right" style='margin-top: -3; font-family: "Times New Roman", Times, serif;'><a href="#top">[top]</a></p>
+<p class="p2"><br/></p>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px 'Times New Roman'"><b>Journal Publications:</b></h3>
+<ol class="ol1">
+<li class="li7">Chiang K, Shu J, Zempleni J, Cui J. Dietary MicroRNA Database (DMD): An archive database and analytic tool for microRNAs in human foods. PLoS ONE. 2015 Accepted.</li>
+<li class="li7">Zempleni J, Baier SR, Howard KM, Cui J. Gene regulation by dietary microRNAs. Invited paper, Can J Physiol Pharmacol, April 2015, 10.1139/cjpp-2014-0392.</li>
+<li class="li7">Juan Cui, Yanbin Yin, Qin Ma, Guoqing Wang, Victor Olman, Yu Zhang, Wen-Chi Chou, Celine S. Hong, Chi Zhang, Sha Cao, Xizheng Mao, Ying Li, Steve Qin, Shaying Zhao, Jing Jiang, Phil Hastings, Fan Li, Ying Xu. Comprehensive Characterization of Genomic Alterations in Human Gastric Cancer <b><i>International Journal of Cancer</i></b> 2014 Nov 24. doi: 10.1002/ijc.29352. </li>
+<li class="li7">Beach S, Brody G, Lei GH, Kim S, Cui J, Philibert R. Is serotonin transporter genotype associated with epigenetic susceptibility or vulnerability? Examination of the impact of socioeconomic status risk on African American youth <b><i>Development and Psychopathology </i></b> 2014, 26:289–304 </li>
+<li class="li7">Qin Ma, Jaxk H. Reeves, David A. Liberles, Lili Yu, Zheng Chang, Jing Zhao, <b>Juan Cui</b>, Ying Xu, Liang Liu. A phylogenetic model for understanding the effect of gene duplication on cancer progression <b><i>Nucleic Acids Research</i></b> 2014, doi: 10.1093/nar/gkt1320</li>
+<li class="li7">Sun H, Wang HP, Tang KL, Qin G, <b>Cui J</b>, Cao ZW, Liu Qi. iPEAP: integrating multiple omics and genetic data for pathway enrichment analysis, Bioinformatics<span class="Apple-converted-space">  </span>2013 Oct 30. doi: 10.1093 [Epub ahead of print]</li>
+<li class="li7">Jiaxin Wang, Yanchun Liang, Yan Wang, <b>Juan Cui</b>, Ming Liu, Wei Du, Ying Xu, Computational Prediction of Human Salivary Proteins from Blood Circulation and Application to Diagnostic Biomarker Identification, submitted to <b>PLoS ONE</b>, 2013 Nov 12;8(11): e80211</li>
+<li class="li7">Dong XY, Wang GQ, Zhang GQ, Ni ZH, Suo J, <b>Cui J,</b> Cui A, Xu Y, Li F (2013) The endothelial lipase protein is promising urinary biomarker for diagnosis of gastric cancer. <b>Diagnostic Pathology</b> 8 (1), 45, 2013.</li>
+<li class="li7">Xu K, Mao XZ, Mehta M, <b>Cui J,</b> Zhang C, Mao FL, Xu Y (2013) Elucidation of How Cancer Cells Avoid Acidosis through Comparative Transcriptomic Data Analysis, <b>PLoS ONE</b>, e71177, 2013.</li>
+<li class="li7"><b>Cui J</b>, Mao X, Olman V, Hastings PJ, Xu Y (2012) Hypoxia and miscoupling between reduced energy efficiency and signaling to cell proliferation drive cancer to grow increasingly faster. <b><i>Journal of Molecular Cell Biology</i></b> 4: 174-176.</li>
+<li class="li7"><b>Cui J</b>, Liang YC, Xu Y (2012) Systems biology in the frontier of cancer research: a report on the Second International Workshop of Cancer Systems Biology. <b><i>Chin J Cancer</i></b>. Aug 28. doi: 10.5732/cjc.012.10205.</li>
+<li class="li7">Su Y, Ni Z, Wang G, <b>Cui J</b>, Wei C, et al. (2012) Aberrant expression of microRNAs in gastric cancer and biological significance of miR-574-3p. <b><i>International Immunopharmacology</i></b> 13: 468-475.</li>
+<li class="li7">Liu Q, Zhou H, <b>Cui J</b>, Cao Z, Xu Y (2012) Reconsideration of in-silico siRNA design based on feature selection: a cross-platform data integration perspective. <b><i>PLoS ONE</i></b> 7: e37879.</li>
+<li class="li7">Xu K, Mao X, Mehta M, <b>Cui J</b>, Zhang C, et al. (2012) A comparative study of gene-expression data of basal cell carcinoma and melanoma reveals new insights about the two cancers. <b><i>PLoS ONE</i></b> 7: e30750.</li>
+<li class="li7"><b>Cui J</b>, Eldredge JB, Xu Y, Puett D (2011) MicroRNA expression and regulation in human ovarian carcinoma cells by luteinizing hormone. <b><i>PLoS ONE</i></b> 6.: e21730</li>
+<li class="li7"><b>Cui J</b>, Miner BM, Eldredge JB, Warrenfeltz SW, Dam P, et al. (2011) Regulation of gene expression in ovarian cancer cells by luteinizing hormone receptor expression and activation. <b><i>BMC Cancer</i></b> 11: 280.</li>
+<li class="li7"><b>Cui J</b>, Chen Y, Chou WC, Sun L, Chen L, et al. (2011) An integrated transcriptomic and computational analysis for biomarker identification in gastric cancer. <b><i>Nucleic Acids Research</i></b> 39: 1197-1207.</li>
+<li class="li7"><b>Cui J</b>, Li F, Wang G, Fang X, Puett JD, et al. (2011) Gene-expression signatures can distinguish gastric cancer grades and stages. <b><i>PLoS ONE</i></b> 6: e17819.</li>
+<li class="li7">Gao J*, <b>Cui J*</b>, Wang Y, Dong ZN, Tian YP, et al. (2011) Identification of potential predictors for subtype IgA nephropathy through analyses of blood biochemical indicators. <b><i>Clinica Chimica Acta</i></b> 412: 441-445.</li>
+<li class="li7">Hong CS, <b>Cui J</b>, Ni Z, Su Y, Puett D, et al. (2011) A computational method for prediction of excretory proteins and application to identification of gastric cancer markers in urine. <b><i>PLoS ONE</i></b> 6: e16875.</li>
+<li class="li7">Xu K*, <b>Cui J*</b>, Olman V, Yang Q, Puett D, et al. (2010) A comparative analysis of gene-expression data of multiple cancer types. <b><i>PLoS ONE</i></b> 5: e13696.</li>
+<li class="li7">Zhang X, <b>Cui J</b>, Nilsson D, Gunasekera K, Chanfon A, et al. (2010) The Trypanosoma brucei MitoCarta and its regulation and splicing pattern during development. <b><i>Nucleic Acids Research</i></b> 38: 7378-7387.</li>
+<li class="li7">Liu Q, <b>Cui J</b>, Yang Q, Xu Y (2010) In-silico prediction of blood-secretory human proteins using a ranking algorithm. <b><i>BMC Bioinformatics</i></b> 11: 250.</li>
+<li class="li7">Lu Y, Gao Y, Cao Z, <b>Cui J</b>, Dong Z, et al. (2010) A study of health effects of long-distance ocean voyages on seamen using a data classification approach. <b><i>BMC Med Inform Decis Mak</i></b> 10: 13.</li>
+<li class="li7">Diao H, Xiao S, <b>Cui J</b>, Chun J, Xu Y, et al. (2010) Progesterone receptor-mediated up-regulation of transthyretin in preimplantation mouse uterus. <b><i>Fertility and Sterility</i></b> 93: 2750-2753.</li>
+<li class="li7">Jia J, <b>Cui J</b>, Liu X, Han J, Yang S, et al. (2009) Genome-scale search of tumor-specific antigens by collective analysis of mutations, expressions and T-cell recognition. <b><i>Mol Immunol</i></b> 46: 1824-1829.</li>
+<li class="li7"><b>Cui J</b>, Liu Q, Puett D, Xu Y (2008) Computational prediction of human proteins that can be secreted into the bloodstream. <b><i>Bioinformatics</i></b> 24: 2370-2375.</li>
+<li class="li7"><b>Cui J</b>, Han LY, Lin H, Tang ZQ, Ji Z, et al. (2007) Advances in exploration of machine learning methods for predicting functional class and interaction profiles of proteins and peptides irrespective of sequence homology. <b><i>Current Bioinformatics</i></b> 2: 95-112.</li>
+<li class="li7">Tang ZQ, Han LY, Lin HH, <b>Cui J</b>, Jia J, et al. (2007) Derivation of stable microarray cancer-differentiating signatures using consensus scoring of multiple random sampling and gene-ranking consistency evaluation. <b><i>Cancer Res</i></b> 67: 9996-10003.</li>
+<li class="li7"><b>Cui J</b>, Han LY, Lin HH, Zhang HL, Tang ZQ, et al. (2007) Prediction of MHC-binding peptides of flexible lengths from sequence-derived structural and physicochemical properties. <b><i>Mol Immunol</i></b> 44: 866-877.</li>
+<li class="li7"><b>Cui J</b>, Han LY, Li H, Ung CY, Tang ZQ, et al. (2007) Computer prediction of allergen proteins from sequence-derived protein structural and physicochemical properties. <b><i>Mol Immunol</i></b> 44: 514-520.</li>
+<li class="li7">Xie B, Zheng CJ, Han LY, Ong S, <b>Cui J</b>, et al. (2007) PharmGED: pharmacogenetic effect database. <b><i>Clin Pharmacol Ther</i></b> 81: 29.</li>
+<li class="li7">Zheng CJ, Han LY, Xie B, Liew CY, Ong S, et al. (2007) PharmGED: Pharmacogenetic Effect Database. <b><i>Nucleic Acids Research</i></b> 35: D794-799.</li>
+<li class="li7"><b>Cui J</b>, Han LY, Lin HH, Tang ZQ, Jiang L, et al. (2006) MHC-BPS: MHC-binder prediction server for identifying peptides of flexible lengths from sequence-derived physicochemical properties. <b><i>Immunogenetics</i></b> 58: 607-613.</li>
+<li class="li7">Han L, <b>Cui J</b>, Lin H, Ji Z, Cao Z, et al. (2006) Recent progresses in the application of machine learning approach for predicting protein functional class independent of sequence similarity. <b><i>Proteomics</i></b> 6: 4023-4037.</li>
+<li class="li7">Zheng CJ, Han LY, Chen X, Cao ZW, <b>Cui J</b>, et al. (2006) Information of ADME-associated proteins and potential application for pharmacogenetic prediction of drug responses. <b><i>Current Pharmacogenomics</i></b> 4: 87-103.</li>
+<li class="li7"><b>Cui J</b>, Han LY, Cai CZ, Zheng CJ, Ji ZL, et al. (2005) Prediction of functional class of novel bacterial proteins without the use of sequence similarity by a statistical learning method. <b><i>J Mol Microbiol Biotechnol</i></b> 9: 86-100.</li>
+<li class="li7">Han LY, Zheng CJ, Lin HH, <b>Cui J</b>, Li H, et al. (2005) Prediction of functional class of novel plant proteins by a statistical learning method. <b><i>New Phytol</i></b> 168: 109-121.</li>
+<li class="li7">Han LY, Cai CZ, Ji ZL, Cao ZW, <b>Cui J</b>, et al. (2004) Predicting functional family of novel enzymes irrespective of sequence similarity: a statistical learning approach. <b><i>Nucleic Acids Research</i></b> 32: 6437-6444.</li>
+</ol>
+<p class="p6"><b>Books:<span class="Apple-converted-space"> </span></b></p>
+<ol class="ol1">
+<li class="li7">Xu Y, <b>Cui</b> <b>J</b> and J. Dave Puett, <a href="http://www.springer.com/computer/bioinformatics/book/978-1-4939-1380-0"><span class="s3">(Introduction to Cancer Bioinformatics) </span></a>, Springer, New York.  </li>
+</ol>
+<p class="p6"><b>Invited Chapters:<span class="Apple-converted-space"> </span></b></p>
+<ol class="ol1">
+<li class="li7"><b>Cui</b> <b>J</b> Cui J. “Genomic Data Analysis for Personalized Healthcare”. In Healthcare Data Analytics. Edited by Chandan K. Reddy, Charu C. Aggarwal. CRC Press (Data Mining and Knowledge Discovery Series), 2015.</li>
+<li class="li7"><b>Cui J</b>, Xu Y, Puett D. 2013. Microarray-Based Transcriptome Profiling of Ovarian Cancer Cells. In Ovarian cancer - Methods and Protocols. Springer, New York. doi:10.1007/978-1-62703-547-7</li>
+<li class="li7"><b>Cui J</b>, Xu Y, Puett D. 2012. Transcriptomic Analysis of Human Ovarian Cancer Cells: Changes Mediated by Luteinizing Hormone Receptor Activation. In Ovarian Cancer. InTech, Rijeka. doi:10.5772/28204</li>
+</ol>
+<p class="p6"><b>Conference Publications:<span class="Apple-converted-space"> </span></b></p>
+<ol class="ol1">
+<li class="li7">Shu J, Chiang K, Cui J. Computational characterization of microRNA-mediated association between obesity and cancer. In: Proceedings of the 106th Annual Meeting of the American Association for Cancer Research(AACR); 2015 Apr 18-22; Philadelphia, PA.2015 </li>
+<li class="li7">Zempleni J, Baier SR, Cui J, Wolf T. Bovine microRNAs are bioavailable and affect gene expression in humans and mice.  American Society for Cell Biology, Philadelphia, PA, October 6-10, 2014</li>
+<li class="li7">Yan Wang, Guishen Wang, Di Meng, Lan Huang, Enrico Blanzieri, Juan Cui (2014) A Markov Clustering based Link Clustering Method for Overlapping Module Identification in Yeast Protein-protein Interaction Networks. THE 10th International Symposium on Bioinformatics Research and Applications (ISBRA2014), June 2014, Zhangjiajie, China</li>
+<li class="li7">Toward understanding the genomic alterations in human gastric cancer. Abstract in Proceedings of the American Association of Caner Research (AACR), April 2014, San Diego, US</li>
+</ol>
+<p class="p9"><br/></p>
+<p align="right" style='margin-top: -3; font-family: "Times New Roman", Times, serif;'><a href="#top">[top]</a></p>
+<p class="p2"><br/></p>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px 'Times New Roman'"><b>Manuscripts Submitted or in Preparation:</b></h3>
+<ol class="ol1">
+<li class="li10">Shu J, Chiang K, Zempleni J, Cui J.Computational Characterization of Exogenous MicroRNAs That Can Be Transferred into Human Circulation. To be submitted to PLoS ONE<span class="Apple-converted-space"> </span></li>
+<li class="li10">Chiang K, Shu J, Zempleni J, Cui J. Dietary MicroRNA Database (DMD): An archive database and analytic tool for microRNAs in human foods. To be submitted to PLoS ONE<span class="Apple-converted-space"> </span></li>
+<li class="li10">Wang Y, Wang GS, Meng D, Huang L, <b>Cui J</b>, Blanzieri E. A Markov lustering based link clustering method for overlapping module identification in yeast PPI network. Submitted 2013</li>
+<li class="li10">Wang Y*, <b>Cui J</b>*, Du W, Zhang C, Mao FL, Wang JX, Chen L, Xu Y. Identification of highly-specific gene markers in gastric cancer through meta- transciptome anlaysis on multiple human diseases gastric gene markers with high specificity based on gene expression data of multiple human diseases. <i>Submitted to Bioinformatics</i></li>
+<li class="li10">Hong CS, <b>Cui J</b>, Xu, Y. Characterization of urine-excretory miRNAs and demonstration of their Feasibility as disease diagnostic markers. <i>Submitted to PLoS ONE</i></li>
+<li class="li10">Beach S, Brody G, Lei GH, Kim S, <b>Cui J</b>, Philibert R. The Effect of Early Socioeconomic-Related Stress on Epigenetic Reprogramming of Depression-Related Genes Mediates its Association with Depressive Symptoms in African American Young Adults. <i>Submitted to Psychosomatic Medicine</i></li>
+<li class="li10">Chao Zuo, Chi Zhang, <b>Juan Cui</b>, Kun Xu and Ying Xu, Derivation of Common and Distinct Characteristics of Different Cancer Types through Comparative Transcriptomic Data Analyses, submitted, 2012</li>
+<li class="li10"><b>Cui J</b>, Wang Y, Xu Y. Cell growth and metabolism in cancer: new insights gained through comparative transcriptome analysis across different cancers.<span class="Apple-converted-space">  </span><i>In preparation</i></li>
+</ol>
+<p class="p9"><br/></p>
+<p align="right" style='margin-top: -3; font-family: "Times New Roman", Times, serif;'><a href="#top">[top]</a></p>
+<p class="p2"><br/></p>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px 'Times New Roman'"><b>Invited Talks and Conference Posters:</b></h3>
+<p class="p7">• <span class="Apple-converted-space">  </span>Talk: International Cancer System Biology conference (ICSB), Changchun, China, 07/2015<span class="Apple-converted-space"> </span></p>
+<p class="p7">• <span class="Apple-converted-space">  </span>Talk: “Computational construction of microRNA regulation network in cancer”, UNMC Department of Biochemistry, 05/2015 <span class="Apple-converted-space"> </span></p>
+<p class="p7">•  Talk: “Omics driven biomarker discovery and genome study in cancer”, Department of Biomedical Sciences, Creighton University School of Medicine, 11/2014 <span class="Apple-converted-space"> </span></p>
+<p class="p7">•  Talk: Zempleni J, Baier SR, Cui J, Wolf T. Bovine microRNAs are bioavailable and affect gene expression in humans and mice.  American Society for Cell Biology, Philadelphia, PA, October 6-10, 2014 <span class="Apple-converted-space"> </span></p>
+<p class="p7">•  Talk: “Omics driven cancer research” in Nebraska Gateway to Nutrigenomics, UNL, 03/2014 <span class="Apple-converted-space"> </span></p>
+<p class="p7">•  Talk: “Characterization of genome and metabolic network in gastric cancer” in UNMC, 12/2013 <span class="Apple-converted-space"> </span></p>
+<p class="p7">•  Talk: “From Diagnostic Biomarker Discovery to Molecular Mechanism Study: a bioinformatics approach to gastric cancer research” in the School of Biological science, 09/2013 <span class="Apple-converted-space"> </span></p>
+<p class="p7">•  Talk: “Comprehensive elucidation of genomics alterations in human gastric cancer” in Biostatistics at Emory University, 11/2012<span class="Apple-converted-space"> </span></p>
+<p class="p7">•  Talk: “Biomarker identification for cancer diagnosis” in the Winship Cancer Institute at Emory University, 08/2012</p>
+<p class="p7">•  Talk: "Whole-genome sequence analysis reveals new insights about gastric cancer" in International Cancer System Biology conference, Changchun, China, 07/2012</p>
+<p class="p7">•  Talk: "Bioinformatics in Cancer Research", Tongji University, China, 07/2012</p>
+<p class="p7">•  Invited lectures:"Cancer informatics", Tallinn University and Tartu University, Estonia, 06/2012</p>
+<p class="p7">•  Poster, "Biomarker identification for gastric cancer diagnosis" Cancer Detection and Diagnostics Technologies for Global Health Conference, NIH Campus, August/2011</p>
+<p class="p7">•  Talk: "Biomarker identification for cancer diagnosis" in International Cancer System Biology conference, Changchun, China, 07/2011</p>
+<p class="p7">•  Talk: "cancer marker identification" in Biostatistics department at Emory University, 03/2011</p>
+<p class="p7">•  Talk: "Gene Expression Profiling of Ovarian Cancer Cells Post-Activation of the LH Receptor",Co-author, 14th World Congress of Gynecological Endocrinology, Florence, Italy, 03/2010</p>
+<p class="p7">•  Poster: "An integrated approach to cancer marker identification" in GRA Vaccine Dinner Club at Emory University, GA, 02/2010</p>
+<p class="p7">•  Invited Talk: "Biomarker Identification for Cancer" in CHI's meeting: Accelerating Development &amp; Advancing Personalized Therapy (ADAPT), Washington, 09/2009</p>
+<p class="p7">•  Talk: "A study of gastric cancer maker identification" in Department of Biomedicine Engineering, the Fourth Military Medical University, Xi'an, China 12/2009</p>
+<p class="p7">•  Talk: "An integrated approach to cancer marker identification" in Department of Computer Science, Jilin University, Changchun, China 12/2009</p>
+<p class="p7">•  Talk: "Identification of gene/protein signatures for gastric cancer diagnosis" in No. 2 Affiliated Hospital, Jilin University, Changchun, China 12/2009</p>
+<p class="p7">•  Talk: "Gastric cancer biomarkers" in Department of Life Science, Northeastern Normal University, Changchun, China 11/2009</p>
+<p class="p7">•  Poster: "Towards Early Detection of Human Cancer: a systems biology approach to identify serum biomarker for gastric cancer" in Computational System Biology (CSB), Stanford, 08/2009</p>
+<p class="p7">•  Poster: "A computational program for blood secreted protein prediction: toward serum marker identification" in Computational System Biology (CSB), Stanford, 08/2008</p>
+<p class="p7">•  Poster: "Computational Prediction of Human Proteins That Can Be Secreted into the Bloodstream" in Third Annual CSBS 2008 Symposium, UGA, 03/2008</p>
+<p class="p7">•  Attendee. 3rd AOHUPO and 4th Structural Biology and Functional Genomics Conference, Singapore, 2006</p>
+<p class="p7">•  Attendee. Workshop on Machine learning for Biomedical Informatics, Singapore, 2006</p>
+<p class="p7">•  Attendee. APBC 2005 Graduate Student Satellite Symposium, Singapore, 2005</p>
+<p class="p7">•  Attendee. The 5th HUGO Pacific Meeting, Singapore, 2004</p>
+<p align="right" style='margin-top: -3; font-family: "Times New Roman", Times, serif;'><a href="#top">[top]</a></p>
+<p class="p2"><br/></p>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px 'Times New Roman'"><b>Patents:</b></h3>
+<p class="p11">•  <b>J. Cui </b>, C. Hong, D. Puett, Y. Xu. PROTEIN MARKER IDENTIFICATION FOR GASTRIC CANCER DIAGNOSIS. <a href="http://www.wipo.int/pctdb/en/wo.jsp?WO=2010104662"><span class="s3">(WO-2010-104662) </span></a>2010</p>
+<p class="p11"><b>•  J. Cui. </b>, D. Puett, Y. Xu. A PREDICTION PROGRAM FOR HUMAN PROTEINS THAT CAN BE SECRETED INTO THE BLOODSTREAM. <a href="http://www.wipo.int/pctdb/en/wo.jsp?WO=2010017559"><span class="s3">(WO-2010-017559) </span></a>2009</p>
+<p align="right" style='margin-top: -3; font-family: "Times New Roman", Times, serif;'><a href="#top">[top]</a></p>
+<p class="p2"><br/></p>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px 'Times New Roman'"><b>Academic Services :</b></h3>
+<p class="p12">•<span class="Apple-tab-span"> </span><b>Associate Editor: </b>BMC Research Notes (2010- present)</p>
+<p class="p12">•<span class="Apple-tab-span"> </span><b>Editorial Board Member: Journal of Nutritional Biochemistry (2014-)</b></p>
+<p class="p12">•<span class="Apple-tab-span"> </span><b>Editorial Board Member: </b>Genomics, Proteomics &amp; Bioinformatics (2012-)</p>
+<p class="p12">•<span class="Apple-tab-span"> </span><b>Editorial Board Member:</b> JSM Computer Science &amp; Engineering (2013-)</p>
+<p class="p12">•<span class="Apple-tab-span"> </span><b>Conference/workshop Organizer:<span class="Apple-converted-space"> </span></b></p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>Chair of UNL bioinformatics workshop on Microarray and NGS data analysis, 07/2014</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>Co-chair of the International Cancer System Biology conference, Changchun, China, 2011-2012</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>Chair of “Cancer Informatics” workshop at IEEE BIBM, Atlanta, 2011<span class="Apple-converted-space"> </span></p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>Organizing member of "Forest Tree Microarray Workshop" University of Georgia, 2009<span class="Apple-converted-space"> </span></p>
+<p class="p12">•<span class="Apple-tab-span"> </span><b>Ad-hoc Proposal Reviewer: <span class="Apple-converted-space"> </span></b></p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>Internal funding initiative INPHAASE (the Institute for Population Sciences, Health Assessment, Administration, Services, and Economics), Wayne State University, 2014</p>
+<p class="p12">•<span class="Apple-tab-span"> </span><b>Program Committee Member:<span class="Apple-converted-space"> </span></b></p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2008-2012<span class="Apple-converted-space"> </span></p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>IEEE Computational Intelligence in Bioinformatics and Computational Biology (CIBCB) 2012</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>International Symposium on Enabled Health Informatics, Bio-Medicine and Bioinformatics (HI-BI-BI) 2012</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>International Conference on Intelligent Biology and Medicine (ICIBM) 2012</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>IEEE 2nd International Conference on Computational Advances in Bio and Medical Sciences (ICCABS) 2012<span class="Apple-converted-space"> </span></p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>IEEE International Conference on Computational Advances in Bio and Medical Sciences (ICCABS) 2011</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>IEEE 12th International Conference on Bioinformatics &amp; Bioengineering (BIBE) 2011</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>IEEE International Conference on Biomedical Engineering and Informatics (BMEI) 2011<span class="Apple-converted-space"> </span></p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>IEEE International Conference on Data Mining series (ICDM) 2010-2011<span class="Apple-converted-space"> </span></p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>International Conference in Foundations of Computer Science &amp; Technology (FCST) 2010</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>International Bioinformatics workshop (IBW) 2010</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>International Conference on Machine Learning and Applications (ICMLA) 2008<span class="Apple-converted-space"> </span></p>
+<p class="p12">•<span class="Apple-tab-span"> </span><b>Reviewer for Journals:<span class="Apple-converted-space"> </span></b></p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>Amino Acids</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>Bioinformatics</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>BMC Bioinformatics</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>BMC Genomics</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>BMC Research Notes</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>Cancers</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>Frontiers in Bioscience</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>International Journal of Data Mining and Bioinformatics</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>Journal of Bioinformatics and Computational Biology</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>Journal of Bioinformatics and System Biology</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>Journal of Biomedicine and Biotechnology</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>Mathematical Biosciences</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>Molecular and Cellular Endocrinology</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>Nucleic Acids Research</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>PLoS ONE</p>
+<p class="p12"><span class="Apple-tab-span"> </span>◦<span class="Apple-tab-span"> </span>Tumor Biology</p>
+<p class="p12">•<span class="Apple-tab-span"> </span><b>Reviewer for Conferences:<span class="Apple-converted-space"> </span></b></p>
+<p class="p12"><span class="Apple-tab-span"> </span><span class="Apple-converted-space">        </span>◦<span class="Apple-tab-span"> </span>Computational Systems Bioinformatics Conference (CSB)2008-2009</p>
+<p class="p12"><span class="Apple-tab-span"> </span><span class="Apple-converted-space">        </span>◦<span class="Apple-tab-span"> </span>Asia Pacific Bioinformatics Conference (APBC) 2009 </p>
+<p class="p12"><span class="Apple-tab-span"> </span><span class="Apple-converted-space">        </span>◦<span class="Apple-tab-span">	
+    span&gt;ACM International Conference On Bioinformatics and Computational Biology(ACM-BCB) 2010</span></p>
+<p class="p12"><span class="Apple-tab-span"> </span><span class="Apple-converted-space">        </span>◦<span class="Apple-tab-span"> </span>International Conference on Intelligent Computing (ICIC) 2010-2011</p>
+<p class="p12"><span class="Apple-tab-span"> </span><span class="Apple-converted-space">        </span>◦<span class="Apple-tab-span"> </span>Computational Intelligence in Bioinformatics and Computational Biology (CIBCB) 2012<span class="Apple-converted-space"> </span></p>
+<p class="p13"><br/></p>
+<p align="right" style='margin-top: -3; font-family: "Times New Roman", Times, serif;'><a href="#top">[top]</a></p>
+<p class="p2"><br/></p>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px 'Times New Roman'"><b>Teaching:</b></h3>
+<p class="p15"><span class="Apple-tab-span"> </span>•<span class="Apple-tab-span"> </span>Data structure and algorithms (CSCE311), Spring 2014-2015<span class="Apple-converted-space"> </span></p>
+<p class="p15"><span class="Apple-tab-span"> </span>•<span class="Apple-tab-span"> </span>Computational methods in bioinformatics (CSCE496/896), Fall 2013-2014<span class="Apple-converted-space"> </span></p>
+<p align="right" style='margin-top: -3; font-family: "Times New Roman", Times, serif;'><a href="#top">[top]</a></p>
+<p class="p2"><br/></p>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px 'Times New Roman'"><b>Membership/Societies:</b></h3>
+<p class="p17">•  Nebraska Gateway to Nutrigenomics (NGN)</p>
+<p class="p17">•  Interdepartmental Nutrition Program (INP), UNL</p>
+<p class="p17">•  International Society for Computational Biology</p>
+<p class="p17">•  Active member, American Association of Cancer Research</p>
+<p align="right" style='margin-top: -3; font-family: "Times New Roman", Times, serif;'><a href="#top">[top]</a></p>
+<p class="p2"><br/></p>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px 'Times New Roman'"><b> </b></h3>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px 'Times New Roman'"><b>Links:</b></h3>
+<ul class="ul1">
+<li class="li18"><a href="http://csbl.bmb.uga.edu/"><span class="s2">Computational Systems Biology Lab</span></a><span class="s4"> (CSBL)</span></li>
+<li class="li18"><a href="http://www.nus.edu.sg/"><span class="s2">National University of Singapore</span></a><span class="s4"> (NUS)</span></li>
+<li class="li18"><a href="http://bidd.nus.edu.sg/group/bidd.htm"><span class="s2">Bioinformatics and Drug Design group</span></a><span class="s4"> (BIDD)</span></li>
+</ul>
+<p align="right" style='margin-top: -3; font-family: "Times New Roman", Times, serif;'><a href="#top">[top]</a></p>
+<p class="p2"><br/></p>
+</body>
+</html>

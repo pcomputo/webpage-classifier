@@ -1,0 +1,35 @@
+<html>
+<head><title>Leen-Kiat Soh's CSCE475/875 Page</title>
+</head><body background="images/nothing.gif" bgcolor="white" link="#0000FF" text="#000000">
+<font face="arial">
+<br/><br/>
+<font size="+2">CSCE475/875 MULTIAGENT SYSTEMS Spring 2006</font>
+<br/>
+<br/>
+<hr/>
+<font color="red" size="+1">New Entries!!  Updated Schedule, Handouts 20-21, 
+Q&amp;A 8, Game Day 3, Seminar Assignment</font>
+<ul><li><a href="general.html">GENERAL INFORMATION</a></li></ul>
+<ul><li><a href="topics.html">TOPIC SUMMARIES</a></li></ul>
+<ul><li><a href="gamedays.html">GAME DAYS</a></li></ul>
+<ul><li><a href="seminar.html">SEMINAR ASSIGNMENT</a></li></ul>
+<ul><li><a href="finalproject.html">FINAL PROJECT</a></li></ul>
+<ul><li><a href="handouts.html">HANDOUTS</a></li></ul>
+<ul><li><a href="lectures.html">LECTURES</a></li></ul>
+<ul><li><a href="resources.html">RESOURCES</a></li></ul>
+<hr/><br/>
+<a href="http://blackboard.unl.edu/">Blackboard</a>
+<br/><br/>
+<hr/><br/>
+<img src="../../images/blueballs.jpeg"/>
+<i>
+<script language="JavaScript">
+   <!--  to hide script contents from old browsers
+    document.write("<I>  Last Updated: " + document.lastModified + "  </I>")
+   // end hiding contents from old browsers  -->
+ </script>
+</i>
+<br/>
+</font>
+</body>
+</html>

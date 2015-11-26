@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>April | 2012 | Sebastian Elbaum</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="Author 1.11" name="template"/>
+<meta content="WordPress 4.3.1" name="generator"/>
+<link href="http://cse.unl.edu/~elbaum/content/?feed=rss2" rel="alternate" title="Sebastian Elbaum » Feed" type="application/rss+xml"/>
+<link href="http://cse.unl.edu/~elbaum/content/?feed=comments-rss2" rel="alternate" title="Sebastian Elbaum » Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/cse.unl.edu\/~elbaum\/content\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="//fonts.googleapis.com/css?family=Rokkitt%3A400%7CLato%3A400&amp;ver=4.3.1" id="ct-author-google-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://cse.unl.edu/~elbaum/content/wp-content/themes/author/assets/font-awesome/css/font-awesome.min.css?ver=4.3.1" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://cse.unl.edu/~elbaum/content/wp-content/themes/author/style.css?ver=4.3.1" id="ct-author-style-css" media="all" rel="stylesheet" type="text/css"/>
+<script src="http://cse.unl.edu/~elbaum/content/wp-includes/js/jquery/jquery.js?ver=1.11.3" type="text/javascript"></script>
+<script src="http://cse.unl.edu/~elbaum/content/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1" type="text/javascript"></script>
+<!--[if IE 8]>
+<script type='text/javascript' src='http://cse.unl.edu/~elbaum/content/wp-content/themes/author/js/build/html5shiv.min.js?ver=4.3.1'></script>
+<![endif]-->
+<link href="http://cse.unl.edu/~elbaum/content/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://cse.unl.edu/~elbaum/content/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+</head>
+<body class="archive date" id="author">
+<!--skip to content link-->
+<a class="skip-content" href="#main">Skip to content</a>
+<div class="overflow-container" id="overflow-container">
+<div class="max-width">
+<div class="main-sidebar" id="main-sidebar">
+<header class="site-header" id="site-header" role="banner">
+<div class="title-container" id="title-container">
+<div class="site-avatar" id="site-avatar" style="background-image: url('http://cse.unl.edu/~elbaum/content/wp-content/uploads/sebastianPicture-1-e1443281083937.jpeg')" title="Sebastian Elbaum avatar"></div>
+<div class="container">
+<h1 class="site-title" id="site-title"><a href="http://cse.unl.edu/~elbaum/content" title="Sebastian Elbaum">Sebastian Elbaum</a></h1> </div>
+</div>
+<button aria-expanded="false" class="toggle-navigation" id="toggle-navigation">
+<span class="screen-reader-text">open primary menu</span>
+<i class="fa fa-bars"></i>
+</button>
+<div class="menu-container menu-primary" id="menu-primary" role="navigation">
+<nav class="menu"><ul class="menu-primary-items" id="menu-primary-items"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11" id="menu-item-11"><a href="http://cse.unl.edu/~elbaum/content/">Bio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42" id="menu-item-42"><a href="http://cse.unl.edu/~elbaum/content/?page_id=6">Students</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35" id="menu-item-35"><a href="http://cse.unl.edu/~elbaum/content/?page_id=33">Publications</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37" id="menu-item-37"><a href="http://cse.unl.edu/~elbaum/content/?page_id=19">Labs and Projects</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41" id="menu-item-41"><a href="http://cse.unl.edu/~elbaum/content/?page_id=17">Classes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-445" id="menu-item-445"><a href="http://cse.unl.edu/~elbaum/content/?page_id=111">Posts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-441" id="menu-item-441"><a href="http://cse.unl.edu/~elbaum/content/?page_id=438">Contact</a></li>
+</ul></nav>
+</div><!-- #menu-primary .menu-container -->
+</header>
+<aside class="sidebar sidebar-primary" id="sidebar-primary" role="complementary">
+<section class="widget widget_recent_entries" id="recent-posts-2"> <h2 class="widget-title">Recent Posts</h2> <ul>
+<li>
+<a href="http://cse.unl.edu/~elbaum/content/?p=456">A new perspective on the relationship between Drones and Fire</a>
+</li>
+<li>
+<a href="http://cse.unl.edu/~elbaum/content/?p=425">The Challenge of Dealing with Known Unknowns in Software Testing</a>
+</li>
+<li>
+<a href="http://cse.unl.edu/~elbaum/content/?p=422">ICSE 2015 – taking stock</a>
+</li>
+<li>
+<a href="http://cse.unl.edu/~elbaum/content/?p=417">Bessey Professorship</a>
+</li>
+<li>
+<a href="http://cse.unl.edu/~elbaum/content/?p=410">Sunday with a Scientist: Flying Robots</a>
+</li>
+<li>
+<a href="http://cse.unl.edu/~elbaum/content/?p=402">Autonomous Aerial Water Sampler – Featured in NSF 360 and Appearing in  Journal of Field Robotics</a>
+</li>
+<li>
+<a href="http://cse.unl.edu/~elbaum/content/?p=384">What a treat! ICSE 2015 Technical Research Track is rapidly taking shape</a>
+</li>
+<li>
+<a href="http://cse.unl.edu/~elbaum/content/?p=376">ICSE 2015 Technical Track receives +450 submissions</a>
+</li>
+</ul>
+</section><section class="widget widget_archive" id="archives-2"><h2 class="widget-title">Posts Archive</h2> <label class="screen-reader-text" for="archives-dropdown-2">Posts Archive</label>
+<select id="archives-dropdown-2" name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;">
+<option value="">Select Month</option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201510"> October 2015 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201506"> June 2015 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201503"> March 2015 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201501"> January 2015 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201410"> October 2014 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201408"> August 2014 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201407"> July 2014 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201405"> May 2014 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201403"> March 2014 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201401"> January 2014 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201309"> September 2013 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201308"> August 2013 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201307"> July 2013 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201301"> January 2013 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201210"> October 2012 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201209"> September 2012 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201207"> July 2012 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201206"> June 2012 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201204"> April 2012 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201202"> February 2012 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201111"> November 2011 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201108"> August 2011 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201107"> July 2011 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201106"> June 2011 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201103"> March 2011 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201101"> January 2011 </option>
+</select>
+</section>
+</aside><!-- #sidebar-primary -->
+</div>
+<section class="main" id="main" role="main">
+<div class="archive-header">
+<i class="fa fa-calendar"></i>
+<h2>
+			Date archive for:			 April 2012		</h2>
+</div>
+<div class="post-225 post type-post status-publish format-standard hentry category-news entry">
+<article>
+<div class="post-header">
+<h1 class="post-title">
+<a href="http://cse.unl.edu/~elbaum/content/?p=225">The Nimbus’ UAVs dance – on NETV</a>
+</h1>
+<span class="post-meta">
+								Published by <a href="http://cse.unl.edu/~elbaum/content/?author=2">sebastianelbaum</a> on <a href="http://cse.unl.edu/~elbaum/content/?m=201204">April 24, 2012</a> </span>
+</div>
+<div class="post-content">
+<p>Last October the Nimbus Lab students and UNL Dance students got together under the guidance of the Pilobolus Dance Company to explore how dancers and…</p>
+<p><a class="more-link" href="http://cse.unl.edu/~elbaum/content/?p=225">Continue reading <span class="screen-reader-text">The Nimbus’ UAVs dance – on NETV</span></a></p> </div>
+</article>
+</div><div class="post-217 post type-post status-publish format-standard hentry category-news entry">
+<article>
+<div class="post-header">
+<h1 class="post-title">
+<a href="http://cse.unl.edu/~elbaum/content/?p=217">Developing systems to save the cranes</a>
+</h1>
+<span class="post-meta">
+								Published by <a href="http://cse.unl.edu/~elbaum/content/?author=2">sebastianelbaum</a> on <a href="http://cse.unl.edu/~elbaum/content/?m=201204">April 4, 2012</a> </span>
+</div>
+<div class="post-content">
+<p>Two cool articles have recently appeared describing our efforts to develop devices to help track the cranes through their long continental journey. Columns magazine of…</p>
+<p><a class="more-link" href="http://cse.unl.edu/~elbaum/content/?p=217">Continue reading <span class="screen-reader-text">Developing systems to save the cranes</span></a></p> </div>
+</article>
+</div>
+</section> <!-- .main -->
+<footer class="site-footer" role="contentinfo">
+<div class="design-credit">
+<span>
+<a href="https://www.competethemes.com/author/">Author WordPress Theme</a> by Compete Themes        </span>
+</div>
+</footer>
+</div><!-- .max-width -->
+</div><!-- .overflow-container -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var objectL10n = {"openPrimaryMenu":"open primary menu","closePrimaryMenu":"close primary menu","openChildMenu":"open child menu","closeChildMenu":"close child menu"};
+/* ]]> */
+</script>
+<script src="http://cse.unl.edu/~elbaum/content/wp-content/themes/author/js/build/production.min.js?ver=4.3.1" type="text/javascript"></script>
+<!--[if IE 8]>
+<script type='text/javascript' src='http://cse.unl.edu/~elbaum/content/wp-content/themes/author/js/build/respond.min.js?ver=4.3.1'></script>
+<![endif]-->
+</body>
+</html>

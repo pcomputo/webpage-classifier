@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="ie iem7"><![endif]--><!--[if lt IE 7 ]><html class="ie ie6" lang="en"><![endif]--><!--[if IE 7 ]><html class="ie ie7" lang="en"><![endif]--><!--[if IE 8 ]><html class="ie ie8" lang="en"><![endif]--><!--[if (gte IE 9)|(gt IEMobile 7) ]><html class="ie" lang="en"><![endif]--><!--[if !(IEMobile) | !(IE)]><!--><html lang="en"><!-- InstanceBegin template="/Templates/fixed.dwt" codeOutsideHTMLIsLocked="false" --><!--<![endif]-->
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+<meta content="University of Nebraska-Lincoln | Web Developer Network" name="author"/>
+<meta content="initial-scale=1.0, width=device-width" name="viewport"/>
+<!-- For Microsoft -->
+<!--[if IE]>
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<![endif]-->
+<!-- For iPhone 4 -->
+<link href="/wdn/templates_4.0/includes/icons/h-apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+<!-- For iPad 1-->
+<link href="/wdn/templates_4.0/includes/icons/m-apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+<!-- For iPhone 3G, iPod Touch and Android -->
+<link href="/wdn/templates_4.0/includes/icons/l-apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed"/>
+<!-- For everything else -->
+<link href="/wdn/templates_4.0/includes/icons/favicon.ico" rel="shortcut icon"/>
+<!--
+    Membership and regular participation in the UNL Web Developer Network
+    is required to use the UNL templates. Visit the WDN site at 
+    http://wdn.unl.edu/. Click the WDN Registry link to log in and
+    register your unl.edu site.
+    All UNL template code is the property of the UNL Web Developer Network.
+    The code seen in a source code view is not, and may not be used as, a 
+    template. You may not use this code, a reverse-engineered version of 
+    this code, or its associated visual presentation in whole or in part to
+    create a derivative work.
+    This message may not be removed from any pages based on the UNL site template.
+    
+    $Id: fixed.dwt | 252c2891a48c70db689be6d897d4f34768b8258a | Thu Aug 1 15:08:19 2013 -0500 | Kevin Abel  $
+-->
+<!-- Load Cloud.typography fonts -->
+<link href="//cloud.typography.com/7717652/616662/css/fonts.css" media="all" rel="stylesheet" type="text/css"/>
+<!-- Load our base CSS file -->
+<!--[if gte IE 9]><!-->
+<link href="//unlcms.unl.edu/wdn/templates_4.0/css/all.css?dep=4.0.35" media="all" rel="stylesheet" type="text/css"/>
+<!--<![endif]-->
+<!-- Load the template JS file -->
+<script id="wdn_dependents" src="//unlcms.unl.edu/wdn/templates_4.0/scripts/compressed/all.js?dep=4.0.35" type="text/javascript"></script>
+<!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" media="all" href="//unlcms.unl.edu/wdn/templates_4.0/css/all_oldie.css?dep=4.0.35" />
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!-- For all IE versions, bring in the tweaks -->
+<!--[if IE]>
+    <link rel="stylesheet" type="text/css" media="all" href="//unlcms.unl.edu/wdn/templates_4.0/css/ie.css" />
+<![endif]-->
+<!-- Load the print styles -->
+<link href="//unlcms.unl.edu/wdn/templates_4.0/css/print.css" media="print" rel="stylesheet" type="text/css"/>
+<!-- InstanceBeginEditable name="doctitle" --><title>Justin Bradley | University of Nebraska–Lincoln</title><!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" --><!-- Place optional header elements here -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="http://justinbradley.unl.edu/" rel="home"/>
+<link href="http://justinbradley.unl.edu/node/1" rel="shortlink"/>
+<base href="http://justinbradley.unl.edu/"/>
+<meta content="Drupal 7 (http://drupal.org)" name="Generator"/>
+<link href="http://justinbradley.unl.edu/justin-m-bradley-phd" rel="canonical"/>
+<link href="http://justinbradley.unl.edu/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://justinbradley.unl.edu/css/css__zN49QQO5PF_ZZXxYLLgh5tXkfpPkDwQizQGJjiAMKY.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://justinbradley.unl.edu/css/css_MnXiytJtb186Ydycnpwpw34cuUsHaKc80ey5LiQXhSY.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://justinbradley.unl.edu/css/css_UVkCaNVzFmrL3xclS_fQOdd0FqYJukaMN8weRht173w.css" media="all" rel="stylesheet" type="text/css"/>
+<script src="http://justinbradley.unl.edu/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-69316206-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+  WDN.setPluginParam("idm", "login", "http://justinbradley.unl.edu/user?destination=node/1");
+  WDN.setPluginParam("idm", "logout", "user/logout");
+
+//--><!]]>
+</script>
+<script src="http://justinbradley.unl.edu/js/js_ftlcWLoD7Js98XLjiK6ihhdc_dZUm2QSh3iMQgyRNiE.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"unl_four","theme_token":"tANKv1WE3WCFHBcpiPTA84_-7Ti1a-tb7SmfK9jMswE","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"0":1,"1":1,"sites\/all\/modules\/unl\/unl.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/unl_four\/css\/style.css":1,"sites\/all\/themes\/unl_four\/css\/book-overrides.css":1,"sites\/all\/themes\/unl_four\/css\/menu-block.css":1,"sites\/all\/themes\/unl_four\/css\/views.css":1}},"unl":{"use_base_tag":true}});
+//--><!]]>
+</script>
+<!-- InstanceEndEditable -->
+<!-- InstanceParam name="class" type="text" value="" -->
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-1 node-type-page " data-version="4.0">
+<div class="region region-page-top page-top" id="page-top">
+</div>
+<nav class="skipnav" role="navigation">
+<a href="#maincontent">Skip Navigation</a>
+</nav>
+<div id="wdn_wrapper">
+<input class="wdn-content-slide wdn-input-driver" id="wdn_menu_toggle" type="checkbox" value="Show navigation menu"/>
+<noscript>
+<!-- This is a simple shim to provide vertical space for the noscript warning -->
+<div id="wdn_noscript_padding"></div>
+</noscript>
+<header class="wdn-content-slide wdn-band" id="header" role="banner">
+<div class="wdn-inner-wrapper">
+<div id="logo">
+<h3 class="wdn_list_descriptor wdn-text-hidden">Social Outposts</h3>
+<ul id="wdn_social">
+<li>
+<a class="wdn-icon-facebook-circled" href="https://www.facebook.com/UNLincoln">Facebook</a>
+</li>
+<li>
+<a class="wdn-icon-twitter-circled" href="https://twitter.com/UNLincoln">Twitter</a>
+</li>
+</ul>
+<a href="http://www.unl.edu/" id="wdn_logo_link" title="UNL website">UNL</a>
+</div>
+<div id="wdn_resources">
+<div aria-labelledby="wdn_idm_username" class="wdn-resource-label wdn-resource-login-trigger" id="wdn_identity_management" role="navigation">
+<div class="wdn-profile-options">
+<a accesskey="l" class="wdn-icon-user wdn-idm-login" href="https://login.unl.edu/cas/login" id="wdn_idm_username" title="Log in to UNL">
+            My.UNL Login
+        </a>
+<h3 class="wdn_list_descriptor wdn-text-hidden">Account Links</h3>
+<ul id="wdn_idm_user_options">
+<li id="wdn_idm_logout">
+<a href="https://login.unl.edu/cas/logout?url=http%3A//www.unl.edu/">Logout</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="wdn-resource-label" id="wdn_search">
+<form action="//www1.unl.edu/search/" id="wdn_search_form" method="get" role="search">
+<label class="wdn-icon-search" for="wdn_search_query">Search</label>
+<input accesskey="f" id="wdn_search_query" name="q" required="" type="search"/>
+<button title="Search" type="submit"></button>
+</form>
+</div>
+</div>
+<span id="wdn_institution_title">University of Nebraska–Lincoln</span>
+</div>
+<div class="wdn-share-this-page" id="wdn-main-share-button">
+<div class="wdn-share-button">
+<input class="wdn-input-driver" id="wdn_share_toggle" type="checkbox" value="Show share options"/>
+<label class="wdn-icon-share" for="wdn_share_toggle"><span class="wdn-text-hidden">Share This Page</span></label>
+<ul class="wdn-share-options">
+<li><a class="wdn-icon-link" href="http://go.unl.edu/?url=referer" id="wdn_createGoURL" rel="nofollow">Get a Go URL</a></li>
+<li class="outpost" id="wdn_emailthis"><a class="wdn-icon-mail" href="mailto:" rel="nofollow">Email this page</a></li>
+<li class="outpost" id="wdn_facebook"><a class="wdn-icon-facebook" href="https://www.facebook.com/sharer/sharer.php" rel="nofollow">Share on Facebook</a></li>
+<li class="outpost" id="wdn_twitter"><a class="wdn-icon-twitter" href="https://twitter.com/share" rel="nofollow">Share on Twitter</a></li>
+<li class="outpost" id="wdn_linkedin"><a class="wdn-icon-linkedin-squared" href="https://www.linkedin.com/shareArticle?mini=true" rel="nofollow">Share on LinkedIn</a></li>
+</ul>
+</div>
+</div>
+<div class="wdn-inner-wrapper">
+<div id="wdn_site_title">
+<span>
+<!-- InstanceBeginEditable name="titlegraphic" -->Justin Bradley<!-- InstanceEndEditable -->
+</span>
+</div>
+</div>
+</header>
+<div class="wdn-band" id="wdn_navigation_bar" role="navigation">
+<nav class="wdn-inner-wrapper" id="breadcrumbs">
+<!-- WDN: see glossary item 'breadcrumbs' -->
+<h3 class="wdn_list_descriptor wdn-text-hidden">Breadcrumbs</h3>
+<!-- InstanceBeginEditable name="breadcrumbs" -->
+<ul>
+<li><a href="http://www.unl.edu/">UNL</a></li><li><a href="http://cse.unl.edu">Department of Computer Science and Engineering</a></li><li><a href="">Justin Bradley</a></li></ul>
+<!-- InstanceEndEditable -->
+</nav>
+<div id="wdn_navigation_wrapper">
+<nav class="wdn-band" id="navigation" role="navigation">
+<h3 class="wdn_list_descriptor wdn-text-hidden">Navigation</h3>
+<!-- InstanceBeginEditable name="navlinks" -->
+<ul><li class="first expanded active-trail"><a class="active-trail active" href="http://justinbradley.unl.edu/justin-m-bradley-phd">Home</a><ul><li class="first last leaf"><a href="http://justinbradley.unl.edu/about-me">About Me</a></li>
+</ul>
+</li>
+<li class="leaf"><a href="http://justinbradley.unl.edu/publications">Publications</a></li>
+<li class="expanded"><a href="http://justinbradley.unl.edu/research">Research</a><ul><li class="first leaf"><a href="http://justinbradley.unl.edu/cps-co-regulation">CPS Co-Regulation</a></li>
+<li class="last leaf"><a href="http://justinbradley.unl.edu/cps-co-optimization">CPS Co-Optimization</a></li>
+</ul>
+</li>
+<li class="leaf"><a href="http://justinbradley.unl.edu/courses">Courses</a></li>
+<li class="leaf"><a href="http://justinbradley.unl.edu/advising">Advising</a></li>
+<li class="last leaf"><a href="http://justinbradley.unl.edu/news">News</a></li>
+</ul>
+<!-- InstanceEndEditable -->
+<label class="wdn-icon-menu" for="wdn_menu_toggle">Menu</label>
+</nav>
+</div>
+</div>
+<!-- Navigation Trigger -->
+<div class="wdn-menu-trigger wdn-content-slide">
+<label class="wdn-icon-menu" for="wdn_menu_toggle">Menu</label>
+</div>
+<!-- End navigation trigger -->
+<div class="wdn-content-slide" id="wdn_content_wrapper" role="main">
+<div class="wdn-band">
+<div class="wdn-inner-wrapper">
+<div id="pagetitle">
+<!-- InstanceBeginEditable name="pagetitle" --><h1>Justin M. Bradley, PhD</h1><!-- InstanceEndEditable -->
+</div>
+</div>
+</div>
+<div class="wdn-main" id="maincontent">
+<!--THIS IS THE MAIN CONTENT AREA; WDN: see glossary item 'main content area' -->
+<!-- InstanceBeginEditable name="maincontentarea" -->
+<div class="wdn-band">
+<div class="region region-content content wdn-band" id="content">
+<div class="block block-system" id="block-system-main">
+<div class="content">
+<div class="node node-page node-promoted clearfix" id="node-1">
+<div class="content">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden clearfix">
+<div class="field-items">
+<div class="field-item even"><div class="wdn-inner-wrapper"><img alt="Justin Bradley" src="faculty_photo_0.png" style="float: right; margin-left: 10px; margin-right: 10px; margin-top: 5px; margin-bottom: 5px;"/>Assistant Professor<br/><a href="http://cse.unl.edu" target="_blank">Computer Science and Engineering Dept.</a> - <a href="http://unl.edu" target="_blank">University of Nebraska - Lincoln</a><br/>Co-Director of the <a href="http://nimbus.unl.edu" target="_blank">NIMBUS Lab</a><br/><br/><strong>Contact Information:</strong><br/>Email: justin [dot] bradley [at] unl [dot] edu<br/>Phone: 402-472-5072<br/>Office: 261 Avery Hall Lincoln, NE 68588</div>
+<div class="wdn-band wdn-light-neutral-band">
+<div class="wdn-inner-wrapper wdn-inner-padding-sm">
+<h2 class="wdn-brand clear-top">Latest News</h2>
+<ul>
+<li><span style="line-height: 1.777;"><strong><em>(11/2015) Robotics Chair:</em></strong> </span><span style="line-height: 1.777;">Dr. Bradley elected committee chair and advisor of the Robotics Engineering Minor</span></li>
+<li><strong><em>(10/2015) RDFP Participant:</em></strong> Dr. Bradley selected to participate in the 2015-2016 Research Development Fellow Program.</li>
+<li><strong><em>(09/2015) Paper published:</em></strong> "Optimization and Control of Cyber-Physical Vehicle Systems" published in Journal Sensors (doi:<a href="http://dx.doi.org/10.3390/s150923020" target="_blank">10.3390/s150923020</a>)</li>
+</ul>
+</div>
+</div>
+<!--
+<div class="wdn-band wdn-light-triad-band">
+<div class="wdn-inner-wrapper wdn-inner-padding-sm">
+<h2 class="wdn-brand clear-top">Opportunities</h2>
+I'm currently looking for good undergraduate and graduate students interested in conducting research in robotics, control, and real-time systems. Please send me a resume and writing sample if interested.</div>
+</div>
+--></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- InstanceEndEditable -->
+<!--THIS IS THE END OF THE MAIN CONTENT AREA.-->
+</div>
+</div>
+<div class="wdn-band wdn-content-slide" id="wdn_optional_footer">
+<div class="wdn-inner-wrapper">
+<!-- InstanceBeginEditable name="optionalfooter" --><!-- InstanceEndEditable -->
+</div>
+</div>
+<footer class="wdn-content-slide" id="footer" role="contentinfo">
+<div class="wdn-band" id="wdn_footer_related">
+<div class="wdn-inner-wrapper">
+<!-- InstanceBeginEditable name="leftcollinks" -->
+<div class="region region-leftcollinks leftcollinks" id="leftcollinks">
+<div class="block block-block" id="block-block-102">
+<h3>Related Links</h3>
+<div class="content">
+<ul>
+<li><a href="http://cse.unl.edu" target="_blank">Department of Computer Science and Engineering</a></li>
+<li><a href="http://nimbus.unl.edu" target="_blank">NIMBUS Lab</a></li>
+</ul> </div>
+</div>
+</div>
+<!-- InstanceEndEditable -->
+</div>
+</div>
+<div class="wdn-band">
+<div class="wdn-inner-wrapper">
+<div class="footer_col" id="wdn_footer_contact">
+<h3>Contact Us</h3>
+<div class="wdn-contact-wrapper">
+<!-- InstanceBeginEditable name="contactinfo" -->
+<div class="region region-contactinfo contactinfo" id="contactinfo">
+<div class="block block-block" id="block-block-101">
+<div class="content">
+<p><b>Computer Science and Engineering Department<br/></b>256 Avery Hall<br/> Lincoln, NE 68588<br/> 402-472-2401</p> </div>
+</div>
+</div>
+<!-- InstanceEndEditable -->
+</div>
+</div>
+<div id="wdn_copyright">
+<div class="wdn-footer-text">
+<!-- InstanceBeginEditable name="footercontent" -->
+<div class="region region-footercontent footercontent" id="footercontent">
+<div class="block block-block" id="block-block-104">
+<div class="content">
+<span><strong>Updated: 2015-11-23</strong><br/></span>© 2015 University of Nebraska–Lincoln | Lincoln, NE 68588 | 402-472-7211 | <a href="http://www.unl.edu/ucomm/aboutunl/" title="Click here to know more about UNL">About UNL</a> | <a href="http://www1.unl.edu/comments/" title="Click here to direct your comments and questions">comments?</a><br/> UNL is an equal opportunity employer with a comprehensive plan for diversity. Find out more: <a href="https://employment.unl.edu/" target="_blank" title="Employment at UNL">employment.unl.edu<br/></a> </div>
+</div>
+</div>
+<!-- InstanceEndEditable -->
+<span id="wdn_attribution"><br/><a href="http://www.unl.edu/equity/notice-nondiscrimination">Notice of Nondiscrimination</a><br/><br/>UNL web templates and quality assurance provided by the <a href="http://wdn.unl.edu/" title="UNL Web Developer Network">Web Developer Network</a> · <a href="https://webaudit.unl.edu/qa-test/" id="wdn_qa_link">QA Test</a></span>
+</div>
+<div id="wdn_logos">
+<div class="wdn-float-center">
+<a href="http://www.unl.edu/" id="unl_wordmark">UNL Home</a>
+<a href="http://www.bigten.org/" id="b1g_wordmark">Big Ten Website</a>
+<a href="http://www.cic.net/home" id="cic_wordmark">CIC Website</a>
+<a href="http://go.unl.edu/86bw" id="tips_wordmark">TIPS Incident Reporting</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Not currently used -->
+</footer>
+<noscript>
+<div id="wdn_noscript">
+<p class="wdn-content-slide">
+            Some parts of this site work best with JavaScript enabled.
+        </p>
+</div>
+</noscript>
+</div>
+</body>
+</html>

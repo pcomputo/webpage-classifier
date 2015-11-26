@@ -1,0 +1,239 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/fixed.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!--
+    Membership and regular participation in the UNL Web Developer Network
+    is required to use the UNL templates. Visit the WDN site at 
+    http://wdn.unl.edu/. Click the WDN Registry link to log in and
+    register your unl.edu site.
+    All UNL template code is the property of the UNL Web Developer Network.
+    The code seen in a source code view is not, and may not be used as, a 
+    template. You may not use this code, a reverse-engineered version of 
+    this code, or its associated visual presentation in whole or in part to
+    create a derivative work.
+    This message may not be removed from any pages based on the UNL site template.
+    
+    $Id: fixed.dwt 472 2009-07-14 15:30:53Z bbieber2 $
+-->
+<link href="/wdn/templates_3.0/css/all.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="/wdn/templates_3.0/css/print.css" media="print" rel="stylesheet" type="text/css"/>
+<script src="/wdn/templates_3.0/scripts/all.js" type="text/javascript"></script>
+<!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" media="screen" href="/wdn/templates_3.0/css/ie.css" />
+<![endif]-->
+<meta content="University of Nebraska-Lincoln | Web Developer Network" name="author"/>
+<meta content="text/html;charset=utf-8" http-equiv="Content-type"/>
+<meta content="en" http-equiv="content-language"/>
+<meta content="en" name="language"/>
+<link href="/wdn/templates_3.0/images/favicon.ico" rel="shortcut icon"/>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>UNL | CSE | GEM Project</title>
+<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="head" -->
+<script type="text/javascript">
+var navl2Links = 0; //Default navline2 links to display (zero based counting)
+</script>
+<!-- InstanceEndEditable -->
+</head>
+<body class="fixed">
+<p class="skipnav"> <a class="skipnav" href="#maincontent">Skip Navigation</a> </p>
+<div id="wdn_wrapper">
+<div id="header"> <a href="http://www.unl.edu/" title="UNL website"><img alt="UNL graphic identifier" id="logo" src="/wdn/templates_3.0/images/logo.png"/></a>
+<h1>University of Nebraska–Lincoln</h1>
+<div id="wdn_search">
+<form action="http://www.google.com/u/UNL1?sa=Google+Search&amp;q=" id="wdn_search_form" method="get">
+<fieldset>
+<label for="q">Search this site, all UNL or for a person</label>
+<input accesskey="f" id="q" name="q" type="text"/>
+<input class="search" name="submit" type="submit" value="Go"/>
+</fieldset>
+</form>
+</div>
+<h3 class="wdn_list_descriptor hidden">UNL Tools</h3>
+<ul id="wdn_tool_links">
+<!-- <li style="border-color:#ac0203;"><a href="http://emergency.unl.edu/" class="alert tooltip" title="Emergency Alert: An alert has been issued!">Emergency</a></li> -->
+<li><a class="feeds tooltip" href="http://www1.unl.edu/feeds/" title="RSS Feeds: View and Subscribe to News Feeds">Feeds</a></li>
+<li><a class="weather tooltip" href="http://forecast.weather.gov/MapClick.php?CityName=Lincoln&amp;state=NE&amp;site=OAX" title="Weather: Local Forecast and Radar">Weather</a></li>
+<li><a class="events tooltip" href="http://events.unl.edu/" title="UNL Events: Calendar of Upcoming Events">Events</a></li>
+<li><a class="peoplefinder tooltip" href="http://directory.unl.edu/" title="UNL Directory: Search for Faculty, Staff, Students and Departments">Directory</a></li>
+<li><a class="webcams tooltip" href="http://www.unl.edu/unlpub/cam/cam1.shtml" title="Webcams: Live UNL Campus Cameras">Webcams</a></li>
+</ul>
+</div>
+<div id="wdn_navigation_bar">
+<div id="breadcrumbs">
+<!-- WDN: see glossary item 'breadcrumbs' -->
+<!-- InstanceBeginEditable name="breadcrumbs" -->
+<!-- WDN: see glossary item 'breadcrumbs' -->
+<ul>
+<li class="first"><a href="http://www.unl.edu/">UNL</a></li>
+<li><a href="../../index.shtml">CSE</a></li>
+<li>GEM Project  </li>
+</ul>
+<!-- InstanceEndEditable --></div>
+<div id="wdn_navigation_wrapper">
+<div id="navigation"><!-- InstanceBeginEditable name="navlinks" -->
+<ul>
+<li class="first"><a href="index.shtml">GEM Home</a>
+<ul>
+<li><a href="overview.shtml">Project Overview</a></li>
+<li><a href="11-12/Final_UnPoster_2011.pdf">Overview Handout</a></li>
+</ul>
+</li>
+<li class="first"><a href="contest_overview.shtml">Collaborative Writing Contest 
+    </a>
+<ul>
+<li><a href="contest_overview.shtml">Contest Overview</a></li>
+<li><a href="contest_overview.shtml#rules">Rules</a></li>
+<li><a href="contest_overview.shtml#prizes">Prizes</a></li>
+<li><a href="open_letters.shtml">Invitation Letters</a></li>
+<li><a href="expectations.shtml">Participant/Parent Expectations &amp; Time Commitments</a></li>
+<li><a href="contest_winners.shtml">Previous Contest Winners</a></li>
+<li><a href="comments.shtml">Participant &amp; Parent Comments</a> </li>
+</ul>
+</li>
+<li class="first"><a href="contact.shtml">People
+    </a>
+<ul>
+<li><a href="contact.shtml">Contact us </a></li>
+</ul>
+</li>
+<li class="first"><a href="related.shtml">Related Projects
+    </a>
+<ul>
+<li><a href="http://cse.unl.edu/renaissance">Renaissance Computing</a></li>
+<li><a href="http://cse.unl.edu/agents/ilog">iLOG</a></li>
+<li><a href="http://biofinity.unl.edu/wiki">Biofinity Intelligent Wiki</a></li>
+<li><a href="http://www.cse.unl.edu/%7Elksoh/women.html">Resources for Women in Computing</a></li>
+</ul>
+</li>
+<li><a href="sponsors.shtml">Sponsors</a></li>
+</ul>
+<!-- InstanceEndEditable --></div>
+</div>
+</div>
+<div id="wdn_content_wrapper">
+<div id="titlegraphic"><!-- InstanceBeginEditable name="titlegraphic" -->
+<h1>The Girl Empowerment and Mentoring (GEM) for Computing Project </h1>
+<!-- InstanceEndEditable --></div>
+<div id="maincontent">
+<!--THIS IS THE MAIN CONTENT AREA; WDN: see glossary item 'main content area' -->
+<!-- InstanceBeginEditable name="maincontentarea" -->
+<h2>GEM Project - Inspiring and Motivating Students Toward Careers in Information Technology</h2>
+<div class="three_col left"><p> </p>
+<p>The  Girl Empowerment and Mentoring (GEM) for Computing Project aims to inspire  middle and high school students towards computing in post-secondary education by (1) empowering them with skills and interest for IT, and (2) mentoring them to  improve their self-efficacy and motivation for a career in IT.</p>
+<div class="col left">
+<div class="image_small_tall">
+<img alt="GEM Logo" height="315" longdesc="http://cse.unl.edu/gem" src="08-09/logo210x315.jpg" width="210"/></div>
+</div>
+<div class="two_col" style=" width: 448px; ">
+<p> Specifically, we will establish a  comprehensive state-wide writing program and contest where</p>
+<ol>
+<li> secondary school students collaborate to create learning materials  on the use of computing in real-world applications,</li>
+<li> female students at our  Computer Science and Engineering (CSE) Department will be recruited to serve as  big sisters to mentor the participants throughout the writing process,</li>
+<li>CSE faculty will be recruited to judge the  learning material entries, and the winners will be awarded scholarships to  attend the University of Nebraska-Lincoln (UNL) to study CS.</li>
+</ol>
+<p>Each learning material is required to include a well organized tutorial on a particular CS topic (such as Artificial Intelligence) and an insightful illustration of the use of the topic in a real-world application (such as Intelligent Tutoring Systems). See the <a href="contest_winners.shtml">Winning Essays</a> from previous contests.</p>
+<img alt="Awards" class="frame" height="200" src="WeHeartGEM_cropped.jpg" width="450"/>
+</div>
+</div>
+<div class="col right"> <a href="registration.shtml"><img alt="Awards" class="frame" height="80" src="awards_rsvp.png" width="210"/></a>
+<p><a href="exit.shtml"><img alt="Exit Survey" class="frame" height="80" src="images/exit.png" width="210"/></a></p>
+</div>
+<div class="col right">
+<div class="zenbox primary">
+<h3>Important Dates</h3>
+<ul>
+<li><strong><center>GEM Awards Banquet</center></strong>
+<center>Tuesday, April 3, 2012</center>
+<center>5:00 PM - Kauffman Center</center>
+<center>
+<a href="awards_rsvp.shtml">RSVP Here!</a>
+</center>
+</li>
+</ul>
+</div>
+</div>
+<div class="col right2">
+<div class="zenbox primary">
+<h3>Helpful Links</h3>
+<ul>
+<p>What do you want to be when you grow up?<br/>Do you know about the role of computing to build a better world?<br/><a href="http://dotdiva.org">http://dotdiva.org</a></p></ul>
+</div>
+</div>
+<!-- InstanceEndEditable -->
+<div class="clear"></div>
+<noscript>
+<p>
+Your browser does not appear to support JavaScript, or you have turned JavaScript off. You may use unl.edu without enabling JavaScript, but certain functions may not be available.
+</p>
+</noscript>
+<!--THIS IS THE END OF THE MAIN CONTENT AREA.-->
+</div>
+<div id="footer">
+<div id="footer_floater"></div>
+<div class="footer_col">
+<h3>Your Feedback</h3>
+<form action="http://www1.unl.edu/comments/" class="rating" id="wdn_feedback" method="post" title="WDN Feedback Form:4">
+<fieldset><legend>Please rate this page</legend>
+<ol>
+<li><label for="r1">Your Rating:</label>
+<select id="r1" name="rating">
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+</select>
+</li>
+</ol>
+<input name="submit" type="submit" value="Submit"/></fieldset>
+</form>
+<form action="http://www1.unl.edu/comments/" class="comments" id="wdn_feedback_comments" method="post" title="WDN Feedback Form">
+<fieldset><legend>Comments for this page</legend>
+<ol>
+<li class="wdn_comment_name">
+<label for="wdn_comment_name">Name (optional)</label>
+<input id="wdn_comment_name" name="name" type="text"/>
+</li>
+<li class="wdn_comment_email">
+<label for="wdn_comment_email">Email (optional)</label>
+<input id="wdn_comment_email" name="email" type="text"/>
+</li>
+<li><label for="wdn_comments">Comments</label>
+<textarea cols="20" id="wdn_comments" name="comment" rows="2"></textarea>
+</li>
+</ol>
+<input class="wdn_comment_submit" name="submit" type="submit" value="Submit"/></fieldset>
+</form>
+</div>
+<div class="footer_col"><!-- InstanceBeginEditable name="leftcollinks" -->
+<!-- WDN: see glossary item 'sidebar links' -->
+<!-- InstanceEndEditable --></div>
+<div class="footer_col"><!-- InstanceBeginEditable name="contactinfo" -->
+<!-- InstanceEndEditable --></div>
+<div class="footer_col">
+<h3>Share This Page</h3>
+<ul class="socialmedia">
+<li><a href="http://go.unl.edu/?url=referer" id="wdn_createGoURL" rel="nofollow">Get a G<span>o</span>URL</a></li>
+<li class="outpost" id="wdn_emailthis"><a href="mailto:" rel="nofollow" title="Email this page to a friend">Email This Page</a></li>
+<li class="outpost" id="wdn_facebook"><a href="http://www.facebook.com/" rel="nofollow" title="Share this page on Facebook">Facebook</a></li>
+<li class="outpost" id="wdn_twitter"><a href="http://www.twitter.com/" rel="nofollow" title="Share this page on Twitter">Twitter</a></li>
+</ul>
+</div>
+<!-- InstanceBeginEditable name="optionalfooter" --> <!-- InstanceEndEditable -->
+<div id="wdn_copyright"><!-- InstanceBeginEditable name="footercontent" -->
+<!-- InstanceEndEditable -->
+<br/>
+UNL web templates and quality assurance provided by the <a href="http://wdn.unl.edu/" title="UNL Web Developer Network">Web Developer Network</a>
+<div id="wdn_logos">
+<a href="http://www.unl.edu/" id="unl_wordmark" title="UNL Home"><img alt="UNL Wordmark" src="/wdn/templates_3.0/css/footer/images/wordmark_white.png"/></a>
+<a href="http://www.cic.net/" id="cic_wordmark" title="CIC Website"><img alt="Committee on Institutional Cooperation Logo" src="/wdn/templates_3.0/css/footer/images/cic.png"/></a>
+<a href="http://www.bigten.org/" id="b1g_wordmark" title="Big Ten Website"><img alt="Big Ten Logo" src="/wdn/templates_3.0/css/footer/images/B1G.png"/></a>
+</div>
+ | <a href="http://validator.unl.edu/check/referer">W3C</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3">CSS</a>
+<a href="http://www.unl.edu/" id="wdn_unl_wordmark" title="UNL Home"><img alt="UNL's wordmark" src="/wdn/templates_3.0/css/footer/images/wordmark.png"/></a> </div>
+</div>
+</div>
+<div id="wdn_wrapper_footer"> </div>
+</div>
+</body>
+<!-- InstanceEnd --></html>

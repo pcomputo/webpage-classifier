@@ -1,0 +1,254 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>CSE 235 -- Spring 2013</title>
+<link href="main.css" rel="stylesheet" type="text/css"/>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+</head>
+<body>
+<div>
+<h1>CSE 235 - Introduction to Discrete Structures</h1>
+<h1>Spring 2013</h1>
+<h2>Announcements</h2>
+<ul>
+<li>Classes begin Monday, January 7, 2013</li> <li>Grades are
+   available on <a href="http://blackboard.unl.edu" target="_blank">Blackboard</a>.</li>
+<li> <a href="http://piazza.com/unl/spring2013/csce235" target="_blank">Piazza</a> is the
+   discussion board. All questions and comments to instructor, TAs
+   (private) and to class (broadcast) and all online discussions must
+   be done through <a href="http://piazza.com/unl/spring2013/csce235" target="_blank">Piazza</a>.  You
+   can state your name or write anonymously.  No email messages sent
+   directly will be answered.
+   
+   <!-- Can update this later with the correct date. -->
+<!-- <li><img src="new.gif"/>Friday February 17th, 2012 there will be a review session for Midterm I in Avery 19 from 3:30PM to 4:30PM </li> -->
+</li></ul>
+<h2>Contact Us</h2>
+<ul>
+<li> For a quick response, use <a href="http://piazza.com/unl/spring2013/csce235" target="_blank">Piazza</a>.</li>
+<li> <a href="email/email.cgi">Anonymous Suggestion Box</a></li>
+<li> Email messages  directly sent to TAs or instructor will <i>not</i> be answered.
+
+	</li></ul>
+<h2>General Info</h2>
+<span style="margin-left: 3em"><b>Time &amp; Place</b></span><br/>
+<div style="margin-left: 3.5em">
+		Lecture: MWF<br/>
+		12:30 -- 1:20 pm<br/>
+		Avery Hall 106<br/><br/>
+		
+		Recitation: Mondays<br/>
+		3:30 -- 4:20 pm &amp; 4:30 -- 5:20 pm<br/>
+		Avery Hall 19<br/>
+</div><br/>
+<span style="margin-left: 3em"><b>Instructor &amp; Office Hours</b></span><br/>
+<div style="margin-left: 3.5em">
+		Dr. Berthe Y. Choueiry<br/>
+                Office: Avery 360<br/>
+		Hours: Wednesday &amp; Friday 1:30 p.m. - 2:30 p.m.<br/>
+		Also by appointment<br/><br/>
+</div>
+<span style="margin-left: 3em"><b>GTA &amp; Office Hours</b></span><br/>
+<div style="margin-left: 3.5em">
+		Mr. Beau Christ <br/>
+                Office hours held in Student Resource Center.<br/>
+		Hours:  Thursday:  5:30 p.m. -- 6:30 p.m. &amp; Friday 8:20 a.m. -- 9:20 a.m.<br/>
+		Also by appointment<br/><br/>
+</div>
+<span style="margin-left: 3em"><b>UTA's &amp; Office Hours</b></span><br/>
+<div style="margin-left: 3.5em">
+		Mr. Alexander Burch (Quiz Grader)<br/>
+                Office hours held in Student Resource Center.<br/>
+		Hours:  Wednesday:  2:30 p.m. - 3:30 p.m.<br/>
+		Also by appointment<br/><br/>
+
+		Mr. Nicholas Jewell (Homework Grader)<br/>
+                Office hours held in Student Resource Center.<br/>
+		Hours:  Monday 2:00 p.m. -- 3:00 p.m. &amp; Tuesday:  11:00 a.m. -- 12:00 p.m.<br/>
+		Also by appointment<br/><br/>
+</div>
+<span style="margin-left: 3em"><b>Pre-requisites</b></span><br/>
+<div style="margin-left: 3.5em">
+		CSCE 155 and Math 106.  CSCE 156 recommended but not required.<br/>
+</div><br/>
+<h2>Schedule (<a href="schedule.html">.html</a>)</h2>
+<h2>Handouts &amp; Files</h2>
+<h3>Rules &amp; Tools for Success </h3>
+<ul>
+<li> Syllabus (<a href="files/syllabus.pdf">PDF</a>)</li>
+<li> Introduction (<a href="files/IntroductiontoCSE235.ppt">PPT</a>)
+  </li>
+<li>Pre-requisite Check (<a href="files/Pre-requisiteCheck.pdf">PDF</a>). Fill out and return to
+  class on Wednesday, January 9th, 2013</li>
+<li>How to use Piazza (<a href="files/Piazza.pdf">PDF</a>).</li>
+<li><img src="updated.gif"/>Logical Equivalences Cheat Sheet (<a href="files/LogicalEquivalences.pdf">PDF</a>).</li>
+<!--
+  <li><img src="new.gif"/>Current Class Performance (<a
+  href="files/Performance-1.pptx">PPTX</a>, <a
+  href="files/Performance-1.pdf">PDF</a>).</li>
+-->
+<li>How to Prepare for an Exam (<a href="files/PrepareForExam.ppt">PPT</a>).</li>
+<!--<li>Midterm I: Review notes distributed in class on Friday, February
+  10, 2012</li>-->
+<!--  <li>Goals of Midterm Interviews (<a  href="files/MidtermInterviews.ppt">PPT</a>)</li>  -->
+<li><img src="new.gif"/>Track your performance: Fill the blue cells in the Excel file
+  (<a href="files/YourGradeBook.xls">XLS</a>) with your grades, posted
+  on Blackboard. </li>
+<!--
+   <li>Midterm II: Review notes distributed in class on Friday, March
+   23, 2012</li>
+-->
+</ul>
+<h3>Slides</h3>
+<ul>
+<li>Logic (<a href="files/Logic.ppt">PPT</a>, <a href="files/Logic.pdf">PDF</a>) </li>
+<li> <img src="updated.gif"/> Logical Equivalences Cheat Sheet (<a href="files/LogicalEquivalences.pdf">PDF</a>)</li>
+<li>Predicates &amp; Quantifiers (<a href="files/FOL.ppt">PPT</a>,
+    <a href="files/FOL.pdf">PDF</a>)</li>
+<li>Proofs (<a href="files/Proofs.ppt">PPT</a>, <a href="files/Proofs.pdf">PDF</a>)</li>
+<li>Sets (<a href="files/Sets.ppt">PPT</a>, <a href="files/Sets.pdf">PDF</a>)</li>
+<li>Functions (<a href="files/Functions.ppt">PPT</a>, <a href="files/Functions.pdf">PDF</a>)</li>
+<li>Relations (<a href="files/Relations.ppt">PPT</a>, <a href="files/Relations.pdf">PDF</a>)</li>
+<li>Partial Orders (<a href="files/PartialOrders.ppt">PPT</a>, <a href="files/PartialOrders.pdf">PDF</a>).</li>
+<li>Induction (<a href="files/Induction.ppt">PPT</a>, <a href="files/Induction.pdf">PDF</a>).</li>
+<li>Algorithms (<a href="files/Algorithms.ppt">PPT</a>, <a href="files/Algorithms.pdf">PDF</a>).</li>
+<li>Algorithms Analysis (<a href="files/AlgorithmsAnalysis.ppt">PPT</a>, <a href="files/AlgorithmsAnalysis.pdf">PDF</a>).</li>
+<li>Asymptotics (<a href="files/Asymptotics.ppt">PPT</a>, <a href="files/Asymptotics.pdf">PDF</a>).</li>
+<li>Sequences and Summations (<a href="files/SequencesSums.ppt">PPT</a>, <a href="files/SequencesSums.pdf">PDF</a>).</li>
+<li>Recursion (<a href="files/Recursion.ppt">PPT</a>, <a href="files/Recursion.pdf">PDF</a>).</li>
+<li>Master Theorem (<a href="files/MasterTheorem.ppt">PPT</a>, <a href="files/MasterTheorem.pdf">PDF</a>).</li>
+<li>Combinatorics (<a href="files/Combinatorics.ppt">PPT</a>, <a href="files/Combinatorics.pdf">PDF</a>).</li>
+</ul>
+<h3>Homework</h3>
+<ul>
+<li>All homework are due <i>before</i> class on the due date (by
+    12:30 pm).</li>
+<li> Checklist: Guidelines for Submitting Homework <a href="files/GuidelinesForHomework.pdf">(.pdf)</a></li>
+<br/>
+<li>Homework 01 (<a href="files/hw01.pdf">.pdf</a>) - Due Jan 18, 2013</li>
+<li>Homework 02 (<a href="files/hw02.pdf">.pdf</a>) - Due Jan 25, 2013</li>
+<li>Homework 03 (<a href="files/hw03.pdf">.pdf</a>) - Due Feb 1, 2013</li>
+<li>Homework 04 (<a href="files/hw04.pdf">.pdf</a>) - Due Feb 8, 2013</li>
+<li>Homework 05 (<a href="files/hw05.pdf">.pdf</a>) - Due Feb 15, 2013</li>
+<li>Homework 06 (<a href="files/hw06.pdf">.pdf</a>) - Due Mar 1, 2013</li>
+<li>Homework 07 (<a href="files/hw07.pdf">.pdf</a>) - Due Mar 8, 2013</li>
+<li>Homework 08 (<a href="files/hw08.pdf">.pdf</a>) - Due Mar 15, 2013</li>
+<li>Homework 09 (<a href="files/hw09.pdf">.pdf</a>) - Due Mar 29, 2013</li>
+<li>Homework 10 (<a href="files/hw10.pdf">.pdf</a>) - Due Apr 12, 2013</li>
+<li>Homework 11 (<a href="files/hw11.pdf">.pdf</a>) - Due Apr 19, 2013</li>
+<li>Bonus (Optional) Homework 12 (<a href="files/hw12.pdf">.pdf</a>) - Due Apr 24, 2013</li>(If using a late forgiveness, the bonus homework is due Thursday Apr 25, 2013 by 12:30pm. You can drop it off at Avery 123A. Slide it under the door if Beau is not there.)
+<!--
+    <li>Bonus (Optional) Homework 13 (<a href="files/hw13.pdf">.pdf</a>) - Due Apr 24, 2013 (If using a late forgiveness, due Thursday April 25, 2012 by 12:30pm. Turn it in to the CSE reception desk, Avery 256, and have them put it in Beau Christ's mailbox)</li>
+
+-->
+</ul>
+<h3>Recitations</h3>
+<ul>
+<li>Week 1: Working with Latex: <a href="files/IntroductionToLaTeX.pdf">Introduction To LaTeX</a>, <a href="files/LaTexHowTo.doc">LaTexHowTo.doc</a>, <a href="files/hw-example.tex">hw-example.tex</a>, <a href="files/hw-example.pdf">hw-example.pdf</a>, <a href="files/BibliographyFile.bib">BibliographyFile.bib</a>.
+   Here are the figures  (which can be generated with any drawing software): <a href="files/k5.fig">FIG</a>, <a href="files/k5.eps">EPS</a>, <a href="files/k5.pdf">PDF</a>. The example <a href="files/HelloWorld.tex">Hello World</a> shown in recitation.
+   If tables become to large, you can place a table sideways.  An example <a href="files/sideways_sample.tex">tex</a> file is given with its <a href="files/sideways_sample.pdf">pdf</a> output.
+   </li>
+<li>Informal notes from Recitation Week 2 <a href="files/recitation2.pdf">(PDF)</a> <a href="files/recitation2.tex">(TEX)</a></li>
+<li>Informal notes from Recitation Week 3 <a href="files/recitation3.pdf">(PDF)</a> <a href="files/recitation3.tex">(TEX)</a></li>
+<li>Informal notes from Recitation Week 4 <a href="files/recitation4.pdf">(PDF)</a> <a href="files/recitation4.tex">(TEX)</a></li>
+<li>Informal notes from Recitation Week 5 <a href="files/recitation5.pdf">(PDF)</a> <a href="files/recitation5.tex">(TEX)</a></li>
+<li>Informal notes from Recitation Week 6 <a href="files/recitation6.pdf">(PDF)</a> <a href="files/recitation6.tex">(TEX)</a></li>
+<li>Informal notes from Recitation Week 7 <a href="files/recitation7.pdf">(PDF)</a> <a href="files/recitation7.tex">(TEX)</a></li>
+<li>Informal notes from Recitation Week 8 <a href="files/recitation8.pdf">(PDF)</a> <a href="files/recitation8.tex">(TEX)</a></li>
+<li>Informal notes from Recitation Week 9 <a href="files/recitation9.pdf">(PDF)</a> <a href="files/recitation9.tex">(TEX)</a></li>
+<li>Informal notes from Recitation Week
+    10 <a href="files/recitation10.pdf">(PDF)</a> <a href="files/recitation10.tex">(TEX)</a></li>
+<li>Informal notes from Recitation Week
+  11 <a href="files/recitation11.pdf">(PDF)</a> <a href="files/recitation11.tex">(TEX)</a></li>
+<!--
+
+  <li>Informal notes from Recitation Week 12 <a href="files/recitation12.pdf">(PDF)</a> (<a href="files/recitation12.tex">TEX</a>,<a href="files/recitation12_knight.pdf">Graphic</a>)</li>
+
+  <li>Informal notes from Recitation Week 13 <a href="files/recitation13.pdf">(PDF)</a> <a href="files/recitation13.tex">(TEX)</a> and the <a href="files/algo_example.tex">algo_example.tex</a> and <a  href="files/algo_example.pdf">algo_example.pdf</a> files  demonstrated during recitation</li>
+
+  <li>Informal notes from Recitation Week 14 <a href="files/recitation14.pdf">(PDF)</a> <a href="files/recitation14.tex">(TEX)</a></li>
+
+  <li>Informal notes from Recitation Week 15 <a href="files/recitation15.pdf">(PDF)</a> <a href="files/recitation15.tex">(TEX)</a></li>
+
+  <li>Informal notes from Recitation Week 16 <a href="files/recitation16.pdf">(PDF)</a> <a href="files/recitation16.tex">(TEX)</a></li>
+
+-->
+</ul>
+<h2>Useful Links</h2>
+<ul>
+<li><img src="new.gif"/><a href="http://www.math.fsu.edu/~pkirby/mad2104/SlideShow/s3_2.pdf">A nice overview of the various types of proofs with examples
+   </a>.</li>
+<li> Proofs by induction: Great pointers
+  identified by Geoffrey Priester
+        <ul>
+<li> Induction exercises by Devadas and Lehman: <a href="files/Induction-1.pdf">Induction I</a>, <a href="files/Induction-2.pdf">Induction II</a>, <a href="files/Induction-3.pdf">Induction III</a>.</li>
+<li> Proof by induction on YouTube: <a href="http://www.youtube.com/watch?v=IFqna5F0kW8">Example
+        I</a>, <a href="http://www.youtube.com/watch?v=wBvsIyQN4o8">Example
+        2</a>, <a href="http://www.youtube.com/watch?v=uHfwNKWyD20">Example
+        3</a>.</li>
+</ul></li>
+<li> <a href="files/Rosen_SSG_CommonMistakes.pdf">Common Mistakes in
+  Discrete Math</a>, from textbook's page.</li>
+<li> <a href="http://highered.mcgraw-hill.com/sites/0073383090/information_center_view0/">Online
+  Learning Center of the textbook</a></li> <li>CSE 235 <a href="http://www.cse.unl.edu/handin">webhandin</a></li> <!--
+  <li>Student Resource Center <a href="">webpage</a></li> -->
+<li>Dr. Scott's <a href="http://csce.unl.edu/~sscott/presentation-tips/">
+	Tips On Technical Writing</a></li>
+<li>UNL Computer Science and Engineering <a href="http://cse.unl.edu/ugrad/resources/academic_integrity.php">Academic Integrity Policy</a></li>
+<li> <a href="http://www.people.vcu.edu/~rhammack/BookOfProof/index.html">Book Of Proof</a>, by Richard Hammack (<a href="files/BookOfProof.pdf">pdf</a>)</li>
+<li> Java
+		<ul>
+<li><a href="http://java.sun.com/docs/books/tutorial/">Java Tutorials</a></li>
+<li><a href="http://java.sun.com/docs/books/tutorial/essential/environment/cmdLineArgs.html">Using Commandline Arguments</a></li>
+<li><a href="http://pages.cs.wisc.edu/~hasti/cs368/JavaTutorial/">Java for C++ Programmers</a></li>
+<li> Java IDEs
+				<ul>
+<li><a href="http://netbeans.org/">Netbeans IDE</a></li>
+<li><a href="http://eclipse.org/">Eclipse IDE</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>C++
+  <ul>
+<li><a href="http://pages.cs.wisc.edu/~hasti/cs368/CppTutorial/index.html">Java to C++ Transition Tutorial</a></li>
+<li><a href="files/Cpp4java.pdf">C++ For Java Programmers</a> (PDF, Lecture series)</li>
+<li><a href="http://www.cprogramming.com/tutorial.html">C++ Tutorial</a></li>
+<li>Makefile Tutorials: <a href="http://mrbook.org/tutorials/make/">one</a>, 
+	  <a href="http://www.opussoftware.com/tutorial/TutMakefile.htm">Another</a></li>
+<li>Using Command Line Arguments <a href="http://www.cprogramming.com/tutorial/lesson14.html">example</a></li>
+<li>Cornell's <a href="http://www.nrbook.com/a/bookcpdf.php">Numerical Recipes in C</a></li>
+</ul></li>
+<li>Code Documentation<ul>
+<li><a href="http://www.possibility.com/Cpp/CppCodingStandard.html">C++ Coding Standard</a></li>
+<li><a href="http://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html">JavaDoc</a> -- The original documentation tool for Java</li>
+<li><a href="http://www.cppdoc.com/">CppDoc</a> Platform independent C++ documentation tool that produces HTML</li>
+<li><a href="http://www.phpdoc.de/">PHP Doc</a> Documentation tool for PHP code.</li>
+</ul></li>
+<li>LaTeX
+    <ul>
+<li> <a href="http://en.wikibooks.org/wiki/Latex">LaTex on Wikibooks</a> </li>
+<li>Example Homework LaTeX document (<a href="files/S11-hw-example.tex">TEX</a>, <a href="files/S11-hw-example.pdf">PDF</a>).  Here are the figures
+    files (which you could generate with your favorite drawing
+    software): <a href="files/k5.fig">FIG</a>, <a href="files/k5.eps">EPS</a>, <a href="files/k5.pdf">PDF</a>. </li>
+<li><a href="http://www.tug.org">TeX Users Group</a></li>
+<li><a href="http://www.tug.org/begin.html">Getting Started With LaTeX</a></li>
+<li><a href="http://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/">LaTeX Tutorial</a></li>
+<li><a href="http://www.ctan.org/tex-archive/info/lshort/english/lshort.pdf">The Not-So-Short Introduction to LaTeX 2e</a> (PDF)</li>
+<li>LaTeX Quick Reference Card (<a href="http://www.cse.unl.edu/~cbourke/latex/TeXRefCard.pdf">.pdf</a>)</li>
+<li>The Comprehensive LaTeX Symbol List (<a href="files/symbols-letter.pdf">.pdf</a>)</li>
+<li><a href="http://www.miktex.org">MikTeX</a> -- A Windows LaTeX Distro (Includes TeXworks, a LaTeX Frontend)</li>
+<li><a href="http://www.winedt.com">WinEDT</a> -- A Windows LaTeX Frontend (Shareware, a free alternative is TeXworks which comes included in <a href="http://www.miktex.org">MiKTeX</a>)</li>
+<li><a href="http://www.lyx.org/">LyX</a> -- User Friendly LaTeX Frontend</li>
+<li><a href="http://www.tug.org/mactex/">MacTeX</a> -- An OS X LaTeX Distro (Includes TeXworks and TeXShop, two LaTeX Frontends)</li>
+<li><img src="new.gif"/><a href="http://www.bobsoft-mac.de/texnicle/texnicle.html">TeXnicle</a> -- An OS X LaTeX Application (can update the pdf live as you type, and includes other features such as autocompletion)</li>
+<li><img src="new.gif"/><a href="http://www.xm1math.net/texmaker/">Texmaker</a> -- A cross-platform LaTeX editor (includes many nice features)</li>
+<li><a href="http://www.ctan.org/tex-archive/support/excel2latex/">Excel2Latex</a> -- Useful for converting Excel tables to LaTeX.  It is helpful to uncheck all the options when converting the table, and \usepackage{bigstrut} in your document.</li>
+<li><a href="http://calc2latex.sourceforge.net/">Calc2Latex</a> -- Useful for converting OpenOffice Calc tables to LaTeX.</li>
+<li><a href="http://detexify.kirelabs.org/classify.html">Classify LaTeX Symbols</a> -- Draw the symbol you are looking for</li>
+</ul></li>
+</ul>
+</div>
+<div style="margin-bottom: 5em"></div>
+</body>
+</html>

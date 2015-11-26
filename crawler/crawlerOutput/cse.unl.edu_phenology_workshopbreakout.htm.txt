@@ -1,0 +1,302 @@
+<html xmlns="http://www.w3.org/TR/REC-html40" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:st1="urn:schemas-microsoft-com:office:smarttags" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Word.Document" name="ProgId"/>
+<meta content="Microsoft Word 11" name="Generator"/>
+<meta content="Microsoft Word 11" name="Originator"/>
+<link href="workshopbreakout_files/filelist.xml" rel="File-List"/>
+<title>Phenology Workshop: Breakout Sessions</title>
+<o:smarttagtype name="State" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype downloadurl="http://www.5iamas-microsoft-com:office:smarttags" name="City" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype downloadurl="http://www.5iantlavalamp.com/" name="place" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Bill Waltman</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Leen-Kiat Soh</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>4</o:TotalTime>
+  <o:Created>2005-10-05T13:28:00Z</o:Created>
+  <o:LastSaved>2005-10-05T13:28:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>68</o:Words>
+  <o:Characters>394</o:Characters>
+  <o:Company>Agronomy</o:Company>
+  <o:Lines>3</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>461</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+ <o:CustomDocumentProperties>
+  <o:_AdHocReviewCycleID dt:dt="float">498283539</o:_AdHocReviewCycleID>
+  <o:_EmailSubject dt:dt="string">Reminder: Meeting to Discuss Strategic Research Cluster Grants</o:_EmailSubject>
+  <o:_AuthorEmail dt:dt="string">pbaenziger1@unl.edu</o:_AuthorEmail>
+  <o:_AuthorEmailDisplayName dt:dt="string">P. Stephen Baenziger</o:_AuthorEmailDisplayName>
+  <o:_ReviewingToolsShownOnce dt:dt="string"></o:_ReviewingToolsShownOnce>
+ </o:CustomDocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DrawingGridHorizontalSpacing>9.35 pt</w:DrawingGridHorizontalSpacing>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	tab-stops:-.75in -.5in 0in .5in 1.0in 1.5in 2.0in 2.5in 3.0in 3.5in 4.0in 4.5in 5.0in 5.5in 6.0in 6.5in;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-font-kerning:0pt;
+	font-weight:normal;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-noshow:yes;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:center 3.0in right 6.0in;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.MsoCommentReference
+	{mso-style-noshow:yes;
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	line-height:200%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	tab-stops:-.75in -.5in 0in .5in 1.0in 1.5in 2.0in 2.5in 3.0in 3.5in 4.0in 4.5in 5.0in 5.5in 6.0in 6.5in;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-style:italic;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:8.0pt;
+	font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";}
+ /* Page Definitions */
+ @page
+	{mso-footnote-separator:url("workshopbreakout_files/header.htm") fs;
+	mso-footnote-continuation-separator:url("workshopbreakout_files/header.htm") fcs;
+	mso-endnote-separator:url("workshopbreakout_files/header.htm") es;
+	mso-endnote-continuation-separator:url("workshopbreakout_files/header.htm") ecs;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-title-page:yes;
+	mso-even-header:url("workshopbreakout_files/header.htm") eh1;
+	mso-header:url("workshopbreakout_files/header.htm") h1;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:297342150;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1345513754 123524082 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;
+	color:blue;}
+@list l1
+	{mso-list-id:441612586;
+	mso-list-type:hybrid;
+	mso-list-template-ids:247396770 123524082 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;
+	color:blue;}
+@list l2
+	{mso-list-id:526798189;
+	mso-list-type:hybrid;
+	mso-list-template-ids:382612954 -1334280510 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;
+	mso-bidi-font-family:"Times New Roman";
+	color:blue;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-US" link="blue" style="tab-interval:.5in" vlink="purple">
+<div class="Section1">
+<p class="MsoNormal"><b><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;
+font-family:Tahoma"><o:p> </o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;font-family:Tahoma;
+color:#3366FF">Phenology and Environmental Change:<span style="mso-spacerun:yes">  </span><o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;font-family:Tahoma;
+color:#3366FF">Challenges and Opportunities<o:p></o:p></span></b></p>
+<p class="MsoNormal"><b><span style="font-size:12.0pt;font-family:Tahoma"><o:p> </o:p></span></b></p>
+<h2><span style="font-family:Tahoma;color:red">June 16 and 17, 2005<o:p></o:p></span></h2>
+<h2><span style="font-family:Tahoma;color:red">Cornhusker Hotel, <st1:place w:st="on"><st1:city w:st="on">Lincoln</st1:city>, <st1:state w:st="on">NE</st1:state></st1:place><o:p></o:p></span></h2>
+<p class="MsoNormal"><b><span style="font-size:12.0pt;font-family:Tahoma"><o:p> </o:p></span></b></p>
+<h1><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;
+font-family:Tahoma"><span style="mso-spacerun:yes"> </span>Breakout Sessions<o:p></o:p></span></b></h1>
+<p class="MsoNormal"><span style="font-family:Tahoma"><o:p> </o:p></span></p>
+<p class="MsoBodyText"><span style="font-size:12.0pt;font-family:Tahoma">Ecosystem
+Scope (Download <a href="http://cse.unl.edu/phenology/ecosystemscope.ppt">PPT</a>)<o:p></o:p></span></p>
+<p class="MsoBodyText"><span style="font-size:12.0pt;font-family:Tahoma"><o:p> </o:p></span></p>
+<p class="MsoBodyText"><span style="font-size:12.0pt;font-family:Tahoma">Phenology
+Data Collection (Download <a href="http://cse.unl.edu/phenology/phenology_data_collection.ppt">PPT</a>)<o:p></o:p></span></p>
+<p class="MsoBodyText"><span style="font-size:12.0pt;font-family:Tahoma"><o:p> </o:p></span></p>
+<p class="MsoBodyText"><span style="font-size:12.0pt;font-family:Tahoma">Analysis
+Discussion (Download <a href="http://cse.unl.edu/phenology/analysis_discussion.ppt">PPT</a>) <o:p></o:p></span></p>
+</div>
+</body>
+</html>

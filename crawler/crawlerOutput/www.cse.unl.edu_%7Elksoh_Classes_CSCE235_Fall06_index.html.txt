@@ -1,0 +1,64 @@
+<html>
+<head><title>Leen-Kiat Soh's CSCE235 Page</title>
+</head><body background="images/nothing.gif" bgcolor="white" link="#0000FF" text="#000000">
+<font face="arial">
+<hr/><br/><br/>
+<font size="+1">CSCE235 Introduction to Discrete Structures Fall 2006</font><br/><br/>
+<hr/>
+<font color="red" size="+1">New Entries!! Syllabus and Schedule, Handouts
+29-30, Quiz 4 &amp; Solution, Exam 2 Solution, HW#11 solution </font>
+<br/>
+<hr/>
+<ul><li>
+<a href="syllabus.html">
+Class Syllabus</a>
+</li></ul>
+<ul><li>
+<a href="schedule.html">
+Class Schedule</a>
+</li></ul>
+<ul><li>
+<a href="resources.html">
+Resources</a>
+</li></ul>
+<ul><li>
+<a href="quizzes.html">
+Quizzes</a>
+</li></ul>
+<ul><li>
+<a href="homeworks.html">
+Homework Assignments</a>
+</li></ul>
+<ul><li>
+<a href="lightbulbs.html">
+Light Bulbs</a>
+</li></ul>
+<ul><li>
+<a href="handouts.html">
+Handouts</a>
+</li></ul>
+<ul><li>
+<a href="exams.html">
+Exams</a>
+</li></ul>
+<ul><li>
+<a href="http://cse.unl.edu/~cse235/handin">
+How to Handin your Programming HW Online?</a>
+</li></ul>
+<br/>
+<hr/><br/>
+<a href="http://blackboard.unl.edu/">Blackboard</a>
+<br/><br/>
+<hr/><br/>
+<img src="../../images/blueballs.jpeg"/>
+<i>
+<script language="JavaScript">
+   <!--  to hide script contents from old browsers
+    document.write("<I>  Last Updated: " + document.lastModified + "  </I>")
+   // end hiding contents from old browsers  -->
+ </script>
+</i>
+<br/>
+</font>
+</body>
+</html>

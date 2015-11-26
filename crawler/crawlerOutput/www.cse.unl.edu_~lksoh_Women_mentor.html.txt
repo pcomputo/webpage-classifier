@@ -1,0 +1,33 @@
+<html><body><center><img src="notes.gif"/></center><br/>
+<b>
+SOME EXTRACTED POINTS FROM</b><br/><br/>
+<font color="blue">
+Townsend, G. C. (2002). People Who Make a Difference: Mentors and Role Models,
+inroads SIGCSE Bulletin, 34(2):57-61.  
+</font>
+<hr/><br/>
+
+The best mentors should be good listeners, observers, and problems solvers,
+approachable and available, supportive and understanding.
+
+<br/><br/>
+
+There are various features that people could combine into an effective
+program:
+
+<ul><li>Formal vs. Informal or Spontaneous</li></ul>
+<ul><li>Long vs. Short Term</li></ul>
+<ul><li>On Site vs. Long Distance</li></ul>
+<ul><li>Interactive vs. Observational</li></ul>
+<ul><li>Present Day vs. Historical</li></ul>
+<ul><li>Instructor Mentor vs. Peer Mentor vs. Work-force Mentor</li></ul>
+<ul><li>One vs. Multiple Mentors or a Team</li></ul>
+<br/><br/>
+
+Topics to discuss:
+<ul><li>Topics pertaining to the personal lives of mentees</li></ul>
+<ul><li>Topics involving general school-related matters</li></ul>
+<ul><li>Topics concerning graduate school</li></ul>
+<ul><li>Topics oriented toward career matters</li></ul>
+<br/><br/>
+</body></html>

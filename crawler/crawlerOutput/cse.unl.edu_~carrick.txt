@@ -1,0 +1,560 @@
+<html>
+<head>
+<title>Carrick Detweiler</title>
+</head>
+<body bgcolor="#ffffff">
+<table width="90%">
+<td align="left">
+<table>
+<tr>
+<td><img align="LEFT" src="carrick1.jpg" width="400"/></td>
+</tr>
+<tr>
+<td>
+<a href="carrick2.jpg">pic2</a>,
+<a href="carrick3.jpg">pic3</a>,
+<a href="briefbio.txt">brief bio</a>
+</td>
+</tr>
+</table>
+</td>
+<td align="center">
+<h2>Carrick Detweiler</h2>
+<p>
+B.A. 2004, Middlebury College<br/>
+M.S. 2006, Massachusetts Institute of Technology<br/>
+Ph.D. 2010, Massachusetts Institute of Technology<br/>
+<br/>
+</p><table boarder="0" cellpadding="0" cellspacing="10">
+<td>
+</td>
+<td>
+Assistant Professor<br/>
+University of Nebraska-Lincoln<br/>
+Computer Science and Engineering<br/>
+Mechanical and Materials Engineering (by courtesy)<br/>
+</td>
+<tr valign="top">
+<td>
+<b>Office:</b><br/>
+</td>
+<td>
+
+220 Schorr Center<br/>
+Department of Computer Science and Engineering<br/>
+University of Nebraska-Lincoln<br/>
+Lincoln, NE 68588<br/>
+<br/>
+(402) 472-2449<br/>
+<img src="em.png" width="180"/><br/>
+</td>
+</tr></table>
+</td></table>
+<h3>About Me</h3> 
+
+Check the <a href="http://nimbus.unl.edu">NIMBUS Lab</a> website and our <a href="http://nimbus.unl.edu/posts/">blog</a> for the most up-to-date information on my research.
+You can find my <a href="detweiler-cv.pdf">CV here</a>.
+
+<p>
+If you want to meet with me, you
+can <a href="http://carrick.youcanbook.me">schedule it yourself</a> if you are in one of <a href="#teaching">my classes</a> or in the Nimbus Lab.  If you are not in one of my classes or the Nimbus Lab, you should email me first.
+
+</p><p>
+I am an Assistant Professor in the Computer Science and Engineering
+Department at the University of Nebraska-Lincoln, a Faculty Fellow 
+of the <a href="http://waterforfood.nebraska.edu/">Robert B. Daugherty Water for Food Institute</a>, and have a courtesy appointment in the UNL Department of Mechanical and Materials Engineering.  
+I co-Direct the <a href="http://nimbus.unl.edu">NIMBUS Lab</a>, where we work with aerial
+robots and other robot systems.  I completed my Ph.D. at the Computer
+Science and Artificial Intelligence Lab (CSAIL) at MIT, studying
+computer science and robotics in the <a href="http://groups.csail.mit.edu/drl/">Distributed Robotics Lab</a> with my adviser Daniela Rus.
+My research interests include field robotics, environmental monitoring, agricultural robotics, adaptive sampling, perception, localization, and safety and reliability of robots in the wild. I work with and build everything from flying robots to underwater sensor networks and often explore the boundaries between robots and sensor networks. My goal is to develop systems and algorithms that enable robots to operate in real world conditions to aid scientists, farmers, and others.
+
+
+</p><p>
+I have an Erdös number of at most 4 :) I enjoy skiing, scuba
+diving, flying (drones and "real" Cessna-like planes), reading science fiction, biking, cooking, photography, walking
+my dog, and spending time with my daughters.  I am married to <a href="http://courtneyhillebrecht.wordpress.com/">Courtney
+Hillebrecht</a>, who is a faculty member in the political science department
+at UNL.
+
+
+<a name="pubs"><h3>Publications</h3></a>
+</p><h4>Peer Reviewed Conference and Journal Publications</h4>
+<ul>
+<li>
+M. Chung, C. Detweiler, M. Hamilton, J. Higgins, J.-P. Ore, S. Thompson
+<a href="http://www.mdpi.com/2073-4441/7/11/6467">Obtaining the Thermal Structure of Lakes from the Air</a>.
+<em>Journal Water</em>, 7, 6467-6482, 2015.
+
+</li><li>
+J.-P. Ore, S. Elbaum, A. Burgin, and C. Detweiler.
+<a href="http://onlinelibrary.wiley.com/doi/10.1002/rob.21591/abstract">Autonomous Aerial Water Sampling</a>.
+<em>Journal of Field Robotics</em>, 2015. (<a href="papers/OreBED2015.pdf">accepted version</a>)
+
+</li><li>
+C. Detweiler, J.-P. Ore, D. Anthony, S. Elbaum, A. Burgin, A. Lorenz.
+<a href="http://journals.cambridge.org/repo_A99k0TJeuTS1Eg">ENVIRONMENTAL REVIEWS AND CASE STUDIES: Bringing Unmanned Aerial Systems Closer to the Environment.</a>
+Cambridge Journal of Environmental Practice, 17, pp 188-200, 2015. 
+
+</li><li>
+E. Basha, M. Eiskamp, J. Johnson, and C. Detweiler.
+<a href="http://www.hindawi.com/journals/ijdsn/2015/824260/">UAV Recharging Opportunities and Policies for Sensor Networks</a>.
+<em>International Journal of Distributed Sensor Networks</em>, vol. 2015, Article ID 824260, 10 pages, 2015.
+
+</li><li>
+C. Welch, S. Akbarisamani, C. Detweiler, and C. Nelson. 
+<u>Leightweight, Low-Cost, Compliant Grasper for UAV-Based Pick-And-Place Operations</u>.
+Accepted to appear in <em>ASME International Design Engineering Technical Conference &amp; Computers and Information In Engineering Conference</em>,
+Boston, MA, 2015.
+
+
+</li><li>
+D. Anthony, E. Basha, J. Ostdiek, J.-P. Ore, and C. Detweiler.
+<a href="papers/AnthonyBOOD-ICRA15.pdf">Surface Classification for Sensor Deployment from UAV Landings</a>.
+<em>Proceedings of IEEE International Conference on Robotics and Automation (ICRA)</em>, 
+Seattle, Washington, 2015.
+
+</li><li>
+J. Palmer, N. Yuen, J.-P. Ore, C. Detweiler, and E. Basha.
+<a href="papers/PalmerYODB-ICRA15.pdf">On Air-to-Water Radio Communication between UAVs and Water Sensor Networks</a>.
+<em>Proceedings of IEEE International Conference on Robotics and Automation (ICRA)</em>, 
+Seattle, Washington, 2015.
+
+
+</li><li>
+C. Detweiler, S. Banerjee, M. Doniec, M. Jiang, F. Peri, R. Chen, and D. Rus.
+<a href="http://www.mdpi.com/2224-2708/3/2/113/pdf">Adaptive Decentralized Control of Mobile Underwater Sensor Networks and Robots for Modeling Underwater Phenomena.</a> <i>Journal of Sensor and Actuator Networks</i>, 3(2):113-149, 2014.
+
+</li><li>
+S. Banerjee, and C. Detweiler.
+<a href="papers/BanerjeeD2014.pdf">Path Planning Algorithms for Robotic Underwater Sensing in a Network of Sensors.</a>
+<em> Proceedings of ACM International Conference on Underwater Networks &amp; Systems (WUWNet)</em>, 
+Rome, Italy, 2014.
+
+</li><li>
+E. Basha, N. Yuen, M. O'Rourke, and C. Detweiler.
+<a href="papers/BashaYOD2014.pdf">Analysis of Algorithms for Multi-Modal Communications in Underwater Sensor Networks.</a>
+<em> Proceedings of ACM International Conference on Underwater Networks &amp; Systems (WUWNet)</em>, 
+Rome, Italy, 2014.
+
+
+</li><li>
+D. Anthony, S. Elbaum, A. Lorenz, and C. Detweiler.
+<a href="papers/AnthonyELD2014.pdf">On Crop Height Estimation with UAVs</a>.
+<em> Proceedings of IEEE/RSJ International Conference on Intelligent Robotics and Systems (IROS)</em>,
+Chicago, Illinois, 2014.
+
+</li><li>
+A. Mittleider, B. Griffin, and C. Detweiler,
+<a href="papers/MittleiderGD2014.pdf">Experimental Analysis of a UAV-Based Wireless Power Transfer Localization System</a>.
+<em>International Symposium on Experimental Robotics</em> (ISER 2014),
+Marrakech and Essaouira, Morocco, 2014.
+
+</li><li>
+J.-P. Ore, S. Elbaum, A. Burgin, B. Zhao, C. Detweiler.
+<a href="papers/OreEBZD-FSR2013.pdf">Autonomous Aerial Water Sampling</a>.
+<em>International Conference on Field and Service Robotics</em>. Brisbane, Australia, 2013.
+
+</li><li>
+H. Jiang, S. Elbaum, and C. Detweiler. 
+<a href="papers/JiangED2013.pdf">Reducing Failure Rates of Robotic Systems Through Inferred Invariants Monitoring</a>. 
+<em>IEEE/RSJ International Conference on Intelligent Robots and Systems</em>. Tokyo, Japan, 2013.
+
+</li><li>
+J. Johnson, E. Basha, and C. Detweiler.
+<a href="papers/JohnsonBD2013.pdf">Charge Selection Algorithms for Maximizing Sensor Network Life with UAV-Based Limited Wireless Recharging</a>.
+<em>IEEE International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP)</em>,
+Melbourne, Australia, 2013.
+
+</li><li>
+C. Detweiler, M. Doniec, I. Vasilescu, and D. Rus. 
+<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6119222">Autonomous Depth Adjustment for Underwater Sensor Networks: Design and Applications.</a>
+<i>IEEE Transactions on Mechatronics</i>,
+17(1):16-24, 2012.
+
+</li><li>
+ D. Anderson, C. Winters, R. Estell, E. Fredrickson, M. Doniec, C. Detweiler, D. Rus, J. Darren, and B. Nolen.
+<a href="http://www.publish.csiro.au/paper/RJ11062.htm">Characterizing the Spatial and Temporal Activities of Free-Ranging Cows from GPS Data.</a>
+<i>The Rangeland Journal</i>,
+34(2):149-161, 2012.
+
+</li><li>
+M. O'Rourke, E. Basha, and C. Detweiler.
+<a href="papers/multimodalOBD.pdf">Multi-Modal Communications in Underwater Sensor Networks Using Depth Adjustments</a>.
+<em> Proceedings of 7th ACM International Conference on Underwater Networks &amp; Systems (WUWNet)</em>, 
+Los Angeles, California, 2012.
+
+</li><li>
+C. Detweiler, B. Griffin, and H. Roehr.
+<a href="papers/hovercraftDGR.pdf">Omni-Directional Hovercraft Design as a Foundation for MAV Education</a>.
+<em> Proceedings of IEEE/RSJ International Conference on Intelligent Robotics and Systems (IROS)</em>, 
+Vilamoura, Portugal, 2012.
+
+</li><li>
+B. Griffin and C. Detweiler.
+<a href="papers/wirelessPowerICRA2012Final.pdf">Resonant Wireless Power Transfer to Ground Sensors from a UAV</a>.
+<em> Proceedings of IEEE International Conference on Robotics and Automation (ICRA)</em>, 
+St. Paul, Minnesota, 2012.
+
+</li><li>
+M. Doniec, C. Detweiler, I. Vasilescu, M. Chitre, M. Hoffmann-Kuhnt, and D. Rus.
+<u>AquaOptical: A Lightweight Device for High-rate Long-range Underwater Point-to-Point Communication</u>.
+<i>Marine Technology Society Journal</i>, 55-65, Aug. 2010.
+
+</li><li>I. Vasilescu, C. Detweiler, M. Doniec, D. Gurdan, S. Sosnowski, J. Stumpf, and D. Rus.
+<a href="http://ijr.sagepub.com/cgi/content/abstract/0278364909358275v1">AMOUR V: A Hovering Energy Efficient Underwater Robot Capable of Dynamic Payloads.</a>
+<i>International Journal of Robotics Research</i>, 29(5):547-570, 2010.
+
+</li><li>
+M. Doniec, C. Detweiler, and D. Rus.
+<a href="papers/DoniecDR_ISER2010.pdf">Estimation of Thruster Configurations for Reconfigurable Modular Underwater Robots</a>.
+<em>Proceedings of 2010 International Symposium on Experimental Robotics</em> (ISER 2010),
+New Delhi &amp; Agra, India, 2010.
+
+</li><li>
+M. Doniec, C. Detweiler, I. Vasilescu, and D. Rus.
+<u>Using Optical Communication for Remote Underwater Robot Operation</u>.
+In <em> Proceedings of IEEE International Conference on Intelligent Robots and Systems</em> (IROS 2010),  
+Taipei, Taiwan, 2010.
+
+</li><li>
+C. Detweiler, M. Doniec, M. Jiang, M. Schwager, R. Chen, and D. Rus.
+<a href="papers/DetweilerDJSCR2010.pdf">Adaptive Decentralized Control of Underwater Sensor Networks for Modeling Underwater Phenomena</a>.
+In <em>Proceedings of 2010 ACM Conference on Embedded Networked Sensor Systems</em> (SenSys 2010),
+Zurich, Switzerland, 2010. <a href="papers/sensys-2010-detweiler-presentation.pdf">(Presentation pdf)</a>
+</li><li>
+C. Detweiler, M. Doniec, I. Vasilescu, E. Basha, and D. Rus.
+<a href="papers/DetweilerDVER2010.pdf">Autonomous Depth Adjustment for Underwater Sensor Networks</a>.
+In <em>Proceedings of 2010 International Workshop on Underwater Networks</em> (WUWNet 2010),  
+Woods Hole, Massachusetts, USA, 2010.
+
+</li><li>
+I. Vasilescu, C. Detweiler, and D. Rus.
+<a href="papers/VasilescuDR2010.pdf">Color-Accurate Underwater Imaging using Perceptual Adaptive Illumination</a>.
+In <em>Proceedings of Robotics Science and Systems</em> (RSS 2010),
+Zaragoza, Spain, 2010. <b>(Best paper finalist)</b>
+</li><li>
+M. Doniec, C. Detweiler, I. Vasilescu, D. Anderson, and D. Rus. 
+<a href="papers/DoniecDetweilerVasilescuAndersonRus_HotEMNETs2010.pdf">Autonomous Gathering of Livestock Using a Multi-functional Sensor Network Platform</a>.
+In <em>Proceedings of 2010 ACM Workshop on Hot Topics in Embedded Networked Sensors</em> (HotEMNETS 2010),  
+Killarney, Ireland: 2010.
+
+</li><li>
+E. Basha, C. Detweiler, M. Doniec, I. Vasilescu, and D. Rus, 
+<a href="papers/BashaDetweilerDoniecVasilescuRus_HotEMNETs2010.pdf">Using a Multi-functional Sensor Network Platform for Large-Scale Applications to Ground, Air, and Water Tasks</a>.
+In <em>Proceedings of 2010 ACM Workshop on Hot Topics in Embedded Networked Sensors</em> (HotEMNETS 2010),  
+Killarney, Ireland 2010.
+
+
+</li><li>
+M. Doniec, I. Vasilescu, C. Detweiler, D. Rus.
+<a href="papers/DoniecVDR2010.pdf">Complete SE(3) Underwater Robot Control With Arbitrary Thruster Configurations</a>.
+In <em>Proceedings of the International Conference on Robotics and Automation</em> (ICRA 2010), 
+Anchorage, Alaska, 2010.
+
+</li><li>M. Doniec, I. Vasilescu, C. Detweiler, D. Rus, M. Chitre, and M. Hoffmann-Kuhnt.
+<a href="papers/DoniecVDRCH2009.pdf">AquaOptical: A lightweight Device for High-Rate Long-Range Underwater Point-to-Point Communication</a>.
+In <em>Proceedings of OCEANS 2009</em>, 
+Biloxi, Mississippi, October, 2009.
+
+</li><li>
+D. Anderson, M. Doniec, C. Detweiler, I. Vasilescu, D. Rus, B. Nolen, and R. Libeau.
+<a href="papers/anderson_gathering.pdf">Gathering Cows Using Virtual Fencing Methodologies.</a>
+Poster at <i>Society for Range Management</i>, Denver, CO, February, 2009.
+
+</li><li>M. Schwager, C. Detweiler, I. Vasilescu, D. M. Anderson and D. Rus.
+<a href="papers/SchwagerJFR08.pdf">
+Data-Driven Identification of Groups of Dynamics for Motion Prediction and Control</a>.  <i>Journal of Field Robotics</i>, 25(6-7):305-324, 2008.
+
+</li><li>C. Detweiler, S. Sosnowski, I. Vasilescu, and D. Rus. 
+<a href="papers/DetweilerSVR2009.pdf">Saving Energy with Buoyancy and Balance Control for Underwater Robots with Dynamic Payloads</a>.
+In <em>Proceedings of the 11th International
+Symposium on Experimental Robotics</em> (ISER 2008), Athens, Greece, July,
+2008.
+
+</li><li>
+C. Detweiler, M. Vona, Y. Yoon, S. Yun and D. Rus.
+<a href="papers/TRAM2007.pdf">
+Self-assembling Mobile Linkages</a>.  <i>IEEE Robotics and Automation Magazine</i>, 14(4):45-55, 2007.
+
+
+</li><li>I. Vasilescu, C. Detweiler, and D. Rus. 
+<a href="papers/VasilescuDR2007.pdf">AquaNodes: An Underwater Sensor Network.</a>  In <em>Proceedings of WUWNet 2007</em>, Montreal, Canada, September 2007.
+
+</li><li>C. Detweiler, I. Vasilescu, and D. Rus.  <a href="papers/DetweilerOCEANS062007.pdf">An Underwater Sensor Network
+with Dual Communications, Sensing, and Mobility.</a> In
+<em>Proceedings of OCEANS 2007</em>, Aberdeen, Scotland, June, 2007.
+
+</li><li>P. Corke, C. Detweiler, M. Dunbabin, D. Rus, and I. Vasilescu.  <a href="papers/CorkeICRA07.pdf">Experiments with Underwater Robot
+Localization and Tracking.</a> In <em>Proceedings of the International
+Conference on Robotics and Automation</em> (ICRA 2007), Roma, Italy,
+April 2007.
+
+</li><li>C. Detweiler, J. Leonard, D. Rus, and S. Teller.  <a href="papers/DetweilerLRT2006.pdf">Passive Mobile Robot Localization
+within a Fixed Beacon Field</a>. In <em>Proceedings of the
+International Workshop on the Algorithmic Foundations of
+Robotics (WAFR)</em>, New York, New York, July, 2006.
+
+</li><li>M. Vona, C. Detweiler, and D. Rus.  <a href="papers/VonaDR2006.pdf">Shady: Robust Truss Climbing With
+Mechanical Compliances</a>. In <em>Proceedings of the International
+Symposium on Experimental Robotics</em> (ISER 2006), Rio, Brazil, July,
+2006.
+
+</li><li>C. Detweiler, M. Vona, K. Kotay, and D. Rus.  <a href="papers/DetweilerVKR2006.pdf">Hierarchical Control for
+Self-assembling Mobile Trusses with Passive and Active Links</a>.  In
+<em>Proceedings of the International Conference on Robotics and
+Automation</em> (ICRA 2006), Orlando, FL, May 2006.
+
+</li><li>A. Briggs, C. Detweiler, Y. Li, P. Mullen, and D. Scharstein. 
+<a href="http://www.elsevier.com/wps/find/journaldescription.cws_home/622809/description#description">
+Matching scale-space features in 1D panoramas</a>.  <i>Computer Vision
+and Image Understanding</i>, 103 (2006) 184-195.
+
+</li><li>A. Briggs, C. Detweiler, P. Mullen, and D. Scharstein.  <a href="papers/BriggsDMS2004.pdf">Scale-Space Features in 1D Omnidirectional
+Images</a>.  In <em> Omnivis 2004, the fifth Workshop on
+Omnidirectional Vision (in conjunction with ECCV 2004),</em> pages
+115-126, Prague, Czech Republic, May 2004.
+
+</li><li>A. Briggs, C. Detweiler, D. Scharstein, and A. Vandenberg-Rodes.  <a href="http://www.ijrr.org/contents/23_07/abstract/717.html">Expected Shortest Paths for Landmark-Based
+Robot Navigation</a>.  In <i>International Journal of Robotics
+Research</i>, Vol. 23, No. 7-8, July-August 2004, pp. 717-728.
+
+</li><li>A. Briggs, C. Detweiler, D. Scharstein, and A. Vandenberg-Rodes.  <a href="papers/BriggsDSV2002.pdf">Expected Shortest Paths for Landmark-Based
+Robot Navigation</a>.  In <em>Proceedings of the Fifth International
+Workshop on the Algorithmic Foundations of Robotics (WAFR)</em>, Nice,
+December 2002.
+
+</li></ul>
+<h4>Misc. Publications</h4>
+<ul>
+<li>
+D. Anthony, and C. Detweiler.
+<u>Towards GPS Free Localization in Row Crops</u>.
+ICRA Workshop on Robotics in agriculture, 2015.
+
+</li><li>
+D. Anthony, J. Ore, E. Basha, and C. Detweiler.
+<u>Controlled Sensor Network Installation with Unmanned Aerial Vehicles</u>.
+Poster at 
+<em>ACM Conference on Embedded Networked Sensor Systems</em> (SenSys),
+Memphis, TN, 2014.
+
+</li><li>
+J. Ore, A. Burgin, V. Schoepfer, and C. Detweiler.
+<u>Towards Monitoring Saline Wetlands with Micro UAVs</u>.
+Robot Science and Systems Workshop on Robotic Monitoring,
+Berkeley, California, 2014.
+
+</li><li>
+D. Anthony, J. Ore, and C. Detweiler.
+<u>Sensor Installation via UAVs for Environmental Monitoring</u>.
+Robot Science and Systems Workshop on Robotic Monitoring,
+Berkeley, California, 2014.
+
+</li><li>
+E.R. Waring, V.A. Schoepfer, A.J. Burgin, J.P. Ore, C. Detweiler and S. Elbaum. 
+<u>Using unmanned aerial vehicles (UAVs) to map sources of groundwater in a saline wetland</u>. 
+Poster presentation at the Joint Aquatic Sciences Meeting, Portland, OR 18-23 June 2014.   
+
+</li><li>
+J. Ore, S. Elbaum, B. Zhao, and C. Detweiler.
+<u>Towards Autonomous Aerial Water Sampling</u>.
+Robot Science and Systems Workshop on Robotics for Environmental Monitoring,
+Berlin, Germany, 2013.
+
+</li><li>
+I. Vasilescu, A. Bahr, C. Detweiler, and D. Rus, inventors; MIT, assignee.
+<u>Adaptive Illumination for Color-Corrected Underwater Imaging.</u>
+United States patent number 8,106,944.
+January 2012.
+
+</li><li>
+I. Vasilescu, C. Detweiler, and D. Rus.
+<a href="http://www.springerlink.com/content/2054v5837352050h/">Color-Accurate Underwater Imaging using Perceptual Adaptive Illumination</a>.
+<i>Autonomous Robotics</i>, 31(2):285-296, 2011.
+
+</li><li>
+C. Lucas, S. Elbaum, J. Darsie, C. Detweiler and C. Nugent. 
+<a href="http://ponca.unl.edu/facdb/csefacdb/TechReportArchive/TR-UNL-CSE-2011-0015.pdf">Virtual Cage for Cost-Effective MAV Systems and Algorithms Prototyping</a>. 
+CSE Technical Report, TR-UNL-CSE-2011-0015. 2011.
+
+</li><li>
+<a href="papers/detweiler-thesis.pdf">Decentralized Sensor Placement and Mobile Localization on an Underwater Sensor Network 
+with Depth Adjustment Capabilities</a>.
+Ph.D. Thesis, Massachusetts Institute of Technology, 2010.
+
+</li><li>C. Detweiler and I. Vasilescu.  
+<a href="papers/DetweilerV2008.pdf">
+Ultrasonic Speech Capture Board: Hardware Platform and Software Interface</a>. 
+Independent study final paper with Jim Glass.
+MIT, Spring 2008.
+
+</li><li>I. Vasilescu, C. Detweiler, and D. Rus.  <a href="papers/VasilescuDR2006.pdf">The DRL Underwater Sensor Network:
+Supporting Dual Communications, Sensing, and Mobility</a>.
+Demonstration at <em>WUWNet 2006, First ACM International Workshop on
+UnderWater Networks</em> (in conjunction with ACM MobiCom 2006), Los
+Angeles, CA 2006.
+
+</li><li>C. Detweiler.  <a href="papers/Detweiler2006.pdf">Passive Mobile
+Robot Localization within a Fixed Beacon Field</a>. Masters Thesis,
+MIT, 2006.
+
+</li></ul>
+<h3>Selected Funding and Awards</h3>
+<ul>
+<li> Robert B. Daugherty Water for Food Institute: "Enabling Sub-Surface Aerial Water Sampling for Water Management and Quality Analysis," 2014-2015.
+
+</li><li> College of Engineering Henry Y. Kleinkauf Family Distinguished New Faculty Teaching Award, 2014
+
+</li><li>National Robotics Initiative (USDA): "Co-Aerial-Ecologist: Robotic Water Sampling and Sensing in the Wild," 2013-2016.
+
+</li><li>NSF: "Adaptive and Autonomous Energy Management on a Sensor Network Using Aerial Robots," 2012-2015.
+
+</li><li>NSF: "Adaptive Sampling with Robots for Marine Observations," 2011-2015.
+
+</li><li>NASA Nebraska Space Grant Fellowship (N. Goeser): "Wireless Power Transfer," 2012-2013.
+
+</li><li>UNL Research Office, Phase II: Autonomous Aerial Instruments for Socio, Ecological, Engineered, and Agricultural Systems," 2012-2014.
+
+</li><li><a href="http://epscor.unl.edu/first_awards.shtml">NSF Nebraksa EPSCoR FIRST</a>, "Aerial Robots for Scientific Sensing," 2012-2013.
+
+</li><li>UNL Research Office, Phase I Pathway to Interdisciplinary Research Centers, "Workshop on Autonomous Aerial Instruments," 2012.
+
+</li><li> CSE Department Student Choice Outstanding Teaching Award: Graduate Level, 2011-2012
+
+</li><li>Winner of the <a href="http://www.asctec.de/home-en">Ascending
+Technologies</a> UAV Sponsorship Competition for the project <a href="http://www.asctec.de/sponsorship-4/">AscTec UAVs in the Wild,</a> 2011-2012.
+
+</li><li>UNL Research Development Fellow, 2011.
+
+</li><li>UNL Research Council Faculty Seed Grant, "Falling Bricks and Flying Balls: Real-time Dynamic Obstacle Avoidance on Flying Robots," 2011.
+
+</li></ul>
+<a name="teaching"><h3>Teaching</h3></a>
+<table boarder="0" cellpadding="0" cellspacing="10">
+<tr>
+<td>
+Fall 2015
+</td>
+<td>
+<a href="courses/2015/439/index.html">CSCE 439/839: Robotics: Algorithms and Applications</a>
+</td>
+</tr>
+<tr>
+<td>
+Spring 2015
+</td>
+<td>
+<a href="courses/2015/236/index.html">CSCE 236: Embedded Systems</a>
+</td>
+</tr>
+<tr>
+<td>
+Fall 2014
+</td>
+<td>
+<a href="courses/2014/990/index.html">CSCE 990: Robotics Today</a>
+</td>
+</tr>
+<tr>
+<td>
+Spring 2014
+</td>
+<td>
+<a href="courses/2014/236/index.html">CSCE 236: Embedded Systems</a>
+</td>
+</tr>
+<tr>
+<td>
+Fall 2013
+</td>
+<td>
+<a href="courses/2013/439/index.html">CSCE 439/839: Robotics: Algorithms and Applications</a>
+</td>
+</tr>
+<tr>
+<td>
+Spring 2013
+</td>
+<td>
+<a href="courses/2013/236/index.html">CSCE 236: Embedded Systems</a>
+</td>
+</tr>
+<tr>
+<td>
+Fall 2012
+</td>
+<td>
+<a href="courses/2012/990/index.html">CSCE 990: Robotics Today</a>
+</td>
+</tr>
+<tr>
+<td>
+Spring 2012
+</td>
+<td>
+<a href="courses/2012/236/index.html">CSCE 236: Embedded Systems</a>
+</td>
+</tr>
+<tr>
+<td>
+Spring 2012
+</td>
+<td>
+<a href="http://nimbus.unl.edu/lab-meetings/spring-2012-csce990/">CSCE 990: Unmanned Aerial Vehicles Seminar</a>, Tuesday 4pm, Nimbus Lab
+</td>
+</tr>
+<tr>
+<td>
+Fall 2011
+</td>
+<td>
+<a href="courses/2011/496/index.html">CSCE 496/896: Robotics</a>
+</td>
+</tr>
+<tr>
+<td>
+Fall 2011
+</td>
+<td>
+<a href="http://nimbus.unl.edu/lab-meetings/fall2011meeting/">CSCE 990: Unmanned Aerial Vehicles Seminar</a>, Tuesday 4pm, Nimbus Lab
+</td>
+</tr>
+<tr>
+<td>
+Spring 2011
+</td>
+<td>
+<a href="courses/2011/436/index.html">CSCE 436/836: Advanced Embedded Systems</a>
+</td>
+</tr>
+<tr>
+<td>
+Fall 2010 
+</td>
+<td>
+<a href="courses/2010/990/index.html">CSCE 990: Robotics: Algorithms and Applications (note: renamed "Robotics Today" in later offerings)</a>
+</td>
+</tr>
+<tr>
+<td>
+Spring 2009 
+</td>
+<td>
+<a href="http://courses.csail.mit.edu/6.141/spring2009/">TA for 6.141: Robotics: Science and Systems</a>
+</td>
+</tr>
+</table>
+<br/>
+<script src="gatag.js" type="text/javascript"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-18132401-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

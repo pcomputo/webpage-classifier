@@ -1,0 +1,150 @@
+<html><head>
+<title>Spring 2009, CSCE 421/821</title>
+<link href="index_files/style.css" media="all" rel="stylesheet" type="text/css"/>
+</head><body>
+<div id="header">
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td cellpadding="0" valign="center">
+<div id="title">CSCE 421/821</div>
+<table cellpadding="15">
+</table>
+</td>
+<td align="right" style="font-size: 11pt;" valign="top">
+<div id="title">Foundations of Constraint Processing</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<table cellspacing="5" width="100%">
+<tbody><tr>
+<td style="border: 1px solid rgb(170, 204, 170); background-color: rgb(250, 255, 250); width: 176px;" valign="top">
+<div id="menu">
+<div class="section">
+<h1>Main Pages</h1>
+<a href="index.html">General</a>
+<a href="protocol.html">Syllabus &amp; Protocol</a>
+<a href="grading.html">Grading Policy</a>
+<a href="safety.html">Safety Net</a>
+<a href="handouts.html">Handouts</a>
+<a href="schedule.html">Schedule</a>
+<a href="homework.html">Homework Schedule</a>
+<a href="glossaries.html">Glossaries</a>
+<a href="wiki.html">Wiki</a>
+<h1>Resources</h1>
+<a href="catch.html">Your Catch</a>
+<a href="books.html">References</a>
+<a href="online.html">Online resources</a>
+<a href="thanks.html">Acknowledgments</a>
+<a href="contacts.html">Contact Us</a>
+</div>
+</div>
+</td>
+<td id="contents" valign="top">
+<div style="overflow: auto; height: 500px;">
+<div style="margin-right: 10px;">
+<p><b><i><font color="#ff0000" size="4">Annnouncement:</font></i></b><br/><br/>
+We will host:
+</p><ul>
+<li><a href="http://www.ics.uci.edu/~dechter/">Professor Rina
+Dechter</a> from UC-Irvine on April 1st and 2nd 2009, a CP pioneer and
+the author of our textbook.</li> <li>Dr. Ben Thengvall from <a href="http://opttek.com">OptTek Systems Inc.</a> (Omaha) who uses CP
+in industrial and defense projects.</li> </ul> Check
+the <a href="http://consystlab.unl.edu/news/visitors.html" target="_blank">list of previous visitors</a>.
+
+<p><blink><a href="schedule.html"><b>Class schedule:</b></a></blink>
+the page will be regularly updated. Check it out <i>regularly</i> for
+announcements of required/recommended reading material, homework, etc. </p>
+<hr/>
+<h1>General Information</h1>
+<p> <b>Prereq: </b>CSCE2235, Discrete Sctrucutures<b> (exceptionally
+this year).</b></p>
+<p><b>Course description:</b> 
+
+Constraint satisfaction has emerged as a powerful approach to
+articulate and solve many problems in computer science, engineering,
+and management.  It is now the basis for new programming
+languages and innovative commercial systems for production scheduling,
+product configuration, personnel planning and timetabling, etc. 
+The course will review the foundations of constraint satisfaction and
+the basic mechanisms for constraint propagation.  It will cover
+aspects of modeling and representation, and will examine islands of
+tractability and methods for theoretical and empirical evaluation of
+problem `difficulty.'  If time permits, we will examine new
+methods for decomposition and symmetry identification, designed to
+overcome the complexity barrier and to support interactions with
+users. </p>
+<p><b>Lectures:</b> Monday, Wednesday, Friday from 12:30 p.m. to 1:20 p.m.<br/>
+<b>Location</b>: Avery Hall, Room 118.</p>
+<p><b>Make-up Class/Recitation:</b> Wednesday from 5:00 p.m. to 5:50 p.m. <br/>
+<b>Location</b>: Avery Hall, Room 118.</p>
+<p><b>Instructor</b>:   Prof.  Berthe Y. Choueiry
+<br/>     
+Office location: Room 360, Avery Hall,
+<br/>     
+choueiry AT cse.unl.edu, tel: (402)472-5444.
+<br/>     
+<font color="#FF0000"><b>Office hours</b>: Monday/Wednesday 1:30-2:30
+p.m.</font> or by appointment.</p>
+<p><b>GTA</b>:   Mr. Shant Karakashian
+<br/>     
+email: shantk AT cse.unl.edu
+<br/>     
+Office location: Room 123D, Avery Hall
+<br/>    
+
+<img src="updated.gif"/> <font color="#FF0000"><b>Office
+hours:</b></font> @ Student Resource Center on <font color="#FF0000">Tuesdays 2:00--3:00 p.m. and Thursday 11:00a.m.--12:00
+p.m.</font> or by appointment.</p>
+<p><b> Textbook:</b><br/> "Constraint Processing" by Rina Dechter,
+1<sup>st</sup> edition. The textbook will not be followed
+sequentially, but should be used for reference. <br/>
+</p><p><b>For quick response</b>, email
+cse421@cse.unl.edu.  Your message will be forwarded to both TA
+and instructor.</p>
+<p><b>Important note:</b> The GTA allocated to this class does not have
+extensive experience in the subject matter and will mainly help with
+administrative matters.  All questions will have to be made to the
+instructor during office hours, make-up class, by email, or by
+appointment.  We will follow a `peer-correction system' by which
+students grade each other's (glossaries and) homework with help from
+the TA and under close monitoring by the instructor.</p>
+<b></b><p>Topics include but are not restricted to:</p>
+<ul>
+<li> Properties, computational complexity, and practical importance.</li>
+<li> Global and local consistency: algorithms, properties and
+computational complexity.</li>
+<li> Islands of tractability for minimality and global consistency.</li>
+<li> Intelligent backtracking.</li>
+<li> Look-ahead techniques.</li>
+<li> Ordering heuristics.</li>
+<li> Theoretical and empirical comparison of hybrid search
+algorithms.</li>
+<li> Phase transition.</li>
+<li> Modeling and reduction methods between representations.</li>
+<li> If time permits: Decomposition.  Symmetries and their
+approximations.  Temporal constraint networks.  Stochastic search.
+Reformulation and abstraction.  Dynamic/conditional Constraint
+Satisfaction (CSP).  Constrained Optimization Problem (COP).</li>
+<li>Other, depending on class interests. </li></ul>
+<b></b><p>Support: </p>
+<ul>
+<li>Rina Dechter, <i>Constraint Processing</i>, 2003, Morgan
+Kauffmann.  Available from bookstore. </li>
+<li>Edward Tsang, <i>Foundations of Constraint
+Satisfaction</i>. Available from instructor and on reserve at the Math
+Library in Avery. </li>
+<li>Technical papers given by instructor or available from the <a href="http://www.unl.edu/libr/ereservs/contents/csce421/csce421.html">Electronic
+Reserve </a>at the Love Library. </li></ul>
+<br/>
+<p style="font-family: sans-serif; font-size: 8pt;">
+<!-- hhmts start -->
+Last modified: Mon Mar 23 11:49:58 CDT 2009
+<!-- hhmts end -->
+</p>
+</div>
+</div>
+</td></tr></tbody></table></body>
+</html>

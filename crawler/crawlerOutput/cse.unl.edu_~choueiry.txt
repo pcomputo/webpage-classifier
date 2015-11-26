@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Mozilla/4.75 [en] (X11; U; SunOS 5.7 sun4u) [Netscape]" name="GENERATOR"/>
+<title>Home Page: Berthe Y. Choueiry</title>
+</head>
+<body alink="#FF0000" bgcolor="#FFFFFF" link="#0000EE" text="#000000" vlink="#551A8B">
+<table>
+<tr>
+<td>
+<img src="head.jpg"/></td>
+<td>   </td>
+<td>
+Berthe Y. Choueiry
+<br/>Associate Professor<br/>
+<br/>
+
+Department of Computer Science &amp; Engineering
+<br/>256 Avery Hall
+<br/>University of Nebraska-Lincoln
+<br/>Lincoln, NE 68588-0115
+<br/>
+<br/>
+
+Office: Avery Hall, Room 360<br/>
+Tel: +1(402)472-5444
+<br/> Fax: +1(402)472-7767
+<br/> Email: choueiry AT cse DOT unl DOT edu, byc AT acm DOT org
+
+</td>
+</tr>
+</table>
+<p>Previous homes:  <a href="http://liawww.epfl.ch/~choueiry/choueiry.html">home@lia</a>,
+<a href="http://www.ksl.stanford.edu/people/choueiry/">home@ksl.</a>
+</p>
+<hr width="100%"/>
+<p><b>Research interests: </b>Abstraction, reformulation and
+approximation, constrained-based reasoning and constraint
+satisfaction, scheduling and resource allocation, complexity and graph
+theory, and interactive and distributed problem-solving.
+</p>
+<p>
+<b>Education</b>:
+</p><ul>
+<li> Docteur ès Sciences (PhD), Computer
+Science (Artificial Intelligence), <a href="http://www.epfl.ch/" target="_top">EPFL,</a> 1994.</li>
+<li>Diploma (MS), Electrical Engineering (Power Systems), <a href="http://www.epfl.ch/" target="_top">EPFL</a>, 1986.</li>
+</ul>
+<p><b>Links:</b>
+</p><ul>
+<li><a href="http://consystlab.unl.edu" target="_top">Research</a></li>
+<li>
+<a href="http://cse.unl.edu/~choueiry/Courses.html" target="_top">Teaching</a></li>
+<li>
+Online Systems:
+
+<a href="http:///minesweeper.unl.edu" target="_top">Minesweeper</a>, 
+
+<a href="http://sudoku.unl.edu" target="_top">Sudoku</a>,
+
+<a href="http://gameofset.unl.edu" target="_top">Game of Set</a>, 
+ 
+Graduate Teaching Assistants Assignment Project (GTAAP) (only for CSE
+use).
+</li>
+<li>
+<a href="http://cse.unl.edu/~choueiry/Activities.html" target="_top">Conference Activities</a></li>
+<!-- <li>
+Conference Organization:</li>
+-->
+</ul>
+<p>
+</p><hr width="100%"/>
+<b>More links:</b>
+<ul>
+<li><a href="http://www.cse.unl.edu" target="_top">CSE-UNL</a></li>
+<li><a href="http://www.unl.edu" target="_top">UNL</a></li>
+<li>
+<a href="http://www.ksl.stanford.edu" target="_top">KSL-Stanford University</a></li>
+<li>
+<a href="http://liawww.epfl.ch/" target="_top">LIA-EPFL</a>, <a href="http://diwww.epfl.ch/" target="_top">DI-EPFL</a>,
+<a href="http://www.epfl.ch/" target="_top">EPFL</a></li>
+<li><a href="http://www.aaai.org/" target="_top">AAAI</a></li>
+<li><a href="http://www.campusbooks4less.com" target="_top">Cheap textbooks</a> <img src="star.gif"/><img src="star.gif"/><img src="star.gif"/></li>
+<li><a href="http://www.rossfilmtheater.org/" target="_top">Mary Riepma Ross
+Film Theater</a></li>
+<li><a href="http://weather.com" target="_top">Weather</a></li>
+</ul>
+<br/> 
+</body>
+</html>

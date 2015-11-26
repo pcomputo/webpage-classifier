@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Mozilla/4.75 [en] (X11; U; SunOS 5.7 sun4u) [Netscape]" name="GENERATOR"/>
+<title>CSCE310 Data Structures and Algorithms</title>
+</head>
+<body alink="#FF0000" bgcolor="#FFFFFF" link="#0000EE" text="#000000" vlink="#551A8B">
+<center>
+<h1>
+CSCE310: Data Structures and Algorithms</h1></center>
+<p><br/><b>Prereq:         </b>CSCE156
+(Intro. to CS II) and CSCE235 (Intro. to Discrete Structures)<b>.</b>
+</p><p><b>Course description:</b>  In this course you will learn the basis
+of the design and analysis of algorithms.  The following topics will
+be addressed, time permitting:   asymptotic analysis, greedy, 
+divide and conquer,  search, sort, algorithms on trees, graphs, dynamic
+programming, NP-completeness, etc.
+</p><p><b>Time:  </b>        
+Monday, Wednesday, Friday, from 2:30 p.m. to 3:20 p.m.
+</p><p><b>Place</b>:          
+Room 217, Ferguson Hall
+</p><p><b>Instructor</b>:   Prof.  Berthe Y. Choueiry
+<br/>                     
+Room 104, Ferguson Hall,
+<br/>                     
+choueiry@cse.unl.edu, tel: (402)472-5444.
+<br/>                     
+Office hours:  Mon/Fri from 3:30 p.m. to 4:30 p.m., or by appointment.
+</p><p><b>TAs</b>:
+</p><ul>
+<li>
+Ms Xin LI</li>
+<br/>email: xinli@cse.unl.edu
+<br/>Office location: Building 501, Room2, Desk 2.6.
+<br/><i>Office hours:</i>  Mon/Wed/Fri  09:00 a.m. to 10:0 a.m.
+<br/> 
+<li>
+Ms Gennette Gill</li>
+<br/><i>email</i>: ggill@cse.unl.edu
+<br/> 
+<li>
+Mr Joel Gompert</li>
+<br/><i>email</i>: jgompert@cse.unl.edu</ul>
+<p><br/><b><blink><a href="schedule.htm">Class schedule:</a></blink></b>
+the page will be regularly updated. Check it out often for reference to
+required and recommended reading material, homework texts, and announcements.
+</p><p><b>Required textbook (check the bookstore): </b>Introduction to Algorithms,
+Cormen, Leiserson, and Rivest. Love library: QA76.6 .C662 1990 pt.1 
+and pt.2
+</p><p><b>Protocol of the course:</b>
+</p><ul>
+<li>
+Lectures by instructor, 3 times per week.</li>
+<li>
+The workload will consist of:</li>
+<ul>
+<li>
+<i><u>required reading </u></i>(as indicated in the <b><a href="schedule.htm">Class
+schedule</a></b>): the textbook will be followed in a more or less linear
+fashion.  It is your responsibility to read the material in the book
+and make sure you understand.</li>
+<li>
+<i><u>programming and theoretical assignments:</u></i>  Programming
+assignments <i>must be</i> done in C++ and turned in <img height="12" lowsrc="new.gif" src="new.gif" width="31"/><b>
+before 11:59 p.m. on the due date</b>.  Usually, homeworks must be
+turned in using the UNIX
+<font face="Courier
+New,Courier">handin</font>
+program on <font face="Courier
+New,Courier">cse.unl.edu.</font>  Pen-and-paper
+assignments must be given to the instructor<i> </i>right <b>before</b>
+the lecture on the due date. Late homeworks are subject to a 20% deduction
+per day (including week-ends), any <i>second</i> after the due date counts
+as an entire day.   Each student has a 5-day late-return credit,
+to be used at discretion. No question asked, no further extensions <i>ever</i>
+given. Make sure you inform both instructor and TA when you use your privilege.</li>
+<li>
+<u><i>tests</i>:</u> There will be a pre-test, a mid-term  and a final. 
+Tests cannot be taken in advance.  Tests cannot be made up except
+by instructor's permission.</li>
+</ul>
+<li>
+It is the student's responsibility to ensure an account on cse.unl.edu.</li>
+<li>
+Discussions among students, instructor, and TA are encouraged.  Homeworks
+however are a <i>strictly</i> individual activity: <i>no sharing is permitted</i>
+(unless when specified by instructor).  Unethical behavior will be
+heavily sanctioned (<i>e.g.</i>, a null grade on the task).</li>
+<li>
+If you decide to work in team (which is not permitted) <i>always</i> acknowledge
+any help received from other individuals.</li>
+<li>
+<i>Always</i> fully reference material used (<i>e.g.</i>, encyclopedia,
+book, paper, journal, <b>web site</b>).</li>
+<li>
+Attendance is not mandatory.  But students are responsible for the
+material covered and announcements made during the class.</li>
+</ul>
+<b>Grading policy:</b>
+<ul>
+<li>
+The plan is to partition the grades as follows:</li>
+<ul>
+<li>
+Pre-test:  5%</li>
+<li>
+6-8 homework assignments: <img height="12" src="new.gif" width="31"/>35%.
+(Programming assignments will be graded as follows: 70% for correctness,
+15% for programming style, and 15% for documentation.)</li>
+<li>
+Midterm: 30%</li>
+<li>
+Final: 30%</li>
+</ul>
+<li>
+Bonuses will be awarded to students who interact during lecture (answer
+questions, solve challenge problems, <i>etc</i>.)</li>
+</ul>
+<b>Grade conversion</b>:
+<br/> 
+<center><table border="" cols="2" nosave="" width="20%">
+<tr align="CENTER" nosave="">
+<td nosave=""><font size="-1">&gt;94%</font></td>
+<td><font size="-1">A+</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">90--94</font></td>
+<td><font size="-1">A</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1"> 85--89</font></td>
+<td><font size="-1">B+</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">80--84</font></td>
+<td><font size="-1">B</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">70--79</font></td>
+<td><font size="-1">C+</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">60--69</font></td>
+<td><font size="-1">C</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">55--59</font></td>
+<td><font size="-1">D+</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">50--54</font></td>
+<td><font size="-1">D</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">&lt;=50</font></td>
+<td><font size="-1">F</font></td>
+</tr>
+</table></center>
+<p><font color="#CC0000"><font size="+2"><b>Acknowledgement:  </b>Much
+of the material is borrowed from
+<a href="http://www.cse.unl.edu/~cusack/Teaching/Classes/310F00/">Fall2000/CSCE310</a>,
+courtesy of <a href="http://cse.unl.edu/~cusack/">Dr. Chuck Cusack</a>,
+and other similar courses on the Web.</font></font>
+</p><p>
+</p><hr/>
+<address>
+<a href="mailto:choueiry@cse.unl.edu">Berthe Y. Choueiry</a></address>
+<br/>Last modified: <script language="javascript">
+document.write("<l>" + Date() + "<\/l><\/P>") 
+
+</script>
+</body>
+</html>

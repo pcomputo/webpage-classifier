@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="en-us" http-equiv="Content-Language"/>
+<meta content="Rahul Purandare" name="author"/>
+<meta content="Rahul Purandare, iiitd, esquared, unl, lincoln, nebraska, program analysis, software engineering" name="keywords"/>
+<link href="styles/main.css" rel="stylesheet" type="text/css"/>
+<title>Rahul Purandare's Homepage</title>
+</head>
+<body>
+<!-- Header. -->
+<table class="header">
+<tr>
+<td class="header-title"></td>
+<td class="header-icon">
+<a href="http://www.unl.edu" target="_blank"><img alt="University of Nebraska-Lincoln" src="images/unl.gif"/></a>
+</td>
+</tr>
+</table>
+<!-- Navigation bar. -->
+<table class="navbar">
+<tr>
+</tr>
+</table>
+<!-- Text. -->
+<img alt="Me" height="20%" id="photo" src="images/rahul.jpg" width="20%"/>
+<p>
+<span style="font-size: 25px; font-family: arial; font-weight: bold"> Rahul Purandare </span>
+</p>
+<div class="bar">Joined <a href="http://www.iiitd.ac.in/">IIIT-Delhi</a></div>
+<p>
+
+I have joined <a href="http://www.iiitd.edu.in/~purandare/">Indraprastha Institute of Information Technology, Delhi</a> as an Assistant Professor.
+</p>
+<!-- Footer -->
+<!--?php
+require "common/footer.php";
+createFooter(__FILE__);
+?>
+</p>
+<div>
+-->
+</body>
+</html>

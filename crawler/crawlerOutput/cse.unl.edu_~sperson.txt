@@ -1,0 +1,244 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="text/css" http-equiv="Content-Style-Type"/>
+<title>Suzette Person</title>
+<style type="text/css">
+    p.p2 {margin: 0.0px 0.0px 6.0px 0.0px; font: 12.0px Times; background-color: #808080; min-height: 14.0px}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px 'Times New Roman'}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px Times; min-height: 14.0px}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; min-height: 14.0px}
+    p.p6 {margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px 'Times New Roman'}
+    p.p7 {margin: 0.0px 0.0px 6.0px 0.0px; font: 16.0px 'Times New Roman'}
+    p.p8 {margin: 0.0px 0.0px 12.0px 0.0px; text-align: right; font: 12.0px 'Times New Roman’; color: #0000ff}
+    p.p9 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}
+    p.p11 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px 'Times New Roman'}
+    p.p12 {margin: 0.0px 0.0px 6.0px 0.0px; font: 12.0px 'Times New Roman'}
+    p.p13 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}
+    p.p14 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px 'Times New Roman'}
+    p.p15 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Times New Roman'}
+    p.p16 {margin: 0.0px 0.0px 12.0px 0.0px; text-align: right; font: 12.0px 'Times New Roman'; color: #0433ff}
+    p.p17 {margin: 0.0px 0.0px 12.0px 0.0px; text-align: justify; font: 12.0px 'Times New Roman'}
+    p.p19 {margin: 0.0px 0.0px 12.0px 0.0px; text-align: right; font: 12.0px Times; color: #0000ff}
+    li.li7 {margin: 0.0px 0.0px 6.0px 0.0px; font: 13.0px 'Times New Roman'}
+    li.li10 {margin: 0.0px 0.0px 8.0px 0.0px; font: 13.0px 'Times New Roman'}
+    li.li18 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Times New Roman'; color: #0000ee}
+    span.s1 {text-decoration: underline ; color: #0000ee}
+    span.s2 {text-decoration: underline}
+    span.s3 {text-decoration: underline ; color: #0000ff}
+    span.s4 {color: #000000}
+    span.Apple-tab-span {white-space:pre}
+    table.t1 {width: 891.0px}
+    td.td1 {width: 540.0px; padding: 8.0px 8.0px 8.0px 8.0px}
+    td.td2 {width: 319.0px; padding: 8.0px 8.0px 8.0px 8.0px}
+    ol.ol1 {list-style-type: decimal}
+    ul.ul1 {list-style-type: disc}
+  </style>
+</head>
+<body>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px 'Times New Roman'"><b>Suzette Person</b></h1>
+<p class="p2"><br/></p>
+<table border="0" cellpadding="8" cellspacing="0" width="800">
+<tr>
+<td align="LEFT" class="style1" valign="TOP" width="540"><p>
+</p><p class="p3">Director of Software Engineering &amp; Associate Professor of Practice <br/> Department of Computer Science and Engineering <br/>
+University of Nebraska-Lincoln<br/>
+<br/>
+Office: 362 Avery Hall<br/>
+Phone: 402.472.5040 <br/>
+Email: sperson ‘at’ cse.unl.edu
+</p>
+</td><td><img align="CENTER" src="./images/me.jpg" width="150"/></td>
+</tr>
+<tr>
+</tr>
+</table>
+<p class="p5"><br/></p>
+<p class="p2"><br/></p>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 18.0px 'Times New Roman'"><b>About Me</b></h3>
+<p class="p7">I am an Associate Professor of Practice in the Department of Computer Science and Engineering at the University of Nebraska-Lincoln. I am also the Director of the new Software Engineering program that will launch in Fall 2016 (contact me if you would like to learn more about the new undergraduate degree in Software Engineering at UNL - we are very excited about offering this major!). I worked in industry and state government as a Software Engineer for many years. Prior to coming to UNL I was a Research Computer Scientist at NASA Langley Research Center where I worked in the Formal Methods group. You can view a copy of my <a href="PersonCV.pdf">CV here</a>.</p>
+<p class="p7">My research interests include software testing and program analysis techniques, especially in the context of evolving software.</p>
+<p align="right" style='margin-top: -3; font-family: "Times New Roman", Times, serif;'><a href="#top">[top]</a></p>
+<p class="p2"><br/></p>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 18.0px 'Times New Roman'"><b>Publications</b></h3>
+<h3>2015</h3>
+<ul type="disc">
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>M. Whalen, S. Person, N. Rungta, M. Staats, D. Grijincu, "A Flexible and Non-intrusive Approach for Computing Complex Structural Coverage Metrics"
+    International Conference on Software Engineering 2015.<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>M. Waterloo, S. Person, S. Elbaum, "Test Analysis: Searching for Faults in Tests"
+    International Conference on Automated Software Engineering (New Ideas track) 2015 (to appear).<o:p></o:p></span></li>
+</ul>
+<h3>2014</h3>
+<ul type="disc">
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>L. Zhang, G. Yang, N. Rungta, S. Person, S. Khurshid, "Feedback-Driven Dynamic Invariant Discovery"
+    International Symposium on Software Testing and Analysis 2014, pp. 362-372.<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>Y. Wang, S. Person, S. Elbaum, M. Dwyer, "A Framework to Advise Test Using Tests"
+    International Conference on Software Engineering 2014 (NIER Track), pp. 440-443. <o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>A. Sarma, S. Person, N. Rungta, J. Branchaud, M. Dwyer, "Development Context Driven Change Awareness and Analysis Framework"
+    International Conference on Software Engineering 2014 (NIER Track), pp. 404-407.<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>G. Yang, S. Kurshid, S. Person, N. Rungta, "Property Differencing for Incremental Checking"
+       International Conference on Software Engineering 2014, pp. 1059-1070.<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>G. Yang,  S. Person, N. Rungta, S. Khurshid, "Directed  Incremental Symbolic Execution"
+       ACM Transactions on Software Engineering and Methodology (TOSEM), Vol. 24, No. 1, Article 3, Sept. 2014.<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>N. Rungta, O. Tkachuk, S. Person, J. Biatek, M. Whalen, J. Castle, K. Gundy-Burlet, "Helping System Engineers Bridge the Peaks"
+      Fourth International Workshop on the Twin Peaks of Requirements and Architecture, pp. 9-13.<o:p></o:p></span></li>
+</ul>
+<h3>2013</h3>
+<ul type="disc">
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>B. Hillery, E. Mercer, N. Rungta,  S. Person, "Towards a Lazier Symbolic Pathfinder"
+       Java PathFinder Workshop, Nov. 2013.<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>L. Zhang, G. Yang, N. Rungta,  S. Person, S. Khurshid, "Invariant Discovery Guided by Symbolic Execution"
+       Java PathFinder Workshop, Nov. 2013.<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>B.Ray, M. Kim, S. Person, N. Rungta, "Detecting and Characterizing Semantic Inconsistencies in Ported Code"
+       Automated Software Engineering, Nov. 2013.<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>J. Backes, S. Person, N. Rungta, O. Tkachuk, "Regression Verification using Impact Summaries"
+       International SPIN Symposium on Model Checking Software, July 2013.<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>S. Person, N. Rungta, "Maintaining the Health of Software Monitors"
+       Innovations in Systems and Software Engineering Journal, Special Issue on
+       Software Health Management, Vol. 9, Issue 4(2013), pp. 257-269.<o:p></o:p></span></li>
+</ul>
+<h3>2012</h3>
+<ul type="disc">
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><span style='mso-fareast-font-family:"Times New Roman"'>E. Mercer, S. Person, N. Rungta,
+       "Computing and Visualizing the Impact of Change with Java PathFinder Extensions" 
+       Java PathFinder Workshop, Nov. 2012. <o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><span style='mso-fareast-font-family:"Times New Roman"'>N. Rungta, S. Person, J. Branchaud,
+       "A Change-impact Analysis to Characterize Evolving Program Behaviors" in Proceedings of
+       the 28th IEEE Conference on Software Maintenance (ICSM'12), Sept. 2012. <o:p></o:p></span></li>
+</ul>
+<h3>2011</h3>
+<ul type="disc">
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><span style='mso-fareast-font-family:"Times New Roman"'>R. Siminiceanu, P. Miner and S. Person,
+       "A Methodology for Evaluating Artifacts Produced by a Formal Verification Process",
+       Technical Publication, NASA/TM-2011-217193, November 2011.<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><span style='mso-fareast-font-family:"Times New Roman"'>S. Person, G. Yang, N. Rungta and S. Khurshid,
+       "Directed Incremental Symbolic Execution" in Proceedings of
+       the 32nd ACM SIGPLAN conference on Programming Language Design and Implementation (PLDI11), June 2011, pp. 504-515. <o:p></o:p></span></li>
+</ul>
+<h3>2010 and Prior</h3>
+<ul type="disc">
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><span style='mso-fareast-font-family:"Times New Roman"'>M.Dwyer, R. Purandare and S. Person,
+       "Runtime Verification in Context: Can Optimizing Error Detection Impove Fault Diagnosis?" in Proceedings of
+       the first International Conference on Runtime Verification (RV10), November 2010, pp. 36-50. <o:p></o:p></span></li>
+<li .5in="" auto="" class="MsoNormal" level1="" lfo1="" mso-margin-top-alt:auto="" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+   &lt;li class=MsoNormal style="><span style='mso-fareast-font-family:"Times New Roman"'>S.Person, M.Dwyer,
+       "Generalized Abstract Symbolic Summaries" in Proceedings of
+       the First NASA Formal Methods Symposium, April 2009, pp. 46-55. <o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><span style='mso-fareast-font-family:"Times New Roman"'>S.Person, M.Dwyer,
+       S.Elbaum, and C.S.Pasareanu, "Differential Symbolic Execution"
+       in Proceedings of the 16th ACM SIGSOFT Symposium on Foundations of
+       Software Engineering (FSE08), Atlanta, GA, November 10-13, 2008,
+       pp.226-237. <o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><span style='mso-fareast-font-family:"Times New Roman"'>C.S.Pasareanu,
+       P.C.Mehlitz, D.H.Bushnell, K.Gundy-Burlet, M.Lowry, S.Person, and
+       M.Pape, "Combining Unit-level Symbolic Execution and System-level
+       Concrete Execution for Testing NASA Software" in International
+       Symposium on Software Testing and Analysis, July 2008, pp. 15-26. <o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><span style='mso-fareast-font-family:"Times New Roman"'>M.Dwyer, S.Elbaum,
+       S.Person, and R. Purandare, "Parallel Randomized State-space
+       Search," in Proceedings of the 29th International Conference on Software
+       Engineering, May 2007, pp. 3-12. <o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><span style='mso-fareast-font-family:"Times New Roman"'>S.Elbaum, S.Person,
+       J.Dokulil, and M.Jorde, "Bug Hunt: Making Early Software Testing
+       Lessons Engaging and Affordable," in Proceedings of the 29th
+       International Conference on Software Engineering, May 2007, pp. 688-697.
+       <o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><span style='mso-fareast-font-family:"Times New Roman"'>M.Dwyer, S.Person, and
+       S.Elbaum, "Controlling Factors in Evaluating Path-sensitive Error
+       Detection Techniques," in Proceedings of the 14th ACM SIGSOFT
+       Symposium on Foundations of Software Engineering (FSE), Portland, OR,
+       November 5-11, 2006, pp. 92-103. <i>(ACM SIGSOFT Distinguished Paper)</i>
+<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><span style='mso-fareast-font-family:"Times New Roman"'>L.-K.Soh, A.Samal,
+       S.Person, G.Nugent, and J.Lang, "Analyzing Relationships between
+       Closed Labs and Course Activities in CS1," in Proceedings of the
+       10th annual SIGCSE Conference on Innovation and Technology in Computer
+       Science Education (ITiCSE'05), Capacrica, Portugal, June 27-29, 2005, pp
+       183-187. <o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><span style='mso-fareast-font-family:"Times New Roman"'>L.-K.Soh, A.Samal,
+       S.Person, G.Nugent, J.Lang, "Designing, Implementing and Analyzing
+       a Placement Test for Introductory CS Courses," in Proceedings of
+       the 36th SIGCSE Technical Symposium on Computer Science Education
+       (SIGCSE'05), St. Louis, MO, February 23-27, 2005, pp. 505-509. <o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><span style='mso-fareast-font-family:"Times New Roman"'>L.-K.Soh, A.Samal,
+       S.Person, G.Nugent, J.Lang, "Closed Laboratories with Embedded
+  Instructional Research Design for CS1," in Proceedings of
+       the 36th SIGCSE Technical Symposium on Computer Science Education
+       (SIGCSE'05), St. Louis, MO, February 23-27, 2005, pp. 297-301. <o:p></o:p></span></li>
+</ul>
+<p class="p2"><br/></p>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 18.0px 'Times New Roman'"><b>Software and Innovations</b></h3>
+<p class="p11">•  <b>Java Impact Analysis Framework</b>: Invention Disclosure e-NTR#:1392742578. Released under NOSA open source license.</p>
+<p class="p11">•  <b>C Impact Analysis Framework</b>: Invention Disclosure e-NTR#:1393341390. Released under NOSA open source license.</p>
+<p class="p11">•  <b>Abstract Syntax Tree Observer (ASTro)</b>: Released under Apache open source license.</p>
+<p class="p11">•  <b>Bug Hunt</b>: Web Tutorial to Assist Learning of Software Testing in CS1 and CS2.</p>
+<p align="right" style='margin-top: -3; font-family: "Times New Roman", Times, serif;'><a href="#top">[top]</a></p>
+<p class="p2"><br/></p>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 18.0px 'Times New Roman'"><b>Academic Service</b></h3>
+<ul type="disc">
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>International Conference on Software Testing, Verification and Validation (ICST) PC (2016)<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>International Conference on Software Engineering (ICSE) PC (2015-2016)<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>International Conference on Automated Software Engineering (ASE) Expert Review Panel (2015)<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>International Symposium on Software Testing and Analysis (ISSTA) PC (2014-2015)<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>NASA Formal Methods Symposium (NFM) PC (2012-2015) (General (Co-)Chair in 2012 &amp; Steering Committee member 2013-2015)<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>Formal Integrated Development Environment Workshop (F-IDE) PC (2014-2015)<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>Workshop on Program Analysis for Software Tools and Engineering (PASTE) PC (2013)<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>Grace Hopper Celebration of Women Conference (Software Engineering Track) PC (2013)<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>International Conference on Software Engineering (ICSE) Student Research Competition Committee (2013)<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>Java PathFinder Workshop (JPF) PC (2012-2013)<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottome-alt:
+       auto;mso-list:10 level1 lfol;tab-stops:list .5in"><span style='mso-farest-front-family:"Times New Roman"'>Runtime Verification (RV) PC (2011)<o:p></o:p></span></li>
+</ul>
+<p align="right" style='margin-top: -3; font-family: "Times New Roman", Times, serif;'><a href="#top">[top]</a></p>
+<p class="p2"><br/></p>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 18.0px 'Times New Roman'"><b>Teaching</b></h3>
+<p class="p17">•  CSCE425/825 Compiler Construction - Fall 2015</p>
+<p align="right" style='margin-top: -3; font-family: "Times New Roman", Times, serif;'><a href="#top">[top]</a></p>
+<p class="p2"><br/></p>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 18.0px 'Times New Roman'"><b>Links</b></h3>
+<ul class="ul1">
+<li class="li18"><a href="http://esquared.unl.edu/"><span class="s2">The Laboratory for Empirically-based Software Quality Research and Development</span></a><span class="s4"> (ESQuaReD)</span></li>
+<li class="li18"><a href="http://shemesh.larc.nasa.gov/fm/"><span class="s2">NASA Langley Formal Methods</span></a><span class="s4"></span></li>
+</ul>
+<p align="right" style='margin-top: -3; font-family: "Times New Roman", Times, serif;'><a href="#top">[top]</a></p>
+<p class="p2"><br/></p>
+<p> (Last update July 29, 2015)</p>
+</body>
+</html>

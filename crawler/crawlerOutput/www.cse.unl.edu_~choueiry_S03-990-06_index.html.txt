@@ -1,0 +1,372 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Mozilla/4.75 [en] (X11; U; SunOS 5.7 sun4u) [Netscape]" name="GENERATOR"/>
+<title>Spring 2003, CSCE990-06 Advanced Constraint Processing</title>
+</head>
+<body alink="#FF0000" bgcolor="#FFFFFF" link="#0000EE" text="#000000" vlink="#551A8B">
+<center>
+<h1>
+CSCE990-06, Spring 2003: Advanced Constraint Processing</h1></center>
+<b>Prereq:         </b>CSCE821,
+or equivalent.
+<p><b>Course description: </b>This course is a continuation of the course
+on Foundations of Constraint Processing (CSCE 821). It is intended for
+students with some sophistication and considerable interest in exploring
+methods of designing and using algorithms useful for solving combinatorial
+problems. The goal of the course will be to study, analyze and critique
+basic and current research papers and to engage in Constraint Processing
+projects and experiments either alone or in small groups.
+<br/>    Topics may include (and are not restricted to)
+</p><blockquote>
+<li>
+non-binary constraints,</li>
+<li>
+over-constrained problems,</li>
+<li>
+temporal reasoning,</li>
+<li>
+symmetry and interchangeability,</li>
+<li>
+continuous CSPs,</li>
+<li>
+distributed constraint satisfaction,</li>
+<li>
+constraints in relational databases,</li>
+<li>
+spatial reasoning, etc.</li>
+</blockquote>
+    Class participation is essential.
+<br/>    The content of this course is modified every time
+it is offered.
+<br/>
+<br/>
+<center>
+<p>   <b><font size="+1"> Warning: <i>The format of the course
+is significantly more</i></font></b>
+<br/><b><i><font size="+1">like a research seminar than a regular class.</font></i></b>
+<br/><b><i><font size="+1">Be prepared for intensive work and mature interactions.</font></i></b></p></center>
+<p>
+<br/>
+</p><p><b>Time:</b>                
+Monday, Wednesday, from  2:30 to 3:45 p.m.
+</p><p><b>Place:</b>                <img height="12" src="new.gif" width="31"/><font color="#FF0000">
+CBA 104 (room changed on January 22, 2003)</font>
+</p><p><b>Instructor:</b>      Prof. Berthe Y. Choueiry
+<br/>                           
+Room 104, Ferguson Hall
+<br/>                           
+choueiry@cse.unl.edu
+<br/>                           
+Tel: (402)472-5444
+</p><p><b>Office hours:</b>   Monday, Wednesday 3:45--4:45 p.m. 
+or by appointment
+</p><p><b><font color="#CC0000">Important</font></b>:     
+Regularly check out the page of <b><blink><font color="#FF0000"><a href="schedule.htm">class
+schedule </a></font></blink></b>for reference to required and recommended
+reading material, homework texts, and announcements.
+</p><p><b>Protocol of the course:</b>
+</p><blockquote>
+<li>
+Study of selective chapters of the manuscript on Constraint Processing
+by Rina Dechter.</li>
+<li>
+Mainly discussions of technical papers, otherwise lectures by the instructor
+and presentations by students.</li>
+<li>
+Absence:  maximum 3 sessions, <i>advanced notice required.</i></li>
+<li>
+Collaboration and discussion within and outside the classroom <i>strongly
+encouraged </i>unless specified (e.g., for assignments, quizzes, or riddles').</li>
+</blockquote>
+<b>Grading policy:</b>
+<ul>
+<li>
+<u>Students will be able to `compose' their grade, for up to 80% of the
+total grade, from the following menu:</u></li>
+<ul>
+<li>
+Presentation of a research paper  by a student: 20%. Grading policy
+will be given by instructor.</li>
+<li>
+<i>Scribe</i> of a discussion topic or a paper presentation or a<i> critical
+summary </i>of a research paper: 5%.  A student takes notes of an
+entire discussion of a topic. One or more other students criticize the
+notes of the scribe and rate the minutes (Excellent, Good, Satisfactory,
+or Poor).</li>
+<li>
+Project (programming): 30%</li>
+<li>
+Term paper: 30%.</li>
+</ul>
+<li>
+<u>The remaining 20% are allocated as follows:</u></li>
+<ul>
+<li>
+Surprise quizzes (mainly) and assignments (minimal): 10%.</li>
+<li>
+Class interaction and participation in discussions are (subjectively) evaluated
+for 10% of the total grade.</li>
+</ul>
+</ul>
+<b>How can I improve my grade?</b>
+<ul>
+<li>
+A bonus will be offered for a 100% attendance, starting second week of
+semester.</li>
+<li>
+Do the weekly and final glossaries: 5% (total).  Students who return
+every Monday, before class a glossary of terms listed in handouts will
+receive</li>
+<br/>a bonus.   Rules for glossary:
+<ul>
+<li>
+Students will be have to build an incremental and alphabetically sorted
+glossary of important terms.</li>
+<li>
+Terms to be included are the ones listed in the handouts distributed in
+class or sent my email.</li>
+<li>
+A glossary entry can be filled with: (1) its definition in AIMA, (2) its
+definition from another AI textbook or dictionary, or (3) the student own
+interpretation.</li>
+<li>
+All terms encountered during a week are due as a weekly glossary the following
+Monday.</li>
+<li>
+At the end of the course, the full alphabetically sorted glossary is due.
+(Hint:  choose a text editor that can sort entries alphabetically.)</li>
+</ul>
+</ul>
+<b>Grade conversion</b>:
+<br/> 
+<center><table border="" cols="2" nosave="" width="20%">
+<tr align="CENTER" nosave="">
+<td nosave="">
+<center>&gt;97%</center>
+</td>
+<td>
+<center>A+</center>
+</td>
+</tr>
+<tr>
+<td>
+<center>94--96</center>
+</td>
+<td>
+<center>A</center>
+</td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave="">
+<center>90--93</center>
+</td>
+<td>
+<center>A-</center>
+</td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave="">
+<center> 87--89</center>
+</td>
+<td>
+<center>B+</center>
+</td>
+</tr>
+<tr>
+<td>
+<center>84--86</center>
+</td>
+<td>
+<center>B</center>
+</td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave="">
+<center>80--83</center>
+</td>
+<td>
+<center>B-</center>
+</td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave="">
+<center>75--79</center>
+</td>
+<td>
+<center>C+</center>
+</td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave="">
+<center>67--74</center>
+</td>
+<td>
+<center>C</center>
+</td>
+</tr>
+<tr>
+<td>
+<center>60--66</center>
+</td>
+<td>
+<center>C-</center>
+</td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave="">
+<center>57--59</center>
+</td>
+<td>
+<center>D+</center>
+</td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave="">
+<center>54--56</center>
+</td>
+<td>
+<center>D</center>
+</td>
+</tr>
+<tr>
+<td>
+<center>51--53</center>
+</td>
+<td>
+<center>D-</center>
+</td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave="">
+<center>&lt;=50</center>
+</td>
+<td>
+<center>F</center>
+</td>
+</tr>
+</table></center>
+<p><b>Textbooks:</b>
+</p><li>
+We will use selective chapters of the manuscript "Constraint Processing"
+of Rina Dechter.</li>
+<li>
+We will also heavily rely on technical papers from the literature. As the
+need arises, copies will be made available by, or can be retrieved from,
+the instructor.</li>
+<li>
+Additional reference (available on reserve from LL): Foundations of Constraint
+Satisfaction by Edward Tsang.</li>
+<br/> 
+<p> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+</p><p><b>Main AI textbooks are available <u>on reserve for CSCE 476/876</u>
+at the Love Library (but you are welcome to check them out):</b>
+<br/><i>AI:</i>
+</p><ul>
+<li>
+<a href="http://iris.unl.edu/search/tParadigms+of+artificial/tparadigms+of+artificial/1,2,2,B/frameset&amp;F=tparadigms+of+artificial+intelligence+programming+case+studies+in+common+lisp&amp;1,1">Artificial
+Intelligence, A Modern Approach (</a>AIMA), by Russell &amp; Norvig.</li>
+<li>
+Artificial Intelligence, 3rd Edition.  Winston. ISBN 0201533774.</li>
+<li>
+<a href="http://iris.unl.edu/search/tParadigms+of+artificial/tparadigms+of+artificial/1,2,2,B/frameset&amp;F=tparadigms+of+artificial+intelligence+programming+case+studies+in+common+lisp&amp;1,1">Essentials
+of Artificial Intelligence</a>. Ginsberg. ISBN 1-558s60-22-6.  Call
+number Q335.G55 1993.</li>
+<li>
+<a href="http://iris.unl.edu/search/cQ335.N496+1998/cq+++335+n496+1998/-6,0,0,E/frameset&amp;F=cq+++335+n495+1998&amp;1,1">Artificial
+Intelligence: A New Synthesis.</a> Nilsson. ISBN 1-55860-535-5.  Call
+number Q335.N496 1998.</li>
+<li>
+<a href="http://iris.unl.edu/search/tParadigms+of+artificial/tparadigms+of+artificial/1,2,2,B/frameset&amp;F=tparadigms+of+artificial+intelligence+programming+case+studies+in+common+lisp&amp;1,1">Paradigms
+of Artificial Intelligence Programming.</a> Norvig. ISBN 1-55860-191-0.
+Call number QA76.6.N687.</li>
+<li>
+Artificial Intelligence: Theory and Practice. Thomas Dean, James Allen,
+and Yiannis Alomonos. Addison-Wesley, 1995. Available from instructor.</li>
+</ul>
+<i>LISP:</i>
+<ul>
+<li>
+LISP, 3rd Edition. Winston &amp; Horn. ISBN 0-201-08319-1.</li>
+<li>
+ANSI Common Lisp, Paul Graham. ISBN 0-13-370875-6.</li>
+<li>
+<a href="http://iris.unl.edu/search/tParadigms+of+artificial/tparadigms+of+artificial/1,2,2,B/frameset&amp;F=tparadigms+of+artificial+intelligence+programming+case+studies+in+common+lisp&amp;1,1">Paradigms
+of Artificial Intelligence Programming.</a> Norvig. ISBN 1-55860-191-0.
+Call number QA76.6.N687.</li>
+</ul>
+<li>
+<i>Specific topics:</i></li>
+<ul>
+<li>
+I<a href="http://iris.unl.edu/search/aYang%2C+Qiang/ayang+qiang/1,1,2,B/frameset&amp;F=ayang+qiang+1961&amp;2,,2">ntelligent
+Planning: A Decomposition and Abstraction Based Approach</a>. Qiang Yang.
+Springer-Verlag, 1997. Call Number Q334 .Y36 1997 .</li>
+<li>
+A mathematical introduction to logic by Enderton, Herbert B, CALL NO. QA9
+.E54 1972.</li>
+</ul>
+<div class="MsoNormal"><b>Some research groups involved in Constraint Processing:</b></div>
+<ul>
+<li>
+<a href="http://liawww.epfl.ch/">LIA@EPFL</a></li>
+<li>
+<a href="http://www.dcs.st-and.ac.uk/~apes/">APES </a>Group in the UK.</li>
+<li>
+<a href="http://www.cs.unh.edu/ccc/">Constraint Computation Center</a>
+of Freuder in Univ. of New Hampshire.</li>
+<li>
+<a href="http://4c.ucc.ie/">Cork Constraint Computation Center (4C) </a>of
+Freuder in University College Cork, Ireland.</li>
+</ul>
+<i>Archives and on-line systems:</i>
+<ul>
+<li>
+<a href="Generator.java">Random generator in Java</a> by Zheying Yang (zyang@cse.unl.edu)</li>
+<li>
+<a href="http://4c.ucc.ie/~tw/csplib/links.html">Links to Constratint Solvers</a>,
+via the <a href="http://4c.ucc.ie/~tw/csplib/">CSPLIB</a></li>
+<li>
+<a href="http://www.icparc.ic.ac.uk/eclipse/">The ECLiPSe Constraint Logic
+Programming System</a></li>
+<li>
+<a href="http://www.cs.unh.edu/ccc/archive/">Constraints archives</a> at
+CCC.</li>
+<li>
+<a href="http://www.csplib.org/">CSPLib</a>: Problem Library on the Web.</li>
+<li>
+<a href="http://www.lirmm.fr/~bessiere/generator.html">Random generator
+</a>in
+C at LIRMM</li>
+<li>
+<a href="ftp://ftp.cs.strath.ac.uk/local/pat/csp-lab/">Random generato</a>r
+in Common Lisp by Patrick Prosser</li>
+<li>
+<a href="Documents/Bacchus-generator.c">Random generator</a> in C courtesy
+of <a href="http://www.cs.toronto.edu/~fbacchus/">Fahiem Bacchus</a> (and
+P. van Run).</li>
+<li>
+<a href="http://www.pms.informatik.uni-muenchen.de/software/jack/">JACK</a>:
+a library providing constraint programming and search for Java (high-level
+language, generic search engine, and a visualization tool).</li>
+</ul>
+<i>Conferences</i>:
+<ul>
+<li>
+Constraint Programming (CP), <a href="http://www.aaai.org">AAAI</a>,
+<a href="http://www.ijcai.org">IJCAI</a>,
+<a href="http://www.eccai.org">ECAI</a>,
+<a href="http://www.flairs.com">FLAIRS</a>,
+etc.</li>
+</ul>
+<hr/>
+<address>
+<a href="mailto:choueiry@cse.unl.edu">Berthe Y. Choueiry</a></address>
+<br/> 
+</body>
+</html>

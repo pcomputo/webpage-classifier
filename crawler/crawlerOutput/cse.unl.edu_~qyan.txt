@@ -1,0 +1,280 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Qiben Yan</title>
+<link href="./Qiben Yan_files/style.css" rel="stylesheet" type="text/css"/>
+<link href="./bootstrap/css/bootstrap.min.css" media="screen" rel="stylesheet"/>
+<link href="./bootstrap/css/bootstrap-responsive.css" rel="stylesheet"/>
+<script src="./Qiben Yan_files/jquery.min.js"></script>
+<meta content="Qiben Yan" name="Author"/>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66347128-1', 'auto');
+  ga('send', 'pageview');
+
+  </script>
+<script src="./Qiben Yan_files/Markdown.Converter.js"></script>
+<script>  
+ 
+        // get markdown content  
+        var news_location = 'information/news.md';
+
+        function getText(myUrl){
+            var result = null;
+            $.ajax( { url: myUrl, 
+                      type: 'get', 
+                      dataType: 'html',
+                      async: false,
+                      success: function(data) { result = data; } 
+                    }
+            );
+            FileReady = true;
+            return result;
+        }
+ 
+        var news_source = getText(news_location);
+        var converter = new Markdown.Converter();
+
+
+         //document.write(converter.makeHtml("**I am bold!**"));
+        // convert markdown to html
+        //var output = markdown.toHTML( markdown_source );
+        //document.write(output);
+        $(document).ready(function(){
+          $('#news').html(converter.makeHtml(news_source));
+        })
+ 
+      </script>
+</head>
+<body data-twttr-rendered="true">
+<header class="jumbotron subhead" id="overview">
+<div class="container">
+<h1>Qiben "Chi-Ben" Yan</h1>
+<p class="lead">Assistant Professor, University of Nebraska Lincoln </p>
+</div>
+</header>
+<div class="row">
+<div class="span2">
+<img alt="Qiben" height="150" src="./Qiben Yan_files/QibenYan.jpg" width="200"/>
+</div>
+<div class="span4">
+<br/><p>
+<a href="http://cse.unl.edu/">Department of Computer Science and Engineering</a><br/>
+<a href="http://www.unl.edu/">University of Nebraska Lincoln</a><br/>
+      Office: 109, Schorr Center <br/> 
+      Phone: (402) 472-5075 <br/>
+      Email: yan AT unl DOT edu<br/>
+<a href="./PublicKey.txt">PubKey</a><br/>
+<a href="./Qiben_Yan_CV.pdf">CV</a><br/>
+</p>
+</div>
+</div>
+<div class="row">
+<div class="span8 offset3">
+<p>
+<a href="http://think.unl.edu">My Research Lab - THINK Lab</a><br/>
+</p>
+</div>
+</div>
+<hr width="90%"/>
+<div class="row">
+<div class="span10">
+<p>
+      Qiben “Chi-Ben” Yan is an Assistant Professor in the Computer Science and Engineering at University of Nebraska Lincoln. Prior to joining UNL, he worked in a cyber security startup company called Shape Security in the silicon valley, where he participated in building the first “botwall”. He received a Ph.D. in Computer Science from Virginia Tech in 2014, an M.S. and a B.S. degree in Electronic Engineering from Fudan University in Shanghai China in 2010 and 2007, respectively. His primary research interests are in wireless network security and privacy, network monitoring and cyber forensics, botnet and malware detection. He is particular interested in building a data-driven secure network infrastructure - such as anomaly detection system, traffic monitoring and analysis system, attack resilient communication system - to provide security add-ons for the modern networks under cyber threats. He is always interested in problems that have potential real-world impact, and tries to bridge the gap between theory and practice. </p>
+</div>
+</div>
+<div>
+<hr width="90%"/>
+<div class="row">
+<div class="span10">
+<h4>Recent News:</h4>
+<p><b><em>I am looking for highly motivated PhD students to join exciting research projects on network and cyber security research! Please email your CV to me for <a data-toggle="tab" href="http://cse.unl.edu/~yan/#tab5">opportunities</a>. Visiting/exchange scholars and students are also welcome to contact me.</em></b></p>
+<div class="news" id="news"></div>
+</div>
+</div>
+<hr width="90%"/>
+<div class="row">
+<div class="span10">
+<div class="tabbable"> <!-- Only required for left/right tabs -->
+<ul class="nav nav-tabs">
+<li class="active"><a data-toggle="tab" href="http://cse.unl.edu/~yan/#tab1">Research</a></li>
+<li><a data-toggle="tab" href="http://cse.unl.edu/~yan/#tab2">Publications</a></li>
+<li><a data-toggle="tab" href="http://cse.unl.edu/~yan/#tab3">Professional Activities</a></li>
+<li><a data-toggle="tab" href="http://cse.unl.edu/~yan/#tab4">Teaching</a></li>
+<li><a data-toggle="tab" href="http://cse.unl.edu/~yan/#tab5">Opportunities</a></li>
+</ul>
+</div>
+<div class="tab-content">
+<div class="tab-pane active" id="tab1">
+<div class="row">
+<div class="span10">
+<p>
+</p><h4>Research areas:</h4>
+        Wireless Network Security and Privacy<br/>
+<li><em>Wireless physical-layer security; cognitive radio network security; jamming and anti-jamming; device fingerprinting</em></li><br/>
+        Network monitoring and forensics<br/>
+<li><em>Network diagnosis; root cause analysis; performance diagnosis; intrusion detection</em></li><br/>
+        Botnet and malware detection<br/>
+<li><em>Botnet detection; mobile malware detection; mobile Apps security analysis</em></li>
+<p>
+</p><h4>Approach:</h4>
+        By digging into the details of communication protocols and systems or analyzing large amount of network data from traffic monitors, I identify real-world vulnerabilities of the current or future networks and their root causes. Then, I design the theories, systems or mechanisms to protect against the potential adversaries who may exploit those vulnerabilities, by applying techniques from other fields, such as machine learning, statistical methods, time series analysis. I emphasize the implementation of my projects, and try to bridge the gap between theory and practice. 
+
+      <br/>
+</div>
+</div>
+</div>
+<div class="tab-pane" id="tab2">
+
+Below are some selected recent papers. <p>
+</p><ul>
+<p><b>Journal Papers</b></p>
+<li>
+<em>SpecMonitor: Towards Efficient Passive Traffic Monitoring for Cognitive Radio Networks</em><br/>
+Q. Yan, M. Li , F. Chen, T. Jiang, W. Lou, Y.T. Hou, C.T. Lu<br/>
+<em>IEEE Transactions on Wireless Communications</em><br/>
+Vol. 13, No. 10, July 2014. 
+</li>
+<p>
+</p><li>
+<em><a href="paper/TIFS13_Xiao.pdf">Proximity-based Security Techniques for Mobile Users in Wireless Networks</a></em><br/>
+L. Xiao, Q. Yan, W. Lou, G. Chen, Y.T. Hou,<br/>
+<em>IEEE Transactions on Information Forensics Security</em><br/>
+Vol. 8, No. 12, Dec. 2013.
+</li>
+<p>
+</p><li>
+<em><a href="paper/WLC12_Jiang.pdf">On the Limitation of Embedding Cryptographic Signature for Primary Transmitter Authentication</a></em><br/>
+T. Jiang, H. Zeng, Q. Yan, W. Lou, Y.T. Hou<br/>
+<em>IEEE Wireless Communication Letter</em><br/>
+Vol. 1, No. 4, August 2012.
+</li>
+<p>
+</p><li>
+<em><a href="paper/JSAC12_MCD.pdf">Throughput Analysis of Cooperative Mobile Content Distribution in Vehicular Ad hoc Networks using Symbol Level Network Coding</a></em><br/>
+Q. Yan, M. Li, Z. Yang, W. Lou, H. Zhai<br/>
+<em>IEEE Journal on Selected Areas in Communications (JSAC), Special Issue on Cooperative Networking: Challenges and Applications</em><br/>
+Vol. 30, No. 2, February 2012.
+</li>
+<p>
+</p><p><b>Conference Papers</b></p>
+<li>
+<em><a href="paper/INFOCOM15_Yan.pdf">PeerClean: Unveiling Peer-to-Peer Botnets through Dynamic Group Behavior Analysis</a></em><br/>
+Q. Yan, Y. Zheng, T. Jiang, W. Lou, Y.T. Hou<br/>
+<em>IEEE INFOCOM 2015</em><br/>
+Hong Kong, Apr. 2015. (Acceptance ratio: 316/1640=19%)
+</li>
+<p>
+</p><li>
+<em><a href="paper/Trustcom15_Yan.pdf">A First Look at Android Malware Traffic in First Few Minutes</a></em><br/>
+Z. Chen, H. Han, Q. Yan, B. Yang, L. Peng, L. Zhang, J. Li.<br/>
+<em>IEEE TrustCom 2015</em><br/>
+Helsinki, Finland, Aug. 2015.
+</li>
+<p>
+</p><li>
+<em><a href="paper/mimojam-infocom14.pdf">MIMO-based Jamming Resilient Communication in Wireless Networks</a></em><br/>
+Q. Yan, H. Zeng, T. Jiang, M. Li, W. Lou, Y.T. Hou<br/>
+<em>IEEE INFOCOM 2014</em><br/>
+Toronto, ON, Canada, Apr. 2014. (Acceptance ratio: 320/1645=19.4%)
+</li>
+<p>
+</p><li>
+<em><a href="paper/ICC13-Final.pdf">Proximity-based Security Using Ambient Radio Signals</a></em><br/>
+L. Xiao, Q. Yan, W. Lou, Y.T. Hou<br/>
+<em>IEEE ICC 2013</em><br/>
+Budapest, Hungary, June 2013.
+</li>
+<p>
+</p><li>
+<em><a href="paper/INFOCOM13_Yan.pdf">Non-parametric Passive Traffic Monitoring in Cognitive Radio Networks</a></em><br/>
+Q. Yan,  M. Li, F. Chen, T. Jiang, W. Lou, Y.T. Hou, C.T. Lu<br/>
+<em>IEEE INFOCOM 2013</em><br/>
+Turin, Italy, Apr. 2013. (Acceptance ratio: 17%)
+</li>
+<p>
+</p><li>
+<em><a href="paper/INFOCOM12_Yan.pdf">Vulnerability and Protection for Distributed Consensus-based Spectrum Sensing in Cognitive Radio Networks</a></em><br/>
+Q. Yan, M. Li, T. Jiang, W. Lou, Y.T. Hou<br/>
+<em>IEEE INFOCOM 2012</em><br/>
+Orlando, FL, USA, Mar. 2012. (Acceptance ratio: 18%)
+</li>
+<p>
+</p><p><b>Technical Reports</b></p>
+<li>
+<em>
+<a href="paper/TS-MCD.pdf">Throughput Analysis of Cooperative Mobile Content Distribution in Vehicular Ad hoc Networks using Symbol Level Network Coding</a></em><br/>
+Q. Yan, M. Li, Z. Yang, W. Lou, H. Zhai<br/>
+<em>Technical Report</em><br/>
+Dec. 2011.
+</li>
+<p><br/>
+</p></ul></div>
+<div class="tab-pane" id="tab3">
+<div class="row">
+<div class="span10">
+<p><b>Journal Editorship</b></p>
+<li>Editor, KSII Transactions on Internet and Information Systems, June 2015</li><br/>
+<p><b>Conference Program Committee (Selected)</b></p>
+<li><a href="http://infocom2015.ieee-infocom.org/">IEEE International Conference on Computer Communications (INFOCOM)</a>, 2016</li>
+<li><a href="http://www.ieee-icc.org/">IEEE International Conference on Communications (ICC) (AHSN symposium)</a>, 2015, 2016</li>
+<li> IEEE Vehicular Technology Conference, 2014</li><br/>
+<p><b>Other</b></p>
+<li>IEEE Member</li>
+<li>NSF Panelist, 2015</li><br/>
+</div>
+</div>
+</div>
+<div class="tab-pane" id="tab4">
+<h4> Teaching </h4>
+<div class="row">
+<div class="span10">
+<table class="table table-striped">
+<tbody><tr class="success"><td></td>
+<td>
+<strong>Spring</strong>
+</td>
+<td>
+<strong>Fall</strong>
+</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>---</td>
+<td><a href="http://cse.unl.edu/~qyan/courses/CSCE-477877/">CSCE 477/877: Computer Security and Cryptography</a><br/>
+<li>This course introduces students to the basic computer security concepts and cryptography. Students will also learn computer and network attacks and defense, and case studies of the security mechanisms and architectures deployed in practical networks/systems. Topics include: basic security concepts; cryptography basics: secret key cryptography, hashes and message digests, public key cryptography; Authentication and public key infrastructure, security protocols and pitfalls, computer security: vulnerabilities and exposures, program security, operating system security.</li></td>
+</tr><br/>
+<script src="./Qiben Yan_files/jquery.js"></script>
+<script src="./Qiben Yan_files/bootstrap.min.js"></script>
+</tbody></table>
+</div>
+</div>
+</div>
+<div class="tab-pane" id="tab5">
+<div class="row">
+<div class="span10">
+<p><strong>Ph.D. RA/TA openings: </strong></p>
+<p>We are always looking for self-motivated Ph.D. students to join our group, starting from either Spring or Fall. A successful candidate is expected to carry out research in one of the multiple areas: networking security and privacy, wireless and mobile security, wireless  networking, botnet and malware research.</p>
+<p>An ideal candidate is expected to have:</p>
+<p>- An earned master degree in EE, CS or a relevant area<br/>
+            - Strong mathematical skills, including probability analysis<br/>
+            - Solid background in wireless communications and networking<br/>
+            - Previous research experience in wireless is a plus<br/>
+            - Background and research experience in security or cryptography is a big plus</p>
+<p>If you are interested in either position, please send your CV, PS, transcripts, TOEFL and GRE scores, and everything that you believe will help your application to Prof. Qiben Yan in one email. </p>
+<p><strong>Visiting scholars:</strong></p>
+<p>Visiting/exchange scholars and students who have matching interests and strong research backgrounds are welcome to contact Prof. Qiben Yan for inquiries about position availability. </p><br/>
+</div>
+</div>
+</div></div></div></div>
+<div style="display:none;visibility:hidden;">
+<a href="http://www.easycounter.com/">
+<img alt="Free Web Counters" border="0" src="http://www.easycounter.com/counter.php?qbyan"/></a>
+<br/><a href="http://www.easycounter.com/"></a><br/><br/>
+</div>
+</div></body></html>

@@ -1,0 +1,254 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Mozilla/4.75 [en] (X11; U; SunOS 5.7 sun4u) [Netscape]" name="GENERATOR"/>
+<title>CSCE476-876 Introduction to Artificial Intelligence</title>
+</head>
+<body alink="#FF0000" bgcolor="#FFFFFF" link="#0000EE" text="#000000" vlink="#551A8B">
+<center>
+<h1>
+CSCE476/876, Spring 2000: Introduction to Artificial Intelligence</h1></center>
+<p><br/><b>Prereq:         </b>CSCE310,
+Data structures and algorithms<b>.</b>
+</p><p><b>Course description:</b> Introduction to the basic principles, techniques
+and tools now being used in the area of machine intelligence.  Lecture
+topics will include problem solving, knowledge representation and reasoning,
+search, expert systems, and planning and action.  More advanced topics
+may be included depending on class interests and performance.  Programming
+will be done in Common Lisp using Allegro Common Lisp (ACL) and its programming
+environment.
+</p><p><b>Time:  </b>        
+Monday, Wednesday, Friday, from 12:30 p.m. to 1:20 p.m.
+</p><p><b>Place</b>:          
+Room 111, Ferguson Hall
+</p><p><b>Instructor</b>:   Prof.  Berthe Y. Choueiry
+<br/>                     
+Room 104, Ferguson Hall,
+<br/>                     
+choueiry AT cse DOT unl Dot edu, tel: (402)472-5444.
+<br/>                     
+Office hours:  Mon/Fri from 1:20 p.m. to 2:20 p.m., or by appointment.
+</p><p><b>TA</b>:              
+M. Parwezpasha KOTHWAALSHEIK (Parwez).
+<br/>                     
+email: parwez@cse.unl.edu
+<br/>                     
+Office hours in Room 16 or Room 17, Ferguson:  Mon/Wed  0930
+a.m. to 11:30 a.m.
+<br/>                     
+Office location: Building 501, Room 6.5.
+</p><p><b><blink><a href="schedule.htm">Class schedule:</a></blink></b> the
+page will be regularly updated. Check it out often for reference to required
+and recommended reading material, homework texts, and announcements.
+</p><p><b>Required textbooks (check the bookstore):</b>
+</p><ul>
+<li>
+Artificial Intelligence, A Modern Approach (AIMA), by Russell &amp; Norvig.</li>
+<li>
+LISP, 3rd Edition  (LWH).  Winston &amp; Horn.</li>
+</ul>
+<b>Protocol of the course:</b>
+<ul>
+<li>
+Lectures by instructor, 3 times per week.</li>
+<li>
+The workload will consist of:</li>
+<ul>
+<li>
+<i><u>required and recommended reading material </u></i>(as indicated in
+the <b><a href="schedule.htm">Class schedule</a></b>): AIMA (textbook)
+will be followed in a more or less linear fashion.  The content of
+the course will be dynamically adapted to students interests and performance.
+Chapters to be studied may encompass:  Chapter: 1, 2, 3, 4, 6, 7,
+9, 11, 13, 14, 15, 18, 19, 22, 24, 26, and/or 27.   Sections
+from these and other chapters may be dropped or added during the course. 
+Regularly check the <a href="schedule.htm">class schedule</a>.</li>
+<li>
+<i><u>glossary</u></i>:  Students will be have to build an incremental
+and alphabetically sorted glossary of important terms.  Terms to be
+included are: (1) the ones mentioned in AIMA in the margin of the required 
+reading material, (2) the ones highlighted anytime during a lecture, 
+and (3) the ones sent by email.  A glossary entry can be filled with:
+(1) its definition in AIMA, (2) its definition from another AI textbook
+or dictionary, or (3) the student's own interpretation.  All terms
+encountered during a week are due as a weekly glossary the following Monday. 
+At the end of the course, the full alphabetically sorted glossary is due.
+(Hint:  choose a text editor that can sort entries alphabetically.)</li>
+<li>
+<i><u>programming, theoretical, and library-search assignments:</u></i> 
+Programming assignments <i>must be</i> done in Common Lisp (advice: use
+Allegro Common Lisp on Linux) and turned in  <i>before </i>6 p.m.
+on the due date.  Usually, homeworks must be turned in using the UNIX
+<font face="Courier
+New,Courier">handin</font>
+program on <font face="Courier
+New,Courier">cse.unl.edu.</font>  Pen-and-paper
+assignments must be given to the instructor<i> </i>right<i> before</i>
+the lecture on the due date. Late homeworks are subject to a 20% deduction
+per day (including week-ends), any second after the due date counts as
+an entire day.  Students are kindly requested to indicate how much
+time they <i>approximately</i> spend on each exercise; this information
+will be aggregated and used for planning purposes, it does not affect grading
+and the evaluation of individuals.</li>
+<li>
+<i><u>surprise quizzes:</u></i> There will be a surprise quiz every 2 to
+4 weeks,  depending on students performance.  Quizzes will address
+<i>all
+</i>material
+covered during the lectures <i>and/or </i>by the required reading. 
+No books or personal notes are allowed during the quizzes, unless explicitly
+specified. Quizzes cannot be made up.</li>
+<li>
+<u>tests:</u> There will be a pre-test, a mid-term  and a final. 
+Tests cannot be taken in advance.  Tests cannot be made up except
+by instructor's permission.</li>
+</ul>
+<li>
+It is the student's responsibility to ensure an account on the CSE PCs
+from which Linux (+ xemacs, ACL) can be executed.</li>
+<li>
+Discussions among students, instructor, and TA are encouraged.  Homeworks
+however are a <i>strictly</i> individual activity: <i>no sharing is permitted</i>
+(unless when specified by instructor).  Unethical behavior will be
+heavily sanctioned (<i>e.g.</i>, a null grade on the task).</li>
+<li>
+<i>Always</i> acknowledge any help received from other individuals.</li>
+<li>
+<i>Always</i> fully reference material used (<i>e.g.</i>, encyclopedia,
+book, paper, journal, web site).</li>
+<li>
+Attendance is not mandatory.  But students are responsible for the
+material covered and announcements (such as lists of terms for glossary)
+made during the class.  Also, there will be surprise quizzes.</li>
+</ul>
+<b>Grading policy:</b>
+<ul>
+<li>
+The plan is to partition the grades as follows:</li>
+<ul>
+<li>
+Pre-test:  5%</li>
+<li>
+Glossary: 10%</li>
+<li>
+(Surprise) quizzes: 20%</li>
+<li>
+Homeworks: 25% (Programming assignments will be graded as follows: 50%
+for correctness, 25% for programming style, and 25% for documentation.)</li>
+<li>
+Tests (mid-term, final): 40% (20% each)</li>
+</ul>
+<li>
+A bonus will be awarded to students who attend all lectures.</li>
+<li>
+Students who perform exceptionally well during the semester may be exempted
+from the final exam.</li>
+</ul>
+<p><br/><b>Grade conversion</b>:
+<br/> 
+</p><center><table border="" cols="2" nosave="" width="20%">
+<tr align="CENTER" nosave="">
+<td nosave=""><font size="-1">&gt;94%</font></td>
+<td><font size="-1">A+</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">90--94</font></td>
+<td><font size="-1">A</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1"> 85--89</font></td>
+<td><font size="-1">B+</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">80--84</font></td>
+<td><font size="-1">B</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">70--79</font></td>
+<td><font size="-1">C+</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">60--69</font></td>
+<td><font size="-1">C</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">55--59</font></td>
+<td><font size="-1">D+</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">50--54</font></td>
+<td><font size="-1">D</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">&lt;=50</font></td>
+<td><font size="-1">F</font></td>
+</tr>
+</table></center>
+<b>Books on reserve at the Love Library (LL):</b>
+<ul>
+<li>
+<img align="ABSCENTER" alt="New" height="12" lowsrc="new.gif" src="new.gif" width="31"/><i>Foundations
+of Constraint Satisfaction </i>by Edward Tsang.</li>
+<li>
+<img align="ABSCENTER" alt="New" height="12" lowsrc="new.gif" src="new.gif" width="31"/><i>A
+mathematical introduction to logic</i> by Enderton, Herbert B, CALL NO.
+QA9 .E54 1972.</li>
+<li>
+<i>Artificial Intelligence, A Modern Approach</i> (AIMA), by Russell &amp;
+Norvig.</li>
+<li>
+<i>Artificial Intelligence,</i> 3rd Edition.  Winston. ISBN 0201533774.</li>
+<li>
+<i>LISP</i>, 3rd Edition. Winston &amp; Horn. ISBN 0-201-08319-1.</li>
+<li>
+<i>Essentials of Artificial Intelligence</i>. Ginsberg. ISBN 1-558s60-22-6. 
+Call number Q335.G55 1993.</li>
+<li>
+<i>Artificial Intelligence: A New Synthesis</i>. Nilsson. ISBN 1-55860-535-5. 
+Call number Q335.N496 1998.</li>
+<li>
+<i>Paradigms of Artificial Intelligence Programming. </i>Norvig. ISBN 1-55860-191-0.
+Call number QA76.6.N687.</li>
+<li>
+<i>ANSI Common Lisp</i>, Paul Graham. ISBN 0-13-370875-6.</li>
+</ul>
+<b>Other references:</b>
+<ul>
+<li>
+<a href="http://apsymac33.uni-trier.de:8080/elm-art/login-e"><img align="ABSCENTER" alt="New" height="12" lowsrc="new.gif" src="new.gif" width="31"/></a><a href="http://apsymac33.uni-trier.de:8080/elm-art/login-e">Online
+Tutorial to Common Lisp</a> , Adaptive Remote Tutor.</li>
+<li>
+<img align="ABSCENTER" alt="New" height="12" lowsrc="new.gif" src="new.gif" width="31"/>Franz
+Inc. by David Cooper Jr.: <a href="Doc/Lisp-Manual.pdf">Understanding Common
+Lisp</a> (Basic Lisp techniques, pdf document).</li>
+<li>
+<img align="ABSCENTER" alt="New" height="12" lowsrc="new.gif" src="new.gif" width="31"/>From
+Jason Steele (jsteele@cse): <a href="http://www.digitool.com/MCL-getting-started/gs_114.htm">A
+few good examples on how to create and manipulate classes</a></li>
+<li>
+The MIT Encyclopedia of the Cognitive Sciences, call number BF311 .M556
+1999, LIB USE ONLY.</li>
+<li>
+<a href="http://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/cltl2.html">Common
+Lisp, The Language, Second Edition. Guy L. Steele, Jr.  Digital Press</a>,
+ISBN: 1555580416 (will be made available soon at LL.)</li>
+<li>
+Encyclopedia of artificial intelligence, 1992, SECOND EDITION,call number
+Q335 .E53, LIB USE ONLY.</li>
+<li>
+<a href="http://www.cs.cmu.edu/Web/Groups/AI/html/faqs/lang/lisp/top.html">LISP
+FAQ</a> by  Mark Kantrowitz.</li>
+<li>
+Section on "General AI Information" in "<a href="http://www.aaai.org/Resources/ai-organizations.html#AIOrg03">AI
+Resources</a>."</li>
+<li>
+Web search engines (<a href="http://www.altavista.com">Altavista</a>, etc.)</li>
+<br/> </ul>
+<hr/>
+<br/>Last modified: <script language="javascript">
+document.write("<l>" + Date() + "<\/l><\/P>") 
+
+</script>
+</body>
+</html>

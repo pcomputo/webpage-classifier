@@ -1,0 +1,287 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Mozilla/4.75 [en] (X11; U; SunOS 5.7 sun4u) [Netscape]" name="GENERATOR"/>
+<title>CSCE990: Foundations of Constraint Satisfaction</title>
+</head>
+<body alink="#FF0000" bgcolor="#FFFFFF" link="#0000EE" text="#000000" vlink="#551A8B">
+<center>
+<h1>
+CSCE990-05, Fall 2000: Foundations of Constraint Satisfaction</h1></center>
+<center>
+<p><br/><b><i><font size="+2"><font color="#FF0000">Constraint course challenge:
+</font><font color="#006600">the
+best student (ties broken by lottery) will be</font></font></i></b>
+<br/><b><i><font color="#006600"><font size="+2">awarded attendance of a major
+international conference in the field.  Details in class.</font></font></i></b>
+<br/> 
+</p><p><b>   </b><i><font size="+2"> <b><font color="#FF0000">Special
+announcement: </font><font color="#006600">we are working on inviting two
+important researchers</font></b></font></i>
+<br/><b><i><font color="#006600"><font size="+2">from two prominent companies
+to talk about the market of this technology,</font></font></i></b>
+<br/><b><i><font color="#006600"><font size="+2">the techniques implemented
+in their products and their success stories.</font></font></i></b></p></center>
+<p><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</p><p><b>Prereq:        </b>CSCE310 (Data
+structures and algorithms) or permission of instructor.
+</p><p><b>Note</b>:  This course is well suited for both senior level
+and graduate students.  In the future, it will be offered as CSCE426/826. 
+CSE students should consult with instructor regarding tracks (theory/software
+systems).
+</p><p><b>Course description:</b>   Constraint Satisfaction has emerged
+as a successful approach to articulate and solve many industrial problems
+such as design, network diagnosis, vision, scheduling, and resource management
+in wireless networks.  This technology is now the basis for new programming
+languages and innovative commercial systems for production scheduling,
+product configuration, personnel planning and time-tabling, etc. 
+This course reviews the foundations of constraint satisfaction and the
+basic mechanisms developed in this area.  It also covers issues on
+modeling and representation,  special types of constraints such as
+temporal constraint networks, and theoretical and empirical evaluation 
+of problem `difficulty.'  The course will examine in particular new
+methods for decomposition and symmetry identification, designed to overcome
+the complexity barrier and to support interactions with users.
+</p><p><b>Time:  </b>        
+Monday, Wednesday, Friday, from 10:30 a.m. to 11:20 a.m.
+</p><p><b>Place</b>:          
+Room 111, Ferguson Hall
+</p><p><b>Instructor</b>:   Berthe Y. Choueiry
+<br/>                     
+Room 104, Ferguson Hall,
+<br/>                     
+choueiry@cse.unl.edu, tel: (402)472-5444.
+<br/>                     
+Office hours:  Mon/Wed from 11:30 a.m. to 12:30 p.m., or by appointment.
+<br/> 
+</p><p><b><blink><a href="schedule.htm">Class schedule:</a></blink></b> the
+page will be regularly updated. Check it out <i>regularly</i> for reference
+to required and recommended reading material, homework texts, and announcements.
+<br/> 
+</p><p><b>Topics include but are not restricted to:</b>
+</p><ul>
+<li>
+Properties, computational complexity,  and practical importance.</li>
+<li>
+Theoretical and empirical classification of backtracking algorithms.</li>
+<li>
+Theoretical and empirical of classification of static and dynamic ordering
+heuristics.</li>
+<li>
+Phase transition.</li>
+<li>
+Global and local consistency: algorithms, properties, and computational
+complexity.</li>
+<li>
+Islands of tractability for minimality and global consistency.</li>
+<li>
+Modeling and reduction methods between representations.</li>
+<li>
+Decomposition.</li>
+<li>
+Symmetries and their approximations.</li>
+<li>
+Reformulation and abstraction.</li>
+<li>
+Extension: Dynamic/conditional constraint satisfaction,   constraint
+optimization.</li>
+</ul>
+<b>Support:</b>
+<ul>
+<li>
+Edward Tsang, <i>Foundations of Constraint Satisfaction</i>. Available
+from instructor.</li>
+<li>
+Rina Dechter, <i>Constraint Processing</i>.  In preparation, check
+with instructor.</li>
+<li>
+Technical papers given by instructor or available from the <a href="http://www.unl.edu/lovecirc/contents/cse990/csce990.html">Electronic
+Reserve </a>at the Love Library.</li>
+</ul>
+<p><br/><b>Grading policy:</b>
+</p><ul>
+<li>
+Grades will be allocated as follows</li>
+<ul>
+<li>
+Quizzes:  20%</li>
+<li>
+Assignments: 30%</li>
+<li>
+Paper presentation: 20%</li>
+<li>
+Project: 30%</li>
+</ul>
+<li>
+Bonuses will be awarded to students who attend all lectures, interact lively
+and participate in discussion in class.</li>
+<li>
+Grades can be improved by making critical summaries of research papers
+discussed in class (10% per summary).</li>
+</ul>
+<b>Rules:</b>
+<ul>
+<li>
+Absence: maximum 6  sessions, advanced notice required.  Quizzes
+cannot be made up.</li>
+<li>
+Discussions among students and with instructor are encouraged.  Homeworks
+however are a <i>strictly</i> individual activity: <i>no sharing is permitted</i>
+(unless when specified by instructor).  Unethical behavior will be
+heavily sanctioned (<i>e.g.</i>, a null grade on the task). <i>Always</i>
+acknowledge any help received from other individuals.  <i>Always</i>
+fully reference material used (<i>e.g.</i>, encyclopedia, book, paper,
+journal, web site).</li>
+</ul>
+<b>Grade conversion</b>:
+<br/> 
+<center><table border="" cols="2" nosave="" width="20%">
+<tr align="CENTER" nosave="">
+<td nosave=""><font size="-1">&gt;94%</font></td>
+<td><font size="-1">A+</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">90--94</font></td>
+<td><font size="-1">A</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1"> 85--89</font></td>
+<td><font size="-1">B+</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">80--84</font></td>
+<td><font size="-1">B</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">70--79</font></td>
+<td><font size="-1">C+</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">60--69</font></td>
+<td><font size="-1">C</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">55--59</font></td>
+<td><font size="-1">D+</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">50--54</font></td>
+<td><font size="-1">D</font></td>
+</tr>
+<tr align="CENTER" nosave="" valign="CENTER">
+<td nosave=""><font size="-1">&lt;=50</font></td>
+<td><font size="-1">F</font></td>
+</tr>
+</table></center>
+<b>Books on reserve at the Love Library (LL):</b>
+<ul>
+<li>
+<i>Foundations of Constraint Satisfaction </i>by Edward Tsang.</li>
+<li>
+</li>
+</ul>
+<b>Books available at the Love Library (LL):</b>
+<ul>
+<li>
+<i>Artificial Intelligence, A Modern Approach</i> (AIMA), by Russell &amp;
+Norvig. CALL number Q335 .R86 1995.</li>
+<li>
+</li>
+</ul>
+<b>Other references:</b>
+<ul>
+<li>
+The MIT Encyclopedia of the Cognitive Sciences. CALL  number BF311
+.M556 1999, LIB USE ONLY.</li>
+<li>
+Encyclopedia of artificial intelligence, 1992, SECOND EDITION, call number
+Q335 .E53, LIB USE ONLY.</li>
+<li>
+Section on "General AI Information" in "<a href="http://www.aaai.org/Resources/ai-organizations.html#AIOrg03">AI
+Resources</a>."</li>
+<li>
+Web search engines (<a href="http://www.altavista.com">Altavista</a>, etc.)</li>
+<br/> </ul>
+<b>Related material from the Web:</b>
+<p><i>Some industrial companies and start-ups implementing advanced constraint-based
+systems:</i> (listed in random order)
+</p><ul>
+<li>
+<a href="http://www.i2.com/">I2 Technologies</a>,  <a href="http://www.peoplesoft.com/">PeopleSoft/Red
+Pepper, </a>J<a href="http://www.jdedwards.com/ideatoaction/E-Business/supplychain/">.D.
+Edwards/Numetrix, </a><a href="http://www.bluepumpkin.com/">Blue Pumpkin,
+</a><a href="http://www.calico.com/">Calico,
+</a><a href="http://www.ilog.fr/">Ilog,
+</a><a href="http://www.trilogy.com/">Trilogy,
+</a><a href="http://www.coystec.com">COSYTEC,
+</a><a href="http://www.parc-technologies.com/">Parc
+Technologies Ltd</a>,
+<a href="http://www.carmen.se/">Carmen Systems, </a><a href="http://www.firepond.com/">Firepond</a>,<img height="12" lowsrc="new.gif" src="new.gif" width="31"/>
+O<a href="http://www.otsys.com/">n Time Systems Inc.</a>, <i>etc.</i></li>
+</ul>
+<i>Courses:</i>
+<ul>
+<li>
+<a href="http://kti.ms.mff.cuni.cz/~bartak/constraints/">Constraint Programming:</a>
+online textbook by Roman Barták.</li>
+<li>
+<a href="http://ic-www.arc.nasa.gov/ic/projects/mba/cs329a/#abstract">Reasoning
+Methods in AI (CS329A):</a> course by Pandu Nayak.</li>
+<li>
+<a href="ftp://agora.leeds.ac.uk/scs/doc/reports/1995/95_14.ps.Z">Tutorial
+on Constraint Programming</a>, by Barbara Smith.</li>
+<li>
+<a href="../CSE990-05/PS-Files/McAllester-Notes.ps">Lecture notes</a> by
+David McAllester.</li>
+</ul>
+<i>Groups:</i>
+<ul>
+<li>
+<a href="http://liawww.epfl.ch/">LIA@EPFL</a></li>
+<li>
+<a href="http://www.cs.strath.ac.uk/~apes/index.html">APES </a>Group in
+the UK.</li>
+<li>
+<a href="http://www.cs.unh.edu/ccc/">Constraint Computation Center</a>
+of Freuder in Univ. of New Hampshire.</li>
+</ul>
+<i>Archives:</i>
+<ul>
+<li>
+<a href="http://www.cs.unh.edu/ccc/archive/">Constraints archives</a> at
+CCC.</li>
+<li>
+<a href="http://www.csplib.org/">CSPLib</a>: Problem Library on the Web.</li>
+<li>
+<a href="http://www.lirmm.fr/~bessiere/generator.html">Random generator
+</a>at
+LIRMM</li>
+<li>
+<a href="ftp://ftp.cs.strath.ac.uk/local/pat/csp-lab/">Random generato</a>r
+by Patrick Prosser</li>
+</ul>
+Conferences:
+<ul>
+<li>
+Constraint Programming (CP), <a href="http://www.practical-applications.co.uk/PACT/index.html">The
+Practical Application of Constraint Technology Conferences </a>(PACT),
+AAAI, IJCAI, ECAI, FLAIRS,</li>
+<li>
+</li>
+</ul>
+<hr/>
+<address>
+<a href="mailto:choueiry@cse.unl.edu">Berthe Y. Choueiry</a></address>
+<br/>Last modified: <script language="javascript">
+document.write("<l>" + Date() + "<\/l><\/P>") 
+
+</script>
+</body>
+</html>

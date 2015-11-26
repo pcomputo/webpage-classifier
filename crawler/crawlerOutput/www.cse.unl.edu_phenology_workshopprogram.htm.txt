@@ -1,0 +1,608 @@
+<html xmlns="http://www.w3.org/TR/REC-html40" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:st1="urn:schemas-microsoft-com:office:smarttags" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Word.Document" name="ProgId"/>
+<meta content="Microsoft Word 11" name="Generator"/>
+<meta content="Microsoft Word 11" name="Originator"/>
+<link href="workshopprogram_files/filelist.xml" rel="File-List"/>
+<title>Workshop Program</title>
+<o:smarttagtype name="time" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype name="PlaceType" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype name="PlaceName" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype name="date" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype downloadurl="http://www.5iantlavalamp.com/" name="place" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>haabaenz</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>AS</o:LastAuthor>
+  <o:Revision>5</o:Revision>
+  <o:TotalTime>74</o:TotalTime>
+  <o:Created>2005-06-15T15:55:00Z</o:Created>
+  <o:LastSaved>2005-06-21T17:28:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>251</o:Words>
+  <o:Characters>1433</o:Characters>
+  <o:Company>UNL Agronomy and Horticulture</o:Company>
+  <o:Lines>11</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>1681</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:\5B8B\4F53;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:553679495 -2147483648 8 0 66047 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	tab-stops:-.75in -.5in 0in .5in 1.0in 1.5in 2.0in 2.5in 3.0in 3.5in 4.0in 4.5in 5.0in 5.5in 6.0in 6.5in;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-font-kerning:0pt;
+	font-weight:normal;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+h3
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-noshow:yes;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.MsoCommentReference
+	{mso-style-noshow:yes;
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	tab-stops:-.75in -.5in 0in .5in 1.0in 1.5in 2.0in 2.5in 3.0in 3.5in 4.0in 4.5in 5.0in 5.5in 6.0in 6.5in;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-style:italic;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject
+	{mso-style-noshow:yes;
+	mso-style-parent:"Comment Text";
+	mso-style-next:"Comment Text";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	border:none;
+	border-bottom:solid blue 1.5pt;
+	padding:0in 0in 24.0pt 0in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="6146"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-US" link="blue" style="tab-interval:.5in" vlink="purple">
+<div class="Section1">
+<p class="MsoNormal"><b><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;
+font-family:Tahoma;color:#3366FF">Phenology and Environmental Change:<span style="mso-spacerun:yes">  </span>Challenges and Opportunities<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><o:p> </o:p></span></p>
+<div style="mso-element:para-border-div;border:none;border-bottom:solid blue 1.5pt;
+padding:0in 0in 1.0pt 0in;background:#3366FF">
+<p align="center" class="MsoNormal" style="text-align:center;background:#3366FF;
+mso-layout-grid-align:none;text-autospace:none;border:none;mso-border-bottom-alt:
+solid blue 1.5pt;padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;
+font-family:Tahoma;color:white"><o:p> </o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;background:#3366FF;
+mso-layout-grid-align:none;text-autospace:none;border:none;mso-border-bottom-alt:
+solid blue 1.5pt;padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><st1:date day="16" month="6" w:st="on" year="2005"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma;color:white">June 16, 2005</span></b></st1:date><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;
+font-family:Tahoma;color:white"><o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;background:#3366FF;
+mso-layout-grid-align:none;text-autospace:none;border:none;mso-border-bottom-alt:
+solid blue 1.5pt;padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;
+font-family:Tahoma;color:white"><o:p> </o:p></span></b></p>
+</div>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><o:p> </o:p></span></p>
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;border:none;mso-border-top-alt:solid #3366FF .5pt;
+ mso-border-bottom-alt:solid #3366FF .5pt;mso-yfti-tbllook:480;mso-padding-alt:
+ 0in 5.4pt 0in 5.4pt;mso-border-insideh:.5pt solid #3366FF;mso-border-insidev:
+ 1.5pt solid blue">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:77.4pt;border-top:solid #3366FF 1.0pt;
+  border-left:none;border-bottom:solid #3366FF 1.0pt;border-right:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-bottom-alt:solid #3366FF .5pt;
+  mso-border-right-alt:solid blue 1.5pt;background:#99CCFF;padding:0in 5.4pt 0in 5.4pt" valign="top" width="103">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;
+  font-family:Tahoma;color:black"><span style="mso-spacerun:yes">  </span><st1:time hour="7" minute="30" w:st="on">7:30 am</st1:time></span></b><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma;color:black"><span style="mso-spacerun:yes">     </span></span><span style="mso-bidi-font-size:
+  10.0pt;font-family:Tahoma"><o:p></o:p></span></p>
+</td>
+<td style="width:401.4pt;border-top:solid #3366FF 1.0pt;
+  border-left:none;border-bottom:solid #3366FF 1.0pt;border-right:none;
+  mso-border-left-alt:solid blue 1.5pt;mso-border-top-alt:solid #3366FF .5pt;
+  mso-border-left-alt:solid blue 1.5pt;mso-border-bottom-alt:solid #3366FF .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="535">
+<p class="MsoNormal" style="margin-left:1.25in;text-indent:-1.25in;mso-layout-grid-align:
+  none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:
+  Tahoma;color:black">Registration rolls and coffee available<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:77.4pt;border-top:none;border-left:
+  none;border-bottom:solid #3366FF 1.0pt;border-right:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-top-alt:solid #3366FF .5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;mso-border-right-alt:solid blue 1.5pt;
+  background:#99CCFF;padding:0in 5.4pt 0in 5.4pt" valign="top" width="103">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;
+  font-family:Tahoma"><span style="mso-spacerun:yes">  </span><st1:time hour="8" minute="30" w:st="on">8:30 am</st1:time></span></b><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><span style="mso-spacerun:yes">     </span><o:p></o:p></span></p>
+</td>
+<td style="width:401.4pt;border:none;border-bottom:solid #3366FF 1.0pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="535">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">Lisa Crockett</span></b><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">, Associate Vice
+  Chancellor for Research, <span style="color:blue">Welcome</span><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2">
+<td style="width:77.4pt;border-top:none;border-left:
+  none;border-bottom:solid #3366FF 1.0pt;border-right:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-top-alt:solid #3366FF .5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;mso-border-right-alt:solid blue 1.5pt;
+  background:#99CCFF;padding:0in 5.4pt 0in 5.4pt" valign="top" width="103">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><span style="mso-spacerun:yes">  </span><st1:time hour="8" minute="45" w:st="on"><b style="mso-bidi-font-weight:normal">8:45 am</b></st1:time><span style="mso-spacerun:yes">     </span><o:p></o:p></span></p>
+</td>
+<td style="width:401.4pt;border:none;border-bottom:solid #3366FF 1.0pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="535">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;
+  font-family:Tahoma">P. Stephen Baenziger</span></b><span style="mso-bidi-font-size:
+  10.0pt;font-family:Tahoma">, Introduction, <span style="color:blue">Workshop
+  Objective (<a href="Talks/phenologywelcome.ppt">Download Presentation</a>)</span><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:3">
+<td style="width:77.4pt;border-top:none;border-left:
+  none;border-bottom:solid #3366FF 1.0pt;border-right:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-top-alt:solid #3366FF .5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;mso-border-right-alt:solid blue 1.5pt;
+  background:#99CCFF;padding:0in 5.4pt 0in 5.4pt" valign="top" width="103">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;
+  font-family:Tahoma"><span style="mso-spacerun:yes">  </span><st1:time hour="9" minute="0" w:st="on">9:00 am</st1:time></span></b><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><span style="mso-spacerun:yes">     </span><o:p></o:p></span></p>
+</td>
+<td style="width:401.4pt;border:none;border-bottom:solid #3366FF 1.0pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="535">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">Key Note Speaker:<span style="mso-spacerun:yes">  </span><b>Mark Schwartz</b>, University of
+  Wisconsin-Milwaukee, <span style="color:blue">National Phenology Network (<a href="Talks/Nebraska_2005.ppt">Download Presentation</a>) (<a href="Talks/PhenologyMarkTalk.wav">Download Talk</a>)</span><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:4">
+<td style="width:77.4pt;border-top:none;border-left:
+  none;border-bottom:solid #3366FF 1.0pt;border-right:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-top-alt:solid #3366FF .5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;mso-border-right-alt:solid blue 1.5pt;
+  background:#99CCFF;padding:0in 5.4pt 0in 5.4pt" valign="top" width="103">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><st1:time hour="10" minute="0" w:st="on"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">10:00 am</span></b></st1:time><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><span style="mso-spacerun:yes">    </span><o:p></o:p></span></p>
+</td>
+<td style="width:401.4pt;border:none;border-bottom:solid #3366FF 1.0pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="535">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">Break<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:5">
+<td style="width:77.4pt;border-top:none;border-left:
+  none;border-bottom:solid #3366FF 1.0pt;border-right:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-top-alt:solid #3366FF .5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;mso-border-right-alt:solid blue 1.5pt;
+  background:#99CCFF;padding:0in 5.4pt 0in 5.4pt" valign="top" width="103">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><st1:time hour="10" minute="30" w:st="on"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">10:30 am</span></b></st1:time><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><span style="mso-spacerun:yes">    </span><o:p></o:p></span></p>
+</td>
+<td style="width:401.4pt;border:none;border-bottom:solid #3366FF 1.0pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="535">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">Qi Steven Hu</span></b><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">, <st1:place w:st="on"><st1:placetype w:st="on">University</st1:placetype> of <st1:placename w:st="on">Nebraska</st1:placename></st1:place>,
+  <span style="color:blue">Extracting Meaningful Data: Distinguishing Signal
+  from Noise in Climate Change(<a href="Talks/hutalk.ppt">Download Presentation</a>)</span><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:6">
+<td style="width:77.4pt;border-top:none;border-left:
+  none;border-bottom:solid #3366FF 1.0pt;border-right:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-top-alt:solid #3366FF .5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;mso-border-right-alt:solid blue 1.5pt;
+  background:#99CCFF;padding:0in 5.4pt 0in 5.4pt" valign="top" width="103">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><st1:time hour="11" minute="15" w:st="on"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">11:15 am</span></b></st1:time><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><span style="mso-spacerun:yes">    </span><o:p></o:p></span></p>
+</td>
+<td style="width:401.4pt;border:none;border-bottom:solid #3366FF 1.0pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="535">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">Brad Reed</span></b><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">, EROS, <span style="color:blue">Remote Sensing and Phenology</span><span style="mso-spacerun:yes">  </span><span style="color:blue">(<a href="Talks/Reed1.ppt">Download Presentation</a>)</span><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:7">
+<td style="width:77.4pt;border-top:none;border-left:
+  none;border-bottom:solid #3366FF 1.0pt;border-right:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-top-alt:solid #3366FF .5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;mso-border-right-alt:solid blue 1.5pt;
+  background:#99CCFF;padding:0in 5.4pt 0in 5.4pt" valign="top" width="103">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;
+  font-family:Tahoma"><span style="mso-spacerun:yes">       </span><st1:time hour="12" minute="0" w:st="on">Noon</st1:time></span></b><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><span style="mso-spacerun:yes">       </span><o:p></o:p></span></p>
+</td>
+<td style="width:401.4pt;border:none;border-bottom:solid #3366FF 1.0pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="535">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">Luncheon with no
+  speaker, opportunity to interact with others at your table<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:8">
+<td style="width:77.4pt;border-top:none;border-left:
+  none;border-bottom:solid #3366FF 1.0pt;border-right:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-top-alt:solid #3366FF .5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;mso-border-right-alt:solid blue 1.5pt;
+  background:#99CCFF;padding:0in 5.4pt 0in 5.4pt" valign="top" width="103">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><o:p> </o:p></span></p>
+</td>
+<td style="width:401.4pt;border:none;border-bottom:solid #3366FF 1.0pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="535">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><o:p> </o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:9">
+<td style="width:77.4pt;border-top:none;border-left:
+  none;border-bottom:solid #3366FF 1.0pt;border-right:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-top-alt:solid #3366FF .5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;mso-border-right-alt:solid blue 1.5pt;
+  background:#99CCFF;padding:0in 5.4pt 0in 5.4pt" valign="top" width="103">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;
+  font-family:Tahoma"><span style="mso-spacerun:yes">  </span><st1:time hour="13" minute="30" w:st="on">1:30 pm</st1:time></span></b><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><span style="mso-spacerun:yes">     </span><o:p></o:p></span></p>
+</td>
+<td style="width:401.4pt;border:none;border-bottom:solid #3366FF 1.0pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="535">
+<p class="MsoNormal" style="margin-left:.9pt;text-indent:-.9pt;mso-layout-grid-align:
+  none;text-autospace:none"><b><span style="mso-bidi-font-size:10.0pt;
+  font-family:Tahoma">Sherri Harms</span></b><span style="mso-bidi-font-size:
+  10.0pt;font-family:Tahoma">, <st1:place w:st="on"><st1:placetype w:st="on">University</st1:placetype>
+   of <st1:placename w:st="on">Nebraska-Kearney</st1:placename></st1:place>, <span style="color:blue">Progress of Our Workgroup</span></span><span style="font-family:Tahoma;color:blue">(<a href="Talks/Harms%20Phenology%20presentation%20June%2016%202005.ppt">Download
+  Presentation</a>)</span><b><span style="mso-bidi-font-size:10.0pt;font-family:
+  Tahoma"><o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:10">
+<td style="width:77.4pt;border-top:none;border-left:
+  none;border-bottom:solid #3366FF 1.0pt;border-right:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-top-alt:solid #3366FF .5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;mso-border-right-alt:solid blue 1.5pt;
+  background:#99CCFF;padding:0in 5.4pt 0in 5.4pt" valign="top" width="103">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;
+  font-family:Tahoma"><span style="mso-spacerun:yes">  </span><st1:time hour="14" minute="15" w:st="on">2:15 pm</st1:time></span></b><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><span style="mso-spacerun:yes">     </span><o:p></o:p></span></p>
+</td>
+<td style="width:401.4pt;border:none;border-bottom:solid #3366FF 1.0pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="535">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">Shashi Shekhar</span></b><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">, <st1:place w:st="on"><st1:placetype w:st="on">University</st1:placetype> of <st1:placename w:st="on">Minnesota</st1:placename></st1:place>,<b>
+</b><span style="color:blue">Spatial Data Mining (<a href="Talks/sshekhar.pdf">Download
+  Presentation</a>)</span><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:11">
+<td style="width:77.4pt;border-top:none;border-left:
+  none;border-bottom:solid #3366FF 1.0pt;border-right:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-top-alt:solid #3366FF .5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;mso-border-right-alt:solid blue 1.5pt;
+  background:#99CCFF;padding:0in 5.4pt 0in 5.4pt" valign="top" width="103">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;
+  font-family:Tahoma"><span style="mso-spacerun:yes">  </span><st1:time hour="15" minute="0" w:st="on">3:00 pm</st1:time></span></b><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><span style="mso-spacerun:yes">  </span><span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+</td>
+<td style="width:401.4pt;border:none;border-bottom:solid #3366FF 1.0pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="535">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">Break<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:12;mso-yfti-lastrow:yes">
+<td style="width:77.4pt;border-top:none;border-left:
+  none;border-bottom:solid #3366FF 1.0pt;border-right:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-top-alt:solid #3366FF .5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;mso-border-right-alt:solid blue 1.5pt;
+  background:#99CCFF;padding:0in 5.4pt 0in 5.4pt" valign="top" width="103">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;
+  font-family:Tahoma"><span style="mso-spacerun:yes">  </span><st1:time hour="15" minute="30" w:st="on">3:30 pm</st1:time></span></b><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><span style="mso-spacerun:yes">     </span><o:p></o:p></span></p>
+</td>
+<td style="width:401.4pt;border:none;border-bottom:solid #3366FF 1.0pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="535">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">Breakout sessions until <st1:time hour="17" minute="0" w:st="on">5:00 pm</st1:time><o:p></o:p></span></p>
+</td>
+</tr>
+</table>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><o:p> </o:p></span></p>
+<div style="mso-element:para-border-div;border:none;border-bottom:solid blue 1.5pt;
+padding:0in 0in 1.0pt 0in;background:#3366FF">
+<p align="center" class="MsoNormal" style="margin-left:1.25in;text-align:center;
+text-indent:-1.25in;background:#3366FF;mso-layout-grid-align:none;text-autospace:
+none;border:none;mso-border-bottom-alt:solid blue 1.5pt;padding:0in;mso-padding-alt:
+0in 0in 1.0pt 0in"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma;color:white"><o:p> </o:p></span></b></p>
+<p align="center" class="MsoNormal" style="margin-left:1.25in;text-align:center;
+text-indent:-1.25in;background:#3366FF;mso-layout-grid-align:none;text-autospace:
+none;border:none;mso-border-bottom-alt:solid blue 1.5pt;padding:0in;mso-padding-alt:
+0in 0in 1.0pt 0in"><st1:date day="17" month="6" w:st="on" year="2005"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;
+ font-family:Tahoma;color:white">June 17, 2005</span></b></st1:date><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;
+font-family:Tahoma;color:white"><o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="margin-left:1.25in;text-align:center;
+text-indent:-1.25in;background:#3366FF;mso-layout-grid-align:none;text-autospace:
+none;border:none;mso-border-bottom-alt:solid blue 1.5pt;padding:0in;mso-padding-alt:
+0in 0in 1.0pt 0in"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma;color:white"><o:p> </o:p></span></b></p>
+</div>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><o:p> </o:p></span></p>
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;border:none;mso-border-top-alt:solid #3366FF .5pt;
+ mso-border-bottom-alt:solid #3366FF .5pt;mso-yfti-tbllook:480;mso-padding-alt:
+ 0in 5.4pt 0in 5.4pt;mso-border-insideh:.5pt solid #3366FF;mso-border-insidev:
+ 1.5pt solid blue">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:77.4pt;border-top:solid #3366FF 1.0pt;
+  border-left:none;border-bottom:solid #3366FF 1.0pt;border-right:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-bottom-alt:solid #3366FF .5pt;
+  mso-border-right-alt:solid blue 1.5pt;background:#99CCFF;padding:0in 5.4pt 0in 5.4pt" valign="top" width="103">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;
+  font-family:Tahoma;color:black"><span style="mso-spacerun:yes">  </span><st1:time hour="7" minute="30" w:st="on">7:30 am</st1:time></span></b><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma;color:black"><span style="mso-spacerun:yes">     </span></span><span style="mso-bidi-font-size:
+  10.0pt;font-family:Tahoma"><o:p></o:p></span></p>
+</td>
+<td style="width:401.4pt;border-top:solid #3366FF 1.0pt;
+  border-left:none;border-bottom:solid #3366FF 1.0pt;border-right:none;
+  mso-border-left-alt:solid blue 1.5pt;mso-border-top-alt:solid #3366FF .5pt;
+  mso-border-left-alt:solid blue 1.5pt;mso-border-bottom-alt:solid #3366FF .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="535">
+<p class="MsoNormal" style="margin-left:1.25in;text-indent:-1.25in;mso-layout-grid-align:
+  none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:
+  Tahoma">Rolls and coffee available<span style="color:black"><o:p></o:p></span></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:77.4pt;border-top:none;border-left:
+  none;border-bottom:solid #3366FF 1.0pt;border-right:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-top-alt:solid #3366FF .5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;mso-border-right-alt:solid blue 1.5pt;
+  background:#99CCFF;padding:0in 5.4pt 0in 5.4pt" valign="top" width="103">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;
+  font-family:Tahoma"><span style="mso-spacerun:yes">  </span><st1:time hour="8" minute="30" w:st="on">8:30 am</st1:time></span></b><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><span style="mso-spacerun:yes">     </span><o:p></o:p></span></p>
+</td>
+<td style="width:401.4pt;border:none;border-bottom:solid #3366FF 1.0pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="535">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">Continue work in
+  breakout sessions<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2">
+<td style="width:77.4pt;border-top:none;border-left:
+  none;border-bottom:solid #3366FF 1.0pt;border-right:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-top-alt:solid #3366FF .5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;mso-border-right-alt:solid blue 1.5pt;
+  background:#99CCFF;padding:0in 5.4pt 0in 5.4pt" valign="top" width="103">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><st1:time hour="10" minute="0" w:st="on"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">10:00 am</span></b></st1:time><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><o:p></o:p></span></p>
+</td>
+<td style="width:401.4pt;border:none;border-bottom:solid #3366FF 1.0pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="535">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">Break<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:3">
+<td style="width:77.4pt;border-top:none;border-left:
+  none;border-bottom:solid #3366FF 1.0pt;border-right:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-top-alt:solid #3366FF .5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;mso-border-right-alt:solid blue 1.5pt;
+  background:#99CCFF;padding:0in 5.4pt 0in 5.4pt" valign="top" width="103">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><st1:time hour="10" minute="30" w:st="on"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">10:30 am</span></b></st1:time><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><o:p></o:p></span></p>
+</td>
+<td style="width:401.4pt;border:none;border-bottom:solid #3366FF 1.0pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="535">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">Reports from breakout groups<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes">
+<td style="width:77.4pt;border-top:none;border-left:
+  none;border-bottom:solid #3366FF 1.0pt;border-right:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-top-alt:solid #3366FF .5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;mso-border-right-alt:solid blue 1.5pt;
+  background:#99CCFF;padding:0in 5.4pt 0in 5.4pt" valign="top" width="103">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:10.0pt;
+  font-family:Tahoma"><span style="mso-spacerun:yes">       </span><st1:time hour="12" minute="0" w:st="on">Noon</st1:time></span></b><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><o:p></o:p></span></p>
+</td>
+<td style="width:401.4pt;border:none;border-bottom:solid #3366FF 1.0pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-top-alt:solid #3366FF .5pt;mso-border-left-alt:solid blue 1.5pt;
+  mso-border-bottom-alt:solid #3366FF .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="535">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma">Adjourn<o:p></o:p></span></p>
+</td>
+</tr>
+</table>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:Tahoma"><o:p> </o:p></span></p>
+<p class="MsoNormal" style="margin-left:1.25in;text-indent:-1.25in;mso-layout-grid-align:
+none;text-autospace:none"><span style="mso-bidi-font-size:10.0pt;font-family:
+Tahoma">See <a href="http://cse.unl.edu/phenology/workshopbios.htm">Speaker
+Bios</a><o:p></o:p></span></p>
+</div>
+</body>
+</html>

@@ -1,0 +1,137 @@
+<html>
+<head><title>Leen-Kiat Soh's CSCE410_810 Page</title>
+</head><body background="images/nothing.gif" bgcolor="white" link="#0000FF" text="#000000">
+<font face="arial">
+<hr/><br/><br/>
+<font size="+1">CSCE410/810 Information Retrieval Systems, Fall 2001</font>
+<ul><li>
+<a href="syllabus.html">
+Class Syllabus
+</a></li></ul>
+<ul><li>
+<a href="schedule.html">
+Class Schedule (Subject to change)
+</a></li></ul>
+<ul><li>
+<a href="pretest.html">
+Pre-Test
+</a></li></ul>
+<ul><li>
+<a href="hw1.html">
+Homework Assignment #1<br/><br/>
+<ul><li>
+<a href="hw1review.html">Review and Questions (posted September 16th 2001)</a>
+</li></ul>
+</a></li></ul>
+<ul><li>
+<a href="hw2.html">
+Homework Assignment #2 <br/><br/>
+<ul><li>
+<a href="Keen.dat">Download Keen.dat ("Save Link as" or "Save Target as"...)</a>
+</li></ul>
+</a></li></ul>
+<ul><li>
+<a href="hw3.html">
+Homework Assignment #3 (Revised)<br/><br/>
+<ul><li>
+<a href="hw3.doc">Download homework 3 (MS Word document)</a>
+</li></ul>
+<ul><li>
+<a href="hw3_files/example.doc">An actual query based on Keen.dat and its retrieved
+relevant document (MS Word document)</a>
+</li></ul>
+</a></li></ul>
+<ul><li>
+<a href="hw4.html">
+Homework Assignment #4<br/><br/>
+<ul><li>
+<a href="hw4_files/topics.tar.gz">Download "topics.tar.gz ("topics.1-50" and
+"topics.51-100")</a>
+</li></ul>
+<ul><li>
+<a href="hw4review.html">Review and Questions (posted November 8th 2001)</a>
+</li></ul>
+<ul><li>
+Code from Frakes and Baeza-Yates. Debugged by Leen-Kiat Soh<br/><br/>
+<ul><li>
+<a href="stemmer.tar.Z">Download stemmer.tar.Z</a>
+</li></ul>
+<ul><li>
+<a href="stopper.tar.Z">Download stopper.tar.Z</a>
+</li></ul>
+</li></ul>
+</a></li></ul>
+<ul><li>
+<a href="presentation.html">
+Presentation Assignment<br/><br/>
+<ul><li>
+<a href="undergraduates.tar.gz">Download "undergraduates.tar.gz"</a>
+</li></ul>
+<ul><li>
+<a href="graduates.tar.gz">Download "graduates.tar.gz"</a>
+</li></ul>
+<ul><li>
+<a href="lists.html">List of Papers</a>
+</li></ul>
+<ul><li>
+<a href="preschedule.html">Presentation Schedule</a>
+</li></ul>
+</a></li></ul>
+<ul><li>
+Interdisciplinary Topics (The following presentations are for three class
+presentations: (1) VIR, (2) DL and KDD, and (3) TREC.  They are not in-depth
+discussions and are meant to introduce students to these topics that are
+related to Information Retrieval.)<br/><br/>
+<ul><li>
+<a href="VIR.html">
+Virtual Information Retrieval<br/><br/>
+</a></li></ul>
+<ul><li>
+<a href="DL.html">
+Digital Library<br/><br/>
+</a></li></ul>
+<ul><li>
+<a href="KDD.html">
+Knowledge Discovery and Data Mining<br/><br/>
+</a></li></ul>
+<ul><li>
+<a href="TREC.html">
+Text REtrieval Conference (TREC)<br/><br/>
+</a></li></ul>
+</li></ul>
+<ul><li>
+<a href="fp.html">
+Final Project Assignment<br/><br/>
+<ul><li>
+<a href="thesauri.tar.Z">Download thesauri.tar.Z</a>
+</li></ul>
+</a></li></ul>
+<ul><li>
+<a href="termpaper.html">
+Term Paper Assignment<br/><br/>
+</a></li></ul>
+<ul><li>
+<a href="review2.html">
+Last Day Class Review<br/><br/>
+</a></li></ul>
+<ul><li>
+Some Documentation Examples<br/><br/>
+<ul><li>
+<a href="docu.tar.gz">docu.tar.gz -- program header, method/function/procedure
+header, a "C" example (brighten.c), a Java example (ViewFile.java), and a "C++"
+example (AgentComm2.h and AgentComm2.cc)</a>
+</li></ul>
+<br/><br/>
+<hr/><br/><br/>
+<img src="../../images/blueballs.jpeg"/>
+<i>
+<script language="JavaScript">
+   <!--  to hide script contents from old browsers
+    document.write("<I>  Last Updated: " + document.lastModified + "  </I>")
+   // end hiding contents from old browsers  -->
+ </script>
+</i>
+<br/>
+</li></ul></font>
+</body>
+</html>

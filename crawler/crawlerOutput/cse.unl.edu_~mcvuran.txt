@@ -1,0 +1,563 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<meta content="Microsoft FrontPage 4.0" name="GENERATOR"/>
+<title>Mehmet Can Vuran</title>
+<style type="text/css">
+A:link{ font-family:arial,helvetica,sans-serif; 
+text-decoration:none; 
+font-size:14px; 
+color:blue; }
+
+A:active{ font-family:arial,helvetica,sans-serif; 
+text-decoration:none; 
+font-size:14px; 
+color:blue; }
+
+A:visited{ font-family:arial,helvetica,sans-serif; 
+text-decoration:none; 
+font-size:14px; color:blue; }
+
+A:hover{ font-family:arial,helvetica,sans-serif; 
+text-decoration:none; 
+font-size:14px; 
+color:red; }
+</style>
+</head>
+<body bgcolor="#FFFFFF">
+ <br/>
+<table border="0" cellpadding="2" cellspacing="2" width="800">
+<tr>
+<td valign="top">
+<h1><img align="left" alt="Mehmet Can Vuran" height="257" src="mcv2.jpg" width="240"/><font color="#006699">Mehmet Can Vuran</font></h1>
+<h2><font color="#006699">Associate Professor</font></h2>
+<b><font color="#006699" size="+1">214 Schorr Center<br/>
+Dept. of Computer Science and Engineering<br/>
+University of Nebraska-Lincoln<br/>
+Lincoln, NE 68588-0115<br/>
+Phone: (402) 472-5019<br/>
+Fax: (402) 472-7767<br/>
+</font></b>
+ </td>
+<td valign="top">
+<center><br/>
+<a href="http://www.unl.edu" target="no"><img alt="University of
+							       Nebraska-Lincoln" border="0" src="n.png"/></a>
+<br/><br/><br/>
+<a href="http://cpn.unl.edu" target="no"><img alt="Cyber-Physical Networking
+						   Lab" border="0" src="http://cpn.unl.edu/logo.png" width="150"/></a>
+</center>
+</td>
+</tr>
+</table>
+<h4><font color="#006699">E-mail: <a href="mailto:mcvuran@cse.unl.edu">mcvuran@cse.unl.edu</a></font></h4>
+<table border="0" cellpadding="0" cellspacing="0" style="TEXT-ALIGN: justify" width="800">
+<tr>
+<td>
+<b>Ph.D.</b>, Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA, 2007.<br/>
+<b>M.S.</b>, Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA, 2004.<br/>
+<b>B.S.</b>, Electrical and Electronics Engineering, Bilkent University, Ankara, Turkey, 2002.<br/><br/>
+</td>
+</tr>
+<tr>
+<td>
+<h2><font color="#006699">BIOGRAPHY</font></h2>
+<p>Mehmet Can Vuran was born in Istanbul, Turkey. He received his B.Sc. degree in Electrical and Electronics Engineering from <a href="http://www.bilkent.edu.tr" target="no">Bilkent University</a> ,
+Ankara, Turkey in 2002. He received his M.S. and Ph.D. degrees in Electrical and Computer Engineering from the Broadband and Wireless Networking Laboratory,
+School of Electrical and Computer Engineering, <a href="http://www.gatech.edu" target="no">Georgia Institute of Technology</a>, Atlanta, GA. in 2004 and
+2007, respectively, under the guidance of Prof. Ian F. Akyildiz.</p>
+<p>Currently, he is an Associate Professor in the Department of Computer
+  Science and Engineering at the University of Nebraska-Lincoln. Dr. Vuran was
+  recognized as a <b><a href="http://highlycited.com" target="no">Highly Cited Researcher</a></b> in 2014 by <b>Thomson Reuters</b> <i>"in
+  recognition of ranking among the top 1\% of researchers for most cited
+  documents in Computer Science"</i>. Dr. Vuran was
+  awarded an <b>NSF CAREER award</b> for the project
+  ``<a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0953900" target="no">Bringing Wireless Sensor Networks Underground</a>''. He
+  received the <b>2007 ECE Graduate Research Assistant Excellence Award</b> from School of Electrical and Computer Engineering, Georgia Institute of Technology and the <b>2006 Researcher of the Year Award</b> in Broadband and Wireless Networking Laboratory, School of Electrical and Computer Engineering, Georgia Institute of Technology.<br/><br/>
+</p></td>
+</tr>
+<tr>
+<td>
+<h2><font color="#006699">RESEARCH</font></h2>
+<ul>
+<li>Wireless Underground Sensor Networks</li>
+<li>Correlated Data Gathering and Communication in Wireless Sensor Networks</li>
+<li>Cross-layer Communication in Wireless Networks</li>
+<li>Cognitive Radio Networks</li>
+<li>Wireless Multimedia Sensor Networks</li>
+<li>Wireless Underwater Sensor Networks</li>
+<li>Wireless Mesh Networks</li>
+<li>InterPlaNetary Internet</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<h2><font color="#006699">HONORS &amp; AWARDS</font></h2>
+<ul>
+<li><b>Highly Cited Researcher</b>, Thomson and Reuters, 2015.
+</li><li><b>Highly Cited Researcher</b>, Thomson and Reuters, 2014.
+</li><li><b>NSF CAREER Award</b>, Bringing Wireless Sensor Networks Underground, 2010-2015.
+</li><li><b>Maude Hammond Fling Faculty Interdisciplinary Research Fellowship</b>,
+      Research Council, University of Nebraska-Lincoln, 2010.
+</li><li><b>Academic Excellence Grant</b>, Sun Microsystems Inc., 2008.
+</li><li><b>Maude Hammond Fling Faculty Research Fellowship</b>, Research Council, University of Nebraska-Lincoln, 2008.
+</li><li><b>2007 ECE Graduate Research Assistant Excellence Award</b>, School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA, 2007.</li>
+<li><b>Researcher of the Year 2006 Award</b>, Broadband and Wireless Networking Laboratory, School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA, 2006.</li>
+<li><b>Ranked 4th</b> out of 83 in graduation from Bilkent University, Ankara, Turkey, 2002.</li>
+<li><b>Bilkent University Scholarship</b>, Bilkent University, Ankara, Turkey, 1998 - 2002.</li>
+<li><b>Ranked 153rd</b> in the Turkish national university entrance exam among more than 1.3 million high-school graduates, 1998.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<h2><font color="#006699">PUBLICATIONS</font></h2>
+Full papers can be downloaded from <a href="http://cpn.unl.edu" target="no">CPN Lab webpage</a>.
+<ul>
+<li style="list-style: none">
+<h3><font color="#006699">BOOK</font></h3>
+</li>
+<li>Wireless Sensor Networks,<br/>
+I. F. Akyildiz and M. C. Vuran, <i><b>John Wiley &amp; Sons</b>, August 2010.</i><br/>
+</li>
+<br/>
+<h3><font color="#006699">JOURNAL</font></h3>
+<li>Cooperative Spectrum Sensing in Cognitive Radio Networks using
+  Multidimensional Correlations,<br/>
+D. Xue, E. Ekici, and M. C. Vuran, <b>IEEE Transactions on Wireless
+    Communications</b>, vol. 13, no. 4, pp. 1832-1843, Apr. 2014.
+<br/><br/></li>
+<li>Autonomous Precision Agriculture through Integration of Wireless
+  Underground Sensor Networks with Center Pivot Irrigation Systems,<br/>
+X. Dong, M. C. Vuran, and S. Irmak, <b>Ad Hoc
+      Networks Journal</b>, Special Issue on Theory, Algorithms, and
+    Applications of Wireless Networked Robotics, vol. 11, no. 7,
+pp. 1975-1987, Sep. 2013.
+<br/><br/></li>
+<li>Cross-layer Analysis of Error Control in Underwater Wireless Sensor
+  Networks,<br/>
+M. C. Domingo and M. C. Vuran, <i><b>Computer Communications Journal</b></i>,
+  vol. 35, no. 17, pp. 2162-2172, Oct. 2012.
+<br/><br/></li>
+<li>
+Cross-layer Analysis of End-to-end Delay Distribution in Wireless Sensor
+Networks,<br/>
+Y. Wang, M. C. Vuran, and S. Goddard, <i><b>IEEE/ACM Transactions on
+      Networking</b></i>, vol. 20, no. 1, pp. 305-318, Feb. 2012.
+<br/><br/></li>
+<li>
+SDRCS: A Service-Differentiated Real-time Communication Scheme for Event
+Sensing in Wireless Sensor Networks,<br/>
+Y. Xue, B. Ramamurthy, and M. C. Vuran, <i><b>Computer Networks
+      Journal</b></i>, vol. 55, no. 15, pp. 3287-3302, Oct. 2011.
+<br/><br/></li>
+<li>
+Distributed Vision Graph Construction in Wireless Multimedia Sensor
+Networks,<br/>
+X. Dong and M. C. Vuran, <i><b>IEEE COMSOC MMTC E-Letter</b></i>, vol. 6,
+no. 3, pp. 37-39, March 2011.
+<br/><br/></li>
+<li>A Reliable Energy-Efficient Multi-Level Routing Algorithm for Wireless
+  Sensor Networks Using Fuzzy Petri Nets,<br/>
+Z. Yu, X. Fu, Y. Cai, M. C. Vuran, <i><b>Journal of Sensors</b></i>, vol. 11,
+  no. 3, pp. 3381-3400, March 2011.
+<br/><br/></li>
+<li>Channel Model and Analysis for Wireless Underground Sensor Networks in Soil
+  Medium,<br/>
+M. C. Vuran and I. F. Akyildiz, <i><b>Physical
+      Communication Journal (Elsevier)</b></i>, vol. 3, no. 4, pp. 245-254,
+  Dec. 2010.<br/>
+<br/></li>
+<li>XLP: A Cross Layer Protocol for Efficient Communication in Wireless Sensor Networks,<br/>
+M. C. Vuran and I. F. Akyildiz, <i><b> IEEE Transactions on Mobile
+    Computing</b></i>, vol. 9, no. 11, pp. 1578-1591, Nov. 2010.<br/>
+<br/></li>
+<li>Development of a Testbed for Wireless Underground Sensor Networks,<br/>
+A. Silva and M. C. Vuran, <i><b>EURASIP Journal on Wireless
+      Communications and Networking special issue on "Simulators and
+      Experimental Testbeds Design and Development for Wireless
+      Networks"</b></i>, vol. 2010, Article ID 620307, 14 pages, 2010.<br/>
+<br/></li>
+<li>Special Issue of ``Computer Communications'' on Cognitive Radio and Dynamic
+  Spectrum Sharing Systems,<br/>
+A. Benslimane, C. Assi, E. Hossain, M. C. Vuran, <i>Guest Editorial
+    in <b>Computer Communications (Elsevier)</b></i>, vol. 32, no. 18,
+  pp. 1903-1904, Dec. 2009.<br/>
+<br/></li>
+<li>Signal Propagation Techniques for Wireless Underground Communication
+  Networks,<br/>
+I. F. Akyildiz, Z. Sun, M. C. Vuran, <i><b>Physical Communication Journal
+      (Elsevier)</b></i>, vol. 2, no. 3, pp. 167-183, Sept. 2009.<br/>
+<br/></li>
+<li><a href="eccTon.pdf">Error Control in Wireless Sensor Networks: A Cross Layer Analysis</a>,<br/>
+M. C. Vuran and I. F. Akyildiz, <i><b>IEEE/ACM Transactions on
+      Networking</b></i>, vol. 17, no. 4, pp. 1186-1199, Aug. 2009.<br/>
+<br/></li>
+<li><a href="http://dl.comsoc.org/cocoon/comsoc/servlets/GetPublication?id=14312700" target="no">A Survey on Spectrum Management in Cognitive Radio Networks</a>,<br/>
+I. F. Akyildiz, W. Y. Lee, M. C. Vuran, and S. Mohanty, <i><b>IEEE
+      Communications Magazine, </b></i>, vol. 46, no. 4, April 2008. <b>[123
+    Citations *]</b> <b>(Among the 10 most downloaded articles in IEEE ComSoc.)</b><br/>
+<br/></li>
+<li><a href="amac.html">A-MAC: Adaptive Medium Access Control for Next Generation Wireless Terminals,</a><br/>
+M. C. Vuran and I. F. Akyildiz, <i><b>IEEE/ACM Transactions on Networking</b></i>, vol. 15, no. 3, pp. 574-587, June 2007.<br/>
+<br/></li>
+<li>On the cross-layer Interactions between Congestion and Contention in Wireless Sensor and Actor Networks,<br/>
+V. C. Gungor, M. C. Vuran, and O. B. Akan, <i><b>Ad Hoc Networks Journal (Elsevier)</b></i>, vol. 5, no. 6, pp. 897-909, August 2007.<br/>
+<br/></li>
+<li><a href="http://www.ece.gatech.edu/research/labs/bwn/radio.pdf" target="no">NeXt Generation / Dynamic Spectrum Access / Cognitive Radio Wireless Networks: A Survey,</a><br/>
+I. F. Akyildiz, W. Y. Lee, M. C. Vuran, and S. Mohanty, <i><b>Computer Networks
+      Journal (Elsevier)</b></i>, vol. 50, pp. 2127-2159, September
+  2006. <b>[998 Citations*]</b> <b>(Among the 10 most downloaded articles in
+    Computer Networks Journal for 2 years since September 2006.)</b><br/>
+<br/></li>
+<li><a href="ccmac.html">Spatial Correlation-based Collaborative Medium Access Control in Wireless Sensor Networks,</a><br/>
+M. C. Vuran and I. F. Akyildiz, <i><b>IEEE/ACM Transactions on Networking</b></i>, vol. 14, no. 2, pp. 316 -329, April 2006. <b>[130 Citations *]</b><br/>
+<br/></li>
+<li><a href="sptemp.html">Spatio-Temporal Correlation: Theory and Applications for Wireless Sensor Networks,</a><br/>
+M. C. Vuran, O. B. Akan, and I. F. Akyildiz, <i><b>Computer Networks Journal (Elsevier)</b>,</i> vol. 45, no 3, pp. 245 -259, June 2004. <b>[169 Citations *]</b><br/>
+<br/></li>
+<h3><font color="#006699">BOOK CHAPTER</font></h3>
+<li>Communication through Soil in Wireless Underground Sensor Networks - Theory
+  and Practice,<br/>
+M. C. Vuran and A. R. Silva, in <i>Sensor Networks: Where Theory
+    Meets Practice, Edited by G. Ferrari, <b>Springer</b></i>, 2009.</li>
+<br/>
+<li>Future Trends in Wireless Sensor Networks,<br/>
+M. C. Vuran, D. Pompili, and T. Melodia, in <i>Wireless Sensor Networks: A Networking Perspective, 
+Edited by J. Zheng and A. Jamalipour, <b>Wiley-IEEE Press</b></i>, May 2009.</li>
+<br/>
+<li>Spectrum Sensing Algorithms for Cognitive Radio Networks,<br/>
+W.-Y. Lee, K. R. Chowdhury, and M. C. Vuran, <i>in Cognitive Radio Networks, Edited by Y. Xiao and F. Hu, <b>CRC Press</b></i>, 2008.</li>
+<br/>
+<li>Cross-layer Design in Wireless Sensor Networks,<br/>
+D. Pompili, M. C. Vuran, and T. Melodia, <i>in Sensor Network and Configuration: Fundamentals, Techniques, Platforms, and Experiments, Edited by M. P. Mahalik, <b>Springer-Verlag</b></i>, August
+2006.</li>
+<br/><li>Reliable Transmission and Congestion Control in Wireless Sensor Networks,<br/>
+O. B. Akan and M. C. Vuran, in <i>Wireless Sensor Networks: A Systems Perspective, Edited by N. Bulusu and S. Jha, <b>Artech House</b></i>, August 2005.</li>
+<h3><font color="#006699">CONFERENCE</font></h3>
+<li>Stochastic Performance Trade-offs in the Design of Real-Time Wireless
+  Sensor Networks,<br/>
+Y. Wang, M. C. Vuran, and S. Goddard, <i>to appear in <b>Int. Conf. on
+      Computing, Networking, and Communications (ICNC '15)</b></i>, Anaheim,
+  CA, Feb. 2015.<br/>
+<br/></li><li>Ratings for Spectrum: Impacts of TV Viewership on TV Whitespace,<br/>
+Z. Zhao, M. C. Vuran, D. Batur, and E. Ekici, <i>in Proc. <b>IEEE Globecom
+      '14</b></i>, Austin, TX, Dec. 2014.<br/>
+<br/></li><li>Exploiting Soil Moisture Information for Adaptive Error Control in
+  Wireless Underground Sensor Networks<br/>
+X. Dong and M. C. Vuran, <i>in Proc. <b>IEEE Globecom '13</b>, Atlanta, GA,
+    Dec. 2013.<br/>
+<br/><li>Impacts of Soil Moisture on Cognitive Radio Underground Networks,<br/>
+X. Dong and M. C. Vuran, <i>in Proc. <b>Int. Black Sea Conference on
+      Communications and Networking (BlackSeaCom '13)</b></i>, Batumi, Georgia,
+  Jul. 2013.<br/>
+<br/></li><li>Vibration Energy Harvesting for Wireless Underground Sensor Networks,<br/>
+S. Kahrobaee and M. C. Vuran, <i>in Proc. <b>IEEE ICC '13</b></i>, Budapest,
+  Hungary, Jun. 2013. <br/>
+<br/></li><li>Environment Aware Connectivity in Wireless Underground Sensor Networks,<br/>
+X. Dong and M. C. Vuran, <i>in Proc. <b>IEEE INFOCOM '13</b></i>, Torino,
+  Italy, April 2013. (AR: 17%)<br/>
+<br/></li><li>Empirical Analysis of the Hidden Terminal Problem in Wireless
+  Underground Sensor Networks, <i>in Proc. <b>Int. Conf. on Wireless
+      Communications in Underground and Confined Areas (ICWCUCA '12)</b></i>,
+  Clermont-Ferrand, France, August 2012.<br/>
+<br/></li><li>Mobile Data Harvesting in Wireless Underground Sensor Networks,<br/>
+J. Tooker and M. C. Vuran, <i>in Proc. <b>IEEE SECON '12</b></i>, Seoul,
+  Korea June 2012. (AR: 19%)<br/>
+<br/></li><li>Sensing through the Continent: Towards Monitoring Migratory Birds using
+  Cellular Sensor Networks,<br/>
+D. J. Anthony, W. P. Bennett, M. C. Vuran, M. B. Dwyer, S. Elbaum, A. Lacy,
+  M. Engels, W. Wehtje, <i>in Proc. <b>ACM/IEEE IPSN '12</b></i>, Beijing,
+  China, April 2012. (AR: 15%)<br/>
+<br/></li><li>(CORN)^2: Correlation-based Cooperative Spectrum Sensing in Cognitive
+    Radio Networks,<br/>
+D. Xue, E. Ekici, M. C. Vuran, <i>in Proc. <b>Symposium on Modeling and
+	Optimization in Mobile, Ad Hoc, and Wireless Networks
+	(WiOpt'12)</b></i>, Paderborn, Germany, May 2012.<br/>
+<br/></li><li>A Channel Model for Wireless Underground Sensor Networks using Lateral
+  Waves,<br/>
+X. Dong and M. C. Vuran, in <i>Proc. <b>IEEE Globecom '11</b></i>,
+  Houston, TX, Dec. 2011.<br/>
+<br/></li><li>A Dual-network Tesbed for Wireless Sensor Applications,<br/>
+J. Kowalczuk, M. C. Vuran, L. Perez, in <i>Proc.<b> IEEE Globecom
+      '11</b></i>, Houston, TX, Dec. 2011.<br/>
+<br/></li><li>Analysis of Event Detection Delay in Wireless Sensor Networks,<br/>
+Y. Wang, M. C. Vuran, and S. Goddard, in <i> Proc. <b>IEEE INFOCOM
+      '11</b></i>, Shanghai, China, April 2011. (AR: 16%)<br/>
+<br/></li><li>Analysis of the Accuracy-Latency-Energy Tradeoff for Wireless Embedded
+  Camera Networks,<br/>
+A. Pinto, Z. Zhang, X. Dong, S. Velipasalar, M. C. Vuran, M. C. Gursoy, in <i>
+    Proc. <b>IEEE WCNC '11</b></i>, Quintana-roo, Mexico, March 2011.<br/>
+<br/></li><li>Simulating and Testing Mobile Wireless Sensor Networks,<br/>
+D. Anthony, W. P. Bennett, M. C. Vuran, M. B. Dwyer, S. Elbaum, F. C. Ramirez,
+  in <i>Proc. <b>ACM MSWiM '10</b></i>, Bodrum, Turkey, Oct. 2010.<br/>
+<br/></li><li>Vision Graph Construction in Wireless Multimedia Sensor Networks,<br/>
+X. Dong and M. C. Vuran, in <i>Proc. <b>IEEE Globecom '10</b></i>, Miami,
+  FL, Dec. 2010.<br/>
+<br/></li><li>Energy Consumption and Latency Analysis for Wireless Multimedia Sensor
+    Networks,<br/>
+A. Pinto, Z. Zhang, X. Dong, S. Velipasalar, M. C. Vuran, M. C. Gursoy, in <i>Proc. <b>IEEE Globecom '10</b></i>, Miami, FL, Dec. 2010.<br/>
+<br/></li><li>Stochastic Analysis of Energy Consumption in Wireless Sensor Networks,<br/>
+Y. Wang, M. C. Vuran, and S. Goddard, in <i>Proc. <b>IEEE SECON '10</b></i>, Boston, MA, June 2010. (AR: 23%)<br/>
+<br/></li><li>Cost-efficiency of Anycast-based Forwarding in Duty-cycled WSNs with Lossy Channel,<br/>
+Y. Xue, M. C. Vuran, and B. Ramamurthy, in <i>Proc. <b>IEEE SECON '10</b></i>,
+  Boston, MA, June 2010. (AR: 23%)<br/>
+<br/></li><li>Spatio-temporal Soil Moisture Measurement with Wireless Underground
+    Sensor Networks,<br/>
+X. Dong and M. C. Vuran, in <i><b>Proc. IFIP Med-Hoc-Net '10</b></i>,
+    Juan-les-pins, France, June 2010.<br/>
+<br/></li><li>(CPS)^2: Integration of Center Pivot Systems with Wireless Underground
+  Sensor Networks for Autonomous Precision Agriculture,<br/>
+A. R. Silva and M. C. Vuran, in <i>Proc. <b>ACM/IEEE Int. Conf. on
+      Cyber-physical Systems (ICCPS '10)</b></i>, Stockholm, Sweden, April
+    2010. (AR: 28%)<br/>
+<br/></li><li>A Concept Lattice-based Event Model for Cyber-physical Systems,<br/>
+Y. Tan, M. C. Vuran, S. Goddard, Y. Yu, M. Song, and S. Ren, in <i>Proc. <b>ACM/IEEE Int. Conf. on Cyber-physical Systems (ICCPS '10)</b></i>,
+  Stockholm, Sweden, April 2010. (AR: 28%)<br/>
+<br/></li><li>Communication with Aboveground Devices in Wireless Underground Sensor
+  Networks: An Empirical Study, <br/>
+A. R. Silva and M. C. Vuran, in <i>Proc. <b>IEEE ICC '10</b></i>, Cape
+  Town, South Africa, May 2010. (AR: 39%)<br/>
+<br/></li><li>Cross-layer Analysis of End-to-end Delay Distribution in Wireless Sensor
+  Networks, <br/>
+Y. Wang, M. C. Vuran, and S. Goddard, in <i>Proc. IEEE Real Time Systems
+    Symposium (<b>IEEE RTSS '09</b>)</i>, Washington, DC, Dec. 2009. (AR: 20%)<br/>
+<br/></li><li>Power Efficiency of Cooperative Communication in Wireless Sensor
+  Networks, <br/>
+S. Gupta, M. C. Vuran, and M. C. Gursoy, in <i>Proc. Int. Conference on Signal
+    Processing and Communication Systems (<b>ICSPCS '09</b>)</i>, Omaha, NE,
+  Sept. 2009.<br/>
+<br/></li><li>Empirical Evaluation of Wireless Underground-to-Underground Communication
+  in Wireless Underground Sensor Networks, <br/>
+A. R. Silva and M. C. Vuran, in <i>Proc. IEEE Int. Conference on
+    Distributed Computing in Sensor Systems (<b>DCOSS '09</b>)</i>, Marina Del
+  Rey, CA, June 2009. (AR: 22%)<br/>
+<br/></li><li> Spatio-temporal Event Model for Cyber Physical Systems, <br/>
+Y. Tan, M. C. Vuran, and S. Goddard, in <i>Proc. Workshop on Cyber-Physical
+    Systems (<b>WCPS 2009</b>)</i>, Montreal, Quebec, June 2009.<br/>
+<br/></li><li> Design of a Wireless Vision Sensor for Object Tracking in Wireless Vision
+  Sensor Networks, <br/>
+M. Casares, M. C. Vuran, and S. Velipasalar, in <i>Proc. Workshop on
+    Embedded Middleware for Smart Camera and Visual Sensor Networks
+    (<b>eMCAM-08</b>)</i>, Stanford, CA, September 2008.<br/>
+<br/></li>
+<li> A Service-Differentiated Real-time Communication Scheme for Wireless
+  Sensor Networks,<br/>
+Y. Xue, B. Ramamurthy, M. C. Vuran, in <i>Proc. <b>IEEE SenseApp
+      '08</b></i>, Montreal, Canada, October 2008. (AR: 32%)<br/>
+<br/></li>
+<li> Cross-layer Packet Size Optimization for Wireless Terrestrial, Underwater, and Underground Sensor Networks,<br/>
+M. C. Vuran and I. F. Akyildiz, in <i>Proc. <b>IEEE INFOCOM '08</b></i>,
+  Phoeniz, AZ, April 13-18, 2008. (AR: 21%)<br/>
+<br/></li>
+<li>Characteristics of Underground Channel for Wireless Underground Sensor Networks,<br/>
+L. Li, M. C. Vuran, and I. F. Akyildiz, in <i>Proc. <b>Med-Hoc-Net '07</b></i>, Corfu, Greece, June 13-15, 2007.<br/>
+<br/></li>
+<li><a href="ecc.html">Cross-Layer Analysis of Error Control in Wireless Sensor Networks,</a><br/>
+M. C. Vuran and I. F. Akyildiz, in <i>Proc. <b>IEEE SECON '06</b></i>, Reston,
+  VA, September 25-28, 2006. (AR: 25%)<br/>
+<br/></li>
+<li><a href="stcorr.html">Spatio-temporal Characteristics of Point and Field Sources in Wireless Sensor Networks,</a><br/>
+M. C. Vuran and O. B. Akan, in <i>Proc. <b>IEEE ICC '06</b></i>, Istanbul,
+  Turkey, June 2006. (AR: 39%)<br/>
+<br/></li>
+<li><a href="xl-survey.pdf" target="no">The State-of-the-art in Cross-layer Design for Wireless Sensor Networks,</a><br/>
+T. Melodia, M. C. Vuran, D. Pompili, <i><b>Springer Lecture Notes in Computer Science (LNCS)</b></i>, vol. 3883, June 2006.<br/>
+<br/></li>
+<li><a href="xlm.html">A Cross-Layer Protocol for Wireless Sensor Networks,</a><br/>
+I. F. Akyildiz, M. C. Vuran, and O. B. Akan, in <i>Proc. <b>Conference on
+      Information Science and Systems (CISS '06)</b></i>, Princeton, NJ, March
+  22-24, 2006. <b>[56 Citations *]</b><br/>
+<br/></li>
+<li><a href="Interdep-SenMetrics.pdf" target="no">On the Interdependency of Congestion and Contention in Wireless Sensor Networks,</a><br/>
+M. C. Vuran, V. C. Gungor, and O. B. Akan, in <i>Proc. <b>ICST SenMetrics '05</b></i>, San Diego, CA, July 2005.<br/>
+<br/></li>
+<li>Analytical Framework for Ad-Hoc-Cellular Networks (AHCN),<br/>
+S. Mohanty and M. C. Vuran, poster presentation at <i><b>Med-Hoc-Net '04</b></i>, Bodrum, Turkey, June 2004.<br/>
+<br/></li>
+<li><a href="corr-wiopt.pdf" target="no">On Exploiting Spatial and Temporal Correlation in Wireless Sensor Networks,</a><br/>
+I. F. Akyildiz, M. C. Vuran, and O. B. Akan, <i>in Proc. <b>WiOpt'04:</b> Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks,</i> pp. 71 -80, March 2004.
+<h3><font color="#006699">PATENT</font></h3>
+</li>
+<li>Media Access Control Protocol for wireless sensor networks,<br/>
+U.S.Patent Application No. <a href="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PG01&amp;s1=%22677%2C518%22.APN.&amp;OS=APN/%22677,518%22&amp;RS=APN/%22677,518" target="no">20050074025</a>, with H.-R. Shao and C. Shen, April 2005.</li>
+<li style="list-style: none">
+<h3><font color="#006699">OTHER</font></h3>
+</li>
+<li>Analysis of Utilization and Mobility in a Campus-wide Wireless Network,<br/>
+M. C. Vuran, V. C. Gungor, R. J. Clark, to appear in <i>Proc. <b>Med-Hoc-Net '06</b></i>, Lipari, Sicily (Italy), June 2006.</li>
+</i></li></ul>
+</td>
+</tr>
+<tr>
+<td>
+* According to Google Scholar as of Aug. 10th 2010.
+<br/>
+<h2><font color="#006699">TEACHING</font></h2>
+<ul>
+<li><font color="#999999">CSCE 990 Sensor Networks (Fall 2007)</font></li>
+<li><a href="http://cse.unl.edu/~mcvuran/csce896/" target="no">CSCE 496/896
+    Embedded Systems (Spring 2008, Spring 2009, Spring 2010)</a></li>
+<li><font color="#999999">CSCE 496/896 Sensor Networks (Fall 2008, Fall
+    2009)</font></li>
+<li><font color="#999999"> CSCE 488 Computer Engineering Professional
+	  Development (Fall 2009)</font></li>
+<li><a href="http://cse.unl.edu/~mcvuran/senior/" target="no">CSCE 489 Computer
+    Engineering Senior Design (Spring 2010)</a></li>
+</ul>
+<br/>
+<h2><font color="#006699">SERVICE</font></h2>
+<ul>
+<li><b>Associate Editor</b>, 
+<ul>
+<li><a href="http://www.elsevier.com/locate/comnet" target="no">Computer Networks Journal - Elsevier</a></li>
+<li><a href="http://www.hindawi.com/journals/js/" target="no">Journal of Sensors - Hindawi</a></li>
+</ul>
+</li><br/>
+<li><b> Guest Editor</b>,
+<ul>
+<li>ACM MONET Journal Special Issue on Wireless Heterogeneous Networks and Next
+  Generation Internet (Co-editor with Dr. Eylem Ekici)</li>
+<li>Computer Communications Journal (Elsevier) Special Issue on Cognitive Radio
+  and Dynamic Spectrum Sharing Systems (Co-editor with Drs. Chadi Assi,
+  Abderrahim Benslimane, and Ekram Hossain)</li>
+</ul>
+</li><br/>
+<li><b> NSF Panelist</b>, 2009, 2010</li><br/>
+<li><b> NASA Panelist</b>, 2009</li>
+<li><b> Information Technologies Committee Member,</b> ICST</li><br/>
+<li><b> TPC Cognitive Radio Track Co-Chair,</b> IEEE Vehicular Technology Conference (<a href="http://www.ieeevtc.org/vtc2009spring" target="no">VTC2009-Spring</a>), Barcelona, Spain, April 2009.</li>
+<li><b>Registration Co-Chair</b>, <a href="http://www.ifip-networking.org/" target="no">IFIP Networking 2007 Conference</a>, Atlanta, GA, May 2007.</li><br/>
+<li><b>Technical Program Committee (TPC) Member of </b>
+<ul>
+<li> IEEE ICC 2011, 5-9 June 2011, Kyoto, Japan.</li>
+<li> IEEE INFOCOM 2011, 10-15 April 2011, Shanghai, China.</li>
+<li> IFIP Wireless Days 2010, 20-22 October 2010, Venice, Italy.</li>
+<li> ACM MSWIM 2010, 17-21 October 2010, Bodrum, Turkey.</li>
+<li> WUWNet 2010, 30 Sept-1 Oct. 2010, Woods Hole, MA.</li>
+<li> IEEE PIMRC 2010, 26-29 September 2010, Istanbul, Turkey.</li>
+<li> IEEE SECON 2010, 21-25 June 2010, Boston, MA.</li>
+<li> IFIP Med-Hoc-Net 2010, 23-25 June 2010, Juan-les-pins, France.</li>
+<li> IEEE RTAS 2010, 12-15 April April 2010, Stockholm, Sweeden.</li>
+<li> IEEE INFOCOM 2010, 15-19 March 2010, San Diego, CA.</li>
+<li> IEEE Globecom 2010, 6-10 December 2010, Miami, FL.</li>
+<li> IEEE SECON 2009, 22-25 June 2009, Rome, Italy.</li>
+<li> IEEE LCN 2009, 20-23 October 2009, Zurich, Switzerland.</li>
+<li> IEEE MASS 2009, 5-8 October 2009, Macau SAR, China.</li>
+<li> ICST AdHocNets 2009, 23-24 September 2009, Niagara Falls, Ontario,
+  Canada.</li>
+<li>IEEE ICC 2009, 14-18 June 2009, Dresden, Germany.</li>
+<li>IEEE INFOCOM 2009, 19-25 April 2009, Rio de Janeiro, Brazil.</li>
+<li>IEEE MASS 2008, Sept. 29 - Oct. 2, 2008, Atlanta, GA.
+</li><li>IEEE VTC2008-Fall, 21-24 September 2008, Calgary, Alberta.</li>
+<li>IEEE ICCSC 2008, 26-28 May 2008, Shanghai, China.</li>
+<li>IEEE ICC 2008, 19-23 May 2008, Beijing, China.</li>
+<li>ICST Crowncom 2008, 15-17 May 2008, Singapore. </li>
+<li>IFIP Networking 2008, 5-9 May 2008, Singapore.</li>
+</ul><br/>
+</li><li><b>Organizational volunteer</b>, Mesh Networking Summit, Snoqualmie, Washington, June 2004.</li><br/>
+<li><b>Reviewer</b>, IEEE/ACM Transactions on Networking, IEEE Transactions on
+  Wireless Communications, IEEE JSAC, IEEE Transactions on Information
+  Technology, IEEE Transactions on Signal Processing,
+  IEEE Communications Magazine, IEEE Transactions on Vehicular Technology, IEEE
+  Transactions on Parallel and Distributed Systems, Computer Networks Journal
+  (Elsevier), Ad Hoc Networks Journal (Elsevier), Wireless Networks Journal,
+  ACM Transactions on Sensor Networks, International Journal of Communication Systems, and several ACM and IEEE conferences.</li><br/>
+<li><b>Member</b>, Institute of Electrical and Electronics Engineers (IEEE), IEEE Communication Society (IEEE ComSoc).</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<h2><font color="#006699">LINKS</font></h2>
+<table border="0" width="100%">
+<tr height="60">
+<td align="center" width="12%">
+<a href="http://www.ece.gatech.edu/research/labs/bwn/"><img alt="Broadband Wireless Networking Laboratory" border="0" src="new-logo-smaller.gif" width="60"/></a>
+</td>
+<td width="88%">
+<a href="http://www.ece.gatech.edu/research/labs/bwn/">Broadband Wireless Networking Laboratory</a>
+</td>
+</tr>
+<tr height="60">
+<td align="center" width="12%">
+<a href="http://www.cse.unl.edu"><img alt="Department of Computer Science and Engineering" border="0" src="n-small.png" width="60"/></a>
+</td>
+<td width="88%">
+<a href="http://www.cse.unl.edu">Department of Computer Science and Engineering</a>
+</td>
+</tr>
+<tr height="60">
+<td align="center" width="12%">
+<a href="http://www.unl.edu"><img alt="University of Nebraska-Lincoln" border="0" src="unl_logo.jpg" width="60"/></a>
+</td>
+<td width="88%">
+<a href="http://www.unl.edu">University of Nebraska-Lincoln</a>
+</td>
+</tr>
+<tr height="60">
+<td align="center" width="12%">
+<a href="http://www.gatech.edu"><img border="0" src="gtlogo.jpg" width="60"/></a>
+</td>
+<td width="88%">
+<a href="http://www.gatech.edu">Georgia Institute of Technology</a>
+</td>
+</tr>
+<tr height="60">
+<td align="center" width="12%">
+<a href="http://www.bilkent.edu.tr"><img border="0" src="bilkentlogo.jpg" width="60"/></a>
+</td>
+<td width="88%">
+<a href="http://www.bilkent.edu.tr">Bilkent Universitesi</a>
+</td>
+</tr>
+<tr height="60">
+<td align="center" width="12%">
+<a href="http://www.fenerbahce.org/eng/"><img alt="Fenerbahce SK" border="0" src="fb100.gif" width="60"/></a>
+</td>
+<td width="88%">
+<a href="http://www.fenerbahce.org/eng/">Fenerbahce SK</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<hr noshade="" size="1" width="100%"/>
+For questions, remarks and suggestions please see <a href="#" onclick="javascript:net=window.open('contact.html','webservices','status=1,width=350,height=600 resizable=no,scrollbars=no')">contact</a>
+page.<br/>
+ <br/>
+
+ 
+<center>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=2826164; 
+var sc_invisible=0; 
+var sc_partition=28; 
+var sc_security="b8b493af"; 
+</script>
+<script src="http://www.statcounter.com/counter/counter_xhtml.js" type="text/javascript"></script><noscript><div class="statcounter"><a class="statcounter" href="http://www.statcounter.com/"><img alt="free counter with statistics" class="statcounter" src="http://c29.statcounter.com/2826164/0/b8b493af/0/"/></a></div></noscript>
+<!-- End of StatCounter Code --></center>
+<br/>
+<center><!--#config timefmt="%B %Y" --><!--#flastmod file="index.html" --></center>
+<hr noshade="" size="1" width="100%"/>
+<br/>
+<i>"Some men see things as they are<br/>
+and ask "Why?"<br/>
+Others dream things that never were<br/>
+and ask "Why not...""</i><br/>
+<br/>
+George Bernard Shaw<br/>
+ </td>
+</tr>
+</table>
+</body>
+</html>

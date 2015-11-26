@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Compare</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
+</script>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("#col1").load(cCIVL_Programs/airline.cvl");
+	$("#col2").load("http://cse.unl.edu/~mrogers/CIVL_Programs/airline.txt");
+  });
+});
+</script>
+<script type="text/javascript">
+  function btn_click(idC, idJ) {
+	$("#col1").load("http://cse.unl.edu/~mrogers/CIVL_Programs/" + idC);
+	$("#col2").load("http://cse.unl.edu/~mrogers/Java_Programs/" + idJ);
+}
+</script>
+</head>
+<body>
+<p>
+	Select a program to load a CIVL program in the left window with the equivalent Java program in the right wondow
+</p>
+<input onclick="btn_click('airline.cvl', 'Airline.java');" type="button" value="Airline"/>
+<input onclick="btn_click('deadlock.cvl', 'Deadlock.java');" type="button" value="Deadlock"/>
+<input onclick="btn_click('loseNotify.cvl', 'LoseNotify.java');" type="button" value="LoseNotify"/>
+<input onclick="btn_click('producerConsumer.cvl', 'ProducerConsumer.java');" type="button" value="ProducerConsumer"/>
+<input onclick="btn_click('readerWriterv2.cvl', 'ReaderWriter.java');" type="button" value="ReaderWriter"/>
+<input onclick="btn_click('reorder.cvl', 'Reorder.java');" type="button" value="Reorder"/>
+<input onclick="btn_click('sleepingBarber.cvl', 'SleepingBarber.java');" type="button" value="SleepingBarber"/>
+<input onclick="btn_click('twoStage.cvl', 'TwoStage.java');" type="button" value="TwoStage"/>
+<input onclick="btn_click('wrongLock.cvl', 'WrongLock.java');" type="button" value="WrongLock"/>
+<br/>
+<pre id="col1" style="height:775px;width:49%;border:1px solid #ccc;font:16px/26px Georgia, Garamond, Serif;overflow:auto; float:left">
+	</pre>
+<pre id="col2" style="height:775px; width:49%;border:1px solid #ccc;font:16px/26px Georgia, Garamond, Serif;overflow:auto; float:right">
+
+	</pre>
+<br/>
+<p>These programs were adapted from examples that can be found at <a href="http://sir.unl.edu">sir.unl.edu</a> under the SIR Software Objects. Use "Java" and "Concurrency" in the search.</p>
+</body>
+</html>

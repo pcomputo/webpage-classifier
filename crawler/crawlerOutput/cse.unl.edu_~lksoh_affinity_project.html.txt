@@ -1,0 +1,485 @@
+<html xmlns="http://www.w3.org/TR/REC-html40" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:st1="urn:schemas-microsoft-com:office:smarttags" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Word.Document" name="ProgId"/>
+<meta content="Microsoft Word 11" name="Generator"/>
+<meta content="Microsoft Word 11" name="Originator"/>
+<link href="project_files/filelist.xml" rel="File-List"/>
+<link href="project_files/editdata.mso" rel="Edit-Time-Data"/>
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>The Affinity Learning ProjectL: NSF SGER PROJECT</title>
+<o:smarttagtype downloadurl="http://www.5iantlavalamp.com/" name="PlaceType" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype downloadurl="http://www.5iantlavalamp.com/" name="PlaceName" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype downloadurl="http://www.5iantlavalamp.com/" name="place" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Leen-Kiat Soh</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Leen-Kiat Soh</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>111</o:TotalTime>
+  <o:Created>2006-04-21T21:43:00Z</o:Created>
+  <o:LastSaved>2006-04-21T21:43:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>956</o:Words>
+  <o:Characters>5452</o:Characters>
+  <o:Company>University of Nebraska-Lincoln</o:Company>
+  <o:Lines>45</o:Lines>
+  <o:Paragraphs>12</o:Paragraphs>
+  <o:CharactersWithSpaces>6396</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DrawingGridHorizontalSpacing>3.9 pt</w:DrawingGridHorizontalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+@font-face
+	{font-family:"Copperplate Gothic Light";
+	panose-1:2 14 5 7 2 2 6 2 4 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:"Century Gothic";
+	panose-1:2 11 5 2 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:TimesNewRomanPSMT;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:TimesNewRomanPS-ItalicMT;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:TimesNewRomanPS-BoldMT;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-noshow:yes;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;
+	font-weight:bold;}
+span.MsoCommentReference
+	{mso-style-noshow:yes;
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+<body lang="EN-US" link="blue" style="tab-interval:.5in" vlink="purple">
+<div class="Section1">
+<div style="mso-element:para-border-div;border:none;border-bottom:solid windowtext 1.0pt;
+mso-border-bottom-alt:solid windowtext .75pt;padding:0in 0in 1.0pt 0in">
+<p align="center" class="MsoNormal" style="text-align:center;border:none;
+mso-border-bottom-alt:solid windowtext .75pt;padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-size:18.0pt;font-family:"Copperplate Gothic Light"'><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:106.5pt;
+ height:57.75pt'>
+ <v:imagedata src="project_files/image001.png" o:title=""/>
+</v:shape><![endif]--><img height="77" src="project_files/image002.jpg" v:shapes="_x0000_i1025" width="142"/><span style="mso-spacerun:yes">  </span><!--[if gte vml 1]><v:shape id="_x0000_i1026"
+ type="#_x0000_t75" style='width:66.75pt;height:66.75pt'>
+ <v:imagedata src="project_files/image003.jpg" o:title="NSF"/>
+</v:shape><![endif]--><img height="89" src="project_files/image003.jpg" v:shapes="_x0000_i1026" width="89"/><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="border:none;mso-border-bottom-alt:solid windowtext .75pt;
+padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-size:18.0pt;
+font-family:"Copperplate Gothic Light"'><o:p> </o:p></span></b></p>
+<p class="MsoNormal" style="border:none;mso-border-bottom-alt:solid windowtext .75pt;
+padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-size:18.0pt;
+font-family:"Copperplate Gothic Light"'>NSF SGER Project <o:p></o:p></span></b></p>
+<p class="MsoNormal" style="border:none;mso-border-bottom-alt:solid windowtext .75pt;
+padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-size:18.0pt;
+font-family:"Copperplate Gothic Light"'>Affinity Learning Authoring Tools<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="border:none;mso-border-bottom-alt:solid windowtext .75pt;
+padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-size:18.0pt;
+font-family:"Copperplate Gothic Light"'><o:p> </o:p></span></b></p>
+</div>
+<p class="MsoNormal"><b><span style='font-family:"Century Gothic"'><o:p> </o:p></span></b></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'>The <st1:placename w:st="on">National</st1:placename> <st1:placetype w:st="on">Center</st1:placetype> for Information Technology in Education
+(NCITE) at the <st1:place w:st="on"><st1:placetype w:st="on">University</st1:placetype>
+ of <st1:placename w:st="on">Nebraska-Lincoln</st1:placename></st1:place>
+requests NSF support through a Small Grant for Exploratory Research (SGER) to
+continue development of the </span><i><span style='font-family:"Century Gothic";
+mso-bidi-font-family:TimesNewRomanPS-ItalicMT;mso-bidi-language:#004D'>Affinity
+Learning System</span></i><span style='font-family:"Century Gothic";mso-bidi-font-family:
+TimesNewRomanPSMT;mso-bidi-language:#004D'>. Affinity was originally developed
+by NCITE through an NSF CCLI proof-of-concept grant. Project goals and
+objectives include: (1) continuing exploratory research on Affinity as a
+generalized research, learning and assessment software tool for STEM education;
+(2) overcoming intrinsic challenges in lesson decomposition by investigating
+new conceptual approaches such as basing decomposition on the identification of
+student misconceptions; and (3) to design and pilot-test new authoring
+interfaces that help authoring complexity. Although some risk exists, NCITE
+feels that focused research and development can overcome the current barriers.
+The proposed project will create new authoring software for Affinity. This
+software will consist of two parts. The first will be the design of a new
+graphical authoring interface. This interface will be tested with active and potential
+Affinity authors. The resulting lessons then will be tested with students to
+insure that what the author intends is achieved with students. <o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPS-BoldMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></b></p>
+<div style="mso-element:para-border-div;border:none;border-bottom:solid windowtext 1.5pt;
+padding:0in 0in 1.0pt 0in">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none;
+border:none;mso-border-bottom-alt:solid windowtext 1.5pt;padding:0in;
+mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-family:"Century Gothic";
+mso-bidi-font-family:TimesNewRomanPS-BoldMT;mso-bidi-language:#004D'>NSF
+Intellectual Merit Criteria<o:p></o:p></span></b></p>
+</div>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPS-BoldMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></b></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'>The project will further develop and apply
+interactive, valid and reliable software tools that assess student progress in
+STEM education and provide meaningful feedback enabling instructors to better diagnose
+and resolve learning difficulties. <o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></p>
+<div style="mso-element:para-border-div;border:none;border-bottom:solid windowtext 1.5pt;
+padding:0in 0in 1.0pt 0in">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none;
+border:none;mso-border-bottom-alt:solid windowtext 1.5pt;padding:0in;
+mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-family:"Century Gothic";
+mso-bidi-font-family:TimesNewRomanPS-BoldMT;mso-bidi-language:#004D'>NSF
+Broader Impact Criteria<o:p></o:p></span></b></p>
+</div>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPS-BoldMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></b></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'>The project will make contributions to the literature
+related to the application of innovative, computer-software based assessment
+tools and practices and will share results and products with other researchers and
+STEM educators.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></p>
+<div style="mso-element:para-border-div;border:none;border-bottom:solid windowtext 1.5pt;
+padding:0in 0in 1.0pt 0in">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none;
+border:none;mso-border-bottom-alt:solid windowtext 1.5pt;padding:0in;
+mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-family:"Century Gothic";
+mso-bidi-font-family:TimesNewRomanPS-BoldMT;mso-bidi-language:#004D'>Project
+Goal<o:p></o:p></span></b></p>
+</div>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPS-BoldMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;mso-layout-grid-align:
+none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:
+TimesNewRomanPSMT;mso-bidi-language:#004D'>1. <span style="mso-tab-count:1">  </span>To
+continue exploratory research on Affinity as a generalized research, learning
+and assessment software tool for STEM education.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPS-BoldMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></b></p>
+<div style="mso-element:para-border-div;border:none;border-bottom:solid windowtext 1.5pt;
+padding:0in 0in 1.0pt 0in">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none;
+border:none;mso-border-bottom-alt:solid windowtext 1.5pt;padding:0in;
+mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-family:"Century Gothic";
+mso-bidi-font-family:TimesNewRomanPS-BoldMT;mso-bidi-language:#004D'>Project
+Objectives<o:p></o:p></span></b></p>
+</div>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPS-BoldMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;mso-layout-grid-align:
+none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:
+TimesNewRomanPSMT;mso-bidi-language:#004D'>1. <span style="mso-tab-count:1">  </span>To
+design and pilot-test an authoring interface that provides a graphical
+representation of lesson components and allows abstraction or information
+hiding to mitigate the complexity inherent in the Affinity Learning design
+process<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:.25in;text-indent:-.25in;mso-layout-grid-align:
+none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:
+TimesNewRomanPSMT;mso-bidi-language:#004D'>2. <span style="mso-tab-count:1">  </span>To
+overcome intrinsic challenges in lesson decomposition by investigating new conceptual
+approaches such as basing decomposition on the identification of student misconceptions<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></p>
+<div style="mso-element:para-border-div;border:none;border-bottom:solid windowtext 1.5pt;
+padding:0in 0in 1.0pt 0in">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none;
+border:none;mso-border-bottom-alt:solid windowtext 1.5pt;padding:0in;
+mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-family:"Century Gothic";
+mso-bidi-font-family:TimesNewRomanPS-BoldMT;mso-bidi-language:#004D'>Challenges
+to be Overcome<o:p></o:p></span></b></p>
+</div>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPS-BoldMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></b></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'>The complexity of authoring continues to be a
+challenge as Affinity is applied in additional teaching and learning
+environments. Establishing the structure of Affinity lessons takes two major
+steps: Decomposition and Interconnection. The instructor must first decompose a
+lesson into the set of learning nodes. At the same time, he or she must anticipate
+potential misconceptions and add nodes to respond to the misconceptions. The
+initial decomposition has proven a significant challenge for new authors. It is
+very difficult for even experienced STEM educators to decompose their lessons
+into the small “learning nodes” that drive Affinity.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'>Teachers have automated their teaching skills through
+experience. Significant effort must be expended to capture the steps they take,
+how they recognize misconceptions and how they apply prescriptions.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'>The current authoring approach involves creating the course
+in the classical order of presentation. Following the research of Minstrell, it
+has been suggested that the process be inverted; the author first enumerating
+misconceptions and then constructing learning nodes and structure to avoid them
+(Minstrell, 1989; Kraus and Minstrell, 2003). Misconceptions could be identified
+through instructor experience, focus groups, or experimentation with students.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'>The second step, establishing an interconnected
+network for the nodes, also presents challenges for all but simple subjects. As
+the breadth and difficulty of the topic covered increases, the network
+interconnecting the learning nodes becomes increasingly complex. Keeping track
+of all of the nodes, and the conditions that lead to their selection, has been
+shown to be a formidable task. Instructors have difficulty maintaining a mental
+image of the network of nodes, the purposes of interconnections, and the network
+structure in general. An authoring interface that includes a graphical method
+for representing and manipulating nodes and their interconnections must be
+created for Affinity. A method of hiding information also is needed for the
+system.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'>Hiding information is a method of abstraction so that
+large assemblies of nodes can be organized into groups that can be manipulated,
+replicated, and reused in mass.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></p>
+<div style="mso-element:para-border-div;border:none;border-bottom:solid windowtext 1.5pt;
+padding:0in 0in 1.0pt 0in">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none;
+border:none;mso-border-bottom-alt:solid windowtext 1.5pt;padding:0in;
+mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-family:"Century Gothic";
+mso-bidi-font-family:TimesNewRomanPS-BoldMT;mso-bidi-language:#004D'>Current
+Status<o:p></o:p></span></b></p>
+</div>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPS-BoldMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></b></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'>Thus far, we have built two authoring tools: (1)
+activity builder graphical tool, and (2) activity builder web-based tool.<span style="mso-spacerun:yes">  </span>We are currently shifting our development
+focus onto the activity builder graphical tool and this will be our primary
+authoring tool henceforth.<span style="mso-spacerun:yes">  </span>Interested
+readers please refer to <a href="http://cse.unl.edu/~lksoh/affinity/ActivityBuilderGraphicalToolManual_08_23_2005.doc">here</a>
+for the user manual and please <a href="http://cse.unl.edu/~lksoh/affinity/contact.html">contact</a> us if you
+would like a copy of the software.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'>We have also conducted a classroom test in February
+2006 and are now analyzing the results.<span style="mso-spacerun:yes"> 
+</span>The test, IRB-approved, had 30 student subjects.<span style="mso-spacerun:yes">  </span>15 of the students used the activity builder
+web-based tool to build concept hierarchies on polynomials, while the other 15
+used the graphical tool.<span style="mso-spacerun:yes">  </span>Both groups
+took pre- and post-tests.<span style="mso-spacerun:yes">  </span>Our objectives
+were to (1) measure the difference, if any, between the two groups in post-test
+performance—whether the use of different tools made a difference in their
+understanding of the concept hierarchies in another topic, and (2) measure the
+difference, if any, between the two groups in terms of the quality of the
+concept hierarchies built.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></p>
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="width:477.9pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="637">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
+<td style="width:79.65pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="106">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/index.html"><span style="color:windowtext;
+  text-decoration:none;text-underline:none">Home</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:79.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="106">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/history.html"><span style="color:windowtext;text-decoration:none;text-underline:none">History</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:79.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="106">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/project.html"><span style="color:windowtext;text-decoration:none;text-underline:none">NSF Project</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:79.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="106">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/people.html"><span style="color:
+  windowtext;text-decoration:none;text-underline:none">People</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:79.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="106">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/contact.html"><span style="color:windowtext;text-decoration:none;text-underline:none">Contact
+  Info</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:79.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="106">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/related.html"><span style="color:windowtext;text-decoration:none;text-underline:none">Related
+  Sites</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+</table>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Century Gothic";mso-bidi-font-family:TimesNewRomanPSMT;
+mso-bidi-language:#004D'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Century Gothic";mso-bidi-font-weight:
+bold'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Century Gothic";mso-bidi-font-weight:
+bold'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Century Gothic"'><o:p> </o:p></span></p>
+</div>
+</body>
+</html>

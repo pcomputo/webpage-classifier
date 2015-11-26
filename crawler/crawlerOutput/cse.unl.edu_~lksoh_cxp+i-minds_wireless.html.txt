@@ -1,0 +1,760 @@
+<html xmlns="http://www.w3.org/TR/REC-html40" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:st1="urn:schemas-microsoft-com:office:smarttags" xmlns:w="urn:schemas-microsoft-com:office:word">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Word.Document" name="ProgId"/>
+<meta content="Microsoft Word 11" name="Generator"/>
+<meta content="Microsoft Word 11" name="Originator"/>
+<link href="wireless_files/filelist.xml" rel="File-List"/>
+<title>CXP+I-MINDS Wireless</title>
+<o:smarttagtype name="PostalCode" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype name="PlaceType" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype name="PlaceName" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype name="State" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype name="City" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype name="place" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Adam Eck</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Leen-Kiat Soh</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>163</o:TotalTime>
+  <o:Created>2006-12-11T21:14:00Z</o:Created>
+  <o:LastSaved>2006-12-11T21:14:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>2107</o:Words>
+  <o:Characters>12015</o:Characters>
+  <o:Lines>100</o:Lines>
+  <o:Paragraphs>28</o:Paragraphs>
+  <o:CharactersWithSpaces>14094</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>6 pt</w:DrawingGridHorizontalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+@font-face
+	{font-family:"Eras Medium ITC";
+	panose-1:2 11 6 2 3 5 4 2 8 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:Tahoma;
+	mso-bidi-language:AR-SA;}
+ /* Page Definitions */
+ @page
+	{mso-footnote-separator:url("wireless_files/header.htm") fs;
+	mso-footnote-continuation-separator:url("wireless_files/header.htm") fcs;
+	mso-endnote-separator:url("wireless_files/header.htm") es;
+	mso-endnote-continuation-separator:url("wireless_files/header.htm") ecs;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-footer:url("wireless_files/header.htm") f1;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:504133754;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1493462074 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l1
+	{mso-list-id:620383643;
+	mso-list-template-ids:102785770;}
+@list l1:level1
+	{mso-level-start-at:5;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.5in;}
+@list l1:level2
+	{mso-level-text:"%1\.%2\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l1:level3
+	{mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l1:level4
+	{mso-level-text:"%1\.%2\.%3\.%4\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l1:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l1:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l1:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l1:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l1:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9\.";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-1.25in;}
+@list l2
+	{mso-list-id:981888629;
+	mso-list-type:hybrid;
+	mso-list-template-ids:2084097288 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l3
+	{mso-list-id:1224952296;
+	mso-list-type:hybrid;
+	mso-list-template-ids:165995658 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l4
+	{mso-list-id:1378431078;
+	mso-list-type:hybrid;
+	mso-list-template-ids:265438366 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l5
+	{mso-list-id:1446390907;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1101540484 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l5:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l6
+	{mso-list-id:1582836516;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-124370330 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l6:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l6:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l7
+	{mso-list-id:1751198804;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-345626782 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l7:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l8
+	{mso-list-id:1825051352;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1237215328 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l8:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l9
+	{mso-list-id:2022972203;
+	mso-list-type:hybrid;
+	mso-list-template-ids:2068319654 67698689 67698691 67698689 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l9:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l9:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l9:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l10
+	{mso-list-id:2026979943;
+	mso-list-type:hybrid;
+	mso-list-template-ids:2135838434 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l10:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+@list l11
+	{mso-list-id:2074766388;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-213347364 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l11:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+<body lang="EN-US" link="blue" style="tab-interval:.5in" vlink="purple">
+<div class="Section1">
+<p align="center" class="MsoNormal" style="margin-bottom:6.0pt;text-align:center"><b style="mso-bidi-font-weight:normal"><span style='font-size:14.0pt;font-family:
+"Eras Medium ITC"'>Deployment of Conference XP over Wireless Network:<span style="mso-spacerun:yes">  </span><o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="margin-bottom:6.0pt;text-align:center"><b style="mso-bidi-font-weight:normal"><span style='font-size:14.0pt;font-family:
+"Eras Medium ITC"'>Summarized Test Results<o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="margin-bottom:6.0pt;text-align:center"><span style='font-family:"Eras Medium ITC";mso-bidi-font-weight:bold'>Adam Eck, LD
+Miller, and Leen-Kiat Soh<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="margin-bottom:6.0pt;text-align:center"><span style='font-family:"Eras Medium ITC";mso-bidi-font-weight:bold'>{aeck, lmille,
+lksoh}@cse.unl.edu<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="margin-bottom:6.0pt;text-align:center"><span style='font-family:"Eras Medium ITC"'>256 Avery Hall, <st1:place w:st="on"><st1:city w:st="on">Lincoln</st1:city>, <st1:state w:st="on">NE</st1:state> <st1:postalcode w:st="on">68588-0115</st1:postalcode></st1:place><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="margin-bottom:6.0pt;text-align:center"><span style='font-family:"Eras Medium ITC"'>Tel: (402) 472-6738<span style="mso-spacerun:yes">   </span>Fax: (402) 472-7767<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><b><span style='font-family:
+"Eras Medium ITC";color:blue'>1.<span style="mso-tab-count:1">       </span>Brief
+Introduction<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><span style='font-family:"Eras Medium ITC"'>In
+the following, we report on a series of tests on deploying Conference XP (CXP)
+over a wireless network here at the <st1:place w:st="on"><st1:placetype w:st="on">University</st1:placetype>
+ of <st1:placename w:st="on">Nebraska</st1:placename></st1:place>.<span style="mso-spacerun:yes">  </span>There are four phases of tests:<o:p></o:p></span></p>
+<ul style="margin-top:0in" type="disc">
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l10 level1 lfo1;
+     tab-stops:list .5in"><b><span style='font-family:"Eras Medium ITC"'>Phase
+     I</span></b><span style='font-family:"Eras Medium ITC"'>:<span style="mso-spacerun:yes">  </span><b>Preliminary</b> tests, in April 2006,
+     were conducted to determine the drop rate of the existing wireless network
+     when using Conference XP to chat and send presentation slides<o:p></o:p></span></li>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l10 level1 lfo1;
+     tab-stops:list .5in"><b><span style='font-family:"Eras Medium ITC"'>Phase
+     II:<span style="mso-spacerun:yes">  </span>PGM Implementation</span></b><span style='font-family:"Eras Medium ITC"'> tests, in July-August 2006, were
+     conducted when implementing the PGM protocol to replace the UDP protocol
+     for Conference XP<o:p></o:p></span></li>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l10 level1 lfo1;
+     tab-stops:list .5in"><b><span style='font-family:"Eras Medium ITC"'>Phase
+     III:</span></b><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes">  </span><b>PGM Deployment</b> tests, in
+     September 2006, were conducted to determine how the PGM-powered Conference
+     XP would work in a real classroom, with 30+ laptops competing for wireless
+     access points in a classroom.<o:p></o:p></span></li>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l10 level1 lfo1;
+     tab-stops:list .5in"><b><span style='font-family:"Eras Medium ITC"'>Phase
+     IV:</span></b><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes">  </span><b>I-MINDS Deployment</b> tests, in October
+     2006, were conducted to determine how the CXP-powered I-MINDS would work
+     in a real classroom over wireless, with 30+ laptops.<span style="mso-spacerun:yes">  </span>Note that we have extensively tested
+     I-MINDS deployed in wired networks.<span style="mso-spacerun:yes"> 
+     </span>Indeed, I-MINDS has been deployed at the online <st1:place w:st="on"><st1:placename w:st="on">Bellevue</st1:placename> <st1:placetype w:st="on">University</st1:placetype></st1:place>
+     since May 2006.<o:p></o:p></span></li>
+</ul>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><span style='font-family:"Eras Medium ITC"'>Overall,
+the above tests were successful in terms of providing us insights to continue
+to refine and revise our designs and implementations.<span style="mso-spacerun:yes">  </span>Phase I tests confirmed Microsoft Research’s
+observations of the wireless CXP deployment’s drop rate performances.<span style="mso-spacerun:yes">  </span>Phase II tests validated our PGM
+implementation, albeit in a small wireless environment.<span style="mso-spacerun:yes">  </span>Phase III tests verified the correctness of
+our PGM implementation, in a classroom-size wireless environment, with 30+
+venue participants simultaneously.<span style="mso-spacerun:yes"> 
+</span>However, Phase IV tests were not as successful as initially hoped as we
+realize that we still have to first address specific installation problems with
+I-MINDS to minimize potential user errors and database tracking problems. From
+analyzing the logs, we have some solution ideas in mind.<span style="mso-spacerun:yes">  </span>We will continue to revise our solutions and
+continue with the Phase IV tests in the near future.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC";color:blue'>2.<span style="mso-tab-count:1">       </span>Phase I:<span style="mso-spacerun:yes"> 
+</span>Preliminary Tests<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><span style='font-family:"Eras Medium ITC";
+mso-bidi-font-weight:bold'>These tests confirm the poor drop rate of CXP over
+the wireless networks, the better-performance of 802.11g over 802.11b, and chat
+messages suffer fewer drops than Powerpoint slides.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><b><span style='font-family:
+"Eras Medium ITC"'>In summary</span></b><span style='font-family:"Eras Medium ITC"'>,
+the Chat capability was very much better than the Classroom Presenter in terms
+of drop rates.<span style="mso-spacerun:yes">  </span>The Classroom Presenter,
+with just one slide, then it was good.<span style="mso-spacerun:yes"> 
+</span>If there were 2 or more slides, the transmission seemed to get significantly
+worse.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><span style='font-family:"Eras Medium ITC"'>In
+<b>summary</b>, the G-connection had better results, rarely encountering drops
+of slide pages.<span style="mso-spacerun:yes">  </span>The B-connection fared
+worse—five runs had at least a drop of 1 slide page. We don't know how to
+explain Run 4 where things seemed to go wiry.<span style="mso-spacerun:yes"> 
+</span>We have sent the event log to Tim Chou for review.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><span style='font-family:"Eras Medium ITC"'>In
+<b>summary</b>, we see that the B-connection fared worse.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC";color:blue'>3.<span style="mso-tab-count:1">       </span>Phase II:<span style="mso-spacerun:yes"> 
+</span>PGM Implementation Tests<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><span style='font-family:"Eras Medium ITC";
+mso-bidi-font-weight:bold'>These tests were conducted when PGM was being
+implemented.<span style="mso-spacerun:yes">  </span>We used these tests to
+design our PGM implementation, to evaluate our late-join feature and statistics
+logging feature.<o:p></o:p></span></p>
+<ul style="margin-top:0in" type="disc">
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l6 level1 lfo3;
+     tab-stops:list .5in"><span style='font-family:"Eras Medium ITC";
+     mso-bidi-font-family:Arial'>Overall this system seems to work pretty
+     well.  It still doesn’t have the advantage of the old system where
+     all receiving could be done on one socket, but at least I do not have to
+     manage multiple threads anymore.  With a little bit of error
+     handling, the test application seems pretty robust.  <o:p></o:p></span></li>
+<ul style="margin-top:0in" type="circle">
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l6 level2 lfo3;
+      tab-stops:list 1.0in"><span style='font-family:"Eras Medium ITC";
+      mso-bidi-font-family:Arial'>Message delivery seemed to be pretty
+      reliable.  None were dropped.<o:p></o:p></span></li>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l6 level2 lfo3;
+      tab-stops:list 1.0in"><span style='font-family:"Eras Medium ITC";
+      mso-bidi-font-family:Arial'>Interference didn’t seem to be too much of a
+      problem either.  At one point, interference seemed to make it so the
+      Tablet PC could only receive messages from itself.  However, about a
+      second later it suddenly received all the messages it missed from the
+      other machines.  They obviously weren’t in the correct order, but at
+      least they were received!  This is a huge improvement over
+      UDP.  <o:p></o:p></span></li>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l6 level2 lfo3;
+      tab-stops:list 1.0in"><span style='font-family:"Eras Medium ITC";
+      mso-bidi-font-family:Arial'>This was a small test of only 3 machines on
+      my local router, but the results are promising.<o:p></o:p></span></li>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l6 level2 lfo3;
+      tab-stops:list 1.0in"><span style='font-family:"Eras Medium ITC";
+      mso-bidi-font-family:Arial'>The biggest concern is still scalability,
+      since the asynchronous methods still do a little thread handling in the
+      runtime environment.<o:p></o:p></span></li>
+</ul>
+</ul>
+<ul style="margin-top:0in" type="disc">
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l5 level1 lfo4;
+     tab-stops:list .5in"><span style='font-family:"Eras Medium ITC";
+     mso-bidi-font-family:Arial'>Chat didn’t drop any messages, Local Screen
+     Streaming worked, and Shared Browser worked.  <o:p></o:p></span></li>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l5 level1 lfo4;
+     tab-stops:list .5in"><span style='font-family:"Eras Medium ITC";
+     mso-bidi-font-family:Arial'>We also loaded up Presenter and ran a test
+     similar to what we initially did back in March/April.<span style="mso-spacerun:yes">  </span>But now, all 3 machines received the
+     inks without dropping a single one!  The latency for all of this was
+     very fast as well.  <o:p></o:p></span></li>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l5 level1 lfo4;
+     tab-stops:list .5in"><span style='font-family:"Eras Medium ITC";
+     mso-bidi-font-family:Arial'>Finally, our I-MINDS capabilities were loaded and
+     they worked flawlessly as well.  <o:p></o:p></span></li>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l5 level1 lfo4;
+     tab-stops:list .5in"><span style='font-family:"Eras Medium ITC";
+     mso-bidi-font-family:Arial'>Obviously, this test scenario is pretty
+     isolated since it was only 3 machines (2 over wireless) behind a simple
+     home router, but the results are very promising.<o:p></o:p></span></li>
+</ul>
+<ul style="margin-top:0in" type="disc">
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l0 level1 lfo5;
+     tab-stops:list .5in"><span style='font-family:"Eras Medium ITC";
+     mso-bidi-font-family:Arial'>During the ~3 minutes (185.475 seconds) of
+     testing, 2030 PGM packets were sent back and forth between the three
+     machines.  <o:p></o:p></span></li>
+<ul style="margin-top:0in" type="circle">
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l0 level2 lfo5;
+      tab-stops:list 1.0in"><span style='font-family:"Eras Medium ITC";
+      mso-bidi-font-family:Arial'>Of these 2030 packets, 48 with NAK packets
+      (negative acknowledgement – meaning the machine recognized that it missed
+      a packet).  <o:p></o:p></span></li>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l0 level2 lfo5;
+      tab-stops:list 1.0in"><span style='font-family:"Eras Medium ITC";
+      mso-bidi-font-family:Arial'>Each NAK was responded to with a NCF packet
+      from the original sender, letting the NAK-sender know that they would
+      resend the packet, and then an RDATA packet was sent containing the
+      original message.  <o:p></o:p></span></li>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l0 level2 lfo5;
+      tab-stops:list 1.0in"><span style='font-family:"Eras Medium ITC";
+      mso-bidi-font-family:Arial'>There were absolutely no NAKs that did not
+      have a resulting NCF and RDATA packet, meaning every time someone thought
+      they lost a packet, they received it later.  <o:p></o:p></span></li>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l0 level2 lfo5;
+      tab-stops:list 1.0in"><span style='font-family:"Eras Medium ITC";
+      mso-bidi-font-family:Arial'>There were a couple instances where a machine
+      had to send several NAKs for a lost packet, but it always received them
+      in the end, and each NAK was responded to (these responses were just lost
+      like the original packets). <o:p></o:p></span></li>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l0 level2 lfo5;
+      tab-stops:list 1.0in"><span style='font-family:"Eras Medium ITC";
+      mso-bidi-font-family:Arial'>Given these numbers, there were 943 ODATA
+      (original data) packets sent between the machines, resulting in only 48
+      NAKs, which is an initial success rate of 94.90%.  <o:p></o:p></span></li>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l0 level2 lfo5;
+      tab-stops:list 1.0in"><span style='font-family:"Eras Medium ITC";
+      mso-bidi-font-family:Arial'>The NAK packets themselves had a 100% rate of
+      resolution.  These are very good numbers.  Of course, they will
+      be lower in an implementation with more interference and machines, but
+      hopefully the drop off isn’t too severe.<o:p></o:p></span></li>
+</ul>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l0 level1 lfo5;
+     tab-stops:list .5in"><span style='font-family:"Eras Medium ITC";
+     mso-bidi-font-family:Arial'>After analyzing the data for dropped packets, we
+     looked for trends in how the machines received the packets.  <o:p></o:p></span></li>
+<ul style="margin-top:0in" type="circle">
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l0 level2 lfo5;
+      tab-stops:list 1.0in"><span style='font-family:"Eras Medium ITC";
+      mso-bidi-font-family:Arial'>First of all, while PGM does not guarantee
+      overall ordering of packets, it does preserve the order from each
+      individual sender.  For example, say the three computers each sent
+      out packets in the following order (desktop1, laptop1, tablet1, desktop2,
+      laptop2, tablet2, desktop3, laptop3, tablet3).  The packets might
+      not show up in that exact order at each receiver, but the packets from
+      each sender will show up in order (meaning desktop2 will never come
+      before desktop1, but tablet3 might come before laptop3). <o:p></o:p></span></li>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l0 level2 lfo5;
+      tab-stops:list 1.0in"><span style='font-family:"Eras Medium ITC";
+      mso-bidi-font-family:Arial'>The other interesting thing is that this
+      ordering scheme can result in some pretty interesting things.  For
+      example, say my tablet dropped a packet from my laptop. While it was
+      waiting to receive that packet after sending a NAK, it would continue
+      receiving from itself and my desktop, as one might expect.  What is
+      interesting here is that once it finally received the dropped packet, it
+      suddenly printed out and logged all the messages sent by the laptop since
+      the dropped packet.  In other words, the logs looked something like
+      this: desktop47, laptop46 (last packet received before dropped one),
+      tablet50, desktop48, tablet51, desktop49, desktop50, tablet52, laptop47
+      (received copy of the dropped packet), laptop48, laptop49, laptop50,
+      laptop51.  This sudden rush of packets from one sender was common
+      after every single NAK.  This is kind of nice because it preserves
+      order for that sender and it doesn’t penalize that sender by making every
+      subsequent packet be processed later – it tries to “catch-up.”<o:p></o:p></span></li>
+</ul>
+</ul>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><span style='font-family:"Eras Medium ITC";
+mso-bidi-font-family:Arial'>In <b>summary</b>, we are ready to begin testing in
+a larger environment with more machines.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC";color:blue'>4.<span style="mso-tab-count:1">       </span>Phase III:<span style="mso-spacerun:yes">  </span>PGM Deployment Tests<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><span style='font-family:"Eras Medium ITC";
+mso-bidi-font-weight:bold'>Now we were comfortable with our local tests, we
+wanted to test the PGM deployment at a real classroom.<span style="mso-spacerun:yes">  </span>We requested the IS (Information Services –
+our IT group) department to enable the multicast for us at Kauffman Hall where
+the class JDE183H is held.<span style="mso-spacerun:yes">  </span>The results
+of these tests were mixed.<span style="mso-spacerun:yes">  </span>We observed
+several problems that were not observed in our previous tests.<span style="mso-spacerun:yes">  </span>We also observed some erratic user behaviors
+that caused the deployment to fail.<span style="mso-spacerun:yes">  </span>We
+also went through a difficult time installing the PGM functionality, the
+I-MINDS capabilities, and a database driver, as student laptops had their own
+different setups.<span style="mso-spacerun:yes">  </span>We also had to fix the
+security updates by Windows.<span style="mso-spacerun:yes">  </span>Please see
+Appendix A for our installation guides for the students in JDE183H.<span style="mso-spacerun:yes">  </span><span style="mso-spacerun:yes">  </span>But
+in the end, we collected enough data to say that PGM has been successfully
+deployed.<span style="mso-spacerun:yes">   </span><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><span style='font-family:"Eras Medium ITC";
+mso-bidi-font-family:Arial'>This was our first “<b>real</b>” test.<span style="mso-spacerun:yes">  </span>We asked the students to install the PGM
+functionality on their laptops (see <b>Appendix A1</b>). We tried running a
+test of 30+ laptops in the classroom running PGM, but we ran into a big
+problem: <o:p></o:p></span></p>
+<ul style="margin-top:0in" type="disc">
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l7 level1 lfo9;
+     tab-stops:list .5in"><span style='font-family:"Eras Medium ITC";
+     mso-bidi-font-family:Arial'>Many of the students were in the venue, but
+     not everyone could see each other.  Worse yet, there were no distinct
+     groups of people visible across machines (i.e., it wasn’t like half the
+     people were visible to their half, and the other half to theirs).  </span><span style='font-family:"Eras Medium ITC"'><o:p></o:p></span></li>
+</ul>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><span style='font-family:"Eras Medium ITC";
+mso-bidi-font-family:Arial'>We found out later, after analyzing the logs and
+thorough off-site testing, that a Windows security update (KB919007) caused the
+PGM implementation to fail.<span style="mso-spacerun:yes">  </span>After
+testing with a packet sniffer again, we determined that NAKs were never being
+responded to by senders with NCFs or RDATA packets.<span style="mso-spacerun:yes">  </span>This caused the receivers to become stuck in
+an infinite loop requesting the dropped packet, causing the participants to
+time out.<span style="mso-spacerun:yes">  </span>Uninstalling the security
+update fixed the problem.<span style="mso-spacerun:yes">  </span>However,
+thanks to Tim, we have been in contact with two members of the Windows security
+team and they are working on a solution.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><span style='font-family:"Eras Medium ITC";
+mso-bidi-font-family:Arial'>In <b>summary</b>, overall, things are looking very
+promising and we are looking forward to running more extensive tests.  </span><span style='font-family:"Eras Medium ITC"'>One problem we encountered during this
+test was student laptops <b>going into hibernation</b>.<span style="mso-spacerun:yes">  </span>When this happened the PGM sockets were
+closed by the operating system and it was difficult to restore them when the
+laptop came out of hibernation.<span style="mso-spacerun:yes">  </span>In fact
+the students would have to close CXP completely and restart it to get back into
+the Venue.<span style="mso-spacerun:yes">   </span>We asked the students to
+change their powersave options, but it is difficult to coordinate such a change
+in this large of an environment.<o:p></o:p></span></p>
+<span style='font-size:12.0pt;font-family:"Eras Medium ITC";mso-fareast-font-family:
+"Times New Roman";mso-bidi-font-family:"Times New Roman";mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA'><br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
+</span>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><span style='font-family:"Eras Medium ITC";
+mso-bidi-font-family:Arial'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC";color:blue'>5.<span style="mso-tab-count:1">       </span>Phase IV:<span style="mso-spacerun:yes"> 
+</span>I-MINDS Deployment Tests<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><span style='font-family:"Eras Medium ITC";
+mso-bidi-font-weight:bold'>We were not too sure about how I-MINDS would work
+over wireless networks.<span style="mso-spacerun:yes">  </span>I-MINDS makes
+extensive use of a database, has numerous tracking/logging points, and involves
+a large volume of message exchanges.<span style="mso-spacerun:yes"> 
+</span>Thus, we built a simple simulator to test message sending and
+receiving.<span style="mso-spacerun:yes">  </span>After we were comfortable
+with the design, we tried to deploy I-MINDS in the same JDE183H class.<span style="mso-spacerun:yes">  </span>The deployment was a failure.<span style="mso-spacerun:yes">  </span>We report here our findings.</span><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><span style='font-family:"Eras Medium ITC"'>To
+test the 3.0 version of our capability we installed it on eight borrowed
+laptops.<span style="mso-spacerun:yes">  </span>Six of the laptops are six year
+old IBM Thinkpads with 802.11b, while the other two were newer Toshiba
+Satellite tablets with 802.11g.<span style="mso-spacerun:yes">  </span>The
+laptops were split into two groups.<span style="mso-spacerun:yes"> 
+</span>Messages sent by participants in the first group were only received by
+other participants in the first group.<span style="mso-spacerun:yes"> 
+</span>The same was true of the second group; there was no overlap between
+groups.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><span style='font-family:"Eras Medium ITC"'>On
+the teacher version only, we also automatically started the I-MINDS capability.<span style="mso-bidi-font-weight:bold"><o:p></o:p></span></span></p>
+<ul style="margin-top:0in" type="disc">
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l9 level1 lfo12;
+     tab-stops:list .5in"><span style='font-family:"Eras Medium ITC"'>More than
+     thirty of the students were able to run the script and connect to the UNL
+     CXP Venue.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></li>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l9 level1 lfo12;
+     tab-stops:list .5in"><span style='font-family:"Eras Medium ITC"'>Unfortunately
+     at this point in test we started to encounter problems.<span style="mso-spacerun:yes">  </span>Around one quarter of the students
+     received an exception when CXP tried to load the capability instance for
+     their computers.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></li>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l9 level1 lfo12;
+     tab-stops:list .5in"><span style='font-family:"Eras Medium ITC"'>When we
+     consulted the error logs for the ConferenceXP API we discovered that these
+     students were unable to connect to the I-MINDS database.<span style="mso-spacerun:yes">  </span>In all but two cases it appeared that
+     the students configured the database connection through a system DSN on
+     their machines properly.<span style="mso-spacerun:yes">  </span>However,
+     deleting the DSN and creating a new one solved the capability crash
+     problem in all but one machine.<span style="mso-spacerun:yes">  </span>We
+     are not sure whether this was just user error, or a more insidious problem
+     involving our database connection on a saturated wireless network.<o:p></o:p></span></li>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l9 level1 lfo12;
+     tab-stops:list .5in"><span style='font-family:"Eras Medium ITC"'>We also
+     had problems with the capability being started more than once.<span style="mso-spacerun:yes">  </span>This of course caused the capability
+     form to appear multiple times on all machines connected to the Venue. <span style="mso-spacerun:yes"> </span>Right now we have two possible
+     explanations for why this happened:<span style="mso-spacerun:yes"> 
+     </span><o:p></o:p></span></li>
+<ul style="margin-top:0in" type="circle">
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l9 level2 lfo12;
+      tab-stops:list 1.0in"><span style='font-family:"Eras Medium ITC"'>The
+      first is that one or more curious students decided to start the
+      capability, to see what would happen.<span style="mso-spacerun:yes"> 
+      </span>While this might have happened once or twice, it does not explain
+      the six plus versions of capability running at the same time! <o:p></o:p></span></li>
+<li class="MsoNormal" style="margin-bottom:6.0pt;mso-list:l9 level2 lfo12;
+      tab-stops:list 1.0in"><span style='font-family:"Eras Medium ITC"'>The
+      second explanation is a problem with late join in PGM.<span style="mso-spacerun:yes">  </span>Basically, whenever a user joins a
+      venue that already has a capability running, the machine that began the
+      capability sends out information to the new user to help them to start
+      running the capability as well.<span style="mso-spacerun:yes"> 
+      </span>However, late join might conflict with this approach.<span style="mso-spacerun:yes">  </span>Here is how late join works:<span style="mso-spacerun:yes">  </span>all senders keep track of their last X
+      messages (where X is configurable) in a send window.<span style="mso-spacerun:yes">  </span>When a new user joins, their receiver
+      asks the sender for a certain percentage of those X messages in the
+      window (this percentage ranges from 0 – 75).<span style="mso-spacerun:yes">  </span>If the original capability start is one
+      of those messages in the send window, the user will automatically receive
+      the original start, and also the one the sender transmits when the new
+      user joins, causing two instances of the capability to begin on the new
+      user’s machine.<span style="mso-spacerun:yes">  </span>Since they now
+      have two, the second one might cause the new user to become a capability
+      sender themselves, which would result in everyone else loading a second
+      instance as well.<span style="mso-spacerun:yes">  </span>Obviously, as
+      more users join the venue, this effect will cause even more capability
+      instances to be loaded.<span style="mso-spacerun:yes">  </span>This
+      behavior was observed in our last test in Soh’s class, but we have been
+      unable to confirm if it was caused by late join or if students simply
+      started up new instances after being told not to.<span style="mso-spacerun:yes">   </span><o:p></o:p></span></li>
+</ul>
+</ul>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><span style='font-family:"Eras Medium ITC"'>In
+<b>summary</b>, we need to address the above problems that occur when we scale
+up and when we deal with users in non-control environments.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+</div>
+</body>
+</html>

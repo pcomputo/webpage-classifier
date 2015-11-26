@@ -1,0 +1,287 @@
+<html xmlns="http://www.w3.org/TR/REC-html40" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:st1="urn:schemas-microsoft-com:office:smarttags" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Word.Document" name="ProgId"/>
+<meta content="Microsoft Word 11" name="Generator"/>
+<meta content="Microsoft Word 11" name="Originator"/>
+<link href="index_files/filelist.xml" rel="File-List"/>
+<link href="index_files/editdata.mso" rel="Edit-Time-Data"/>
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>The Affinity Learning Project</title>
+<o:smarttagtype name="PlaceType" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype name="PlaceName" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype downloadurl="http://www.5iantlavalamp.com/" name="place" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Leen-Kiat Soh</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Leen-Kiat Soh</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>11</o:TotalTime>
+  <o:Created>2006-04-21T19:15:00Z</o:Created>
+  <o:LastSaved>2006-04-21T19:15:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>301</o:Words>
+  <o:Characters>1721</o:Characters>
+  <o:Company>University of Nebraska-Lincoln</o:Company>
+  <o:Lines>14</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2018</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:DrawingGridHorizontalSpacing>3.9 pt</w:DrawingGridHorizontalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+@font-face
+	{font-family:"Century Gothic";
+	panose-1:2 11 5 2 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:"Copperplate Gothic Light";
+	panose-1:2 14 5 7 2 2 6 2 4 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-noshow:yes;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;
+	font-weight:bold;}
+span.MsoCommentReference
+	{mso-style-noshow:yes;
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+<body lang="EN-US" link="blue" style="tab-interval:.5in" vlink="purple">
+<div class="Section1">
+<div style="mso-element:para-border-div;border:none;border-bottom:solid windowtext 1.0pt;
+mso-border-bottom-alt:solid windowtext .75pt;padding:0in 0in 1.0pt 0in">
+<p align="center" class="MsoNormal" style="text-align:center;border:none;
+mso-border-bottom-alt:solid windowtext .75pt;padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-size:18.0pt;font-family:"Copperplate Gothic Light"'><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:106.5pt;
+ height:57.75pt'>
+ <v:imagedata src="index_files/image001.png" o:title=""/>
+</v:shape><![endif]--><img height="77" src="index_files/image002.jpg" v:shapes="_x0000_i1025" width="142"/><o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;border:none;
+mso-border-bottom-alt:solid windowtext .75pt;padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-size:18.0pt;font-family:"Copperplate Gothic Light"'><o:p> </o:p></span></b></p>
+<p class="MsoNormal" style="border:none;mso-border-bottom-alt:solid windowtext .75pt;
+padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-size:18.0pt;
+font-family:"Copperplate Gothic Light"'>The Affinity Learning Project<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="border:none;mso-border-bottom-alt:solid windowtext .75pt;
+padding:0in;mso-padding-alt:0in 0in 1.0pt 0in"><b><span style='font-size:18.0pt;
+font-family:"Copperplate Gothic Light"'><o:p> </o:p></span></b></p>
+</div>
+<p class="MsoNormal"><b><span style='font-family:"Century Gothic"'><o:p> </o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Century Gothic";mso-bidi-font-weight:
+bold'>The <st1:placename w:st="on">National</st1:placename> <st1:placetype w:st="on">Center</st1:placetype> for Information Technology in Education
+(NCITE) at the <st1:place w:st="on"><st1:placetype w:st="on">University</st1:placetype>
+ of <st1:placename w:st="on">Nebraska-Lincoln</st1:placename></st1:place>
+requests National Science Foundation support through a Small Grant for
+Exploratory Research (SGER) to continue development of the <i style="mso-bidi-font-style:
+normal">Affinity Learning System</i>. Affinity was originally developed by
+NCITE through an NSF CCLI proof-of-concept grant (NSF DUE # 9950349).<span style="mso-spacerun:yes">  </span>Designed and validated as a mechanism for
+student-centered online course delivery, Affinity has also proven very
+effective as an educational research tool. Affinity lessons are developed by
+decomposing a topic into elements or “learning nodes” containing content
+presentation and assessment.<span style="mso-spacerun:yes">  </span>The
+learning nodes are interconnected to implement a progression of learning and,
+when necessary, to correct student misconceptions through remediation or
+augmentation.<span style="mso-spacerun:yes">  </span>Experiments using Affinity
+have given surprising insight into student learning strategies and
+misconceptions. Affinity has high potential to benefit research, inform
+educators, and improve online education.<span style="mso-spacerun:yes"> 
+</span>Despite significant potential to advance the state of the art, the
+inherent complexity of the current content/assessment authoring interface and
+the intrinsic challenge of decomposing lessons into learning components
+(“facets”) prevent generalized use and application by STEM educators. Resolving
+specific development difficulties for a generalized educational research and
+delivery software system does not fit neatly into a standard program funding
+category. Although some risk exists, NCITE feels that focused research and
+development can overcome the current barriers.<span style="mso-spacerun:yes"> 
+</span><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Century Gothic";mso-bidi-font-weight:
+bold'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Century Gothic";mso-bidi-font-weight:
+bold'><o:p> </o:p></span></p>
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
+<td style="width:95.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="128">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/index.html"><span style="color:windowtext;
+  text-decoration:none;text-underline:none">Home</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:95.75pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="128">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/history.html"><span style="color:windowtext;text-decoration:none;text-underline:none">History</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:95.75pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="128">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/project.html"><span style="color:windowtext;text-decoration:none;text-underline:none">NSF Project</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:95.75pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="128">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/people.html"><span style="color:
+  windowtext;text-decoration:none;text-underline:none">People</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:95.8pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="128">
+<p class="MsoNormal"><b><span style='font-size:14.0pt;font-family:"Copperplate Gothic Light"'><a href="http://cse.unl.edu/~lksoh/affinity/contact.html"><span style="color:windowtext;text-decoration:none;text-underline:none">Contact
+  Info</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+</table>
+<p class="MsoNormal"><span style='font-family:"Century Gothic"'><o:p> </o:p></span></p>
+</div>
+</body>
+</html>

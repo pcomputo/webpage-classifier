@@ -1,0 +1,1491 @@
+<html xmlns="http://www.w3.org/TR/REC-html40" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:st1="urn:schemas-microsoft-com:office:smarttags" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Word.Document" name="ProgId"/>
+<meta content="Microsoft Word 11" name="Generator"/>
+<meta content="Microsoft Word 11" name="Originator"/>
+<link href="capabilities4.0_files/filelist.xml" rel="File-List"/>
+<link href="capabilities4.0_files/editdata.mso" rel="Edit-Time-Data"/>
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>CXP+I-MINDS: Capabilities 4.0</title>
+<o:smarttagtype name="place" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype name="PlaceName" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<o:smarttagtype name="PlaceType" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>nobel khandaker</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Leen-Kiat Soh</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>539</o:TotalTime>
+  <o:Created>2007-09-17T17:38:00Z</o:Created>
+  <o:LastSaved>2007-09-17T17:38:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>3020</o:Words>
+  <o:Characters>17214</o:Characters>
+  <o:Company>Home</o:Company>
+  <o:Lines>143</o:Lines>
+  <o:Paragraphs>40</o:Paragraphs>
+  <o:CharactersWithSpaces>20194</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:\5B8B\4F53;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+@font-face
+	{font-family:"Eras Medium ITC";
+	panose-1:2 11 6 2 3 5 4 2 8 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:Times;
+	panose-1:2 2 6 3 5 4 5 2 3 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Times;
+	mso-fareast-font-family:Times;
+	mso-font-kerning:0pt;
+	mso-bidi-language:AR-SA;
+	mso-bidi-font-weight:normal;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:18.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Times;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:ZH-CN;
+	mso-bidi-language:AR-SA;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:7222870;
+	mso-list-template-ids:-1551751244;}
+@list l0:level1
+	{mso-level-start-at:5;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l0:level2
+	{mso-level-start-at:3;
+	mso-level-text:"%1\.%2\.";
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l0:level3
+	{mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l0:level4
+	{mso-level-text:"%1\.%2\.%3\.%4\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l0:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l0:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l0:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l0:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l0:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9\.";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-1.25in;}
+@list l1
+	{mso-list-id:41753724;
+	mso-list-template-ids:-857811366;}
+@list l1:level1
+	{mso-level-start-at:5;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l1:level2
+	{mso-level-start-at:2;
+	mso-level-text:"%1\.%2\.";
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l1:level3
+	{mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l1:level4
+	{mso-level-text:"%1\.%2\.%3\.%4\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l1:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l1:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l1:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l1:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l1:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9\.";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-1.25in;}
+@list l2
+	{mso-list-id:161505768;
+	mso-list-template-ids:-1360114470;}
+@list l2:level1
+	{mso-level-start-at:5;
+	mso-level-text:%1;
+	mso-level-tab-stop:21.0pt;
+	mso-level-number-position:left;
+	margin-left:21.0pt;
+	text-indent:-21.0pt;}
+@list l2:level2
+	{mso-level-start-at:6;
+	mso-level-text:"%1\.%2";
+	mso-level-tab-stop:21.0pt;
+	mso-level-number-position:left;
+	margin-left:21.0pt;
+	text-indent:-21.0pt;}
+@list l2:level3
+	{mso-level-text:"%1\.%2\.%3";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l2:level4
+	{mso-level-text:"%1\.%2\.%3\.%4";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l2:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l2:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l2:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l2:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l2:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-1.25in;}
+@list l3
+	{mso-list-id:655186262;
+	mso-list-type:hybrid;
+	mso-list-template-ids:67244742 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l4
+	{mso-list-id:843515419;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-365120424 67698703 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l4:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5
+	{mso-list-id:935404977;
+	mso-list-template-ids:1554431980;}
+@list l5:level1
+	{mso-level-start-at:5;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l5:level2
+	{mso-level-start-at:2;
+	mso-level-text:"%1\.%2\.";
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l5:level3
+	{mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l5:level4
+	{mso-level-text:"%1\.%2\.%3\.%4\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l5:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l5:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l5:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l5:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l5:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9\.";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-1.25in;}
+@list l6
+	{mso-list-id:1264453605;
+	mso-list-template-ids:-134700454;}
+@list l6:level1
+	{mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l6:level2
+	{mso-level-text:"%1\.%2\.";
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l6:level3
+	{mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l6:level4
+	{mso-level-text:"%1\.%2\.%3\.%4\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l6:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l6:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l6:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l6:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l6:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9\.";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-1.25in;}
+@list l7
+	{mso-list-id:1489983489;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-181116480 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l7:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+@list l8
+	{mso-list-id:1611889595;
+	mso-list-template-ids:-152037142;}
+@list l8:level1
+	{mso-level-start-at:3;
+	mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l8:level2
+	{mso-level-start-at:4;
+	mso-level-text:"%1\.%2\.";
+	mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l8:level3
+	{mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l8:level4
+	{mso-level-text:"%1\.%2\.%3\.%4\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l8:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l8:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l8:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l8:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l8:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9\.";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-1.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-US" link="blue" style="tab-interval:.5in" vlink="purple">
+<div class="Section1">
+<table border="0" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
+<td style="width:90.9pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="121">
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-fareast-font-family:SimSun"><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+   coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+   filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:80.25pt;
+   height:81.75pt'>
+   <v:imagedata src="capabilities4.0_files/image001.png" o:title="IMINDSLogo"/>
+  </v:shape><![endif]--><img height="109" src="capabilities4.0_files/image002.gif" v:shapes="_x0000_i1025" width="107"/><o:p></o:p></span></b></p>
+</td>
+<td style="width:387.9pt;padding:0in 5.4pt 0in 5.4pt" width="517">
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-size:36.0pt;font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;mso-bidi-font-family:Tahoma'>CXP-Powered I-MINDS <o:p></o:p></span></b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-size:36.0pt;font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;mso-bidi-font-family:Tahoma;color:#99CC00'>Capabilities 4.0</span></b><b style="mso-bidi-font-weight:normal"><span style='font-size:36.0pt;font-family:
+  "Eras Medium ITC";mso-fareast-font-family:SimSun;color:#99CC00'><o:p></o:p></span></b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-fareast-font-family:SimSun"><o:p> </o:p></span></b></p>
+</td>
+</tr>
+</table>
+<p class="MsoNormal"><o:p> </o:p></p>
+<div align="center">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="width:485.95pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="648">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;background:red;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds.html"><span style="text-decoration:
+  none;text-underline:none">HOME</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/current.html"><span style="text-decoration:none;text-underline:none">CURRENT STATUS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:red;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/capabilities.html"><span style="text-decoration:none;text-underline:none">CXP+I-MINDS CAPABILITIES</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/team.html"><span style="text-decoration:none;text-underline:none">TEAM</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:green;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;mso-bidi-font-family:Arial;color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/history.html"><span style="color:white;text-decoration:none;text-underline:none">HISTORY</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;mso-bidi-font-family:Arial;color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/publications.html"><span style="color:white;text-decoration:none;text-underline:none">PUBLICATIONS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:green;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;mso-bidi-font-family:Arial;color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/distribution.html"><span style="color:white;text-decoration:none;text-underline:none">SOFTWARE
+  DISTRIBUTION</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;mso-bidi-font-family:Arial;color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/contact.html"><span style="color:white;text-decoration:none;text-underline:none">CONTACT</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+</table>
+</div>
+<p class="MsoNormal"><o:p> </o:p></p>
+<p class="MsoNormal" style="margin-left:24.0pt;text-indent:-24.0pt;mso-list:l6 level2 lfo9;
+tab-stops:list 24.0pt"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+"Eras Medium ITC";mso-bidi-font-family:"Eras Medium ITC";color:red'><span style="mso-list:Ignore">1.1.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC";
+color:red'>Introduction<br style="mso-special-character:line-break"/>
+<br style="mso-special-character:line-break"/>
+<o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>IMINDS
+Capability (CXP+I-MINDS) is an online collaboration system intelligently
+supported by a multiagent system integrated into the <span class="SpellE">ConferenceXP</span>
+framework designed by Microsoft Research.<span style="mso-spacerun:yes"> 
+</span>It can be used to support groups of employees in corporate environments,
+as well as students in educational settings by serving as a computer supported,
+collaborative learning (CSCL) system designed to promote learning through group
+activities. <o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>In version 1, we
+began by creating two simple applications:<span style="mso-spacerun:yes"> 
+</span><span class="SpellE">BuddyGroup</span>, which allowed for synchronous
+communications between groups of users, and <span class="SpellE">QuestionAnswering</span>,
+which allowed users to ask questions of a moderator, who could then respond
+with an appropriate answer.<span style="mso-spacerun:yes">  </span>In <span class="SpellE">QuestionAnswering</span>, all questions were parsed for important
+keywords and were automatically scored using a machine learning algorithm to
+assist the moderator in knowing which questions were most important.<span style="mso-spacerun:yes">  </span><span class="SpellE">BuddyGroup</span> also
+provided a form for viewing performance statistics tracked for all members of
+the user’s group.<span style="mso-spacerun:yes">  </span>All messages passed
+between users were automatically tracked and stored in a <span class="SpellE">MySQL</span>
+database for archival purposes.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>In version 2, we
+added several tools for further utilizing the information stored in our
+database.<span style="mso-spacerun:yes">  </span><span class="SpellE">DatabaseSearch</span>
+was created to allow users to search through archived data and find previously
+stored messages based on any combination of metadata stored about the
+messages.<span style="mso-spacerun:yes">  </span>It also allowed users to find
+other users of the system, and learn how active they were.<span style="mso-spacerun:yes">  </span><span class="SpellE">VirtualClassroom</span>
+collected statistics about every user and provided an overview of current
+performance for moderators.<span style="mso-spacerun:yes">  </span>Users with
+problematic areas (as determined by thresholds set by the moderator) were
+flagged for future observation.<span style="mso-spacerun:yes">  </span>To
+further analyze each statistic for every user, moderators could use <span class="SpellE">StatCharts</span> to view bar charts of every statistic for a
+particular user, or one statistic for every user.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>In version 3,
+our goal was to combine all of our features into one capability.<span style="mso-spacerun:yes">  </span>This served two purposes:<span style="mso-spacerun:yes">  </span>1) it made things easier for users, who now
+had all functionality in one place, and 2) it made things easier for underlying
+user and moderator agents because they could now access all available
+information about user behavior and actions.<span style="mso-spacerun:yes"> 
+</span>In previous versions, all intelligent functionality was contained in the
+applications themselves, but 3.0 allowed us to merge all agent functionality
+into one object.<span style="mso-spacerun:yes">  </span>We also redesigned our
+database for version 3, redoing the hierarchy of tracking.<span style="mso-spacerun:yes">  </span>Before, all events recorded in CXP+I-MINDS
+were associated with a specific session (i.e., a discrete instance of system
+usage).<span style="mso-spacerun:yes">  </span>In 3.0 and beyond, sessions were
+now tied to specific classrooms, which allowed us to further separate data
+between different classes using the same database.<span style="mso-spacerun:yes">  </span>Finally, for 3.0, we also revised the CXP
+networking stack (in CXP version 3.5) to use the Pragmatic General Multicast
+(PGM) protocol to test reliability and latency in wireless environments.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>In version 4, we
+had several primary goals: 1) build a system robust enough to operate in both
+wired and wireless environments,<span style="mso-spacerun:yes">  </span>2)
+extend the existing functionalities to include 2 new modes – <span class="SpellE">StructuredChat</span> and <span class="SpellE">QuizMode</span>, 3)
+reorganize the agent functionalities into specialties which are components that
+specialize in one area of tasks, 4) create an XML configuration file to give
+users more flexibility in setting options, 5) add network tracking for PGM and
+wireless environments, and 6) redo the main CXP+I-MINDS form to offer more
+functionality and be more user friendly.<span style="mso-spacerun:yes"> 
+</span>All coding for 4.0 was moved to Visual Studio 2005 to use .NET 2.0 and
+be compliant with CXP version 4.0.<span style="mso-spacerun:yes"> 
+</span>Statistic tracking was also redone to provide less reliance on database
+queries and faster performance, and the statistical analysis tools were redone
+to offer better user interfaces and to take advantage of the new tracking
+mechanisms.<span style="mso-spacerun:yes">  </span>Finally, <span class="SpellE">BuddyGroup</span>
+was renamed to <span class="SpellE">BuddyChat</span> to avoid confusion when
+talking about the application and groups of buddies.<b style="mso-bidi-font-weight:
+normal"><br style="mso-special-character:line-break"/>
+<br style="mso-special-character:line-break"/>
+</b><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:24.0pt;text-indent:-24.0pt;mso-list:l6 level2 lfo9;
+tab-stops:list 24.0pt"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+"Eras Medium ITC";mso-bidi-font-family:"Eras Medium ITC";color:red'><span style="mso-list:Ignore">1.2.<span style='font:7.0pt "Times New Roman"'> </span></span></span></b><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC";
+color:red'>Wireless Issues and Logger Version<o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>After a brief
+deployment of version 3 in a wireless classroom environment, we quickly
+discovered several flaws in our overall design.<span style="mso-spacerun:yes"> 
+</span>One major flaw was our handling of database connections.<span style="mso-spacerun:yes">  </span>In version 3, every object that needed
+database access was given its own database connection for running queries.<span style="mso-spacerun:yes">  </span>However, the database connections use TCP/IP
+for their data transmissions, so in a classroom of over 30 students, where each
+student has multiple connections, this resulted in too much concurrent TCP
+traffic which slowed down the user’s connections due to loss and throughput
+reductions and caused serious usability issues with 3.0.<span style="mso-spacerun:yes">  </span>This was never a problem over wired
+connections because they suffer from far less loss than wireless connections,
+so slowdown was never previously an issue.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>To counter this
+problem, we built 4.0 with reduction in mind – how can we reduce the number of
+database connections to ensure faster usability?<span style="mso-spacerun:yes">  </span>How can we reduce the overall amount of
+traffic being sent to protect against loss and need for retransmissions through
+loss recovery?<span style="mso-spacerun:yes">  </span>Reducing the impact of
+CXP+I-MINDS on the network infrastructure it resides in allows our system to be
+more robust and scalable, which are two important properties for a good
+computer support collaborative learning (CSCL) application to have.<span style="mso-spacerun:yes">  </span>To achieve our goal, we designed a new
+paradigm for database access.<span style="mso-spacerun:yes">  </span>First of
+all, we eliminated all database connections from the software except for one
+per user, which is shared by all of the objects within I-MINDS.<span style="mso-spacerun:yes">  </span>We further added locks to protect against
+multiple threads accessing the connection at once and implemented a stronger
+error-prevention system using more try-catch handling of exceptions and error
+logging.<span style="mso-spacerun:yes">  </span>We also recognized that even 1
+connection per user might be too many in wireless environments, so we designed
+a logger system, where one instance of CXP+I-MINDS acts as a database mediator
+for all participants.<span style="mso-spacerun:yes">  </span>Whenever a user’s
+software or agent needs to run a query, it simply sends a message to the
+logger, which runs the query and returns the results.<span style="mso-spacerun:yes">  </span>However, such a system introduces extra
+messages into the system (especially because I-MINDS relies heavily on its
+database to collect and store important information about users’ behavior and
+actions), so we had to carefully design our message passing and refine our old
+procedures to prevent the system from becoming congested with messages.<span style="mso-spacerun:yes">  </span>Also, such a system is not necessary in wired
+environments, so whether or not to use a local database connection can be set
+in our new I-MINDS XML configuration file (described in section 1.5).<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC";color:red'>1.3<span class="GramE">.<span style="mso-spacerun:yes">  </span>New</span> Modes</span></b><span style='font-family:"Eras Medium ITC";color:red'><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>To further
+facilitate collaboration and learning amongst users utilizing CXP+I-MINDS, we
+have introduced two new modes:<span style="mso-spacerun:yes">  </span>1) <span class="SpellE">StructuredChat</span>, and 2) <span class="SpellE">QuizMode</span>.<span style="mso-spacerun:yes">  </span><span class="SpellE">StructuredChat</span> is
+just like <span class="SpellE">BuddyChat</span>, allowing students to carry on
+chat-based discussions about multiple topics.<span style="mso-spacerun:yes"> 
+</span>The main difference between the two modes is that <span class="SpellE">BuddyChat</span>
+allows users to select their own groups, which <span class="SpellE">StructuredChat</span>
+allows moderators to choose the groups for the students.<span style="mso-spacerun:yes">  </span><span class="SpellE">StructuredChat</span> is
+described more in detail in Section 3.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span class="SpellE"><span style='font-family:"Eras Medium ITC"'>QuizMode</span></span><span style='font-family:"Eras Medium ITC"'> is primarily for use in educational or
+training settings and allows moderators (teachers) to create questions and
+quizzes to give to users (students) to assess their understanding of concepts
+taught.<span style="mso-spacerun:yes">  </span>Quizzes can either be given to
+every student to be taken individually, or they can be given to structured
+groups to work on collaboratively.<span style="mso-spacerun:yes">  </span><span class="SpellE">QuizMode</span> is described further in Section 4.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC";color:red'>1.4<span class="GramE">.<span style="mso-spacerun:yes">  </span>Agent</span> Specialties<o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span class="GramE"><span style='font-family:"Eras Medium ITC"'>As
+the functionalities and abilities of CXP+I-MINDS grow, so does the underlying
+user and moderator agents.</span></span><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes">  </span>To facilitate future changes and maintain
+current features, we have moved much of the agent functionalities out of its
+main class and into specialties designed to work with specific tasks.<span style="mso-spacerun:yes">  </span>For example, <span class="SpellE">BuddyChat</span>
+and <span class="SpellE">StructuredChat</span> each have their own specialties
+which contain all of the intelligence necessary for generating statistical
+information about user behavior, notifying users of current conditions (such as
+many unread messages in a topic or low contribution levels), and finding new
+buddies based on topic discussions (in <span class="SpellE">BuddyChat</span>
+only).<span style="mso-spacerun:yes">  </span>A modeling specialty was also
+created to handle all modeling tasks, such as tracking statistical information
+from the various modes and for tracking the current network conditions (if
+applicable).<span style="mso-spacerun:yes">  </span>This allows us to build
+statistical information incrementally, instead of relying on database queries
+to generate values on demand (as was done in previous versions of CXP+I-MINDS),
+greatly speeding up the analysis tools described in Section 5.<span style="mso-spacerun:yes">  </span>Finally, a logger specialty was designed to
+handle all database access for users and for archiving message content.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC";color:red'>1.5<span class="GramE">.<span style="mso-spacerun:yes">  </span>Configuration</span> File<o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>In previous
+versions of CXP+I-MINDS, important information regarding the behavior of the
+application was stored in various places.<span style="mso-spacerun:yes"> 
+</span>For example, database connection information was stored in system <span class="SpellE">DSNs</span> in Windows.<span style="mso-spacerun:yes"> 
+</span>However, during one deployment, we discovered how difficult this design
+can be because users tend to forget to set the proper settings, and <span class="SpellE">DSNs</span> are not easy to find unless you are already familiar
+with them.<span style="mso-spacerun:yes">  </span>To make the system more
+usable and prevent errors, we moved all configuration information into one XML
+file which is read upon starting CXP+I-MINDS.<span style="mso-spacerun:yes"> 
+</span>Within this configuration file is the database connection (with
+encrypted password for security), whether or not we want to use our own
+database connection or rely on a logger, and whether or not to enter debug mode
+for extra error messages.<span style="mso-spacerun:yes">  </span>For PGM within
+the CXP networking stack, we also created a similar configuration system which
+allows users to set all of <span class="SpellE">PGM’s</span> options (whether or
+not to use late join, FEC, etc.) in one place.<span style="mso-spacerun:yes"> 
+</span>This file also allows different settings for each socket using PGM.<span style="mso-spacerun:yes">  </span>When we ported our PGM code to CXP 4.0, we
+retained the UDP protocol, and the networking configuration file also allows
+user to choose which protocol they would like to employ.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC";color:red'>1.6<span class="GramE">.<span style="mso-spacerun:yes">  </span>Network</span> Tracking<o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>One of our goals
+as a research team is to provide an online collaboration system robust in
+multiple networking environments.<span style="mso-spacerun:yes">  </span>To
+achieve this goal, we have been experimenting with the PGM networking protocol
+in wireless environments.<span style="mso-spacerun:yes">  </span>Unlike UDP
+(which is often chosen for wireless networking), PGM provides reliability
+through loss detection and recovery while maintaining high throughput (unlike
+traditional TCP connections).<span style="mso-spacerun:yes">  </span>In order
+to get a better understanding of what is going on at the network level, we have
+added network tracking to version 4 of I-MINDS.<span style="mso-spacerun:yes"> 
+</span>Network tracking occurs at 3 levels: 1) the device level, 2) the socket
+level, and 3) the application level.<span style="mso-spacerun:yes">  </span>At
+the device level, if users are using a wireless card installed with a special
+NDIS protocol driver (which we can provide to users), the modeling specialty
+can gather information about the network connection including which network and
+access point (AP) the user is connected to, the signal strength, and the number
+of available <span class="SpellE">APs</span>.<span style="mso-spacerun:yes"> 
+</span>At the socket level, if the users are using PGM, we can get valuable
+statistical information from the operating system, including how many packets
+have been lost, how many have been recovered, what the current transmission
+rate is, etc.<span style="mso-spacerun:yes">  </span>These statistics are
+available from both the sender and receiver perspective.<span style="mso-spacerun:yes">  </span>Finally, at the application level, the user
+agents occasionally pass special messages between one another to determine the
+current reliability and latency in the network.<span style="mso-spacerun:yes"> 
+</span><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>Right now,
+network tracking is only performed for the purposes of our research for testing
+network stability.<span style="mso-spacerun:yes">  </span>However, we are
+working on adding functionality to the agents to allow them to use information
+about the current network conditions to adjust their transmission strategies to
+alleviate pressure on the network and improve overall performance. <o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC";color:red'>1.7<span class="GramE">.<span style="mso-spacerun:yes">  </span>Main</span> Form<o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>To make
+CXP+I-MINDS easier to use while providing increased capabilities, we redesigned
+the main form to provide easy access to each mode and tool.<span style="mso-spacerun:yes">  </span>We have also improved the functionality for
+joining and leaving classrooms.<span style="mso-spacerun:yes">  </span>Finally,
+we have added an online user list to show users and moderators who are
+currently in the same classroom and which modes they are using.<span style="mso-spacerun:yes">  </span>This same list also allows participants to
+invite others to use the different modes.<span style="mso-spacerun:yes"> 
+</span>For users, it shows whether or not online participants are in their
+buddy or structured groups, as shown in Figure 1.1.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shape id="_x0000_i1028"
+ type="#_x0000_t75" style='width:288.75pt;height:160.5pt'>
+ <v:imagedata src="capabilities4.0_files/image003.png" o:title="Main Form"/>
+</v:shape><![endif]--><img border="0" height="214" src="capabilities4.0_files/image004.jpg" v:shapes="_x0000_i1028" width="385"/><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Figure 1.1: Main IMINDS
+Form for User Version<o:p></o:p></span></b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'><br style="mso-special-character:line-break"/>
+<br style="mso-special-character:line-break"/>
+</span></b><span style='font-family:"Eras Medium ITC"'><o:p></o:p></span></p>
+<table border="0" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
+<td style="width:45.9pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="61">
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-fareast-font-family:SimSun"><!--[if gte vml 1]><v:shape id="_x0000_i1026"
+   type="#_x0000_t75" style='width:23.25pt;height:24pt'>
+   <v:imagedata src="capabilities4.0_files/image001.png" o:title="IMINDSLogo"/>
+  </v:shape><![endif]--><img border="0" height="32" src="capabilities4.0_files/image005.gif" v:shapes="_x0000_i1026" width="31"/><o:p></o:p></span></b></p>
+</td>
+<td style="width:273.3pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="364">
+<p class="MsoNormal"><span class="SpellE"><b style="mso-bidi-font-weight:normal"><span style='font-size:16.0pt;font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;color:#99CC00'>QuestionAnswering</span></b></span><b style="mso-bidi-font-weight:
+  normal"><span style="mso-fareast-font-family:SimSun"><o:p></o:p></span></b></p>
+</td>
+<td style="width:159.6pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="213">
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-size:16.0pt;font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;color:#FF9900'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/capabilities/questionanswering4.0.html">More
+  Info</a><o:p></o:p></span></b></p>
+</td>
+</tr>
+</table>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>As with previous
+versions, the question answering mode in version 4 retains both the user and
+moderator version.<span style="mso-spacerun:yes">  </span>Both versions were
+originally based on the chat capability that comes with <span class="SpellE">ConferenceXP</span>.<span style="mso-spacerun:yes">  </span>In version 3, the moderator version was
+heavily modified to enable lists of previously received questions to be
+displayed and sorted.<span style="mso-spacerun:yes">  </span>Based on feedback
+from a test run by <st1:place w:st="on"><st1:placename w:st="on">Bellevue</st1:placename>
+<st1:placetype w:st="on">University</st1:placetype></st1:place>
+(www.bellevue.edu) during the summer of 2006, we modified the moderator form to
+make it more <span class="GramE">user</span> friendly.<span style="mso-spacerun:yes">  </span>The first major change in the moderator for
+is the inclusion of tabs to partition the messages into received, answered and
+discarded.<span style="mso-spacerun:yes">  </span>We also added the ability to
+reset an answered or discarded message.<span style="mso-spacerun:yes"> 
+</span>The second major change was to allow moderators to send messages that
+are not responses.<span style="mso-spacerun:yes">  </span>This feature is
+described in more detail below.<span style="mso-spacerun:yes">  </span>Last but
+not least, moderator can broadcast responses to all users, instead of just the
+one who sent the question.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<table border="0" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
+<td style="width:45.9pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="61">
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-fareast-font-family:SimSun"><!--[if gte vml 1]><v:shape id="_x0000_i1027"
+   type="#_x0000_t75" style='width:23.25pt;height:24pt'>
+   <v:imagedata src="capabilities4.0_files/image001.png" o:title="IMINDSLogo"/>
+  </v:shape><![endif]--><img border="0" height="32" src="capabilities4.0_files/image005.gif" v:shapes="_x0000_i1027" width="31"/><o:p></o:p></span></b></p>
+</td>
+<td style="width:273.3pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="364">
+<p class="MsoNormal"><span class="SpellE"><b style="mso-bidi-font-weight:normal"><span style='font-size:16.0pt;font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;color:#99CC00'>BuddyChat</span></b></span><b style="mso-bidi-font-weight:
+  normal"><span style='font-size:16.0pt;font-family:"Eras Medium ITC";
+  mso-fareast-font-family:SimSun;color:#99CC00'> and <span class="SpellE">StructuredChat</span></span></b><b style="mso-bidi-font-weight:normal"><span style="mso-fareast-font-family:
+  SimSun"><o:p></o:p></span></b></p>
+</td>
+<td style="width:159.6pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="213">
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-size:16.0pt;font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;color:#FF9900'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/capabilities/chat4.0.html">More
+  Info</a><o:p></o:p></span></b></p>
+</td>
+</tr>
+</table>
+<p class="MsoNormal"><o:p> </o:p></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>In version 2,
+buddy group was its own capability modified from the chat capability included
+with <span class="SpellE">ConferenceXP</span>, which allowed users to choose a
+group of buddies that they wished to converse with.<span style="mso-spacerun:yes">  </span>In CXP+I-MINDS version 3, buddy group became
+a capability mode of merged capability.<span style="mso-spacerun:yes"> 
+</span>Along with the additions of advanced chat functionality it included a
+buddy manager from which students could alter who is and who is not included in
+their buddy group.<span style="mso-spacerun:yes">  </span>In version 4, the
+options menu from which to access ‘Display Statistics’, ‘Database Search’ and
+‘Manage Buddy’ were moved to the main CXP+I-MINDS form.<span style="mso-spacerun:yes">  </span>Also, with the addition of moderator assigned
+structured groups, a new communication mode was added named Structured Chat.
+The functionality is nearly identical, with the exceptions that users cannot
+change their structured group members, and if their structured group is changed
+by the administrator, the user will receive the current topics being discussed in
+the new group they enter.<span style="mso-spacerun:yes">  </span>Because of
+their marked similarities, we will only describe the functionality of
+Structured Group Chat, although the description applies to both.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<table border="0" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
+<td style="width:45.9pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="61">
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-fareast-font-family:SimSun"><!--[if gte vml 1]><v:shape id="_x0000_i1029"
+   type="#_x0000_t75" style='width:23.25pt;height:24pt'>
+   <v:imagedata src="capabilities4.0_files/image001.png" o:title="IMINDSLogo"/>
+  </v:shape><![endif]--><img border="0" height="32" src="capabilities4.0_files/image005.gif" v:shapes="_x0000_i1029" width="31"/><o:p></o:p></span></b></p>
+</td>
+<td style="width:273.3pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="364">
+<p class="MsoNormal"><span class="SpellE"><b style="mso-bidi-font-weight:normal"><span style='font-size:16.0pt;font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;color:#99CC00'>QuizMode</span></b></span><b style="mso-bidi-font-weight:
+  normal"><span style="mso-fareast-font-family:SimSun"><o:p></o:p></span></b></p>
+</td>
+<td style="width:159.6pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="213">
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-size:16.0pt;font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;color:#FF9900'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/capabilities/quizmode.html">More
+  Info</a><o:p></o:p></span></b></p>
+</td>
+</tr>
+</table>
+<p class="MsoNormal"><o:p> </o:p></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>Another new mode
+introduced in version 4 of CXP+I-MINDS is <span class="SpellE">QuizMode</span>.<span style="mso-spacerun:yes">  </span>This mode is especially useful in educational
+settings and allows moderators to create quizzes for users to take.<span style="mso-spacerun:yes">  </span>All quiz content is stored in our database
+for automatic retrieval when starting the mode, and all quiz results are
+persistently stored as well for future analysis using the <span class="SpellE">QuizStats</span>
+tool (described in Section 5.4).<span style="mso-spacerun:yes">  </span>For
+each quiz, moderators can also include support material in the form of files
+for users to open that might provide more information or help on particular
+questions.<span style="mso-spacerun:yes">  </span>Support material are
+automatically saved in the CXP+IMINDS directory on both moderator and user
+machines to protect against accidental deletion of the original file and to insure
+that the files are available until the moderator no longer wants them.<span style="mso-spacerun:yes">  </span>Please note that due to <span class="SpellE">ConferenceXP</span>
+transmission limitations, total support material for a particular quiz cannot
+be larger than 750KB in size.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<table border="0" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
+<td style="width:45.9pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="61">
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-fareast-font-family:SimSun"><!--[if gte vml 1]><v:shape id="_x0000_i1030"
+   type="#_x0000_t75" style='width:23.25pt;height:24pt'>
+   <v:imagedata src="capabilities4.0_files/image001.png" o:title="IMINDSLogo"/>
+  </v:shape><![endif]--><img border="0" height="32" src="capabilities4.0_files/image005.gif" v:shapes="_x0000_i1030" width="31"/><o:p></o:p></span></b></p>
+</td>
+<td style="width:273.3pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="364">
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-size:16.0pt;font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;color:#99CC00'>Analysis Tools</span></b><b style="mso-bidi-font-weight:
+  normal"><span style="mso-fareast-font-family:SimSun"><o:p></o:p></span></b></p>
+</td>
+<td style="width:159.6pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="213">
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-size:16.0pt;font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;color:#FF9900'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/capabilities/analysistools4.0.html">More
+  Info</a><o:p></o:p></span></b></p>
+</td>
+</tr>
+</table>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>To assist both
+users and moderators analyze the data tracked by CXP+I-MINDS, we have designed
+several tools:<span style="mso-spacerun:yes">  </span>1) <span class="SpellE">VirtualClassroom</span>,
+2) Statistics, 3) <span class="SpellE">DatabaseSearch</span>, and 4) <span class="SpellE">QuizStats</span>.<span style="mso-spacerun:yes">  </span>All four
+of these tools are available in the Moderator version, while users only have
+Statistics and <span class="SpellE">DatabaseSearch</span>. <span class="SpellE">QuizStats</span>
+is the only new analysis tool in version 4 of CXP+I-MINDS, but we have modified
+<span class="SpellE">VirtualClassroom</span> to provide more statistical
+information based on the increase in statistical tracking done in version
+4.<span style="mso-spacerun:yes">  </span>In versions 2 and 3, <span class="SpellE">VirtualClassroom</span> had a limited set of statistics, and also
+included an overview of all message traffic from the system in the form of
+message and topic lists, but we removed these because they were not used during
+deployment.<span style="mso-spacerun:yes">  </span>Also, for version 4, we
+included the Statistics tool in the user version to replace its text-based
+predecessor, which was available in all prior versions of CXP+I-MINDS, to accommodate
+the increase in statistical tracking and to provide information in an easier to
+analyze format.<span style="mso-spacerun:yes">  </span><span class="SpellE">DatabaseSearch</span>
+has remained unchanged from its design in version 3.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>All statistical
+modeling is done by each user agent based on their user’s interactions with
+other users.<span style="mso-spacerun:yes">  </span>Moderators receive their
+statistics from the user agents and the values stored in the database.<span style="mso-spacerun:yes">  </span>For version 4, we added new statistics, and
+grouped the statistics by mode instead of by type as was done in previous
+versions.<span style="mso-spacerun:yes">  </span>The current set of statistics
+used by the Virtual Classroom and Statistics tools are shown in the tables
+below:<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<div align="center">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:425.95pt;margin-left:68.45pt;border-collapse:collapse;border:
+ none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0in 5.4pt 0in 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
+ .5pt solid windowtext" width="568">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:173.7pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" width="232">
+<p align="center" class="MsoNormal" style="text-align:center"><span class="SpellE"><b style="mso-bidi-font-weight:normal">QuestionAnswering</b></span></p>
+</td>
+<td style="width:252.25pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="336">
+<p align="center" class="MsoNormal" style="text-align:center"><span class="SpellE"><b style="mso-bidi-font-weight:normal">BuddyChat/StructuredChat</b></span><b style="mso-bidi-font-weight:normal"><o:p></o:p></b></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:173.7pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="232">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none">Questions
+  Asked Per Session</p>
+</td>
+<td style="width:252.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" width="336">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none">Messages
+  Sent Per Session</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2">
+<td style="width:173.7pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="232">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none">Questions
+  Answered Per Session</p>
+</td>
+<td style="width:252.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" width="336">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none">Number
+  of Topics Started Per Session</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:3">
+<td style="width:173.7pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="232">
+<p class="MsoNormal">Questions Broadcast Per Session</p>
+</td>
+<td style="width:252.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" width="336">
+<p class="MsoNormal">Number of Topics Started by Others Per Session</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:4">
+<td style="width:173.7pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="232">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none">Average
+  Question Length</p>
+</td>
+<td style="width:252.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" width="336">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none">Responses
+  Received Per Session</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:5">
+<td style="width:173.7pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="232">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none">Average
+  Keywords in Questions</p>
+</td>
+<td style="width:252.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" width="336">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none">Average
+  Dialog in Topics Started</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:6">
+<td style="width:173.7pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="232">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none">Average
+  Question Score</p>
+</td>
+<td style="width:252.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" width="336">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none">Average
+  Self Dialog Improvement</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:7">
+<td style="width:173.7pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="232">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none">Max
+  Question Score</p>
+</td>
+<td style="width:252.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" width="336">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none">Average
+  Other Dialog Improvement</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes">
+<td style="width:173.7pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="232">
+<p class="MsoNormal">Min Question Score</p>
+</td>
+<td style="width:252.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" width="336">
+<p class="MsoNormal">Average Response Time</p>
+</td>
+</tr>
+</table>
+</div>
+<p class="MsoNormal"><o:p> </o:p></p>
+<div align="center">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:226.35pt;margin-left:268.05pt;border-collapse:collapse;
+ border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:.5pt solid windowtext;
+ mso-border-insidev:.5pt solid windowtext" width="302">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:226.35pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" width="302"><span style='font-size:
+  12.0pt;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA'><br clear="all" style="page-break-before:always"/>
+<br clear="all" style="page-break-before:always"/>
+</span>
+<p align="center" class="MsoNormal" style="text-align:center"><span class="SpellE"><b style="mso-bidi-font-weight:normal">QuizMode</b></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1">
+<td style="width:226.35pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="302">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none">Number
+  of Quizzes</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:2">
+<td style="width:226.35pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="302">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none">Percent
+  of Quizzes Completed on Time</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:3">
+<td style="width:226.35pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="302">
+<p class="MsoNormal">Average Quiz Duration</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:4">
+<td style="width:226.35pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="302">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none">Average
+  Questions Per Quiz</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:5">
+<td style="width:226.35pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="302">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none">Percent
+  of Questions Seen</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:6">
+<td style="width:226.35pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="302">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none">Percent
+  of Questions Correct</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:7">
+<td style="width:226.35pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="302">
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none">Percent
+  of Questions Incorrect</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:8">
+<td style="width:226.35pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="302">
+<p class="MsoNormal">Percent of Questions Unanswered</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:9">
+<td style="width:226.35pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="302">
+<p class="MsoNormal">Percent of Points Earned</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:10">
+<td style="width:226.35pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="302">
+<p class="MsoNormal">Average Token Requests Per Quiz*</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:11">
+<td style="width:226.35pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="302">
+<p class="MsoNormal">Average Tokens Granted Per Quiz*</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:12">
+<td style="width:226.35pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="302">
+<p class="MsoNormal">Questions Seen With Token Per Quiz*</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:13">
+<td style="width:226.35pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="302">
+<p class="MsoNormal">Questions Answered With Token Per Quiz*</p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:14;mso-yfti-lastrow:yes">
+<td style="width:226.35pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" width="302">
+<p class="MsoNormal">Average Time With Token Per Quiz*</p>
+</td>
+</tr>
+</table>
+</div>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'>* Collaborative Quiz only<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Tables 5.1 <span class="GramE">-<span style="mso-spacerun:yes">  </span>5.3</span>:<span style="mso-spacerun:yes">  </span>Statistics for each Mode<o:p></o:p></span></b></p>
+<p class="MsoNormal"><o:p> </o:p></p>
+<div align="center">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="width:485.95pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="648">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;background:red;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds.html"><span style="text-decoration:
+  none;text-underline:none">HOME</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/current.html"><span style="text-decoration:none;text-underline:none">CURRENT STATUS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:red;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/capabilities.html"><span style="text-decoration:none;text-underline:none">CXP+I-MINDS CAPABILITIES</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/team.html"><span style="text-decoration:none;text-underline:none">TEAM</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:green;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;mso-bidi-font-family:Arial;color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/history.html"><span style="color:white;text-decoration:none;text-underline:none">HISTORY</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;mso-bidi-font-family:Arial;color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/publications.html"><span style="color:white;text-decoration:none;text-underline:none">PUBLICATIONS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:green;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;mso-bidi-font-family:Arial;color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/distribution.html"><span style="color:white;text-decoration:none;text-underline:none">SOFTWARE
+  DISTRIBUTION</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-fareast-font-family:
+  SimSun;mso-bidi-font-family:Arial;color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/contact.html"><span style="color:white;text-decoration:none;text-underline:none">CONTACT</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+</table>
+</div>
+<p class="MsoNormal"><o:p> </o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
+</div>
+</body>
+</html>

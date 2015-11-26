@@ -1,0 +1,68 @@
+<!--
+Design by Bryant Smith
+http://www.bryantsmith.com
+http://www.aszx.net
+email: template [-at-] bryantsmith [-dot-] com
+Released under Creative Commons Attribution 2.5 Generic.  In other words, do with it what you please; but please leave the link if you'd be so kind :)
+
+Name       : An Ocean of Sky
+Description: One column, with top naviation.  All divs, validations: XHTML Strict 1.0 & CSS
+Version    : 1.0
+Released   : 20081009
+--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="anoceanofsky.css" rel="stylesheet" type="text/css"/>
+<title>Brittany Duncan's Website</title>
+</head>
+<body>
+<div id="page">
+<div class="topNaviagationLink"><a href="index.html">Home</a></div>
+<div class="topNaviagationLink"><a href="publications.html">Publications</a></div>
+<div class="topNaviagationLink"><a href="teaching.html">Teaching</a></div></div>
+<div id="mainPicture">
+<div class="picture">
+<div id="headerTitle">Brittany A. Duncan, Ph.D.</div>
+<div id="headerSubtext">Assistant Professor<br/>
+            University of Nebraska-Lincoln<br/>
+            Computer Science and Engineering<br/>
+            365 Avery Hall<br/>
+            Lincoln, NE 68588<br/>
+            402-472-5073<br/>
+            bduncan [at] unl [dot] edu</div>
+</div>
+</div>
+<div class="contentBox">
+<div class="innerBox">
+<div class="contentTitle">Research Interests</div>
+<div class="contentText"><br/> <p>My research is focused at the intersection of
+          Artificial Intelligence, Human-Robot Interaction, and Unmanned
+          Systems.  I have researched both the ethical ramifications of
+          warfare robots and the interactions between humans and robots in
+          rescue environments, with a specific focus on small Unmanned
+          Aerial Vehicles (see<a href="http://www.smithsonianmag.com/science-nature/why-people-comfortable-with-small-drones-180951433/"> Smithsonian
+          Magazine</a>, June 2014).  I approach
+          interactions with small Unmanned Aerial Vehicles through an
+          exploration of behavior-based robotics and cognitive science
+          principles.  Additionally, I have been involved in extensive
+          fieldwork at the Center for Robot-Assisted Search and Rescue
+          including 6 exercises and a deployment in 2014 to the SR-530
+          mudslides in Oso, Washington.</p></div>
+<div class="contentTitle">About Me</div>
+<div class="contentText"><br/><p>I am an Assistant Professor in the
+            Computer Science and Engineering Department at the University of
+            Nebraska-Lincoln.  I am a Faculty Member of the <a href="http://nimbus.unl.edu/">NIMBUS Lab</a>, where we study
+            unmanned systems (with a focus on aerial robotics).  I completed
+            my Ph.D. at Texas A&amp;M University, studying field robotics and
+            human-robot interaction through the Center for Robot-Assisted
+            Search and Rescue with my advisor Robin Murphy.</p></div>
+<div class="contentTitle">Education</div>
+<div class="contentText"><p>B.S. 2009, Georgia Institute of
+          Technology <br/>
+          Ph.D. 2015, Texas A&amp;M University</p></div>
+</div>
+</div>
+<div id="footer"><a href="http://www.aszx.net">web development</a> by <a href="http://www.bryantsmith.com">bryant smith</a></div>
+</body>
+</html>

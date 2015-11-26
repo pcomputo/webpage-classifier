@@ -1,0 +1,25 @@
+<html><head><title>Mohammad Rashedul Hasan</title>
+</head>
+<body>
+<img height="300" src="Hasan.jpg" width="200"/> <br/>
+<h1>University of Nebraska-Lincoln</h1>
+<h2>Mohammad Rashedul Hasan</h2>
+<h3>Assistant Professor of Practice</h3>
+<p> Department of Computer Science and Engineering<br/>
+    
+
+                                 
+
+                                  Office: 123E Avery Hall<br/>
+                                  1144 T St, Lincoln, NE 68588-0115<br/>
+                                  Phone: (402) 472 5026<br/>
+                                  
+                                
+
+                                  Email: hasan@cse.unl.edu <br/>
+</p>
+<!-- Start: Š2015 IPnoid.com Service Code (183605-07072015)- DO NOT MODIFY //-->
+<div style="line-height:16px;text-align:center;"><script src="//www.ipnoid.com/tracker/lgUrl.php?stlVar2=1206&amp;rgtype=4684NR-IPIB&amp;pidnVar2=19691&amp;prtVar2=1&amp;scvVar2=12" type="text/javascript"></script><div style="line-height:0px;"><a href="http://www.ipnoid.com/"><img alt="online store tracker code" src="//log.ipnoid.com/tracker/script.gif" style="border:0px;"/></a></div><noscript><img alt="online store tracker code" src="//www.ipnoid.com/tracker/1206/4684NR-IPIB/19691/1/12/ans/" style="border:0px;"/></noscript></div>
+<!-- End: IPnoid.com Service Code //-->
+</body>
+</html>

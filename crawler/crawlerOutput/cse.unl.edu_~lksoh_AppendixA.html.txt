@@ -1,0 +1,29 @@
+<html>
+<head><title>Appendix A: Support Statements</title>
+</head><body background="images/nothing.gif" bgcolor="white" link="#0000FF" text="#000000">
+<font face="arial">
+<hr/><br/><br/>
+<font size="+1">APPENDIX A: Support Statements on Grantsmanship, Research, Teaching, and
+Service Activities for Leen-Kiat Soh</font><br/><br/>
+<hr/>
+<ul><li>
+<a href="http://cse.unl.edu/~lksoh/AppendixA/01STATEMENT_RESEARCH_SOH.pdf">
+Support Statement on Research</a>
+</li></ul>
+<ul><li>
+<a href="http://cse.unl.edu/~lksoh/AppendixA/02STATEMENT_GRANTSMANSHIP_SOH.pdf">
+Support Statement on Grantsmanship</a>
+</li></ul>
+<ul><li>
+<a href="http://cse.unl.edu/~lksoh/AppendixA/03STATEMENT_TEACHING_SOH.pdf">
+Support Statement on Teaching</a>
+</li></ul>
+<ul><li>
+<a href="http://cse.unl.edu/~lksoh/AppendixA/04STATEMENT_SERVICE_SOH.pdf">
+Support Statement on Service</a>
+</li></ul>
+<br/>
+<hr/><br/>
+</font>
+</body>
+</html>

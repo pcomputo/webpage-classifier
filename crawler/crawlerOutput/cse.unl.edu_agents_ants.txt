@@ -1,0 +1,18 @@
+<!-- This page designed by Kelly Corn --><html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Juan" name="Author"/>
+<meta content="index.html - Start page for the AGENTS 
+   research project at the UNL." name="Description"/>
+<meta content="" name="Keywords"/>
+<title>Autonomous Negotiating Teams (ANTS) at the UNL</title>
+</head>
+<frameset border="5" bordercolor="blue" framespacing="0" rows="120,*,50">
+<frame name="TopMenuFrame" scrolling="no" src="menutop.html"/>
+<frame name="ContentFrame" src="home.html"/>
+<frame name="BottomMenuFrame" scrolling="no" src="menubottom.html"/>
+<noframes>
+<body>Text for no frame support</body>
+</noframes>
+</frameset>
+</html>

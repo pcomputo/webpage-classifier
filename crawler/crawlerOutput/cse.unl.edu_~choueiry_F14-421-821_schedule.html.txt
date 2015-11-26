@@ -1,0 +1,973 @@
+<html><head>
+<title>Fall 2014, CSCE 421/821</title>
+<link href="index_files/style.css" media="all" rel="stylesheet" type="text/css"/>
+</head><body>
+<div id="header">
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td cellpadding="0" valign="center">
+<div id="title">CSCE 421/821</div>
+<table cellpadding="15">
+</table>
+</td>
+<td align="right" style="font-size: 11pt;" valign="top">
+<div id="title">Foundations of Constaint Processing</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<table cellspacing="5" width="100%">
+<tbody><tr>
+<td style="border: 1px solid rgb(170, 204, 170); background-color: rgb(250, 255, 250); width: 176px;" valign="top">
+<div id="menu">
+<div class="section">
+<h1>Main Pages</h1>
+<a href="index.html">General</a>
+<a href="protocol.html">Syllabus &amp; Protocol</a>
+<a href="grading.html">Grading Policy</a>
+<a href="safety.html">Safety Net</a>
+<a href="handouts.html">Handouts</a>
+<a href="schedule.html">Schedule</a>
+<a href="homework.html">Homework Schedule</a>
+<a href="glossaries.html">Glossaries</a>
+<a href="wiki.html">Wiki</a>
+<h1>Resources</h1>
+<a href="catch.html">Your Catch</a>
+<a href="books.html">References</a>
+<a href="online.html">Online Resources</a>
+<a href="thanks.html">Acknowledgments</a>
+<a href="contacts.html">Contact Us</a>
+</div>
+</div>
+</td>
+<td id="contents" valign="top">
+<div style="overflow: auto; height: 500px;">
+<div style="margin-right: 10px;">
+<h1>Detailed Course Schedule</h1>
+<table border="1" cellpadding="0" style="width: 100%; " width="100%">
+<tbody>
+<tr>
+<td bgcolor="#d0dcc8" colspan="2"><i></i><center>Week 1</center></td>
+</tr>
+<tr>
+<td width="12%">Mon, Aug 25</td>
+<td>
+<b><font color="#0045be">Topic</font></b>: Rules of the game
+<li> <a href="syllabus.html" target="_blanko">Course syllabus</a> (distributed)</li>
+<li> <a href="Slides/AdminSlides.ppt">Administrative rules</a> including deadlines</li>
+<li> <a href="Slides/Guidelines.ppt">Guidelines for reports</a></li>
+<br/>
+<b><font color="#0045be">Topic:</font></b> CSP 101, Overview
+<li> Instructor's slides: <a href="Slides/Overview1.ppt">Constraint Processing 101</a> (PPT)</li>
+<li> <a href="Slides/intro_to_npc.pdf"> Quick review of NP-Completeness</a> (by Shant and Rahul).</li>
+<br/>
+<b><font color="#0045be">Required reading:</font></b>
+<li> Dechter: Section 1.1, 1.3.3, 1.3.4, 2.1 and 2.2.</li>
+<li> <a href="http://cse.unl.edu/~choueiry/F02-421-821/Documents/Bartak-review.pdf" target="_blank">Constraint Programming: in Pursuit of the Holy
+Grail</a> (PDF) Bartak</li>
+<br/>
+<b><font color="#0045be">Recommended reading:</font></b>
+<li><img src="star.gif"/><img src="star.gif"/><img src="star.gif"/>Bartak's on-line guide: <a href="http://kti.ms.mff.cuni.cz/%7Ebartak/constraints/index.html" target="_blank"> Introduction to CSPs</a></li>
+<li>Constraint Satisfaction (<a href="http://0-cors0812.unl.edu.library.unl.edu/ereserves/contents/csce421/cho4.pdf" target="_blank">PDF</a>) Rina Dechter.  MIT Encyclopedia of the
+Cognitive Sciences </li>
+<li> Algorithms for Constraint Satisfaction Problems: A Survey (<a href="http://cse.unl.edu/~choueiry/F02-421-821/Documents/kumar-survey.pdf">PDF</a>)
+by Vipin Kumar. AI Magazine Spring 1992.</li>
+<li> Constraint Satisfaction Problems, An Overview (<a href="http://0-cors0812.unl.edu.library.unl.edu/ereserves/contents/csce421/cho9.pdf" target="_blank">PDF</a>), Pedro Meseguer </li>
+<li> <a href="http://kti.ms.mff.cuni.cz/~bartak/constraints/backtrack.html">Systematic
+Search Algorithms</a>, Bartak's online notes </li>
+<li> <a href="http://kti.ms.mff.cuni.cz/~bartak/constraints/stochastic.html">Heuristics
+and Stochastic Algorithms</a>, Bartak's online notes </li>
+</td>
+</tr>
+<tr> <td>Mon, Aug 25</td>
+<td>
+<b><font color="#0045be">Recitation:</font></b> CSP 101
+</td>
+</tr>
+<tr> <td>Wed, Aug 27</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b> None
+<br/>
+<b><font color="#0045be">Topic:</font></b> Same as above
+<br/>
+</td>
+</tr>
+<tr> <td>Fri, Aug 29</td>
+<td bgcolor="#e0ccb3">
+<center><b><i>Pretest</i></b></center>
+<li> In-class: closed book, handwritten crib sheet allowed, must be
+ turned in with test</li>
+<li> Take-home: collaboration, discussion <i>strictly</i>
+ forbidden. To be returned on Wednesday, Sep 3</li>
+<li><a href="./piazza.pdf">Short tutorial on Piazza</a></li>
+<li> CSP 101</li>
+<li><a href="Glossaries/Glossary1.htm">Glossary 1</a> assigned</li>
+</td>
+</tr>
+<tr>
+<td bgcolor="#d0dcc8" colspan="2"><i></i><center>Week 2</center></td>
+</tr>
+<tr>
+<td width="12%">Mon, Sep 1 </td>
+<td bgcolor="#d0f0c8">
+<center><i>Labor day</i></center>
+</td>
+</tr>
+<tr>
+<td>Wed, Sep 3</td>
+<td><b><font color="#0045be">Announcements:</font></b>
+<li> Take home pretest due</li>
+<li><a href="Homework/homework1.pdf">Homework 1</a> assigned</li>
+<br/>
+<b><font color="#0045be">Topic, required reading, recommended reading:</font></b> Same as above.<br/>
+</td>
+</tr>
+<tr> <td>Fri, Sep 5</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li> <strike><a href="Glossaries/Glossary1.htm">Glossary 1</a> due</strike> (delayed until Sep 15)</li>
+<b><font color="#0045be">Topic:</font> Same as above</b>
+<br/>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="1" cellpadding="0" style="width: 100%; " width="100%">
+<tbody>
+<tr>
+<td bgcolor="#d0dcc8" colspan="2"><i></i><center>Week 3</center></td>
+</tr>
+<tr>
+<td width="12%">Mon, Sep 8 </td>
+<td bgcolor="#d0f0c8" rowspan="4">
+<center><i>Instructor out of town</i></center>
+Graduate student Fikayo Adetundji will be in class during regular lecture 
+and recitation hours and in the SRC during the GTA help session to answer any 
+questions you may have with the homework.  It is extremely important that you complete this first homework on time.
+</td>
+</tr>
+<tr> <td>Mon, Sep 8</td>
+</tr>
+<td>Wed, Sep 10 </td>
+<tr> <td>Fri, Sep 12</td>
+</tr>
+<tr>
+<td bgcolor="#d0dcc8" colspan="2"><i></i><center>Week 4</center></td>
+</tr>
+<tr>
+<td width="12%">Mon, Sep 15 </td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li> <a href="Glossaries/Glossary1.htm">Glossary 1</a> due</li>
+<li><a href="Glossaries/Glossary2.htm">Glossary 2</a> assigned</li>
+<b><font color="#0045be">Topic &amp; reading:</font></b>
+<a href="Slides/ArcConsistency.ppt">Arc Consistency</a>
+<br/>
+<b><font color="#0045be">Required reading:</font></b>
+<li>Dechter: Sections 3.1 and 3.2</li>
+<li> <a href="http://cse.unl.edu/~choueiry/Documents/AC-MackworthFreuder.pdf">The
+complexity of some polynomial network consistency algorithms for
+constraint satisfaction problems</a> Mackworth &amp; Freuder, AIJ 1985
+(only AC algorithms)</li>
+<b><font color="#0045be">Recommended reading:</font></b>
+<li> <a href="http://kti.ms.mff.cuni.cz/~bartak/constraints/consistent.html">Consistency Techniques</a> (Bartak's online notes) </li>
+<li> <a href="http://cse.unl.edu/~choueiry/Documents/EDavis-AIJ87.pdf">Constraint propagation with interval labels</a>, Davis, AIJ 1987.</li>
+<!-- 
+Same as above
+-->
+</td>
+</tr>
+<tr> <td>Mon, Sep 15</td>
+<td>
+<b><font color="#0045be">Recitation:</font></b>
+</td>
+</tr>
+<tr>
+<td>Wed, Sep 17</td>
+<td>
+<b><font color="#0045be">Topic:</font></b> Arc Consistency (same as above)
+<li><a href="Homework/homework1.pdf">Homework 1</a> due by webhandin by 3:30pm</li>
+<li><a href="Homework/homework2.pdf">Homework 2</a> assigned</li>
+</td>
+</tr>
+<tr> <td>Fri, Sep 19</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<br/>
+<b><font color="#0045be">Topic:</font></b>
+<a href="Slides/Backtracking.ppt">Backtrack Search</a>. 
+
+<br/>
+<b><font color="#0045be">Required reading:</font></b> <a href="http://cse.unl.edu/~choueiry/Documents/Hybrid-Prosser.pdf">Hybrid
+algorithms for the constraint satisfaction problem</a> (PDF) Prosser.
+
+<br/>
+<b><font color="#0045be">Recommended reading:</font></b>
+<li> Chapters 5 and 6, Dechter</li>
+<li>
+<a href="http://cswww.essex.ac.uk/CSP/papers/Tsang-Fcs1993.pdf/ch05.pdf">Chapter
+5</a>, <a href="http://cswww.essex.ac.uk/CSP/papers/Tsang-Fcs1993.pdf/">Tsang</a></li>
+</td>
+</tr>
+<tr>
+<td bgcolor="#d0dcc8" colspan="2"><i></i><center>Week 5</center></td>
+</tr>
+<tr>
+<td width="12%">Mon, Sep 22</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li><a href="Glossaries/Glossary2.htm">Glossary 2</a> due</li>
+<li><a href="Glossaries/Glossary3.htm">Glossary 3</a> assigned
+
+<br/>
+<b><font color="#0045be">Topic:</font></b> same as above
+</li></td>
+</tr>
+<tr> <td>Mon, Sep 22</td>
+<td>
+<b><font color="#0045be">Recitation:</font></b>
+<!--<font color="#cc0000"><b>Quiz 2</b></font> -->
+</td>
+</tr>
+<tr>
+<td>Wed, Sep 24</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li><a href="Homework/homework2.pdf">Homework 2</a> Sharing of AC1 results due by 3:30pm</li>
+<br/>
+<b><font color="#0045be">Topic:</font></b> same as above
+
+<!--
+Odds & Ends, CSP 101-Overview
+<li> Instructor's slides: <a
+href="Slides/OddsNEnds.pptx">Odds & Ends</a> (PPT)</li>
+<li> Instructor's slides: <a
+href="Slides/Overview1.ppt">Constraint Processing 101</a> (PPT)</li>
+<li>  <a href="Slides/intro_to_npc.pdf"> Quick review of NP-Completeness</a> (by Shant and Rahul).</li>
+<br>
+-->
+<!-- <a
+    href="Slides/Overview2.ppt">CSP 101, Overview: advanced solving techniques
+    and research directions</a>
+
+<li>Required reading:
+<ul>
+<li>Freuder and Hubbe: <a
+href="http://cse.unl.edu/~choueiry/Documents/DisjunctiveDecompositionFreuderHubbe.pdf">A
+Disjunctive Decomposition Control Schema for Constraint
+Satisfaction</a> (CP 1993)</li>
+
+<li>Peter Cheeseman et al.: <a
+href="http://cse.unl.edu/~choueiry/Documents/Cheeseman91.pdf">Where the Really Hard Problems
+Are</a> (IJCAI 1991).</li>
+</ul>
+-->
+</td>
+</tr>
+<tr> <td>Fri, Sep 26</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<font color="#cc0000"><b>Quiz 1</b></font>
+<br/>
+<b><font color="#0045be">Topic:</font></b> Quiz and NP-completeness
+<br/>
+</td>
+</tr>
+<tr>
+<td bgcolor="#d0dcc8" colspan="2"><i></i><center>Week 6</center></td>
+</tr>
+<tr>
+<td width="12%">Mon, Sep 29</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li><a href="Glossaries/Glossary3.htm">Glossary 3</a> due</li>
+<li><a href="Glossaries/Glossary4.htm">Glossary 4</a> assigned</li>
+<br/>
+<b><font color="#0045be">Topic and reading:</font></b>
+<a href="Slides/Backtracking.ppt">Backtrack Search</a> (same as above).
+
+</td>
+</tr>
+<tr> <td>Mon, Sep 29</td>
+<td>
+<b><font color="#0045be">Recitation:</font></b>
+</td>
+</tr>
+<tr>
+<td>Wed, Oct 1</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li><a href="Homework/homework2.pdf">Homework 2</a> due by webhandin by 3:30pm</li>
+<li><a href="Homework/homework3.pdf">Homework 3</a> assigned</li>
+<br/>
+<b><font color="#0045be">Topic &amp; reading:</font></b> <!--BT Search, same as above-->
+</td>
+</tr>
+<tr> <td>Fri, Oct 3</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<br/>
+<b><font color="#0045be">Topic:</font></b>
+<br/>
+</td>
+</tr>
+<tr>
+<td bgcolor="#d0dcc8" colspan="2"><i></i><center>Week 7</center></td>
+</tr>
+<tr>
+<td width="12%">Mon, Oct 6</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li><a href="Glossaries/Glossary4.htm">Glossary 4</a> due</li>
+<li>No new glossary this week, please work on your homework</li>
+<b><font color="#0045be">Topic:</font></b>
+<a href="Slides/BacktrackingTheory.ppt">Theoretical Evaluation of BT Algorithms</a><br/>
+<b><font color="#0045be">Required reading:</font></b>
+<a href="http://cse.unl.edu/~choueiry/Documents/kondrak95theoretical.pdf">A
+Theorectical Evaluation of Selected Backtracking Algorithms</a>, by
+Kondrak and van Beek (IJCAI 1995)
+<br/>
+<b><font color="#0045be">Recommended reading:</font></b> Dechter, Chapters 5 and 6
+</td>
+</tr>
+<tr> <td>Mon, Oct 6</td>
+<td>
+<b><font color="#0045be">Recitation:</font></b>
+<br/>
+<b><font color="#0045be">Topic:</font></b>
+<a href="Slides/EvaluationBTSearch.ppt">Evaluating &amp; Comparing (Deterministic) BT Search Algorithms</a><br/>
+<!--<li> <font color="#cc0000"><b>Quiz 3</b></font> </li>
+<li> discussion about homework</li>
+-->
+</td>
+</tr>
+<tr>
+<td>Wed, Oct 8</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li> <font color="#cc0000"><strike>Quiz 2</strike></font> </li>
+<li><a href="Homework/homework3.pdf">Homework 3</a> Progress report due.</li>
+</td>
+</tr>
+<tr> <td>Fri, Oct 10</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b> <b><font color="#cc0000">Quiz 2 re-scheduled for today</font></b>
+<br/>
+<b><font color="#0045be">Topic:</font></b> <a href="Slides/OrderingHeuristics.ppt">Search Orders in CSPs</a>
+(PPT)
+<br/>
+<b><font color="#0045be">Required reading:</font></b> <a href="http://cse.unl.edu/~choueiry/Documents//TsangTextbook/ch06.pdf">Chapter
+6, Tsang 93</a> <br/>
+<b><font color="#0045be">Recommended reading:</font></b>
+<li>Dechter: Sections: 5.1.1</li>
+<li><a href="http://cse.unl.edu/~choueiry/Documents/Geelen92.pdf">Dual
+Viewpoint Heuristics for Binary Constraint Satisfaction Problems</a>,
+Geelen ECAI 92</li>
+</td>
+</tr>
+<tr>
+<td bgcolor="#d0dcc8" colspan="2"><i></i><center>Week 8</center></td>
+</tr>
+<tr>
+<td>Mon, Oct 13</td>
+<td>
+<!--
+<li> <a href="Glossaries/Glossary3.htm">Glossary 3</a> due</li>
+
+<br>
+<b><font color="#0045be">Topic:</font></b> 
+<a href="Slides/BacktrackingTheory.ppt">Theoretical Evaluation of BT Algorithms</a>
+<br>
+<br>
+<b><font color="#0045be">Required reading:</font></b> <a
+href="http://cse.unl.edu/~choueiry/Documents/kondrak95theoretical.pdf">A
+Theorectical Evaluation of Selected Backtracking Algorithms</a>, by
+Kondrak and van Beek (IJCAI 1995)
+<br>
+<br>
+<b><font color="#0045be">Recommended reading:</font></b> Dechter, Chapters 5 and 6
+-->
+<!--
+   <li><a href="Glossaries/Glossary6.htm">Glossary 6</a> due</li>
+-->
+</td>
+</tr>
+<tr>
+<td>Wed, Oct 15</td>
+<td>
+<li><a href="Homework/homework3.pdf">Homework 3</a> due by webhandin by 3:30pm</li>
+<li><a href="Homework/homework4.pdf">Homework 4</a> assigned</li>
+<!--
+<b><font color="#0045be">Announcements:</font></b>
+
+<br>
+<b><font color="#0045be">Topic, required reading, recommended reading:</font></b> Same as above.
+-->
+<!-- <a href="Glossaries/Glossary5.htm">Glossary 5</a> due. 
+-->
+</td>
+</tr>
+<tr> <td>Fri, Oct 17</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li> <a href="ProjectList/project-list-2014.pdf">List of project distributed</a></li>
+<li><a href="Glossaries/Glossary5.htm">Glossary 5</a> assigned</li>
+<!--
+<br>
+
+<b><font color="#0045be">Topic:</font></b>
+<br>
+-->
+</td>
+</tr>
+<tr>
+<td bgcolor="#d0dcc8" colspan="2"><i></i><center>Week 9</center></td>
+</tr>
+<tr>
+<td>Mon, Oct 20</td>
+<td bgcolor="#d0f0c8" rowspan="2">
+<center><i>Fall Semester Break</i></center>
+</td>
+</tr>
+<tr> <td>Mon, Oct 20</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>Wed, Oct 22</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li><a href="Homework/homework4.pdf">Homework 4</a> Progress report due.</li>
+<!--
+
+<br>
+<b><font color="#0045be">Topic, required reading, recommended reading:</font></b> Finsih topic of Oct, 10.
+<br>
+<b><font color="#0045be">Topic:</font></b> Path Consistency
+<b><font color="#0045be">Required reading:</font></b> Dechter Chapter 3, entirely
+
+-->
+</td>
+</tr>
+<tr> <td>Fri, Oct 24</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<br/>
+<li><a href="Glossaries/Glossary5.htm">Glossary 5</a> due</li>
+<b><font color="#0045be">Topic:</font></b>
+<a href="Slides/AllDiff.pdf">GAC on AllDiff Constraint</a>
+<br/>
+<b><font color="#0045be">Required reading:</font></b>
+<li> Régin (AAAI 94): <a href="http://cse.unl.edu/~choueiry/Documents/Regin94.pdf">A
+   Filtering Algorithm for Constraints of Differences in
+   CSPs</a>.</li>
+<li> Dechter, Section 3.5.1.</li>
+</td>
+</tr>
+<tr>
+<td bgcolor="#d0dcc8" colspan="2"><i></i><center>Week 10</center></td>
+</tr>
+<tr>
+<td>Mon, Oct 27</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li> <a href="Glossaries/Glossary6.htm">Glossary 6</a> assigned</li>
+<!--
+<li> <a href="Glossaries/Glossary4.htm">Glossary 4</a> assigned</li>
+
+<b><font color="#0045be">Topic:</font></b> <a href="Slides/DBvsCSP.ppt">CSPs and DBs</a><br>
+<b><font color="#0045be">Required reading:</font></b>  Section 1.3 of Dechter.
+-->
+</td>
+</tr>
+<tr> <td>Mon, Oct 27</td>
+<td>
+<b><font color="#0045be">Recitation:</font></b>
+<font color="#cc0000"><b>Quiz 3</b></font>
+<!-- Finishing discussion on
+graphical representations (hypergraph, primal, dual, <a
+href="Slides/OddsNEnds.pptx">Odds & Ends</a>) </b>
+-->
+</td>
+</tr>
+<tr>
+<td>Wed, Oct 29</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li><font color="#cc0000"><b>Deadline:</b></font> for project selection. Use webhandin.</li>
+<li> <a href="Homework/homework4.pdf">Homework 4</a> due by webhandin by 3:30pm</li>
+<li> <a href="Homework/homework5.pdf">Homework 5</a> assigned</li>
+<b><font color="#0045be">Topic:</font></b> <a href="Slides/DBvsCSP.ppt">CSPs and DBs</a><br/>
+<b><font color="#0045be">Required reading:</font></b>  Section 1.3 of Dechter.
+
+</td>
+</tr>
+<tr>
+<td>Fri, Oct 31</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b> <!--None.-->
+<br/>
+<b><font color="#0045be">Topic:</font></b>  Path Consistency<br/>
+<b><font color="#0045be">Required reading:</font> </b>
+Dechter: Sections 3.1, 3.2, 3.3, 3.4, 3.5.1, 3.5.3.<br/>
+<b><font color="#0045be">Recommended reading:</font></b>  Chapter 3 entirely.
+  </td>
+</tr>
+<tr>
+<td bgcolor="#d0dcc8" colspan="2"><i></i><center>Week 11</center></td>
+</tr>
+<tr>
+<td>Mon, Nov 3 </td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<b><font color="#0045be">Topic, required reading, recommended reading:</font></b>
+<!--
+Same as on Oct 24.
+-->
+</td>
+</tr>
+<tr> <td>Mon, Nov 3</td>
+Wed
+<td>
+<b><font color="#0045be">Recitation:</font></b>
+<font color="#cc0000"><b>Quiz 4</b></font>
+</td>
+</tr>
+<tr> <td> Wed, Nov 5 </td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li><a href="Homework/homework5.pdf">Homework 5</a> Progress report due.</li>
+<b><font color="#0045be">Topic:</font> </b> Basics of Constraint-based Scheduling, <i>Nicolas Bonifas</i><br/>
+We will introduce a framework in which to model a generic class of
+scheduling problems using constraint programming, and explain why
+scheduling is one of the most successful application of constraint
+programming. We will also give a brief introduction to the modeling
+paradigm used in the IBM Ilog CP Optimizer solver.<br/><br/>
+<b><font color="#0045be">Required reading:</font></b> Philippe Laborie
+and Jerome Rogerie. <a href="Documents/Laborie-FLAIRS08.pdf" target="_blank">Reasoning with Conditional Time-Intervals</a>. FLAIRS
+conference, 555-560. 2008.<br/><br/>
+<b><font color="#0045be">Recommended reading:</font></b>
+<ul>
+<li>Philippe Baptiste, Claude Le Pape, and Wim
+Nuijten. Constraint-Based Scheduling: Applying Constraint Programming
+to Scheduling Problems. International Series in Operations Research
+and Management Science. Kluwer, 2001. <i>(Available from Engineering Library)</i></li>
+<li>Philippe Laborie. <a href="Documents/Laborie-CPAIOR-2009.pdf" target="_blank">IBM ILOG CP Optimizer for detailed scheduling
+illustrated on three problems</a>. Integration of AI and OR Techniques
+in Constraint Programming for Combinatorial Optimization Problems,
+148-162. Springer Berlin Heidelberg, 2008.</li>
+<li>Abder Aggoun and Nicolas Beldiceanu. <a href="Documents/Aggoun-Beldiceanu-1993.pdf" target="_blank">Extending
+CHIP in order to solve complex scheduling and placement
+problems</a>. Math. Comput. Model., 17(7):57-73, April 1993.</li>
+</ul>
+<!--
+<li><a href="Glossaries/Glossary5.htm">Glossary 5</a> assigned.</li>
+
+href="Slides/OrderingHeuristics.ppt">Search Orders in CSPs</a>
+-->
+</td>
+</tr>
+<tr> <td>Fri, Nov 7</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<br/>
+<b><font color="#0045be">Topic:</font> </b> Propagating the Cumulative
+Constraint, <i>Nicolas Bonifas</i><br/> 
+
+The cumulative constraint is at the heart of constraint-based
+scheduling and one of the most famous global constraint. We will give
+an overview of the different propagation techniques for the cumulative
+constraint, exposing the trade-offs between propagation speed and
+propagation strength.
+<br/>
+<br/>
+<b><font color="#0045be">Required reading:</font></b> Abder Aggoun and
+Nicolas Beldiceanu. <a href="Documents/AggounBeldiceanu93.pdf" target="_blank">Extending chip in order to
+solve complex scheduling and placement
+problems</a>. Math. Comput. Model., 17(7):57-73, April 1993.
+<br/>
+<br/>
+<b><font color="#0045be">Recommended reading:</font></b>
+<ul>
+<li>Erschler, J., and Lopez, P. 1990. <a href="Documents/Erschler-Lopez-1991.pdf" target="_blank"> Energy-based approach for task scheduling under time
+and resources constraints</a>. In 2nd international workshop on
+project management and scheduling, 115-121.</li>
+<li>
+Schutt, A., Feydy, T., Stuckey, P., and Wallace, M. <a href="Documents/SchuttConstraints2011.pdf" target="_blank">Explaining
+the cumulative propagator</a>. Constraints, 16(3):250-282. Springer,
+2011.
+</li>
+<li>Petr Vilim. <a href="Documents/VilimCPAIOI2011.pdf" target="_blank">Timetable edge finding filtering algorithm for discrete
+cumulative resources</a>. In Tobias Achterberg and J. Beck, editors,
+Integration of AI and OR Techniques in Constraint Programming for
+Combinatorial Optimization Problems, volume 6697 of Lecture Notes in
+Computer Science, pages 230-245. 2011.
+</li>
+<li>
+Arnaud Letort, Nicolas Beldiceanu, and Mats Carlsson. <a href="Documents/LetortCP2012.pdf" target="_blank">A scalable sweep
+algorithm for the cumulative constraint</a>. In Principles and
+Practice of Constraint Programming, LNCS, pages 439-454. 2012.
+</li>
+</ul>
+<!--
+<a href="Slides/PathConsistency.ppt">Path Consistency & Global
+Consistency Properties</a>
+<br>
+
+<b><font color="#0045be">Required reading:</font></b> 
+
+<li>Dechter: Sections 3.1, 3.2, 3.3, 3.4, 3.5.1, 3.5.3.</li>
+<li><a
+href="http://cse.unl.edu/~choueiry/Documents/AC-MackworthFreuder.pdf">The
+complexity of some polynomial network consistency algorithms for
+constraint satisfaction problems</a> Mackworth & Freuder, AIJ 1985
+(only AC algorithms)</li> 
+<b><font color="#0045be">Recommended reading:</font></b> 
+<li>Chapter 3 of Dechter, entirely </li>
+<li><a
+href="http://cse.unl.edu/~choueiry/Documents/Bliek-Haroud-99.pdf">Path
+Consistency on Triangulated Constraint Graphs</a>, Bliek, Sam-Haroud,
+IJCAI 1999.</li>
+-->
+</td>
+</tr>
+<tr>
+<td bgcolor="#d0dcc8" colspan="2"><i></i><center>Week 12</center></td>
+</tr>
+<tr>
+<td>Mon, Nov 10</td>
+<td>
+<b><font color="#0045be">Announcement:</font></b>
+<li>Class will be held in AvH 347</li>
+<li> <a href="Glossaries/Glossary6.htm">Glossary 6</a> due</li>
+<br/>
+<b><font color="#0045be">Topic:</font></b> A Taste of SMT <i>Cesare Tinelli</i><br/>
+<b><font color="#0045be">Recommended reading:</font></b>
+<a href="cse.unl.edu/~choueiry/Documents/Tinelli-SATSMT-12.pdf" target="_blank">Foundations of Lazy SMT and DPLL(T)</a> Tinelli
+
+
+
+<!--
+ All-Diff Constraints
+Slides and reading in  <a href="handouts.html">handouts</a> </td>
+
+-->
+</td>
+</tr><tr> <td>Mon, Nov 10</td>
+<td>
+<b><font color="#0045be">Recitation:</font></b><br/>
+<b><font color="#0045be">Announcement:</font></b> Recitation will be
+held in AvH 347<br/>
+<b><font color="#0045be">Topic:</font></b> An Efficient Solver for string
+and regular expression constraints <i>Cesare Tinelli</i>
+<br/>
+<b><font color="#0045be">Recommended reading:</font></b>
+<a href="cse.unl.edu/~choueiry/Documents/Tinelli-SATSMT-12.pdf" target="_blank">Foundations of Lazy SMT and DPLL(T)</a> Tinelli
+
+</td>
+</tr>
+<tr>
+<td>Wed, Nov 12</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li><a href="Homework/homework5.pdf">Homework 5</a> due by webhandin by 3:30pm.</li>
+<li><a href="Homework/homework6.pdf">Homework 6</a> assigned.</li>
+<!--
+<li> <a href="Glossaries/Glossary5.htm">Glossary 5</a> due</li>
+
+
+
+<br>
+<b><font color="#0045be">Topic:</font></b> Same as above 
+(<a href="Slides/PathConsistency.ppt">Path Consistency & Global
+Consistency Properties</a>)
+-->
+</td>
+</tr>
+<tr> <td>Fri, Nov 14</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<!--
+<b><font color="#0045be">Topic:</font></b> <a href="Slides/LocalSearch.ppt">Local Search</a>
+<br>
+<b><font color="#0045be">Required reading:</b></font>  <li> Dechter: Section 7.1, and 7.2.</li>
+<li><IMG SRC="star.gif"> Bartak's on-line guide: <a
+href="http://kti.ms.mff.cuni.cz/%7Ebartak/constraints/stochastic.html"
+target="_blank"> Heuristic and Stochastic Algorithms</a></li> 
+
+<b><font color="#0045be">Recommended reading:</font></b> 
+<li>Section 4.3, Chapter 4, in textbook, AI a Modern Approach (Russell
+& Norvig)</li>
+<li>Examine the book "Stochastic Local Search" by Hoos and
+Stuelze</li> 
+-->
+</td>
+</tr>
+<tr>
+<td bgcolor="#d0dcc8" colspan="2"><i></i><center>Week 13</center></td>
+</tr>
+<tr>
+<td>Mon, Nov 17</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<!--
+<li> <a href="Glossaries/Glossary5.htm">Glossary 5</a> due</li>
+-->
+<!--
+   <li><a href="Homework/homework7.pdf">(Bonus) Homework 7</a> assigned.</li>
+-->
+<!--
+<li> Each student must make <i>two</i> statements, questions, remarks,
+etc. about his/her project.<br> Rationale: You can state a difficulty
+you are having, a barrier you overcame, a new idea you learned about,
+whatever information you wish to share about your project.</li>
+-->
+<br/>
+<b><font color="#0045be">Topic, required reading, recommended reading:</font></b>
+</td>
+</tr>
+<tr> <td>Mon, Nov 17</td>
+<td>
+<b><font color="#0045be">Recitation:</font></b>
+<font color="#cc0000"><b>Quiz 5</b></font>
+</td>
+</tr>
+<tr>
+<td>Wed, Nov 19</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li> <font color="#cc0000"><b>Deadline:</b></font> Progress reports of projects
+are due.  (Use handin)<br/> </li>
+<li><a href="Homework/homework6.pdf">Homework 6</a> Progress report due.</li>
+<!--
+<li> <a href="Glossaries/Glossary7.htm">Glossary 7</a> assigned</li>
+<b><font color="#0045be">Topic:</font></b>
+<a href="Slides/AllDiff.pdf">GAC on AllDiff Constraint</a>
+<br>
+
+<b><font color="#0045be">Required reading:</font></b>
+   <li> R&eacute;gin (AAAI 94): <a
+   href="http://cse.unl.edu/~choueiry/Documents/Regin94.pdf">A
+   Filtering Algorithm for Constraints of Differences in
+   CSPs</a>.</li>
+<li> Dechter, Section 3.5.1.</li>
+-->
+</td>
+</tr>
+<tr> <td>Fri, Nov 21</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li> <font color="#cc0000"><b>Deadline:</b></font> First deadline for
+extra-credit work. At most 1 paper presentation, 2
+summaries, 1 chapter write-up after this date. </li>
+<li> <a href="Glossaries/Glossary7.htm">Glossary 7</a> assigned.</li>
+<br/>
+<b><font color="#0045be">Topic:</font></b> <a href="Slides/LocalSearch.ppt">Local Search</a>
+<br/>
+<b><font color="#0045be">Required reading:</font></b> <li> Dechter: Section 7.1, and 7.2.</li>
+<li><img src="star.gif"/> Bartak's on-line guide: <a href="http://kti.ms.mff.cuni.cz/%7Ebartak/constraints/stochastic.html" target="_blank"> Heuristic and Stochastic Algorithms</a></li>
+<b><font color="#0045be">Recommended reading:</font></b>
+<li>Section 4.3, Chapter 4, in textbook, AI a Modern Approach (Russell
+&amp; Norvig)</li>
+<li>Examine the book "Stochastic Local Search" by Hoos and
+Stuelze</li>
+<!--
+<b><font color="#0045be">Topic:</font></b> Same as above (AllDiff)
+<br>
+-->
+</td>
+</tr>
+<tr>
+<td bgcolor="#d0dcc8" colspan="2"><i></i><center>Week 14</center></td>
+</tr>
+<tr>
+<td>Mon, Nov 24</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<!--
+<li> <a href="Glossaries/Glossary7.htm">Glossary 7</a> due</li>
+-->
+<!--
+<li> Each student must make <i>two</i>
+    statements, questions, remarks, etc. about his/her project.<br>
+    Rationale: You can state a difficulty you are having, a barrier
+    you overcame, a new idea you learned about, whatever information
+    you wish to share about your project.</li>
+-->
+<br/>
+<b><font color="#0045be">Topic, required reading, recommended
+    reading:</font></b>
+<!--  TBA. -->
+<!-- Structure-Based Methods in CPSs<br>
+Slides and reading in  <a href="handouts.html">handouts</a> 
+ Corrected HWK 6 </td> 
+<li> Finish <a href="Slides/MoreOnBTSearch.ppt">Advanced
+    Backtrack Search</a></li> 
+
+ -->
+</td></tr>
+<tr> <td>Mon, Nov 24</td>
+<td>
+<b><font color="#0045be">Recitation:</font></b>
+</td>
+</tr>
+<tr>
+<td>Wed, Nov 26</td>
+<td bgcolor="#d0f0c8" rowspan="2">
+<li><a href="Homework/homework6.pdf">Homework 6</a> due Nov 26 by webhandin by 3:30pm</li>
+<center><i>Thanksgiving Holiday</i></center>
+</td>
+</tr>
+<tr> <td>Fri, Nov 28</td>
+<td>
+</td>
+</tr>
+<tr>
+<td bgcolor="#d0dcc8" colspan="2"><i></i><center>Week 15</center></td>
+</tr>
+<tr>
+<td>Mon, Dec 1</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li> <a href="Glossaries/Glossary7.htm">Glossary 7</a> due.</li>
+<li> <font color="#cc0000"><b>Quiz 6</b></font> </li>
+<!-- 
+<li> Each student must make <i>two</i>
+    statements, questions, remarks, etc. about his her project.</li>
+<li> <font color="#cc0000"><b>A quiz may be given in class</b></font> </li>
+-->
+<br/>
+<b><font color="#0045be">Topic, required reading, recommended reading:</font></b>
+<li>Quiz <i>may</i> be given</li>
+<li> <a href="Slides/MoreOnBTSearch.ppt">Advanced
+    Backtrack Search</a></li>
+<!-- TBA. -->
+<!-- <a href="Slides/LocalSearch.ppt">Local Search</a>  
+      <b>Required reading:</b>  <li> Dechter: Section 7.1, and 7.2.</li>
+<li><IMG SRC="star.gif"> Bartak's on-line guide: <a
+href="http://kti.ms.mff.cuni.cz/%7Ebartak/constraints/stochastic.html"
+target="_blank"> Heuristic and Stochastic Algorithms</a></li> 
+
+<b>Recommended reading:</b> 
+<li>Section 4.3, Chapter 4, in textbook, AI a Modern Approach (Russell
+& Norvig)</li>
+<li>Examine the book "Stochastic Local Search" by Hoos and
+Stuelze</li>  -->
+</td>
+</tr>
+<tr> <td>Mon, Dec 1</td>
+<td>
+<b><font color="#0045be">Recitation:</font></b>
+<li>Quiz <i>may</i> be given</li>
+</td>
+</tr>
+<tr>
+<td>Wed, Dec 3</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li>Quiz <i>may</i> be given</li>
+<!--
+<li><a href="Homework/homework7.pdf">Homework 7</a> due</li>
+-->
+<!--
+<br>
+<b><font color="#0045be">Topic, required reading, recommended reading:</font></b> TBA.
+-->
+</td>
+</tr>
+<tr> <td>Fri, Dec 5</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li>Quiz <i>may</i> be given</li>
+<li> <font color="#cc0000"><b>Deadline:</b></font> Final glossary due,
+in print and using handin.</li>
+<li> <font color="#cc0000"><b>Deadline:</b></font> Project reports are
+due in print and using handin.</li>
+<li> <font color="#cc0000"><b>Deadline:</b></font> Second deadline for
+extra-credit work: No paper presentation, summaries, write-ups, on or
+after this date.</li>
+<br/>
+<b><font color="#0045be">Topic:</font></b>
+<br/>
+</td>
+</tr>
+<tr>
+<td bgcolor="#d0dcc8" colspan="2"><i></i><center>Week 16 (dead week)</center></td>
+</tr>
+<tr>
+<td>Mon, Dec 8</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li> PROJECT DEFENSE. Attendance is mandatory<br/>. 
+    Evening sessions if necessary, attendance is optional.</li>
+<br/>
+<b><font color="#0045be">Topic, required reading, recommended reading:</font></b> TBA.
+  </td>
+</tr>
+<tr> <td>Mon, Dec 8</td>
+<td>
+<b><font color="#0045be">Recitation:</font></b>
+</td>
+</tr>
+<tr>
+<td>Wed, Dec 10</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li> PROJECT DEFENSE. Attendance is mandatory<br/>. 
+    Evening sessions if necessary, attendance is optional.</li>
+<br/>
+<b><font color="#0045be">Topic, required reading, recommended reading:</font></b> TBA.
+  </td>
+</tr>
+<tr> <td>Fri, Dec 12</td>
+<td>
+<b><font color="#0045be">Announcements:</font></b>
+<li> <font color="#cc0000"><b>Deadline:</b></font> Project code and slides due,
+submit using handin.</li>
+<br/>
+<b><font color="#0045be">Topic:</font></b>
+<br/>
+</td>
+</tr>
+<tr>
+<td bgcolor="#d0dcc8" colspan="2"><i></i><center>Week 17</center></td>
+</tr>
+<!--  FINAL EXAM -->
+<tr>
+<td>Wed, Dec 17 </td>
+<td bgcolor="#e0ccb3">
+<center><b><i> No Final Examination</i></b></center>
+7:30—9:30 AM       PROJECT DEFENSE <br/>
+Attendance is mandatory
+
+
+
+   </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br/><br/>
+<!-- hhmts start -->
+Last modified: Mon Dec  1 14:58:28 CST 2014
+<!-- hhmts end -->
+</td></tr></tbody></table></body>
+</html>
+<!--  Local Search in CSPs
+
+<li> <a href="Slides/LocalSearch.ppt">Local Search</a> (PPT).</li> 
+<br>
+
+<b><font color="#0045be">Required reading:</font></b> 
+<li>Dechter, Chapter 7</li>
+<li> <a href="http://kti.ms.mff.cuni.cz/~bartak/constraints/stochastic.html">Heuristics
+and Stochastic Algorithms</a> (Bartak's online notes) </li>
+<br>
+
+<b><font color="#0045be">Recommended reading:</font></b> 
+<li> Section 4.3, Chapter 4, AI a Modern Approach (textbook), Russell & Norvig</li>
+<li> Stochastic Local Search (book), by Hoos and Stuelze</li>
+-->

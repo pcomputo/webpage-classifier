@@ -1,0 +1,24 @@
+<html><body><center><img src="notes.gif"/></center><br/>
+<b>
+SOME EXTRACTED POINTS FROM</b><br/><br/>
+<font color="blue">
+Prey, J. and K. Treu (2002). What Do You Say?  Open Letters to Women
+Considering a Computer Science Major, inroads SIGCSE Bulletin, 34(2):18-20.
+</font>
+<hr/><br/>
+
+Ask yourself, "What do I like to study?", "What am I good at?", "What kind of
+work do I see myself doing?"  Computer Science is about problem solving, is a
+highly diverse field with many career opportunities, and is a major that
+prepares you for your graduate studies in other areas (e.g., law, business,
+medical, engineering).
+
+<br/><br/>
+
+Break the stereotype about Computer Science.  Women do not suffer fro many
+inherent disadvantage when it comes to studying, understanding, and applying
+computer science concepts.  Far from it!  Computer Science involves much more
+than programming.  In a nutshell, it's about finding interesting and innovative
+ways to solve problems.
+
+</body></html>

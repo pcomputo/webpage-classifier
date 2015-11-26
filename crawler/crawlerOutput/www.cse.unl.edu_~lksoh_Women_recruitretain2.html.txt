@@ -1,0 +1,48 @@
+<html><body><center><img src="notes.gif"/></center><br/>
+<b>
+SOME EXTRACTED POINTS FROM</b><br/><br/>
+<font color="blue">
+Cuny, J. and W. Aspray (2002). Recruitment and Retention of Women Graduate
+Students in Computer Science and Engineering: Results of a Workshop Organized by
+the Computing Research Association, inroads SIGCSE Bulletin, 34(2):168-174.
+</font>
+<hr/><br/>
+
+Recommendations for recruiting women to Graduate CSE Programs:
+<ul><li>Broaden the recruitment pool beyond students with undergraduate CSE
+majors</li></ul>
+<ul><li>Broaden the criteria used in admission and be flexible in their
+application</li></ul>
+<ul><li>Encourage reentry students</li></ul>
+<ul><li>Provide bridging opportunities to entering graduate students</li></ul>
+<ul><li>Explicitly include diversity considerations in your admissions process</li></ul>
+<ul><li>Be proactive in making recruiting contacts</li></ul>
+<ul><li>Review all departmental publications for both text and images
+containing overt or subtle message that might discourage women from applying</li></ul>
+<ul><li>Inform your undergraduates about the opportunities and rewards of a
+research career, giving them timely information about appropriate preparation
+for such a career</li></ul>
+<ul><li>Provide undergraduate women with exposure to computing research.
+Students who have had hands-on experience with computing research as
+undergraduates are more likely to apply to graduate school</li></ul>
+<ul><li>Give individual encouragement to your women undergraduates</li></ul>
+<ul><li>Actively counter negative stereotypes and misperceptions of computer
+science and engineering</li></ul>
+<br/><br/>
+
+Recommendations for retaining women through Graduation:
+<ul><li>Be diligent at mentoring women graduate students</li></ul>
+<ul><li>Help to create a peer community for your women students</li></ul>
+<ul><li>Broaden the institutional culture of the department to accept a range of
+personal choices in balancing work and life</li></ul>
+<ul><li>Provide women role models</li></ul>
+<ul><li>Integrate students into the research culture of the department as early
+as possible</li></ul>
+<ul><li>Help women graduate students become involved in the professional
+community as well as the departmental community</li></ul>
+<ul><li>Standardize the methods your department uses for delivering
+information, so that students do not have to be part of an informal social
+network to receive it</li></ul>
+<ul><li>Change the departmental infrastructure to better promote the equal
+participation of women</li></ul>
+</body></html>

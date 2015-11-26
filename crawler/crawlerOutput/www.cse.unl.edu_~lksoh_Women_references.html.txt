@@ -1,0 +1,26 @@
+<html><body><center><img src="notes.gif"/></center><br/>
+<b>
+SOME IMPORTANT PAPERS</b><br/><br/>
+<font color="blue">
+
+Kiesler, S., L. Sproull, and J. S. Eccles (2002).  Pool Halls, Chips, and War
+Games:  Women in the Culture of Computing, inroads SIGCSE Bulletin,
+34(2):159-164, previously published in Kiesler, S., L. Sproull, and J. S.
+Eccles (1985). Pool Halls, Chips, and War Games: Women in the Culture of
+Computing, Psychology of Women Quarterly, 9:451-462.<br/><br/>
+
+
+Pearl, A., M. E. Pollack, E. Riskin, B. Thomas, E. Wolf, and A. Wu (2002).
+Becoming a Computer Scientist, inroads SIGCSE Bulletin, 34(2):135-143,
+previously published in Pearl et al. (1990).  Becoming a Computer Scientist,
+Communications of the ACM, 33(11):47-57.<br/><br/>
+
+Teague, J. (2002).  Women in Computing: What Brings Them to It, What Keeps Them
+in It?, inroads SIGCSE Bulletin, 34(2):147-158, previously published in Teague,
+G. J. (2000).  Women in Computing: What Brings Them to It, What Keeps Them in
+It?, GATES, 5(1):45-59.<br/><br/>
+
+Camp, T. (2002).  The Incredible Shrinking Pipeline, inroads SIGCSE Bulletin,
+34(2):129-134, previously published in Camp, T. (1997).  The Incredible
+Shrinking Pipeline, Communications of the ACM, 40(10):103-110.<br/><br/>
+</font></body></html>

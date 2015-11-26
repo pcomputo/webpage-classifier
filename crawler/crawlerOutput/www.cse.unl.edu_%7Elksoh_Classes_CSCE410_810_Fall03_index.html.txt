@@ -1,0 +1,44 @@
+<html>
+<head><title>Leen-Kiat Soh's CSCE410_810 Page</title>
+</head><body background="images/nothing.gif" bgcolor="white" link="#0000FF" text="#000000">
+<font face="arial">
+<hr/>
+<br/>
+<font size="+1">CSCE410/810 Information Retrieval Systems, Fall 2003</font>
+<br/>
+<br/>
+<hr/><br/><br/>
+<a href="general.html">GENERAL INFORMATION</a> <br/><br/>
+<a href="exams.html">EXAMINATIONS &amp; TESTS</a> <br/><br/>
+<a href="supplements.html">LECTURE SUPPLEMENTS</a> <br/><br/>
+<a href="forum.html">FORUM</a> <br/><br/>
+<a href="homeworks.html">HOMEWORK ASSIGNMENTS</a> <br/><br/>
+<a href="presentations.html">PRESENTATION ASSIGNMENT</a> <br/><br/>
+<a href="termpaper.html">TERM PAPER ASSIGNMENT</a> <br/><br/>
+<a href="finalproject.html">FINAL PROJECT ASSIGNMENT</a> <br/><br/>
+<a href="resources.html">RESOURCES</a> <br/><br/>
+<!-- <A HREF="CSCE410_810Review.htm">CLASS REVIEW</A> <BR><BR>
+-->
+<a href="CSCE410_810Review.ppt">CLASS REVIEW</a> <br/><br/>
+<!--
+
+<UL><LI>
+<A HREF="review2.html">
+Last Day Class Review<BR><BR>
+</LI></UL>
+
+-->
+<br/><br/>
+<hr/><br/><br/>
+<img src="../../images/blueballs.jpeg"/>
+<i>
+<script language="JavaScript">
+   <!--  to hide script contents from old browsers
+    document.write("<I>  Last Updated: " + document.lastModified + "  </I>")
+   // end hiding contents from old browsers  -->
+ </script>
+</i>
+<br/>
+</font>
+</body>
+</html>

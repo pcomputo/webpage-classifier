@@ -1,0 +1,65 @@
+<html>
+<head>
+<title>Multiagent Games</title>
+</head>
+<body alink="#111406" link="#111406" vlink="#111406">
+<center>
+<table width="80%">
+<tr>
+<td colspan="2">
+<center><h3>Welcome to our multiagent games site.</h3></center>
+<br/>
+			We are both computer science students in the Master's Program at the
+			<a href="http://www.unl.edu">University of Nebrasa-Lincoln</a> under
+			the supervision of <a href="http://www.cse.unl.edu/~lksoh">Dr. Leen-Kiat Soh</a>.
+		</td>
+</tr>
+<tr>
+<td colspan="2">
+		 
+		</td>
+</tr>
+<tr>
+<td width="50%">Kye's project involves a hunter/prey game simulation.
+		<br/><a href="foxandhounds/index.html">More info...</a></td>
+<td>Jeremy is looking at learning and coordination within
+		a team based environment.
+		<br/><a href="JavaBots/index.html">More info...</a></td>
+</tr>
+</table>
+<hr/>
+<table width="40%">
+<tr>
+<td>
+<h3> Related Links</h3>
+</td>
+</tr>
+<tr>
+<td colspan="">
+<a href="http://utbot.sourceforge.net/index.shtml">http://utbot.sourceforge.net/index.shtml</a>
+</td>
+</tr>
+<tr>
+<td colspan="">
+<a href="http://gameai.kyonggi.ac.kr/link.htm">http://gameai.kyonggi.ac.kr/link.htm</a>
+</td>
+</tr>
+<tr>
+<td colspan="">
+<a href="http://ai-depot.com/GameAI">http://ai-depot.com/GameAI</a>
+</td>
+</tr>
+<tr>
+<td colspan="">
+<a href="http://ai.eecs.umich.edu/people/laird/gamesresearch.html">http://ai.eecs.umich.edu/people/laird/gamesresearch.html</a>
+</td>
+</tr>
+<tr>
+<td colspan="">
+<a href="http://robocode.alphaworks.ibm.com/home/home.html">http://robocode.alphaworks.ibm.com/home/home.html</a>
+</td>
+</tr>
+</table>
+</center>
+</body>
+</html>

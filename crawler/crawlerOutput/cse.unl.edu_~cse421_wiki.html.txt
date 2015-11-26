@@ -1,0 +1,71 @@
+<html><head>
+<title>Fall 2015, CSCE 421/821</title>
+<link href="index_files/style.css" media="all" rel="stylesheet" type="text/css"/>
+</head><body>
+<div id="header">
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td cellpadding="0" valign="center">
+<div id="title">CSCE 421/821</div>
+<table cellpadding="15">
+</table>
+</td>
+<td align="right" style="font-size: 11pt;" valign="top">
+<div id="title">Problem Solving with Constraints</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<table cellspacing="5" width="100%">
+<tbody><tr>
+<td style="border: 1px solid rgb(170, 204, 170); background-color: rgb(250, 255, 250); width: 176px;" valign="top">
+<div id="menu">
+<div class="section">
+<h1>Main Pages</h1>
+<a href="index.html">General</a>
+<a href="protocol.html">Syllabus &amp; Protocol</a>
+<a href="grading.html">Grading Policy</a>
+<a href="safety.html">Safety Net</a>
+<a href="handouts.html">Handouts</a>
+<a href="schedule.html">Schedule</a>
+<a href="homework.html">Homework Schedule</a>
+<a href="glossaries.html">Glossaries</a>
+<a href="wiki.html">Wiki</a>
+<h1>Resources</h1>
+<a href="catch.html">Your Catch</a>
+<a href="books.html">References</a>
+<a href="online.html">Online Resources</a>
+<a href="thanks.html">Acknowledgments</a>
+<a href="contacts.html">Contact Us</a>
+</div>
+</div>
+</td>
+<td id="contents" valign="top">
+<div style="overflow: auto; height: 500px;">
+<div style="margin-right: 10px;">
+<h1>Wiki</h1>
+
+
+To facilitate discussions and information sharing in general and, more
+particularly, debugging, wiki pages are made available to all students
+in the class:
+
+<ul>
+<li> <a href="http://cse-wiki.unl.edu/wiki/index.php/F15-421-821" target="_blank">General wiki</a> </li>
+<li> <a href="http://cse-wiki.unl.edu/wiki/index.php/F15-421-821-HWK2" target="_blank">Homework 2</a>
+</li>
+<li> <a href="http://cse-wiki.unl.edu/wiki/index.php/F15-421-821-HWK3" target="_blank">Homework 3</a>
+</li>
+<li> <a href="http://cse-wiki.unl.edu/wiki/index.php/F15-421-821-HWK4" target="_blank">Homework 4</a>
+</li>
+<li> <a href="http://cse-wiki.unl.edu/wiki/index.php/F15-421-821-HWK5" target="_blank">Homework 5</a>
+</li>
+<li> <a href="http://cse-wiki.unl.edu/wiki/index.php/F15-421-821-HWK6" target="_blank">Homework 6</a>
+</li>
+<!--
+-->
+</ul>
+<p>For help, check results of previous courses: <a href="http://cse.unl.edu/~choueiry/F12-421-821/wiki.html" target="_blank">Wiki of F12-421-821</a>, <a href="http://cse.unl.edu/~choueiry/S11-421-821/wiki.html" target="_blank">Wiki of S11-421-821</a>, <a href="http://cse.unl.edu/~choueiry/F14-421-821/wiki.html" target="_blank">Wiki of F14-421-821</a> </p>
+</div> </div> </td></tr></tbody></table></body> </html>

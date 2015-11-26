@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> Gregg Rothermel's Home Page </title>
+</head>
+<!-- body bgcolor="white" text="black" link="blue" vlink="gray" alink="yellow"-->
+<frameset frameborder="no" rows="80,*">
+<noframes> If your browser cannot
+    display frames you'll see this message. 
+    Follow this link: <body><a href="navBar.html">to view the website.</a>
+<frame name="titlebarFrame" scrolling="no" src="titleBar.html"/>
+<frameset cols="160,*" frameborder="no">
+<frame name="navBarFrame" scrolling="yes" src="navBar.html"/>
+<frame name="contentsFrame" scrolling="yes" src="home/homeContents.html"/>
+</frameset>
+</body></noframes></frameset></html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Jitender S. Deogun's Home Page</title>
+<link href="CSSFILE.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div id="container">
+<div id="header"><p>
+<br/><strong>Dr. Jitender S. Deogun</strong>
+<br/>Department of Computer Science &amp; Engineering<br/>
+     University of Nebraska-Lincoln<br/>
+</p>
+</div>
+<div id="wrapper">
+<div id="content">
+<p><span style="color: #000000;"><span><strong><span style="font-size: small;">Welcome to homepage of Professor Jitender Singh Deogun,<br/></span></strong></span></span></p>
+<p><strong><span style="color: #000000;"><span style="font-size: small;">Education:</span></span></strong></p>
+<p><strong></strong></p>
+<p><span style="color: #000000;"><span><span><span style="font-size: small;"><span>1979, Ph.D., University of Illinois, Urbana, IL</span><br/><span>1974, M.S., University of Illinois, Urbana, IL</span><br/></span></span></span></span><span style="color: #000000;"><span><span><span style="font-size: small;"><span>1970, M.Sc., University of Delhi, Delhi<br/></span><span>1966, B.Sc. (Hons.), Punjab University, Chandigarh</span> </span></span></span></span></p>
+<p> </p>
+<p><strong><span><span style="font-size: small;">Professional Experience:</span></span></strong></p>
+<ul>
+<li><span style="color: #000000;"><span style="font-size: small;">1988 to date, Professor, Computer Science &amp; Engineering, University of Nebraska, Lincoln, Nebraska. </span></span></li>
+<li><span style="color: #000000;"><span style="font-size: small;">1984 to 1988, Associate Professor, Computer Science &amp; Engineering, University of Nebraska, Lincoln, Nebraska. </span></span></li>
+<li><span style="color: #000000;"><span style="font-size: small;">Fall 1987, Visiting Associate Professor, Computer Science, The Center for Advanced Computer Studies, University of Southwestern Louisiana, Lafayette, LouisiAna. </span></span></li>
+<li><span style="color: #000000;"><span style="font-size: small;">May 1987 to August 1987, Visiting Professor, Electrical Communications, Tohoku University, Sendai, JAPAN. </span></span></li>
+<li><span style="color: #000000;"><span style="font-size: small;">1981 to 1984, Assistant Professor, Computer Science, University of Nebraska, Lincoln, Nebraska. </span></span></li>
+<li><span style="color: #000000;"><span style="font-size: small;">1979 to 1981, Assistant Professor, Computer Science, University of South Carolina, Columbia, South Carolina. </span></span></li>
+<li><span style="color: #000000;"><span style="font-size: small;">1978 to 1979, Visiting Assistant Professor, Computer Science, Bucknell University, Lewisburg, Pennsylvania. </span></span></li>
+<li><span style="color: #000000;"><span><span><span style="font-size: small;"><span>1976 to 1978, Lecturer, Computer Science, University of Regina, Sask., CANADA</span> </span></span></span></span></li>
+</ul>
+<p><span style="font-size: small;"><br/></span></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p><br/>
+</div>
+</div>
+<div id="navigation">
+<div id="vertmenu">
+<h1>  Navigation</h1>
+<ul>
+<li><a href="index.php" tabindex="1">Home</a></li>
+<li><a href="Research.php" tabindex="2">Research</a></li>
+<li><a href="upload/all-pubs.pdf">Publications</a></li>
+<li><a href="Courses.php" tabindex="4">Courses</a></li>
+<li><a href="Students.php" tabindex="5">My Students</a></li>
+<li><a href="Committee.php" tabindex="3">Committee</a></li>
+<li><a href="upload/vita.pdf">Vita</a></li>
+<li><a href="Contact.php" tabindex="6">Contact</a></li>
+<li><a href="http://cse.unl.edu/~deogun/login/examples/login.php">Secured</a></li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>

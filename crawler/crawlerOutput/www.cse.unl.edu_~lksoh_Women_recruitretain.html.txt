@@ -1,0 +1,36 @@
+<html><body><center><img src="notes.gif"/></center><br/>
+<b>
+SOME EXTRACTED POINTS FROM</b><br/><br/>
+<font color="blue">
+Cohoon, J. M. (2002). Recruiting and Retaining Women in Undergraduate Computing
+Majors, inroads SIGCSE Bulletin, 34(2):48-52.
+</font>
+<hr/><br/>
+
+Recommendations for recruiting women:
+<ul><li>Work with high-school teachers</li></ul>
+<ul><li>Communicate with high-school guidance counselors</li></ul>
+<ul><li>Use role models to actively recruit high-school students</li></ul>
+<ul><li>Develop relationships with community colleges</li></ul>
+<ul><li>Make contact with the local community</li></ul>
+<ul><li>Recruit first and second year students from within your institution</li></ul>
+<ul><li>Consider the impact that selection criteria for program admission can
+have on women's enrollment</li></ul>
+<ul><li>Offer multiple points of entry</li></ul>
+<ul><li>Review public information for the image it projects</li></ul>
+<br/><br/>
+
+Recommendations for retaining women:
+<ul><li>Maintain a stable faculty</li></ul>
+<ul><li>Provide female role models</li></ul>
+<ul><li>Employ faculty who enjoy teaching undergraduates</li></ul>
+<ul><li>Promote interaction among classmates, and develop learning communities
+and other forms of peer support</li></ul>
+<ul><li>Mentor undergraduates</li></ul>
+<ul><li>Communicative positive opinions of female students' strengths</li></ul>
+<ul><li>Involve women in research</li></ul>
+<ul><li>Build institutional support so the program will have adequate resources</li></ul>
+<ul><li>Use the local job market to provide students with work experience</li></ul>
+<ul><li>Provide students with opportunities to volunteer their computing skills
+in service to the community</li></ul>
+</body></html>

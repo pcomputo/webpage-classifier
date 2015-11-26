@@ -1,0 +1,16 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title> PHP Login </title>
+</head>
+<body>
+<center>
+Password:<br/>
+<form action="login.php" method="post">
+<input name="pswd" type="password"/>
+<input name="login" type="submit" value="Login"/>
+</form>
+</center>
+<a href="http://cse.unl.edu/~deogun/index.php">Goto Home Page</a>
+</body>
+</html>

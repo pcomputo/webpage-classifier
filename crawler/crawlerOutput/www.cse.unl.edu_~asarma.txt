@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<title>Anita Sarma</title>
+<link href="http://gmpg.org/xfn/11" rel="profile"/>
+<link href="http://csce.unl.edu/~asarma/wp-content/themes/twentyten-asarma/style.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://csce.unl.edu/~asarma/xmlrpc.php" rel="pingback"/>
+<link href="http://csce.unl.edu/~asarma/feed/" rel="alternate" title="Anita Sarma » Feed" type="application/rss+xml"/>
+<link href="http://csce.unl.edu/~asarma/comments/feed/" rel="alternate" title="Anita Sarma » Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/csce.unl.edu\/~asarma\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="http://csce.unl.edu/~asarma/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://csce.unl.edu/~asarma/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 4.3.1" name="generator"/>
+<link href="http://csce.unl.edu/~asarma/" rel="canonical"/>
+<link href="http://csce.unl.edu/~asarma/" rel="shortlink"/>
+</head>
+<body class="home page page-id-10 page-template-default">
+<div class="hfeed" id="wrapper">
+<div id="header">
+<div id="masthead">
+<div id="branding" role="banner">
+<h1 id="site-title">
+<span>
+<a href="http://csce.unl.edu/~asarma/" rel="home" title="Anita Sarma">Anita Sarma</a>
+</span>
+</h1>
+<div id="site-description"></div>
+<img alt="" height="148" src="http://csce.unl.edu/~asarma/wp-content/uploads/cropped-unl_stadium.jpg" width="940"/>
+</div><!-- #branding -->
+<div id="access" role="navigation">
+<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+<div class="menu-header"><ul class="menu" id="menu-main"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10 current_page_item menu-item-34" id="menu-item-34"><a href="http://csce.unl.edu/~asarma/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33" id="menu-item-33"><a href="http://csce.unl.edu/~asarma/publications/">Publications</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32" id="menu-item-32"><a href="http://csce.unl.edu/~asarma/research/">Research</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274" id="menu-item-274"><a href="http://csce.unl.edu/~asarma/funding/">Funding</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135" id="menu-item-135"><a href="http://csce.unl.edu/~asarma/service/">Service</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31" id="menu-item-31"><a href="http://csce.unl.edu/~asarma/students/">People</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30" id="menu-item-30"><a href="http://csce.unl.edu/~asarma/teaching/">Teaching</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35" id="menu-item-35"><a href="http://cse.unl.edu/~asarma/misc/sarma_CV_EXTERNAL.pdf">CV</a></li>
+</ul></div> </div><!-- #access -->
+</div><!-- #masthead -->
+</div><!-- #header -->
+<div id="main">
+<div id="container">
+<div id="content" role="main">
+<div class="post-10 page type-page status-publish hentry" id="post-10">
+<h2 class="entry-title">Home</h2>
+<div class="entry-content">
+<div style="text-align: justify;">
+<div title="Page 1">
+<div>
+<div>
+<div title="Page 2">
+<div>
+<div>
+<p><strong>I have moved to Oregon State University.</strong></p>
+<p>Coordination in software development is inherently difficult because of the complex, invisible, and dynamic interdependencies among software artifacts. Implementing a piece of software requires not only integrating code written by a developer with the project’s existing code, but also with that of current ongoing work, and third party software. The technical dependencies among these pieces of software lead to social dependencies among developers, and the need to coordinate changes. However, understanding these socio-technical dependencies is nontrivial. Conflicts frequently arise because of coordination breakdowns. Development practices such as parallel work and distributed development further exacerbate the problem.</p>
+<p>My research examines the paradigms, technologies and social contexts to model socio-technical dependencies, and facilitate coordination. My approach is interdisciplinary, leveraging research in data mining, program analysis, software visualization, and human-computer interaction. My work: (a) deepens our understanding of the effects of socio-technical dependencies by analyzing and modeling the social and technical structures in a software system through archival analysis, (b) allows developers to investigate and comprehend socio-technical dependencies in their projects through interactive tools, and (c) mitigates coordination related software conflicts through tools that support change impact analysis and workspace awareness. Finally, end-user programmers, individuals to whom programming is a means to an end, also need to understand and manage socio-technical dependencies.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div title="Page 1">
+<div>
+<div>
+<p>My research is being supported by three NSF research grants, including an NSF CAREER award.</p>
+</div>
+</div>
+</div>
+<p>I received my PhD from Department of Informatics; in the <a href="http://www.ics.uci.edu/">Donald Bren School of Information and Computer Sciences</a> at the <a href="http://www.uci.edu/">University of California, Irvine</a> and completed my postdoctoral work at <a href="http://www.cmu.edu/index.shtml">Carnegie Mellon University</a>, <a href="http://www.cs.cmu.edu/">School of Computer Science</a>.</p>
+<p>Visit our lab page: <a href="http://e2.unl.edu/">Empirically-based Software Quality Research</a></p>
+</div>
+</div><!-- .entry-content -->
+</div><!-- #post-## -->
+<div id="comments">
+<p class="nocomments">Comments are closed.</p>
+</div><!-- #comments -->
+</div><!-- #content -->
+</div><!-- #container -->
+<div class="widget-area" id="primary" role="complementary">
+<ul class="xoxo">
+<li class="widget-container widget_text" id="text-3"> <div class="textwidget"><img alt="" src="http://cse.unl.edu/~asarma/images/head4.jpg" style="width: 181px; height: 200px;"/></div>
+</li><li class="widget-container widget_text" id="text-4"> <div class="textwidget"><p><strong>Anita Sarma</strong><br/>
+ Adjunct Associate Professor<br/>
+ Dept. of Computer Sci. &amp; Engr.<br/>
+ University of Nebraska, Lincoln<br/>
+ Lincoln, NE 68588-0115<br/>
+<br/>
+<span style="color: rgb(153, 0, 0);">Email</span>: asarma [at] cse [dot] unl [dot] edu<br/>
+</p> </div>
+</li> </ul>
+</div><!-- #primary .widget-area -->
+</div><!-- #main -->
+<div id="footer" role="contentinfo">
+<div id="colophon">
+<div id="site-info">
+<a href="http://csce.unl.edu/~asarma/" rel="home" title="Anita Sarma">
+					Anita Sarma				</a>
+</div><!-- #site-info -->
+<div id="site-generator">
+<a href="http://wordpress.org/" rel="generator" title="Semantic Personal Publishing Platform">Proudly powered by WordPress.</a>
+</div><!-- #site-generator -->
+</div><!-- #colophon -->
+</div><!-- #footer -->
+</div><!-- #wrapper -->
+<script src="http://csce.unl.edu/~asarma/wp-includes/js/comment-reply.min.js?ver=4.3.1" type="text/javascript"></script>
+</body>
+</html>

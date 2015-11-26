@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> Adam Eck </title>
+<meta content="1;url=http://unlcms.unl.edu/computer-science-and-engineering/adam-eck" http-equiv="refresh"/>
+</head>
+<body>
+You will now be redirected to Adam's updated page.
+
+
+</body>
+</html>

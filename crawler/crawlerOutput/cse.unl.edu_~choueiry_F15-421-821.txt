@@ -1,0 +1,160 @@
+<html><head>
+<title>Fall 2015, CSCE 421/821</title>
+<link href="index_files/style.css" media="all" rel="stylesheet" type="text/css"/>
+</head><body>
+<div id="header">
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td cellpadding="0" valign="center">
+<div id="title">CSCE 421/821</div>
+<table cellpadding="15">
+</table>
+</td>
+<td align="right" style="font-size: 11pt;" valign="top">
+<div id="title">Foundations of Constraint Processing</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<table cellspacing="5" width="100%">
+<tbody><tr>
+<td style="border: 1px solid rgb(170, 204, 170); background-color: rgb(250, 255, 250); width: 176px;" valign="top">
+<div id="menu">
+<div class="section">
+<h1>Main Pages</h1>
+<a href="index.html">General</a>
+<a href="protocol.html">Syllabus &amp; Protocol</a>
+<a href="grading.html">Grading Policy</a>
+<a href="safety.html">Safety Net</a>
+<a href="handouts.html">Handouts</a>
+<a href="schedule.html">Schedule</a>
+<a href="homework.html">Homework Schedule</a>
+<a href="glossaries.html">Glossaries</a>
+<a href="wiki.html">Wiki</a>
+<h1>Resources</h1>
+<a href="catch.html">Your Catch</a>
+<a href="books.html">References</a>
+<a href="online.html">Online Resources</a>
+<a href="thanks.html">Acknowledgments</a>
+<a href="contacts.html">Contact Us</a>
+</div>
+</div>
+</td>
+<td id="contents" valign="top">
+<div style="overflow: auto; height: 500px;">
+<div style="margin-right: 10px;">
+<p><b><i><font color="#ff0000" size="4">Annnouncements:</font></i></b><br/><br/>
+<!-- Each semester we host one to two visitors.  This semester's visitors
+are still to be determined.
+Check the <a href="http://consystlab.unl.edu/news/visitors.html"
+target="_blank">list of previous visitors</a>.  -->
+</p><p><blink><a href="schedule.html"><b>Class schedule:</b></a></blink>
+the page will be regularly updated. Check it out <i>regularly</i> for
+announcements of required/recommended reading material, homework, etc. </p>
+<hr/>
+<h1>General Information</h1>
+<p> <b>Prereq: </b>Instructor's permission</p>
+<p><b>Course description:</b> 
+
+Constraint satisfaction has emerged as a powerful approach to
+articulate and solve many problems in computer science, engineering,
+and management.  It is now the basis for new programming
+languages and innovative commercial systems for production scheduling,
+product configuration, personnel planning and timetabling, etc. 
+The goal of this course is to prepare students to conduct research in
+this area.  The course will be intensive and will require thorough
+study of the theory and the algorithms, and a significant
+implementation effort.  Students are expected to be self motivated,
+and demonstrate intellectual independence and collegial collaboration.
+</p>
+<p><b>Lectures:</b> Monday, Wednesday, Friday, 3:30 p.m. to 4:20 p.m.<br/>
+<b>Location</b>: AvH 119.</p>
+<p><b>Make-up Class/Recitation:</b> Monday, from 4:30--5:20 p.m. <br/>
+<b>Location</b>: AvH 119.</p>
+<p><b>Instructor</b>:   Prof.  Berthe Y. Choueiry
+<br/>      Office
+hours: <font color="#cc0000">Wednesday/Friday 4:30-5:30 p.m. or by
+appointment</font>
+<br/>     
+Office location: Room 360, Avery Hall,
+</p>
+<p><b>Volunteer Graduate GTA's</b>:  
+</p><ul>
+<li>
+Anthony Schneider: 
+<font color="#FF0000">Tuesdays and Fridays 9:30 a.m.--11:30 a.m., Avery Hall 13A (Student Resource Center)</font></li>
+<li>
+Robert J. Woodward: 
+<font color="#FF0000">Thursdays 11:30 a.m.--12:30 p.m., Avery Hall 13A (Student Resource Center)</font></li>
+</ul>
+<p><b> Textbook:</b><br/> "Constraint Processing" by Rina Dechter,
+1<sup>st</sup> edition. The textbook will not be followed
+sequentially, but should be used for reference. <br/>
+</p><p><b>For a quick response</b>, send your questions
+to <a href="http://piazza.com/unl/fall2015/csce421821">Piazza</a>.  Your message will be read by the TA and the instructor
+and they will respond to you ASAP.</p>
+<p><b>Communications:</b></p>
+<ul>
+<li> <a href="http://cse.unl.edu/~choueiry/F15-421-821/" target="_blank">Course WebPage</a>: You can access all information
+about the course from the <a href="http://cse.unl.edu/~choueiry/F15-421-821/" target="_blank">course WebPage</a>.  Check the course "Schedule" to
+prepare for each class.
+</li>
+<li><a href="http://blackboard.unl.edu" target="_blank">Blackboad</a>:
+Grades are posted on Blackboard.  Check them regularly and alert us
+about grading errors within 7 calendar days. </li>
+<li> <a href="http://piazza.com/unl/fall2015/csce421821/" target="_blank">Piazza</a>: For a quick response, send your questions to <a href="http://piazza.com/unl/fall2015/csce421821/" target="_blank">Piazza</a>.  Your
+message will be read by the TA and the instructor and they will
+respond to you ASAP.</li>
+<li> <a href="https://cse-apps.unl.edu/handin" target="_blank">Handin</a>: All homework, projects, reports, etc. must be submitted via the handin system of CSE.</li>
+<li> <a href="http://cse.unl.edu/~cse421/wiki.html" target="_blank">Wiki</a>: You can upload the Excel file of the
+<i>results</i> of your homework on the wiki and check the results of
+others so that you can debug your code.
+</li>
+<li> <a href="email/email.html">Anonymous Suggestion Box</a>: You may
+also choose to drop us a note in the <a href="email/email.html">Anonymous Suggestion Box</a> to express any
+opinion about the course. (You can do it also via Piazza.)</li>
+</ul>
+<b></b><p>Topics include but are not restricted to:</p>
+<ul>
+<li> Properties, computational complexity, and practical importance.</li>
+<li> Global and local consistency: algorithms, properties and
+computational complexity.</li>
+<li> Islands of tractability for minimality and global consistency.</li>
+<li> Intelligent backtracking.</li>
+<li> Look-ahead techniques.</li>
+<li> Ordering heuristics.</li>
+<li> Theoretical and empirical comparison of hybrid search
+algorithms.</li>
+<li> Phase transition.</li>
+<li> Modeling and reduction methods between representations.</li>
+<li> If time permits: Decomposition.  Symmetries and their
+approximations.  Temporal constraint networks.  Stochastic search.
+Reformulation and abstraction.  Dynamic/conditional Constraint
+Satisfaction (CSP).  Constrained Optimization Problem (COP).</li>
+<li>Other, depending on class interests. </li></ul>
+<b></b><p>Support: </p>
+<ul>
+<li>Rina Dechter, <i>Constraint Processing</i>, 2003, Morgan
+Kauffmann.  Available from bookstore. </li>
+<li>
+<a href="http://0-lib.myilibrary.com.library.unl.edu/Open.aspx?id=268408&amp;loc=&amp;srch=undefined&amp;src=0">
+Lecoutre's e-textbook on Constraint Networks</a> (available from UNL's
+libaries)
+</li>
+<li>Edward Tsang, <i><a href="http://cswww.essex.ac.uk/CSP/papers/Tsang-Fcs1993.pdf/">Foundations
+of Constraint Satisfaction</a></i>. Also, available from instructor
+and on reserve at the Math Library in Avery Hall. </li>
+<li>Technical papers given by instructor or available from the <a href="http://0-cors0812.unl.edu.library.unl.edu/ereserves/contents/csce421/csce421.html">Electronic
+Reserve </a>at the Love Library. </li></ul>
+<br/>
+<p style="font-family: sans-serif; font-size: 8pt;">
+<!-- hhmts start -->
+Last modified: Mon Aug 25 13:44:32 CDT 2015
+<!-- hhmts end -->
+</p>
+</div>
+</div>
+</td></tr></tbody></table></body>
+</html>

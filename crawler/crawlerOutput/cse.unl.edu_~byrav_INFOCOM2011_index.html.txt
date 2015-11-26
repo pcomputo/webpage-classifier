@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>INFOCOM 2011 Documents</title>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18127115-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<font face="helvetica, arial">
+<hr/>
+</font><center>
+<img src="infocom.gif"/>
+<h2><a href="http://www.ieee-infocom.org/">IEEE INFOCOM 2011</a></h2>
+<h3> April 10 - 15, 2011, Shanghai, China </h3>
+Questions? Please email TPC Co-Chairs at info11.chairs@gmail.com
+</center>
+<hr/>
+<blink> Disclaimer: These documents and the process described therein are subject to
+change without notice! </blink>
+<hr/>
+<h1>INFOCOM 2011 Documents </h1>
+<ul>
+<li><h2>Important Deadlines </h2>(in reverse chronological order)
+<ul>
+<li> <b> Conference Dates</b>: 10 - 15 Apr 2011 / Shanghai
+</li><li> <b> January 15, 2011 </b>- Final camera-ready papers due 			
+</li><li> <b> November 21, 2010 </b>-  Decisions Announced (Notification deadline)
+</li><li> <b> November 13, 2010 </b> - TPC Meeting, Los Angeles, CA (confirmed)
+</li><li> <b> October 31, 2010 </b>- Area TPC Chairs give their recommendations to TPC
+Chairs<br/> 
+	3 categories: Accept, Discuss at TPC meeting, Reject 
+</li><li> <b> October 17, 2010</b> - On-line TPC Discussions done; Lead TPC members to summarize their recommendations; Lead TPC Reviews due<br/>
+	4 categories: Accept, Discuss, Needs Additional Review, Reject 
+</li><li> <b> October 17, 2010</b> - Online discussion phase ends
+</li><li> <b> October 3, 2010</b> - Regular Reviews Due
+</li><li> <b> September 8, 2010 </b>- Last date for TPC Members to delegate papers (upto 1/3) to qualified reviewers
+</li><li> <b> August 25, 2010 </b>- TPC Members Check for Conflict
+of Interest of Assigned Papers 
+</li><li> <b> August 22, 2010 </b>- TPC Members assigned papers for review
+</li><li> <b>August 8 - August 14, 2010</b> - Early Reject Recommendations Due from ATPC Chairs
+</li><li> <b> August 8, 2010 </b>- TPC Members claim papers for review
+</li><li> <b> July 30, 2010 </b>- Papers due
+</li><li> <b> July 23, 2010 </b>- Paper title/abstract registration (REQUIRED!)
+</li><li> <b> July 15, 2010</b> - TPC members register their preferred paper topics
+</li><li> <b> March 17, 2010</b> - INFOCOM 2011 TPC Informational/Planning Meeting
+</li></ul>
+</li><li><h2>Documents for Authors</h2>
+<a href="http://www.ieee-infocom.org/submission.html">INFOCOM 2011 Manuscript Preparation Instructions</a><br/>
+<a href="http://www.edas.info/newPaper.php?c=8745&amp;">
+INFOCOM 2011 Paper Registration Page on EDAS</a> (needs EDAS login; will not be available after paper registration deadline)<br/>
+<a href="http://www.ieee-infocom.org/callforpaper.html">Call for Papers</a> (<a href="http://www.ieee-infocom.org/docs/CFP-2011-FINAL.pdf">PDF</a>).
+
+</li><li><h2>Documents for Area TPC chairs, TPC members and reviewers</h2>
+<ul>
+<li><a href="area-tpc-chair-guidelines.html">Guidelines for Area TPC Chairs (TPC Group Leaders)</a><br/>
+</li><li><a href="tpc-guidelines.html">Guidelines for TPC members</a><br/>
+</li><li><a href="backup-tpc-guidelines.html">Guidelines for Backup TPC members</a><br/>
+</li><li><a href="reviewer-guidelines.html">Guidelines for Delegated Reviewers (non-TPC members)</a><br/>
+</li><li><a href="INFOCOM2011-TPC-info-meeting.ppt">Slides used at INFOCOM 2011 TPC Informational Meeting in San Diego, CA, March 17, 2010 (PPT, 874KB)</a><br/>
+</li></ul>
+<hr/>
+</li></ul></body>
+</html>

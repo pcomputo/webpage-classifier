@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="en-us" http-equiv="Content-Language"/>
+<meta content="Kathryn Stolee" name="author"/>
+<meta content="Kathryn Stolee, Katie Stolee, esquared, unl, lincoln, nebraska, software engineering" name="keywords"/>
+<meta content="Kathryn Stolee is a Ph.D. student studying software engineering in the ESQuaReD Lab at University of Nebraska-Lincoln." name="description"/>
+<link href="main.css" rel="stylesheet" type="text/css"/>
+<title>Kathryn T. Stolee</title>
+<meta content="0;url= http://www.cs.iastate.edu/~kstolee/" http-equiv="refresh"/>
+</head>
+<body>
+<!-- Header. -->
+<table class="header">
+<tr>
+<td class="header-title">Kathryn T. Stolee</td>
+<td class="header-icon">
+</td>
+</tr>
+</table>
+<!-- Navigation bar. -->
+<table class="navbar">
+<tr>
+<td class="navitem navitem-current"><a href="./index.html">Home</a></td>
+<td class="navitem"><a href="./publications.html">Publications</a></td>
+<td class="navitem"><a href="./research.html">Research Projects</a></td>
+<td class="navitem"><a href="./contact.html">Contact and CV</a></td>
+</tr>
+</table>
+<!-- Text. -->
+<img alt="Me" id="photo" src="me.jpg" width="225"/>
+<p>
+<span style="font-size: 25px; font-family: arial; font-weight: bold"> Kathryn (Katie) Stolee </span>
+</p>
+<p>
+</p><table border="0">
+<tr> <td>
+<p>
+    I am an Assistant Professor of Software Engineering at Iowa State University. I received my Ph.D. in Computer Science in August 2013 from the University of Nebraska-Lincoln as a member of the <a href="http://e2.unl.edu/" target="_blank">ESQuaReD</a> lab under the supervision of <a href="http://cse.unl.edu/~elbaum" target="_blank">Sebastian Elbaum</a>.
+</p>
+</td>
+</tr></table>
+<div class="bar">Recent Events <a href="oldnews.html">(old news)</a></div>
+<ul class="compactlist">
+<li><b>July 2013</b>: Our short paper, "On the Use of Input/Output Queries for Code Search", was accepted at ESEM 2013.</li>
+<li><b>April 2013</b>: Accepted an offer to join the faculty at Iowa State University as an Assistant Professor. Go Cyclones!</li>
+<li><b>November 2012</b>: Joined the PC for the <a href="https://sites.google.com/site/user2013workshop/">Workshop on User evaluations for Software Engineering Researchers (USER)</a>, collocated with ICSE 2013 </li>
+<li><b>November 2012</b>: Presented our paper and poster, "Toward Semantic Search via SMT Solver," at FSE 2012</li>
+<li><b>August 2012</b>: Our paper, "Toward Semantic Search via SMT Solver," was accepted to the NIER track at FSE 2012</li>
+</ul>
+<div class="bar">Research Interests</div>
+<p>
+  My research has a common thread of leveraging resources in software code repositories to better support programmers. In the past, the primary target of my approaches has been end-user programmers, with techniques that aim to increase the quality of programs (i.e., through refactoring [ICSE 2011]) or to help programmers find code that solves a particular problem (i.e., semantic search with lightweight specifications [FSE NIER 2012, ICSE Doctoral Symposium 2012]). More recently we are taking the semantic search approach to a broader audience, targeting more mainstream programming languages like SQL and Java. These techniques have been evaluated using different empirical methods, including crowdsourcing, which can enable large-scale and cost-effective evaluation [ESEM 2010]. 
+  </p>
+<p>To gain a better understanding of programmers and their communities, I have also conducted several exploratory empirical studies (i.e., on duplication in Yahoo! Pipes [ESEM 2011], on programming language usage in Kodu [SIGCSE 2011], on copy/paste behaviors [VL/HCC 2009]). 
+  <!--
+My research focuses on software engineering for end users, and I aim to enable end users to create dependable 
+programs by bringing the benefits of software engineering to the growing community of end users.  
+I approach this problem by creating tools and techniques that promote community-based collaborations 
+among users, allow users to learn from the experiences and expertise of others, 
+and provide dependability support for user tasks.
+-->
+</p>
+<p>
+Related to computer science education,
+I have contributed to an online instructional tool, <a href="http://esquared.unl.edu/BugHunt">BugHunt</a>, 
+that teaches software testing techniques through a series of tutorials. I have also held an internship at the
+Microsoft FUSE Labs and studied <a href="http://fuse.microsoft.com/project/kodu.aspx">Kodu</a>, an educational
+programming language designed for children.
+  </p>
+<!-- Footer -->
+<table class="footer">
+<tr>
+<td class="signature">
+      Last updated on August 29, 2012.
+    </td>
+</tr>
+</table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-6150764-1");
+pageTracker._trackPageview();
+</script>
+</body>
+</html>

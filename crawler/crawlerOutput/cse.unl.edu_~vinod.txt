@@ -1,0 +1,117 @@
+<html>
+<head><link href="style.css" rel="STYLESHEET" type="text/css"/>
+<title>
+Vinodchandran N. Variyam
+</title>
+</head><body bgcolor="">
+<hr/>
+<h2>
+<font color="">Vinodchandran N. Variyam </font>
+</h2>
+<hr/>
+<div>
+<table border="0">
+<tr valign="top">
+<td width="20%">
+<!-- <img src="photo2_psketch.jpg" 
+         width="200px" 
+	 height="250px"> 
+-->
+<img height="250px" src="self_4.jpg" width="200px"/>
+<p>
+<font size="4">  Research  Interests </font>
+</p><p>
+
+Foundations of computation; <br/>
+in particular
+the theory of <br/>
+<a href="http://en.wikipedia.org/wiki/Computational_complexity_theory">Computational Complexity</a>.   
+<br/>
+</p><p>
+<font size="4">
+<a href="http://www.cse.unl.edu/~vinod/papers/index.html">
+<font> Recent publications</font></a>
+<br/>
+<!--
+<A HREF="http://www.cse.unl.edu/~vinod/education.html"> 
+<font> Education </font> </a>
+<br>
+
+<A HREF="http://www.cse.unl.edu/~vinod/teaching.html"> <font>Recent teaching </font> </a>
+-->
+<p>
+<!--
+<A HREF="http://www.cse.unl.edu/~vinod/links.html">  
+<font>TCS resources on the net</font> </A> 
+-->
+</p></font>
+<!--
+<font size = 4> <b>Professional Service:</b> </font> 
+<A href = "http://www.fsttcs.org/"><font size =4 > FSTTCS 07,</font></a>
+<A href = "http://www.cs.iastate.edu/~xiaoyang/atlantic.html"><font size =4> Atlantic Theory Seminar</font></a>
+<br>
+<hr>
+-->
+<font size="4"> <b>PhD Students </b> </font>
+<br/>
+</p><p>
+<span style="padding-left:20px">
+<a href="http://www.cse.unl.edu/~cbourke/">
+<font size="4"> Chris Bourke</font></a> (2008)</span><br/>
+<span style="padding-left:20px">
+<a href="http://www.cse.iitk.ac.in/users/rtewari/"><font size="4">
+Raghunath Tewari</font></a> (2011)</span> <br/>
+<span style="padding-left:20px">
+<a href="http://www.math.uiuc.edu/~stolee/"><font size="4">
+    Derrick Stolee</font></a> (2012)</span> <br/>
+<span style="padding-left:20px">
+<font size="4"> Taylor Spangler </font> (current)</span>
+<span style="padding-left:20px"><font size="4"> Sutanu Gayen </font> (current)</span>
+</p><p>
+</p></td>
+<td width="40%"><font size="4"> 
+
+Professor 
+
+<a href="http://www.cse.unl.edu"><font>Dept. of Comp. Sci. &amp; 
+      Engg.</font></a><br/>
+<a href="http://www.unl.edu"><font>University of Nebraska-Lincoln</font></a><br/>
+    Lincoln, NE 68588-0115<br/>
+<br/>
+    Office: 262 Avery Hall<br/>
+    Phone: +1-(402) 472-5002<br/>
+    fax:  +1-(402) 472-7767 <br/>
+    Email: <span class="texttt">vinod 'at' cse.unl.edu</span><br/>
+<br/>
+<hr/>
+<!--
+<br>
+
+<font size =4>
+
+<table allign = center, border = 1>
+
+<TR><TD>Current Teaching <br>
+<a href = "http://www.cse.unl.edu/~vinod/310s13/index.html"> Data Structures and Algorithms </a> </td></tr>
+
+</table>
+</font>
+
+
+<!--
+<img src="VinodMM3.jpg" 
+         width="300px" 
+	 height="200px" 
+	 alt="Me and little mees">
+-->
+</font>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+</tr>
+</table>
+</div>
+<hr/>
+</body></html>

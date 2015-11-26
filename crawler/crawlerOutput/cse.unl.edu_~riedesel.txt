@@ -1,0 +1,50 @@
+<html><head><title>Charles Riedesel</title>
+</head><body><h1><center>
+Charles Riedesel
+</center></h1>
+<h3><center>
+Chief Undergraduate Advisor at the University of Nebraska's<br/>
+<a href="http://cse.unl.edu/"><i>Computer Science and Engineering
+Department</i></a>.<br/>
+Contact me at
+<a href="mailto:riedesel@cse.unl.edu">riedesel@cse.unl.edu</a><br/>
+Visit my <a href="pub/"> pub page</a>.<br/>
+Download detailed <a href="pub/Advise/appointments.xls"> appointment schedule (xls file)</a>.
+</center>
+</h3>
+<hr/>
+<h3>
+<pre>
+                        Charles Riedesel, Ph.D. 
+
+    Chief Undergraduate Advisor - Computer Science and Engineering
+                         402-472-3486 (office)
+                         402-472-7767 (fax) 
+                         402-228-2433 (home)
+
+                     Fall 2015 Schedule Summary: 
+
+Monday/Wednesday/Friday                  Tuesday/Thursday
+   9:30-10:20 Class                  9:30-11:30 Work from Home
+  11:30-12:20 Class                 11:30-evening mostly open
+ Open most afternoons
+                         Wednesday/Thursday
+                          5:30-6:20 Class
+
+                Call if doors are locked in the evening!!!
+
+         Email for appointment or pencil in on Avery office door!
+(weekly schedule http://cse.unl.edu/~riedesel/pub/Advise/appointments.xls)
+</pre>
+<hr/>
+<h2>Education</h2>
+<h3>
+
+Ph.D. in Computer Science from University of Nebraska - Lincoln 
+</h3>
+<hr/>
+<h2>Research Interests</h2>
+<h3>
+Computer Science Education, Graph Algorithms
+</h3>
+</h3></body></html>

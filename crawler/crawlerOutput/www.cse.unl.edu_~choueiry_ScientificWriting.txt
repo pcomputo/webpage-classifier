@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Mozilla/4.75 [en] (X11; U; SunOS 5.7 sun4u) [Netscape]" name="GENERATOR"/>
+<title>Technical Writing: Resource Page</title>
+</head>
+<body alink="#FF0000" bgcolor="#FFFFFF" link="#0000EE" text="#000000" vlink="#551A8B">
+<center>
+<h1>
+<font size="+2">CSCE 996, Communications for Computer Scientists</font></h1></center>
+<center><font size="+2">Spring 2003</font></center>
+<h1>
+<font size="+1"><a href="http://cse.unl.edu/gpsti/S03-996-CommCS/">Go
+to the actual webpage of the course</a></font></h1>
+<h1>
+<font size="+1">General information:</font></h1>
+<ul>
+<li>
+<b>Instructor:</b><font size="+1"> </font><font size="+0">Ms Claudia Reinhardt.
+<font face="Courier New,Courier">jcreinhardt@neb.rr.com</font></font></li>
+<li>
+<font face="Courier New,Courier"><font size="+0"><b>Responsible faculty (alphabetical</b>): 
+Choueiry (choueiry@cse.unl.edu), Elbaum (elbaum@cse.unl.edu), Goddard (goddard@cse.unledu),
+Person (sperson@cse.unl.edu)</font></font></li>
+<li>
+<font face="Courier New,Courier"><font size="+0"><b>Time (tentative)</b>:</font></font></li>
+<ul>
+<li>
+<font face="Courier New,Courier"><font size="+0">plenary sessions on Mondays
+from 5:00 to 7:00 pm in Ferguson 114</font></font></li>
+<li>
+<font face="Courier New,Courier"><font size="+0">Mentoring hours on Mondays
+from xxxx in Miller &amp; Paine Room</font></font></li>
+</ul>
+<li>
+<b><font face="Courier New,Courier"><font size="+0">Rules of the course:</font></font></b></li>
+<ul>
+<li>
+<font face="Courier New,Courier"><font size="+0">independent study, 1 credithour
+, Pass/No pass (Choueiry will sign registration form).</font></font></li>
+<li>
+<font face="Courier New,Courier"><font size="+0">Attendance is <i>mandatory</i>
+(otherwise, you'll be replaced)</font></font></li>
+<li>
+<font face="Courier New,Courier"><font size="+0">Collaboration and sharing
+of information are strongly encouraged</font></font></li>
+<li>
+...</li>
+</ul>
+</ul>
+<h1>
+<font size="+1">Documents distributed by instructor:</font></h1>
+<ul>
+<li>
+Monday, Jan 13 2003: <a href="Documents/jan13seminar.doc">handout #1</a></li>
+<li>
+Monday, Jan 20, 2003: no class</li>
+<li>
+Monday, Jan 27, 2003:</li>
+<li>
+...</li>
+</ul>
+<h1>
+<font size="+1">Pointers from CSE faculty webpages on technical communication:</font></h1>
+<ul>
+<li>
+From <a href="http://csce.unl.edu/~goddard/WritingResources/">Steve Goddard's
+web page</a></li>
+<li>
+From <a href="http://csce.unl.edu/~sscott/presentation-tips">Steve Scott's
+web page</a></li>
+</ul>
+<h1>
+<font size="+1">Pointers to style files and formatting instructions:</font></h1>
+<ul>
+<li>
+<a href="http://www.elsevier.com/locate/latex">Elsevier</a> (e.g., AI Journal)</li>
+<li>
+<a href="http://www.acm.org/pubs/submissions/submission.htm">ACM</a></li>
+<li>
+IOS Press: <a href="http://www.iospress.nl/site/html/09217126_ita.html">AI
+communications</a>, <a href="http://www.iospress.nl/site/authco/instruction_crc.html">book
+chapters</a></li>
+<li>
+<a href="http://www.aaai.org/Publications/instructions.html">AAAI</a></li>
+<ul>
+<li>
+<a href="http://www.aaai.org/Publications/Templates/aaai-latex-Instructions.pdf">AAAI
+Latex Formatting Instructions</a></li>
+</ul>
+<li>
+IJCAI (website dead...)</li>
+<li>
+ECAI</li>
+<li>
+<a href="http://www.springer.de/comp/authors/index.html">Springer Verlag</a></li>
+<ul>
+<li>
+<a href="http://www.springer.de/author/tex/help-journals.html">Latex support</a></li>
+<li>
+<a href="http://www.springer.de/comp/lncs/authors.html">Lecture Notes in
+CS (and </a>Lecture Notes in Artificial Intelligence)</li>
+</ul>
+</ul>
+<hr width="100%"/>
+<br/><font size="-1">Berthe Y. Choueiry</font>
+<br/><font size="-1">Assistant Professor</font>
+<br/><font size="-1">Department of Computer Science and Engineering</font>
+<br/><font size="-1">115 Ferguson Hall</font>
+<br/><font size="-1">University of Nebraska-Lincoln</font>
+<br/><font size="-1">Lincoln, NE 68588-0115</font>
+<p><font size="-1">Tel:         +1(402)472-5444</font>
+<br/><font size="-1">Fax:        +1(402)472-7767</font>
+<br/><font size="-1">Email:     choueiry AT cse.unl.edu,
+byc AT acm.org</font>
+<br/>
+</p><hr/>
+<br/> 
+</body>
+</html>

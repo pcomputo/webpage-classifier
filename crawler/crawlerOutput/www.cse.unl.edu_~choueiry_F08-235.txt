@@ -1,0 +1,227 @@
+<html>
+<head>
+<title>CSE 235 -- Fall 2008</title>
+<link href="http://cse.unl.edu/~cbourke/main.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<h1>CSE 235 - Introduction to Discrete Structures</h1>
+<h1>Fall 2008</h1>
+<h2>Announcements</h2>
+<ul>
+<li>Grades are available from Blackboard.</li>
+<li>Classes begin Monday, August 25th</li>
+</ul>
+<h2>Contact Us</h2>
+<ul>
+<li> For a quick response, send your questions to <a href="mailto:cse235@cse.unl.edu">cse235@cse.unl.edu</a></li>
+<li> <a href="email/email.html">Anonymous Suggestion Box</a></li>
+</ul>
+<h2>General Info</h2>
+<br/>
+<span style="margin-left: 3em">Time &amp; Place</span><br/>
+<div style="margin-left: 3.5em">
+		MWF<br/>
+		12:30 -- 1:20 pm<br/>
+		Avery Hall 109<br/><br/>
+		
+		Recitation<br/>
+		Tuesdays<br/>
+		5:30 -- 6:20 pm<br/>
+		Avery Hall 108<br/>
+</div><br/>
+<span style="margin-left: 3em">Instructor &amp; Office Hours</span><br/>
+<div style="margin-left: 3.5em">
+		Dr. Berthe Y. Choueiry<br/>
+<a href="mailto:choueiry@cse.unl.edu">choueiry@cse.unl.edu</a><br/>
+                Office: <img src="updated.gif"/> Avery 360<br/>
+		Hours: MW 1:30 -- 2:30 pm<br/>
+		Also by appointment<br/><br/>
+</div>
+<span style="margin-left: 3em">GTA &amp; Office Hours</span><br/>
+<div style="margin-left: 3.5em">
+		Jie Feng<br/>
+<a href="mailto:jfeng@cse.unl.edu">jfeng@cse.unl.edu</a><br/>
+                Office hours held in Student Resource Center.<br/>
+		Hours: Mon/<strike>Thu</strike>:  10:00 -- 11:00 a.m. and <img src="new.gif"/> Fri: 4:30-5:30 p.m.
+<br/>
+		Also by appointment<br/><br/>
+</div>
+<span style="margin-left: 3em">TA &amp; Office Hours</span><br/>
+<div style="margin-left: 3.5em">
+<img src="new.gif"/> Keith Nickum<br/>
+<a href="mailto:knickum@cse.unl.edu">knickum@cse.unl.edu</a><br/>
+                Office hours held in Student Resource Center.<br/>
+		Hours: Wed: 2:30--3:30 p.m. and Thu:  5:30 -- 6:30 p.m.<br/>
+		Also by appointment<br/><br/>
+</div>
+<span style="margin-left: 3em">Pre-requisites</span><br/>
+<div style="margin-left: 3.5em">
+		CSCE 155 and Math 106.  CSCE 156 recommended but not required.<br/>
+</div><br/>
+<h2>Schedule</h2>
+<ul>
+<li>Schedule (<a href="schedule.html">.html</a>)</li>
+</ul>
+<h2>Handouts &amp; Files</h2>
+<ul>
+<li>Syllabus (<a href="files/syllabus.pdf">.pdf</a>)<br/> <img src="updated.gif"/> The late-homework policy was updated on Sep 24,
+    2008 to the students advantage and to simplify the administration
+    of the course.  You still have the opportunity to submit only two
+    (2) homework late without any explanation and without any
+    penalty. However, the delay has been extended from being Tuesday
+    noon to Tuesday 5:30 p.m. (i.e., right before the recitation). The
+    cover page should be submitted at the beginning of either the
+    class or the recitation.</li>
+<li><img src="new.gif"/>Track your grade on this course by filling
+   your grades, available from Blackboard, in the blue-highlited cells
+   of the Excel file (<a href="files/YourGradeBook.xls">.xls</a>). </li>
+</ul>
+<h3>Slides</h3>
+<!--   <div style="margin-left:4em">
+
+      All slides are PDF documents with Presentation, Handouts-with-notes, 
+      and Handouts-without-notes versions.</div>
+-->
+<ul>
+<li>Introduction (<a href="files/IntroductiontoCSE235.ppt">PPT</a>). </li>
+<li>Logic (<a href="files/Logic.ppt">PPT</a>). </li>
+<li>Logical Equivalences Cheat Sheet (<a href="files/LogicalEquivalences.pdf">.pdf</a>)</li>
+<li>Predicates &amp; Quantifiers (<a href="files/FOL.ppt">PPT</a>).</li>
+<li>Proofs (<a href="files/Proofs.ppt">PPT</a>).</li>
+<li>Sets (<a href="files/Sets.ppt">PPT</a>).</li>
+<li>Functions (<a href="files/Functions.ppt">PPT</a>).</li>
+<li>Relations (<a href="files/Relations.ppt">PPT</a>).</li>
+<li>Partial Orders (<a href="files/PartialOrders.ppt">PPT</a>).</li>
+<li>Algorithms (<a href="files/Algorithms.ppt">PPT</a>).</li>
+<li>Algorithms Analysis (<a href="files/AlgorithmsAnalysis.ppt">PPT</a>).</li>
+<li>Asymptotics (<a href="files/Asymptotics.ppt">PPT</a>).</li>
+<li>Sequences and Summations (<a href="files/SequencesSums.ppt">PPT</a>).</li>
+<li>Induction (<a href="files/Induction.ppt">PPT</a>).</li>
+<li>Recursion (<a href="files/Recursion.ppt">PPT</a>).</li>
+<li>Master Theorem (<a href="files/MasterTheorem.ppt">PPT</a>).</li>
+<li>Combinatorics (<a href="files/Combinatorics.ppt">PPT</a>).</li>
+<li>Advice on how to Prepare for Exam (<a href="files/PrepareForExam.ppt">PPT</a>).</li>
+<!--  
+ 
+
+
+    <li>Graphs (<a
+    href="files/Graphs.pdf">.pdf</a>, <a
+    href="files/Graphs-Handout.pdf">.pdf</a>, <a
+    href="files/Graphs-HandoutNoNotes.pdf">.pdf</a>).</li>
+
+-->
+</ul>
+<h3>Homework</h3>
+<ul>
+Homework are due before class on Mondays morning.
+    <li>Homework 01 (<a href="files/hw01.pdf">.pdf</a>)</li>
+<li>Homework 02 (<a href="files/hw02.pdf">.pdf</a>)</li>
+<li>Homework 03 (<a href="files/hw03.pdf">.pdf</a>)</li>
+<li>Homework 04 (<a href="files/hw04.pdf">.pdf</a>)</li>
+<li>Homework 05 (<a href="files/hw05.pdf">.pdf</a>).<br/> <i>Alert</i>:
+    Correction of some questions of HWK 5 was distributed during the
+    recitation.</li>
+<li>Homework 06 (<a href="files/hw06.pdf">.pdf</a>).<br/> <i>Alert</i>:
+    Correction of some questions of HWK 6 was distributed during
+    class.</li>
+<li>Homework 07 (<a href="files/hw07.pdf">.pdf</a>).<br/> <i>Alert</i>:
+    Correction of some questions of HWK 7 was distributed during
+    recitation. <br/>
+
+Files: (<a href="files/relation.cpp">relation.cpp</a>, 
+<a href="files/relation.h">relation.h</a> or
+<a href="files/Relation.java">Relation.java</a>, 
+<a href="files/tikzExample.tex">tikzExample.tex</a>) </li>
+<li>Homework 08 (<a href="files/hw08.pdf">.pdf</a>). A figure
+    sample in <a href="files/Problem_8_6_32.fig">FIG</a> and <a href="files/Problem_8_6_32.eps">EPS</a>.</li>
+<li>Homework 09 (<a href="files/hw09.pdf">.pdf</a>) <font color="#ff0000"> Download the updated version of <a href="files/hw09-updated.pdf">Homework 9</a></font>.  <br/> <i>Alert</i>:
+    Correction of select questions of HWK 9 was distributed during
+    the recitation.</li>
+<li>Homework 10 (<a href="files/hw10.pdf">.pdf</a>). <br/> <i>Alert</i>:
+    Correction of select questions of HWK 10 was distributed during
+    the recitation.</li>
+<li>Homework 11 (<a href="files/hw11.pdf">.pdf</a>).  <br/>
+<i>Alert</i>: Correction of select questions of HWK 11 was
+    distributed during the recitation.</li>
+<li>Homework 12 (<a href="files/hw12.pdf">.pdf</a>).</li>
+<li>Bonus Homework 13 (<a href="files/hw13.pdf">.pdf</a>).</li>
+</ul>
+<h3>Recitations</h3>
+<ul>
+<li>Week 1: Working with Latex: <a href="files/LaTex.doc">LaTex.doc</a>, <a href="files/F08-hw-example.tex">F08-hw-example.tex</a>, <a href="files/F08-hw-example.pdf">F08-hw-example.pdf</a>, <a href="files/BibliographyFile.bib">BibliographyFile.bib</a>.
+   Here are the figures, generated using xfig (which comes with Sun
+   OS): <a href="files/k5.fig">FIG</a>, <a href="files/k5.eps">EPS</a>, <a href="files/k5.pdf">PDF</a>.
+   </li>
+<li>Informal notes from <a href="files/recitation2.pdf">Recitation
+  Week 2</a> (PDF)</li>
+<li>Informal notes from <a href="files/recitation3.pdf">Recitation Week
+  3</a> (PDF)</li>
+<li>Informal notes from <a href="files/recitation4.pdf">Recitation Week
+  4</a> (PDF)</li>
+<li>Informal notes from <a href="files/recitation5.pdf">Recitation Week
+  5</a> (PDF)</li>
+<li>Informal notes from <a href="files/recitation6.pdf">Recitation Week
+  6</a> (PDF)</li>
+<li>Informal notes from <a href="files/Recitation-Week7.pdf">Recitation Week 7</a> (PDF)</li>
+<li>Informal notes of <a href="files/Recitation-Week8.pdf">the
+  review session (Recitation 8)</a> (PDF)</li>
+<li>Informal notes from <a href="files/Recitation-Week10.pdf">Recitation Week
+  10</a> (PDF)</li>
+<li>Informal notes from <a href="files/Recitation-Week11.pdf">Recitation of Week 11</a> (PDF)
+
+  </li><li> Informal notes from <a href="files/Recitation-Week12.pdf">Recitation of Week 12</a>
+  (PDF). Maple worksheet: <a href="files/IntroToMapleFinal.mw">
+  MW</a>, <a href="files/IntroToMapleFinal.rtf">RTF</a>, <a href="files/IntroToMapleFinal.txt">TXT</a>.</li>
+<li>Informal notes from <a href="files/Recitation-Week13.pdf">Recitation Week 13</a> (PDF)</li>
+<li>Informal notes from <a href="files/Recitation-Week14.pdf">Recitation Week 14</a> (PDF)</li>
+<li>Informal notes from <a href="files/Recitation-Week15.pdf">Recitation Week 15</a> (PDF)</li>
+<li>Informal notes from <a href="files/FinalReview.pdf">the review for the Final Exam</a> (PDF)</li>
+</ul>
+<h2>Useful Links</h2>
+<ul>
+<li>
+<a href="http://highered.mcgraw-hill.com/sites/0072880082/student_view0/index.html">Online 
+Learning Center</a></li>
+<li>CSE 235 <a href="http://www.cse.unl.edu/~cse235/handin">webhandin</a></li>
+<!--  <li>Student Resource Center <a href="">webpage</a></li>
+-->
+<li>Dr. Scott's <a href="http://csce.unl.edu/~sscott/presentation-tips/">
+	Tips On Technical Writing</a></li>
+<li>UNL Computer Science and Engineering <a href="http://www.cse.unl.edu/undergrads/academic_integrity.php">Academic Integrity Policy</a></li>
+<li>C++<ul>
+<li><a href="http://www.killerguides.com/articles/a-killer-guide-to-c/">A Killer Guide to C++</a> (recommended by helen @ rhodeislandlibrary . org)</li>
+<li><a href="http://www.blueturnip.com/projects/edu/cs/cpp/C++tutorial.html">Java to C++ Transition Tutorial</a></li>
+<li><a href="http://www.eecg.toronto.edu/ece106/C++tutorial.html">Another Java to C++ Tutorial</a></li>
+<li><a href="http://www.cs.nott.ac.uk/~jog/CFJ/slides/lecture5.pdf">C++ For Java Programmers</a> (PDF, Lecture series)</li>
+<li><a href="http://www.cplusplus.com/doc/tutorial/">C++ Tutorial</a></li>
+<li>Makefile Tutorials: <a href="http://vertigo.hsrl.rutgers.edu/ug/make_help.html">one</a>, 
+	  <a href="http://www.opussoftware.com/tutorial/TutMakefile.htm">Another</a></li>
+<li>Using Command Line Arguments <a href="http://www.juicystudio.com/tutorial/cpp/command.asp">example</a></li>
+<li>Cornell's <a href="http://www.library.cornell.edu/nr/bookcpdf.html">Numerical Recipes in C</a></li>
+</ul></li>
+<li>Code Documentation<ul>
+<li><a href="http://www.possibility.com/Cpp/CppCodingStandard.html">C++ Coding Standard</a></li>
+<li><a href="http://java.sun.com/j2se/javadoc/">JavaDoc</a> -- The original documentation tool for Java</li>
+<li><a href="http://www.cppdoc.com/">CppDoc</a> Platform independent C++ documentation tool that produces HTML</li>
+<li><a href="http://www.phpdoc.de/">PHP Doc</a> Documentation tool for PHP code.</li>
+</ul></li>
+<li>LaTeX<ul>
+<li><img src="new.gif"/> <a href="http://en.wikibooks.org/wiki/Latex">LaTex on
+     Wikibooks</a> </li>
+<li>Example Homework LaTeX document (<a href="files/F08-hw-example.tex">TEX</a>, <a href="files/F08-hw-example.pdf">PDF</a>).  Here are the figures,
+    generated using xfig (which comes with Sun OS): <a href="files/k5.fig">FIG</a>, <a href="files/k5.eps">EPS</a>, <a href="files/k5.pdf">PDF</a>.
+
+
+
+</li>
+<li><a href="http://www.tug.org">TeX Users Group</a></li>
+<li><a href="http://www.tug.org/begin">Getting Started With LaTeX</a></li>
+<li><a href="http://www.ctan.org/tex-archive/info/lshort/english/lshort.pdf">The Not-So-Short Introduction to LaTeX 2e</a> (PDF)</li>
+<li>LaTeX Quick Reference Card (<a href="http://www.cse.unl.edu/~cbourke/latex/TeXRefCard.pdf">.pdf</a>)
+	  </li><li><a href="http://www.miktex.org">MikTeX</a> -- A Windows LaTeX Distro</li>
+<li><a href="http://www.winedt.com">WinEDT</a> -- A Windows LaTeX Frontend</li>
+</ul></li>
+<div style="margin-bottom: 5em"></div>
+</ul></body>
+</html>

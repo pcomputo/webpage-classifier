@@ -1,0 +1,151 @@
+<html><head>
+<title>Spring 2011, CSCE 421/821</title>
+<link href="index_files/style.css" media="all" rel="stylesheet" type="text/css"/>
+</head><body>
+<div id="header">
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td cellpadding="0" valign="center">
+<div id="title">CSCE 421/821</div>
+<table cellpadding="15">
+</table>
+</td>
+<td align="right" style="font-size: 11pt;" valign="top">
+<div id="title">Foundations of Constraint Processing</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<table cellspacing="5" width="100%">
+<tbody><tr>
+<td style="border: 1px solid rgb(170, 204, 170); background-color: rgb(250, 255, 250); width: 176px;" valign="top">
+<div id="menu">
+<div class="section">
+<h1>Main Pages</h1>
+<a href="index.html">General</a>
+<a href="protocol.html">Syllabus &amp; Protocol</a>
+<a href="grading.html">Grading Policy</a>
+<a href="safety.html">Safety Net</a>
+<a href="handouts.html">Handouts</a>
+<a href="schedule.html">Schedule</a>
+<a href="homework.html">Homework Schedule</a>
+<a href="glossaries.html">Glossaries</a>
+<a href="wiki.html">Wiki</a>
+<h1>Resources</h1>
+<a href="catch.html">Your Catch</a>
+<a href="books.html">References</a>
+<a href="online.html">Online resources</a>
+<a href="thanks.html">Acknowledgments</a>
+<a href="contacts.html">Contact Us</a>
+</div>
+</div>
+</td>
+<td id="contents" valign="top">
+<div style="overflow: auto; height: 500px;">
+<div style="margin-right: 10px;">
+<p><b><i><font color="#ff0000" size="4">Annnouncements:</font></i></b><br/><br/>
+
+Each semester we host one to two visitors.  This semester's visitors
+are still to be determined.
+Check the <a href="http://consystlab.unl.edu/news/visitors.html" target="_blank">list of previous visitors</a>.
+
+</p><p><blink><a href="schedule.html"><b>Class schedule:</b></a></blink>
+the page will be regularly updated. Check it out <i>regularly</i> for
+announcements of required/recommended reading material, homework, etc. </p>
+<hr/>
+<h1>General Information</h1>
+<p> <b>Prereq: </b>CSCE235, Discrete Structures<b> (exceptionally
+this year).</b></p>
+<p><b>Course description:</b> 
+
+Constraint satisfaction has emerged as a powerful approach to
+articulate and solve many problems in computer science, engineering,
+and management.  It is now the basis for new programming
+languages and innovative commercial systems for production scheduling,
+product configuration, personnel planning and timetabling, etc. 
+The course will review the foundations of constraint satisfaction and
+the basic mechanisms for constraint propagation.  It will cover
+aspects of modeling and representation, and will examine islands of
+tractability and methods for theoretical and empirical evaluation of
+problem `difficulty.'  If time permits, we will examine new
+methods for decomposition and symmetry identification, designed to
+overcome the complexity barrier and to support interactions with
+users. </p>
+<p><b>Lectures:</b> Monday, Wednesday, Friday from 2:30 p.m. to 3:20 p.m.<br/>
+<b>Location</b>: Avery Hall, Room 111.</p>
+<p><b>Make-up Class/Recitation:</b> Monday from 5:00 p.m. to 5:50 p.m. <br/>
+<b>Location</b>: Avery Hall, Room 111 (moved from AvH 20).</p>
+<p><b>Instructor</b>:   Prof.  Berthe Y. Choueiry
+<br/>     
+Office location: Room 360, Avery Hall,
+<br/>     
+choueiry AT cse.unl.edu, tel: (402)472-5444.
+<br/>     
+<b>Office hours</b>: Wednesday/Friday 3:30-4:30
+p.m. or by appointment.</p>
+<p><b>Volunteer GTA's &amp; Office Hours</b>:
+
+	</p><div style="margin-left: 3.5em">
+
+		Mr. Shant Karakashian<br/>
+<a href="mailto:shantk@cse.unl.edu">shantk@cse.unl.edu</a><br/>
+                Office hours held in Student Resource Center.<br/>
+		Hours:  Thursday 9:00 a.m. -- 11:00 a.m.<br/>
+		Also by appointment<br/><br/>
+		Mr. Robert Woodward<br/>
+<a href="mailto:rwoodwar@cse.unl.edu">rwoodwar@cse.unl.edu</a><br/>
+                Office hours held in Student Resource Center.<br/>
+		Hours:  Thursday 5:00 p.m. -- 6:00 p.m. &amp; Friday 9:00 a.m. -- 10:00 a.m.<br/>
+		Also by appointment<br/>
+</div>
+<p><b> Textbook:</b><br/> "Constraint Processing" by Rina Dechter,
+1<sup>st</sup> edition. The textbook will not be followed
+sequentially, but should be used for reference. <br/>
+</p><p><b>For quick response</b>, email
+cse421@cse.unl.edu.  Your message will be forwarded to both TA
+and instructor.</p>
+<p><b>Important note:</b>We do not have a GTA allocated to this class.
+We may have a UTA (undergraduate TA) with likely little experience in
+the subject matter and who will mainly help with administrative
+matters.  The two GTA's are volunteers: it is best to talk to them
+during their office hours.  Please send all questions to <b>cse421 AT
+cse.unl.edu</b> for a quick response.</p>
+<b></b><p>Topics include but are not restricted to:</p>
+<ul>
+<li> Properties, computational complexity, and practical importance.</li>
+<li> Global and local consistency: algorithms, properties and
+computational complexity.</li>
+<li> Islands of tractability for minimality and global consistency.</li>
+<li> Intelligent backtracking.</li>
+<li> Look-ahead techniques.</li>
+<li> Ordering heuristics.</li>
+<li> Theoretical and empirical comparison of hybrid search
+algorithms.</li>
+<li> Phase transition.</li>
+<li> Modeling and reduction methods between representations.</li>
+<li> If time permits: Decomposition.  Symmetries and their
+approximations.  Temporal constraint networks.  Stochastic search.
+Reformulation and abstraction.  Dynamic/conditional Constraint
+Satisfaction (CSP).  Constrained Optimization Problem (COP).</li>
+<li>Other, depending on class interests. </li></ul>
+<b></b><p>Support: </p>
+<ul>
+<li>Rina Dechter, <i>Constraint Processing</i>, 2003, Morgan
+Kauffmann.  Available from bookstore. </li>
+<li>Edward Tsang, <i>Foundations of Constraint
+Satisfaction</i>. Available from instructor and on reserve at the Math
+Library in Avery. </li>
+<li>Technical papers given by instructor or available from the <a href="http://www.unl.edu/libr/ereservs/contents/csce421/csce421.html">Electronic
+Reserve </a>at the Love Library. </li></ul>
+<br/>
+<p style="font-family: sans-serif; font-size: 8pt;">
+<!-- hhmts start -->
+Last modified: Thu Jan 13 22:55:31 CST 2011
+<!-- hhmts end -->
+</p>
+</div>
+</div>
+</td></tr></tbody></table></body>
+</html>

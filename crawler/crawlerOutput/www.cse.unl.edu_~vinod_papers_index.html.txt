@@ -1,0 +1,320 @@
+<html>
+<head><link href="../style.css" rel="STYLESHEET" type="text/css"/>
+<title>Vinodchandran's Papers on-line</title>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script src="jquery.jslatex.js"></script>
+<script>
+$(function () {
+    $(".latex").latex();
+});
+</script>
+</head><body bgcolor="">
+<p>
+</p><p>
+</p><ul type="circle">
+<h2>
+<hr align="left" noshade="" width="25%"/>
+<font color="">Recent Publications. </font>
+<hr align="left" noshade="" width="25%"/>
+</h2>
+
+Following papers contain most of my research contibutions.  Since the
+copyrights of papers  appeared in <br/> conference proceedings 
+or journals usually belong to the publishers, the papers may  be downloaded for
+<br/> research purposes only. 
+
+<p>
+<b>
+On Probabilistic Space-Bounded Machines with Multiple Access to Random
+Tape.</b><br/>
+Debasis Mandal, A. Pavan, and N. V. Vinodchandran.<br/>
+<cite>Mathematical Foundations of Computer Science (2).</cite> (2015), pages
+459-471.
+
+</p><p>
+<b>New Bounds for the CLIQUE-GAP Problem Using Graph Decomposition Theory.</b> <br/>
+Vladimir Braverman, Zaoxing Liu, Tejasvam Singh,
+N. V. Vinodchandran, and Lin F. Yang.<br/>
+<cite>Mathematical Foundations of Computer Science (2) </cite> (2015), pages
+151-162. 
+
+</p><p>
+<b><a href="http://arxiv.org/abs/1304.1005"><font color="green">On Optimal Language Compression for Sets in PSPACE/poly.</font></a></b><br/>
+N. V. Vinodchandran and M. Zimand. <br/>
+<cite> Theory of Computing Systems </cite> 56(3): 581-590 (2015).  
+
+
+</p><p>
+<b><a href="http://eccc.hpi-web.de/report/2014/035/"><font color="green"> 
+New Time-Space Upperbounds for Directed Reachability in High-genus and 
+H-minor-free Graphs.</font></a></b><br/>
+Diptarka Chakraborty, A. Pavan, Raghunath Tewari, N. V. Vinodchandran, and
+Lin Yang. <br/>
+<cite> Foundations of Software Technology and Theoretical Computer Science 2014
+</cite> pages 585-595.
+
+
+</p><p>
+<b> <a href="reach_survey.pdf"><font color="green">Space Complexity of the Directed Reachability Problem over Surface-Embedded Graphs.</font></a> </b><br/>
+N. V. Vinodchandran.
+<cite> Perspective in Computational Complexity</cite> -The Somenath Biswas Anniversary Volume, 2014, pages 37-49. <br/>
+Progress in Computer Science and Applied Logic (Volume 26). 
+
+</p><p>
+<b> <a href="gstv_cc14.pdf"><font color="green"> 
+ReachFewL = ReachUL.</font></a></b> <br/>
+<a href="http://www.cse.unl.edu/~bgarvin"> B. Garvin, </a>
+<a href="http://www.math.unl.edu/~s-dstolee1"> D. Stolee, </a>
+<a href="http://www.cse.unl.edu/~rtewari"> Raghunath Tewari</a>
+and N. V. Vinodchandran. <br/> <cite> Computational Complexity, </cite>  23: (2014), pages 85 - 98. 
+
+
+</p><p>
+<b> <a href="inpvw_CCC2013.pdf"><font color="green"> An <span class="latex">  O({n^{{1\over  2}+\epsilon}}) </span>-Space and  Polynomial-Time Algorithm for Directed Planar
+  Reachability. </font></a></b><br/>
+T. Imai and K. Nakagawa and A. Pavan and N. V. Vinodchandran and
+O. Watanabe <br/>
+<cite> IEEE Conference on Computational Complexity 2013 </cite>, pages 277-286. 
+</p><p>
+<b> <a href="sv_ccc12.pdf"><font color="green"> 
+Space-Efficient Algorithms for Reachability in Surface-Embedded Graphs.
+ </font></a></b> <br/>
+<a href="http://www.math.unl.edu/~s-dstolee1">
+Derrick Stolee</a> and N. V. Vinodchandran. <br/>
+<cite> IEEE Conference on Computational Complexity 2012 </cite>, pages 326-333. 
+
+</p><p>
+<b> <a href="ptv_cc12.pdf"><font color="green"> 
+On the Power of Unambiguity in Logspace. </font></a></b> <br/>
+<a href="http://www.cs.iastate.edu/~pavan">
+A. Pavan</a>, <a href="http://www.cse.unl.edu/~rtewari"> Raghunath Tewari</a>
+and N. V. Vinodchandran. <br/> <cite> Computational Complexity </cite> 21 (4): 643-670 (2012). 
+ <br/>
+</p><p>
+<b> <a href="tv_ic12.pdf"><font color="green">
+ Green's Theorem and Isolation in Planar Graphs. </font></a></b> <br/>
+<a href="http://www.cse.unl.edu/~rtewari"> Raghunath Tewari</a> and
+ N. V. Vinodchandran. <br/> <cite> Information and Computation </cite> 215: 1-7 (2012).
+ <br/>
+</p><p>
+<b> <a href="dktv_jcss12.pdf"><font color="green"> 
+Space Complexity of Perfect Matching in Bounded Genus Bipartite Graphs. </font></a></b> <br/>
+<a href="http://www.cmi.ac.in/~sdatta"> Samir Datta, 
+</a><a href="http://www.cs.uchicago.edu/~raghav"> Raghav Kulkarni,
+</a><a href="http://www.cse.unl.edu/~rtewari"> Raghunath Tewari</a> and
+N. V. Vinodchandran. <br/> <cite> Journal of Computer and System
+  Sciences </cite> 78 (3): 765-779 (2012).
+ <br/>
+</p><p>
+<b> <a href="hpv_toct12.pdf"><font color="green"> Kolmogorov Complexity in Randomness Extraction. </font></a></b> <br/>
+<a href="http://www.cs.uwyo.edu/~jhitchco">
+J. Hitchcock, </a> <a href="http://www.cs.iastate.edu/~pavan">
+A. Pavan,</a> N. V. Vinodchandran <br/> <cite> ACM Transactions on Computation
+  Theory </cite> 3(1): 1 (2011).  
+<br/>
+</p><p>
+<b> <a href="fhpvw_ic11.pdf"><font color="green"> Extracting Kolmogorov Complexity with Applications to Dimension Zero-One Laws. </font></a></b> <br/>
+<a href="http://www.cs.uchicago.edu/~fortnow">
+L. Fortnow, </a> <a href="http://www.cs.uwyo.edu/~jhitchco">
+J. Hitchcock, </a> <a href="http://www.cs.iastate.edu/~pavan">
+A. Pavan,</a> N. V. Vinodchandran, and F. Wang. <br/> <cite> Information and Computation.</cite> 209(4), (2011), pages 627-636.
+ <br/>
+</p><p>
+<b> <a href="lmpd.pdf"><font color="green"> 
+A Log-space Algorithm for Reachability in Planar Acyclic Digraphs with Few Sources.
+ </font></a></b> <br/>
+<a href="http://www.math.unl.edu/~s-dstolee1">
+Derrick Stolee</a>, <a href="http://www.cse.unl.edu/~cbourke"> 
+Chris Bourke</a>, and N. V. Vinodchandran. <br/> <cite> IEEE Conference on Computational Complexity 2010</cite> pages 131-138. <br/>
+</p><p>
+<b><a href="btv_toct09.pdf"><font color="green"> Directed Planar Reachability is in Unambiguous Logspace</font>.</a></b><br/>
+<a href="http://www.cse.unl.edu/~cbourke">Chris Bourke</a>, Raghunath Tewari,  and
+N. V. Vinodchandran. <br/>
+<cite>ACM Transactions on Computation Theory</cite> 1(1), (2009),
+pages 1-17.
+
+</p><p>
+</p><p>
+<b><a href="lrrRevised.pdf"><font color="green">2-Local Random Reductions to 3-Valued Functions.</font></a></b><br/>
+<a href="http://www.cs.iastate.edu/~pavan"> A. Pavan </a> and N. V. Vinodchandran. <br/>
+<cite>Computational Complexity </cite> 17(4), (2008), pages 501--514.
+
+</p><p>
+<b><a href="TPAMI.pdf"><font color="green">Kernels for Generalized
+Multiple-Instance Learning.</font></a></b><br/>
+<a href="http://csce.unl.edu/~qtao">Qingping Tao,
+</a> <a href="http://csce.unl.edu/~sscott"> Stephen Scott, </a>
+N. V. Vinodchandran, Thomas Takeo Osugi, and Brandon Mueller. <br/>
+<cite> IEEE Transactions on Pattern Analysis and Machine
+Intelligence </cite> 30(12), (2008), pages 2084-2097.
+
+
+</p><p>
+<b><a href="UNLTechReportROC.pdf"><font color="green"> On
+Reoptimizing Multi-Class Classifiers. </font></a></b><br/> Kun
+Deng, <a href="http://www.cse.unl.edu/~cbourke">Chris
+Bourke</a>, <a href="http://www.cs.princeton.edu/~schapire">Robert
+Schapire, </a><a href="http://csce.unl.edu/~sscott"> Stephen Scott, </a>
+and N. V. Vinodchandran. <br/> <cite>Machine Learning</cite> 71(2-3),
+(2008), pages 219-242.
+
+
+</p><p>
+<b><a href="fct05.ps"><font color="green">Relations between Average-case and Worst-case Complexity.</font></a></b><br/>
+<a href="http://www.cs.iastate.edu/~pavan"> A. Pavan </a> and N. V. Vinodchandran. <br/>
+<cite> Theory of Computing Systems </cite> 42(4), (2008), pages 596-607. 
+
+</p><p>
+<a href="TOCSpartial.ps"><b> <font color="green"> Partial
+Bi-immunity, Scaled Dimension, and NP-Completeness. </font></b> </a>
+<br/>
+<a href="http://www.cs.uwyo.edu/~jhitchco"> J. Hitchcock, </a>
+<a href="http://www.cs.iastate.edu/~pavan"> A. Pavan</a>,  and
+N. V. Vinodchandran.<br/>
+<cite> Theory of Computing Systems </cite> 42(2), (2008), pages
+131-142. 
+
+</p><p>
+<b><a><font color="black"> Polylogarithmic-round Interactive Proofs for coNP Collapse the Exponential Hierarchy. </font></a></b><br/>
+<a href="http://www.cs.iastate.edu/~pavan"> A. Pavan,
+</a> <a href="http://www.cse.buffalo.edu/~selman/"> A. Selman</a>,
+S. Sengupta, and N. V. Vinodchandran. <br/>
+<cite>Theoretical Computer Science </cite> 385 (2007) pages 167-178.
+</p><p>
+<b> <a href="fst06.pdf"><font color="green"> Some
+Results on Average-Case Hardness within the Polynomial Hierarchy. 
+</font></a></b> <br/>
+<a href="http://www.cs.iastate.edu/~pavan">
+A. Pavan,</a> <a href="http://www.cs.sfu.ca/~rsanthan/personal/">R. Santhanam, </a> and N. V. Vinodchandran <br/> <cite> Foundations of Software Technology and Theoretical Computer Science (FSTTCS 06). </cite> <br/>
+LNCS Vol: 4337, pages 188-199.<br/>
+</p><p>
+<b><a href="Depth.ps"><font color="green">Computational Depth: Concept and Applications. </font></a></b><br/>
+<a href="http://www.ncc.up.pt/~lfa">Luis Antunes</a>, <a href="http://people.cs.uchicago.edu/~fortnow"> Lance Fortnow</a>, <a href="http://www.cs.wisc.edu/~dieter"> Dieter van Melkebeek</a>, and
+N. V. Vinodchandran.<br/>
+<cite> Theoretical Computer Science </cite> 354(3), (2006), Pages
+391-404 <br/> Special issue devoted to the fourth International
+Symposium on Fundamentals of Computation Theory.
+</p><p>
+<b><a href="derc-jcss.ps"><font color="green">Dimension, Entropy Rates, and Compression</font></a></b>. <br/>
+<a href="http://www.cs.uwyo.edu/~jhitchco">
+J. Hitchcock </a> and N. V. Vinodchandran. <br/> <cite> Journal of
+Computer and System Sciences, </cite> 72(4) (2006) pages 760-782. <br/>
+</p><p>
+<b> <a href="pp.ps"><font color="green"> A Note on the Circuit Complexity
+of PP</font></a></b>.<br/>  N. V. Vinodchandran.<br/>
+<cite> Theoretical Computer Science,
+</cite>  347, (2005), pages 415-418.  
+</p><p>
+<b><a href="TCSFinal.ps"><font color="green">Entropy Rates and Finite-State Dimension</font></a></b>.<br/> <a href="http://www.cse.unl.edu/~cbourke">Chris Bourke</a>, <a href="http://www.cs.uwyo.edu/~jhitchco"> John M. Hitchcock </a>, and
+N. V. Vinodchandran.<br/>
+<cite> Theoretical Computer Science, </cite>  349 (2005), pages 392-406.
+
+</p><p>
+<b><font color="black"> Nondeterministic Circuit Minimization Problem
+and Derandomizing Arthur-Merlin Games</font></b>. <br/> 
+N. V. Vinodchandran. <br/>
+<cite> International Journal on Foundations of Computer Science
+</cite> 16(6) (2005), pages 1297-1308.
+
+</p><p>
+<b><a href="hitting.ps"> <font color="green">Derandomizing Arthur-Merlin games using
+Hitting Sets.</font></a></b><br/>
+<a href="http://www.daimi.au.dk/~bromille">Peter Bro Miltersen</a> and
+N. V. Vinodchandran. <br/>
+<cite> Computational Complexity, </cite> 14 (2005), pages 256-279. 
+  <br/> <br/>
+<!--
+<b><a href="ICTAI.pdf"><font color = green>An Extended Kernel for Generalized Multiple-Instance Learning.</font></a></b><br> 
+
+ <a href = http://csce.unl.edu/~qtao">Qingping Tao
+</a>, <a href = "http://csce.unl.edu/~sscott"> Stephen Scott </a>,
+N. V. Vinodchandran, Thomas Takeo Osugi, and Brandon Mueller. <br>
+
+<cite> IEEE International Conference on
+Tools with Artificial Intelligence, 2004 (ICTAI 04). </cite>
+<p>
+-->
+<b><a href="mDNF.ps"><font color="green"> Learning DNFs and Circuits using  Teaching 
+Assistants</font></a></b>.<br/> 
+
+N. V. Vinodchandran.<br/>
+<cite> Computing and Combinatorics
+Conference, 2004 (COCOON 04).  </cite>
+<br/>LNCS Vol: 3106, pages 188-197.
+</p><p>
+<!--
+<b><a href = "icml04Final.ps"> <font color = green>SVM-Based Generalized Multiple-Instance
+Learning via Approximate Box Counting.</font></a></b> <br>
+
+<a href = http://csce.unl.edu/~qtao"> Qingping Tao</a>, <a href =
+"http://csce.unl.edu/~sscott">Stephen Scott</a>, N. V. Vinodchandran,
+and Thomas Takeo Osugi<br>
+
+<cite> International Conference on Machine
+Learning 2004 (ICML 04), </cite> pages 799-806.
+<p>
+-->
+<b><a href="SIAMFinal.ps"><font color="green"> Counting Complexity of 
+Solvable Black-box Group Problems</font></a></b>. <br/>
+ N. V. Vinodchandran.<br/>
+<cite> SIAM Journal on Computing, </cite>33(4): 2004 pages 852-869.
+</p><p>
+<b><a href="amexp.ps"><font color="green">AMexp not Contained in (NP\cap
+CoNP)/Poly</font></a></b>. <br/>
+N. V. Vinodchandran.<br/>
+<cite> Information Processing Letters. </cite>  89: 2004, 
+pages 43-47. 
+</p><p>
+<b><a href="checking.ps"><font color="green">Query Complexity of Program
+Checking by Constant-Depth Circuits</font></a></b>. <br/>
+<a href="http://www.imsc.ernet.in/~arvind"> V. Arvind</a>, <a href="http://www.smi.ernet.in/~kv"> K. V. Subrahmanyam</a>, and
+N. V. Vinodchandran.<br/>
+<cite> Chicago Journal of Theoretical Computer Science,</cite> (2002) Article 2.
+
+</p><p>
+<b><a href="learn.ps"><font color="green">Exact Learning via
+Teaching Assistants</font></a></b>.<br/>
+<a href="http://www.imsc.ernet.in/~arvind"> V. Arvind</a> and
+N. V. Vinodchandran. <br/>
+<i>Theoretical Computer Science</i>, 241 (2000), pages 51--81. <br/>
+Special issue devoted to the Seventh International Workshop on
+Algorithmic Learning Theory. 
+
+
+</p><p>
+<b><a></a><a href="np-group.ps"><font color="green"> The Complexity of
+Group-definable NP Languages</font></a></b>. <br/>
+<a href="http://www.imsc.ernet.in/~arvind">V. Arvind </a>and
+N. V. Vinodchandran.<br/>
+<cite>Theoretical Computer
+Science</cite>, 242 (2000), pages 199--218. 
+
+</p><p>
+<b><a href="subexp.ps"><font color="green">Superpolynomial versus
+Subexponential Circuit Size in the Exponential Hierarchy</font></a></b>.<br/>
+<a href="http://www.daimi.au.dk/~bromille">Peter Bro
+Miltersen,</a> N. V. Vinodchandran, and <a href="http://www.is.titech.ac.jp/~watanabe">Osamu
+Watanabe</a>.<br/>
+<cite> Computing and Combinatorics Conference 1999 (COCOON 99) </cite>,<br/>
+LNCS Vol: 1627, pages 210--220.
+
+
+</p><p>
+<b><a href="../thesis/thesis.ps"><font color="green"> Counting Complexity
+and Computational Group theory.</font></a></b> <br/> 
+N. V. Vinodchandran.<br/>
+PhD. Thesis, <cite> Institute of
+Mathematical Sciences, Chennai, India. </cite> 1999.
+
+
+</p><p>
+<b><a href="solv.ps"> <font color="green">Solvable Black-Box Group
+Problems are Low for PP</font></a></b>.<br/>
+<a href="http://www.imsc.ernet.in/~arvind">V. Arvind </a>and
+N. V. Vinodchandran.<br/>
+<cite>Theoretical Computer Science,</cite> 180
+(1997), pages 17-47
+
+</p></ul>
+</body>
+</html>

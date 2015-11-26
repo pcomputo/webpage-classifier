@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>Students | Sebastian Elbaum</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="Author 1.11" name="template"/>
+<meta content="WordPress 4.3.1" name="generator"/>
+<link href="http://cse.unl.edu/~elbaum/content/?feed=rss2" rel="alternate" title="Sebastian Elbaum » Feed" type="application/rss+xml"/>
+<link href="http://cse.unl.edu/~elbaum/content/?feed=comments-rss2" rel="alternate" title="Sebastian Elbaum » Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/cse.unl.edu\/~elbaum\/content\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="//fonts.googleapis.com/css?family=Rokkitt%3A400%7CLato%3A400&amp;ver=4.3.1" id="ct-author-google-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://cse.unl.edu/~elbaum/content/wp-content/themes/author/assets/font-awesome/css/font-awesome.min.css?ver=4.3.1" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://cse.unl.edu/~elbaum/content/wp-content/themes/author/style.css?ver=4.3.1" id="ct-author-style-css" media="all" rel="stylesheet" type="text/css"/>
+<script src="http://cse.unl.edu/~elbaum/content/wp-includes/js/jquery/jquery.js?ver=1.11.3" type="text/javascript"></script>
+<script src="http://cse.unl.edu/~elbaum/content/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1" type="text/javascript"></script>
+<!--[if IE 8]>
+<script type='text/javascript' src='http://cse.unl.edu/~elbaum/content/wp-content/themes/author/js/build/html5shiv.min.js?ver=4.3.1'></script>
+<![endif]-->
+<link href="http://cse.unl.edu/~elbaum/content/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://cse.unl.edu/~elbaum/content/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<link href="http://cse.unl.edu/~elbaum/content/?page_id=6" rel="canonical"/>
+<link href="http://cse.unl.edu/~elbaum/content/?p=6" rel="shortlink"/>
+</head>
+<body class="page page-id-6 page-template-default singular singular-page singular-page-6" id="author">
+<!--skip to content link-->
+<a class="skip-content" href="#main">Skip to content</a>
+<div class="overflow-container" id="overflow-container">
+<div class="max-width">
+<div class="main-sidebar" id="main-sidebar">
+<header class="site-header" id="site-header" role="banner">
+<div class="title-container" id="title-container">
+<div class="site-avatar" id="site-avatar" style="background-image: url('http://cse.unl.edu/~elbaum/content/wp-content/uploads/sebastianPicture-1-e1443281083937.jpeg')" title="Sebastian Elbaum avatar"></div>
+<div class="container">
+<h1 class="site-title" id="site-title"><a href="http://cse.unl.edu/~elbaum/content" title="Sebastian Elbaum">Sebastian Elbaum</a></h1> </div>
+</div>
+<button aria-expanded="false" class="toggle-navigation" id="toggle-navigation">
+<span class="screen-reader-text">open primary menu</span>
+<i class="fa fa-bars"></i>
+</button>
+<div class="menu-container menu-primary" id="menu-primary" role="navigation">
+<nav class="menu"><ul class="menu-primary-items" id="menu-primary-items"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11" id="menu-item-11"><a href="http://cse.unl.edu/~elbaum/content/">Bio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-42" id="menu-item-42"><a href="http://cse.unl.edu/~elbaum/content/?page_id=6">Students</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35" id="menu-item-35"><a href="http://cse.unl.edu/~elbaum/content/?page_id=33">Publications</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37" id="menu-item-37"><a href="http://cse.unl.edu/~elbaum/content/?page_id=19">Labs and Projects</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41" id="menu-item-41"><a href="http://cse.unl.edu/~elbaum/content/?page_id=17">Classes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445" id="menu-item-445"><a href="http://cse.unl.edu/~elbaum/content/?page_id=111">Posts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-441" id="menu-item-441"><a href="http://cse.unl.edu/~elbaum/content/?page_id=438">Contact</a></li>
+</ul></nav>
+</div><!-- #menu-primary .menu-container -->
+</header>
+<aside class="sidebar sidebar-primary" id="sidebar-primary" role="complementary">
+<section class="widget widget_recent_entries" id="recent-posts-2"> <h2 class="widget-title">Recent Posts</h2> <ul>
+<li>
+<a href="http://cse.unl.edu/~elbaum/content/?p=456">A new perspective on the relationship between Drones and Fire</a>
+</li>
+<li>
+<a href="http://cse.unl.edu/~elbaum/content/?p=425">The Challenge of Dealing with Known Unknowns in Software Testing</a>
+</li>
+<li>
+<a href="http://cse.unl.edu/~elbaum/content/?p=422">ICSE 2015 – taking stock</a>
+</li>
+<li>
+<a href="http://cse.unl.edu/~elbaum/content/?p=417">Bessey Professorship</a>
+</li>
+<li>
+<a href="http://cse.unl.edu/~elbaum/content/?p=410">Sunday with a Scientist: Flying Robots</a>
+</li>
+<li>
+<a href="http://cse.unl.edu/~elbaum/content/?p=402">Autonomous Aerial Water Sampler – Featured in NSF 360 and Appearing in  Journal of Field Robotics</a>
+</li>
+<li>
+<a href="http://cse.unl.edu/~elbaum/content/?p=384">What a treat! ICSE 2015 Technical Research Track is rapidly taking shape</a>
+</li>
+<li>
+<a href="http://cse.unl.edu/~elbaum/content/?p=376">ICSE 2015 Technical Track receives +450 submissions</a>
+</li>
+</ul>
+</section><section class="widget widget_archive" id="archives-2"><h2 class="widget-title">Posts Archive</h2> <label class="screen-reader-text" for="archives-dropdown-2">Posts Archive</label>
+<select id="archives-dropdown-2" name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;">
+<option value="">Select Month</option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201510"> October 2015 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201506"> June 2015 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201503"> March 2015 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201501"> January 2015 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201410"> October 2014 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201408"> August 2014 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201407"> July 2014 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201405"> May 2014 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201403"> March 2014 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201401"> January 2014 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201309"> September 2013 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201308"> August 2013 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201307"> July 2013 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201301"> January 2013 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201210"> October 2012 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201209"> September 2012 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201207"> July 2012 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201206"> June 2012 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201204"> April 2012 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201202"> February 2012 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201111"> November 2011 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201108"> August 2011 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201107"> July 2011 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201106"> June 2011 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201103"> March 2011 </option>
+<option value="http://cse.unl.edu/~elbaum/content/?m=201101"> January 2011 </option>
+</select>
+</section>
+</aside><!-- #sidebar-primary -->
+</div>
+<section class="main" id="main" role="main">
+<div class="post-6 page type-page status-publish hentry entry">
+<article>
+<div class="post-header">
+<h1 class="post-title">Students</h1>
+</div>
+<div class="post-content">
+<p>References: (A) Advisor, (CA) Co-Advisor, (CM) Committee Member, (P) MS Project, Research for Undergraduates (REU).</p>
+<p><strong>Current Students</strong></p>
+<ul>
+<li> Matias Waterloo (A)</li>
+<li> Adam Taylor (A)</li>
+<li> Nishant Sharma (CA) </li>
+<li> Ajay Shankar (CA) </li>
+<li> Evan Beachly (CA) </li>
+<li> JP Ore (CA)</li>
+<li> David Shriver (REU)</li>
+<li> Chris Laney (REU)</li>
+</ul>
+<p><strong>Alumni</strong> (If you should be a part of this list please send me an email!)</p>
+<ol>
+<li> Eric Rizzi (CA, MS: 8/2015)</li>
+<li> Hengle Jiang (A, MS: 5/2014)</li>
+<li> Katie Stolee (A, PhD: 8/2013)</li>
+<li> Pingyu Zhang (A, PhD: 8/2013)</li>
+<li> Rahul Purandare (Post Doc – Co-adv, 5/2013)</li>
+<li> Heath Roehr (CA, MS: 5/2013)</li>
+<li> Lucy Wang (CA, MS: 8/2012)</li>
+<li> Daniel Dobos (U)</li>
+<li> Javier Darsie (A,MS: 8/2012)</li>
+<li> Dave Anthony (CM, MS: 4/2012)</li>
+<li> Rahul Purandare (CM, Phd 4/2011)</li>
+<li> Xin Guo (REU, 5/2011)</li>
+<li>Katie Stolee (A, MS: 8/2010)</li>
+<li> Xiao Qu (CM: 5/2010)</li>
+<li> Elena Sherman (CM, MS: 8/2009)</li>
+<li>Suzette Person (CM: 7/2009)</li>
+<li>Madeleine Diep (A: 4/2009)</li>
+<li> Christopher Scaffidi – from CMU (CM)</li>
+<li> Zhimin Wang (A: 8/2008)</li>
+<li> Mark Fisher (CA: 8/2008)</li>
+<li> Joe RuthRuff (CA: 5/2008)</li>
+<li> Matt Jorde (A: 5/2008)</li>
+<li> Xiaxia Ren – from Rutgers (CM: 5/2007)</li>
+<li> Padma Ashokumar (CA: 12/2007)</li>
+<li> Jian Kang (CM: 12/2007)</li>
+<li> Hui Nee Chin (A: 8/2007)</li>
+<li> Andhy Koesnandar (CA: 5/2007)</li>
+<li> Hyunsook Do (CM: 3/2007)</li>
+<li> Neo Jia (CM: 11/2006)</li>
+<li> Sandeep Lingam (A: 5/2006)</li>
+<li> Bhuvana Gopal (A: 1/2006)</li>
+<li> Alex Kineer (CM: 08/2005)</li>
+<li> Mulyadi Oey (CM: 07/2005)</li>
+<li> Sita Madhuri Tangirala (CM: 11/2004)</li>
+<li> Fidel Knowcha (A: 8/2004)</li>
+<li> Rohini Krishnapura (CM: 6/2004)</li>
+<li> Madeleine Hardojo(A: 5/2004)</li>
+<li> Ram Kalyan Chilakamarri (A: 5/2004)</li>
+<li> Sameera Reddy(A:7/2004)</li>
+<li> Teuta Cata (CM: 8/2003)</li>
+<li> Zheying Zang (CM: 8/2003)</li>
+<li> Satya Kanduri (A: 7/2003)</li>
+<li> Praveen Kallakuri (A: 12/2002)</li>
+<li> Srikanth Karre (A: 11/2002)</li>
+<li> Xin Liu (A: 05/2002)</li>
+<li>Seong No Yoon (CM: 12/2001)</li>
+<li> Amit Kulharni (CM: 11/2001)</li>
+<li> Smita Narla (A: 8/2001)</li>
+<li> David Gable (A: 4/2001)</li>
+<li> Jian Tang (P: 5/2001)</li>
+<li> Lingyun Wang (P: 5/2001)</li>
+<li> Luyin Zhao (P: 5/2001)</li>
+<li> Rahul Reddy (CM: 11/2000)</li>
+<li> Shromila Chitgopkar (CM: 7/2000)</li>
+<li> Santosh Sangras (CM: 5/2000)</li>
+<li> Vandana Gupta (CM: 4/2000)</li>
+<li> Ingyu Lee (CM: 8/2000)</li>
+<li> Eric Gruber (REU)</li>
+<li> Ted Whaler (REU)</li>
+<li> Shane Geiger (REU)</li>
+<li> Binh Huynh (REU)</li>
+<li> Jared Bakewell (REU)</li>
+<li> David Friberg (REU)</li>
+<li> Tuan Duc Dao (REU)</li>
+<li> Khoa Le (REU)</li>
+<li> Jon Dokulil (REU)</li>
+<li> Nick Steinbaugh (REU)</li>
+<li> Josh Reed (REU)</li>
+<li>Daniel Lobos(REU)</li>
+</ol>
+</div>
+</article>
+</div>
+</section> <!-- .main -->
+<footer class="site-footer" role="contentinfo">
+<div class="design-credit">
+<span>
+<a href="https://www.competethemes.com/author/">Author WordPress Theme</a> by Compete Themes        </span>
+</div>
+</footer>
+</div><!-- .max-width -->
+</div><!-- .overflow-container -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var objectL10n = {"openPrimaryMenu":"open primary menu","closePrimaryMenu":"close primary menu","openChildMenu":"open child menu","closeChildMenu":"close child menu"};
+/* ]]> */
+</script>
+<script src="http://cse.unl.edu/~elbaum/content/wp-content/themes/author/js/build/production.min.js?ver=4.3.1" type="text/javascript"></script>
+<!--[if IE 8]>
+<script type='text/javascript' src='http://cse.unl.edu/~elbaum/content/wp-content/themes/author/js/build/respond.min.js?ver=4.3.1'></script>
+<![endif]-->
+</body>
+</html>

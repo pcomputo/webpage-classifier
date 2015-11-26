@@ -1,0 +1,33 @@
+<html><body><center><img src="notes.gif"/></center><br/>
+<b>
+SOME EXTRACTED POINTS FROM</b><br/><br/>
+<font color="blue">
+Jepson, A. and T. Perl (2002).  Priming the Pipeline, inroads
+SIGCSE Bulletin, 34(2):36-39.<br/><br/>
+</font>
+<hr/><br/>
+
+The top six answers from girls to the survey question "Why are girls less
+likely to pursue computer science careers" in order of perceived importance by
+the girls, conducted by The Backyard Project:
+<ul><li>"Not Enough Role Models"</li></ul>
+<ul><li>"Women Have Other Interests"</li></ul>
+<ul><li>"Don't Know About the Industry"</li></ul>
+<ul><li>"Limited Opportunity"</li></ul>
+<ul><li>"Negative Media"</li></ul>
+<ul><li>"Too Nerdy"</li></ul>
+
+A list of few activities that could help attract and retain more young women
+in computer science--early in the pipeline:
+<ul><li>Equal Participation</li></ul>
+<ul><li>Equal Access</li></ul>
+<ul><li>Same Sex Instructors</li></ul>
+<ul><li>Computing Programs for Girls</li></ul>
+<ul><li>Career Information</li></ul>
+<ul><li>Educate Instructors</li></ul>
+<ul><li>Educate Game Makers</li></ul>
+<ul><li>Implement Mentoring Programs</li></ul>
+<ul><li>Organize Talks</li></ul>
+<ul><li>Text Role Models</li></ul>
+<ul><li>Make Computing Cool for Girls</li></ul>
+</body></html>

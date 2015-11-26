@@ -1,0 +1,848 @@
+<html xmlns="http://www.w3.org/TR/REC-html40" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Word.Document" name="ProgId"/>
+<meta content="Microsoft Word 11" name="Generator"/>
+<meta content="Microsoft Word 11" name="Originator"/>
+<link href="chat4.0_files/filelist.xml" rel="File-List"/>
+<link href="chat4.0_files/editdata.mso" rel="Edit-Time-Data"/>
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>CXP+I-MINDS: BuddyChat and StructuredChat 4.0</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Leen-Kiat Soh</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Leen-Kiat Soh</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>16</o:TotalTime>
+  <o:Created>2007-09-17T17:45:00Z</o:Created>
+  <o:LastSaved>2007-09-17T17:45:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>1772</o:Words>
+  <o:Characters>10102</o:Characters>
+  <o:Company>University of Nebraska-Lincoln</o:Company>
+  <o:Lines>84</o:Lines>
+  <o:Paragraphs>23</o:Paragraphs>
+  <o:CharactersWithSpaces>11851</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DrawingGridHorizontalSpacing>3.9 pt</w:DrawingGridHorizontalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+@font-face
+	{font-family:"Eras Medium ITC";
+	panose-1:2 11 6 2 3 5 4 2 8 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+ /* Page Definitions */
+ @page
+	{mso-footnote-separator:url("chat4.0_files/header.htm") fs;
+	mso-footnote-continuation-separator:url("chat4.0_files/header.htm") fcs;
+	mso-endnote-separator:url("chat4.0_files/header.htm") es;
+	mso-endnote-continuation-separator:url("chat4.0_files/header.htm") ecs;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-footer:url("chat4.0_files/header.htm") f1;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:483936064;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1701900834 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:511336590;
+	mso-list-template-ids:-178110078;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2
+	{mso-list-id:935404977;
+	mso-list-template-ids:1554431980;}
+@list l2:level1
+	{mso-level-start-at:5;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l2:level2
+	{mso-level-start-at:2;
+	mso-level-text:"%1\.%2\.";
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l2:level3
+	{mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l2:level4
+	{mso-level-text:"%1\.%2\.%3\.%4\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l2:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l2:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l2:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l2:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l2:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9\.";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-1.25in;}
+@list l3
+	{mso-list-id:1342705940;
+	mso-list-template-ids:-1213407668;}
+@list l3:level1
+	{mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l3:level2
+	{mso-level-start-at:5;
+	mso-level-text:"%1\.%2\.";
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l3:level3
+	{mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l3:level4
+	{mso-level-text:"%1\.%2\.%3\.%4\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l3:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l3:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l3:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l3:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l3:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9\.";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-1.25in;}
+@list l4
+	{mso-list-id:1555585719;
+	mso-list-template-ids:-399978974;}
+@list l4:level1
+	{mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l4:level2
+	{mso-level-text:"%1\.%2\.";
+	mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l4:level3
+	{mso-level-text:"%1\.%2\.%3\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l4:level4
+	{mso-level-text:"%1\.%2\.%3\.%4\.";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l4:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l4:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.75in;}
+@list l4:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l4:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l4:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9\.";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-1.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+<body lang="EN-US" link="blue" style="tab-interval:.5in" vlink="purple">
+<div class="Section1">
+<table border="0" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
+<td style="width:90.9pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="121">
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><!--[if gte vml 1]><v:shapetype
+   id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+   path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:80.25pt;
+   height:81.75pt'>
+   <v:imagedata src="chat4.0_files/image001.png" o:title="IMINDSLogo"/>
+  </v:shape><![endif]--><img height="109" src="chat4.0_files/image002.gif" v:shapes="_x0000_i1025" width="107"/><o:p></o:p></b></p>
+</td>
+<td style="width:387.9pt;padding:0in 5.4pt 0in 5.4pt" width="517">
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-size:36.0pt;font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Tahoma'>CXP-Powered I-MINDS <o:p></o:p></span></b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-size:36.0pt;font-family:"Eras Medium ITC";mso-bidi-font-family:
+  Tahoma;color:#99CC00'>Capabilities 4.0</span></b><b style="mso-bidi-font-weight:
+  normal"><span style='font-size:36.0pt;font-family:"Eras Medium ITC";
+  color:#99CC00'><o:p></o:p></span></b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><o:p> </o:p></b></p>
+</td>
+</tr>
+</table>
+<p class="MsoNormal"><o:p> </o:p></p>
+<div align="center">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="width:485.95pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="648">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;background:red;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds.html"><span style="text-decoration:
+  none;text-underline:none">HOME</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/current.html"><span style="text-decoration:none;text-underline:none">CURRENT STATUS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:red;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/capabilities.html"><span style="text-decoration:none;text-underline:none">CXP+I-MINDS CAPABILITIES</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/team.html"><span style="text-decoration:none;text-underline:none">TEAM</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:green;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/history.html"><span style="color:white;text-decoration:none;text-underline:none">HISTORY</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/publications.html"><span style="color:white;text-decoration:none;text-underline:none">PUBLICATIONS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:green;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/distribution.html"><span style="color:white;text-decoration:none;text-underline:none">SOFTWARE
+  DISTRIBUTION</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/contact.html"><span style="color:white;text-decoration:none;text-underline:none">CONTACT</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+</table>
+</div>
+<p class="MsoNormal"><o:p> </o:p></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt"><b style="mso-bidi-font-weight:
+normal"><span style='font-size:16.0pt;font-family:"Eras Medium ITC";color:#99CC00'>BuddyChat
+and StructuredChat 4.0<o:p></o:p></span></b></p>
+<p class="MsoNormal"><o:p> </o:p></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC";color:#FF6600'>3.1.<span style="mso-spacerun:yes">  </span>Introduction<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="text-indent:.5in"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>In version 2,
+buddy group was its own capability modified from the chat capability included
+with ConferenceXP, which allowed users to choose a group of buddies that they
+wished to converse with.<span style="mso-spacerun:yes">  </span>In CXP+I-MINDS
+version 3, buddy group became a capability mode of merged capability.<span style="mso-spacerun:yes">  </span>Along with the additions of advanced chat
+functionality it included a buddy manager from which students could alter who
+is and who is not included in their buddy group.<span style="mso-spacerun:yes">  </span>In version 4, the options menu from which to
+access ‘Display Statistics’, ‘Database Search’ and ‘Manage Buddy’ were moved to
+the main CXP+I-MINDS form.<span style="mso-spacerun:yes">  </span>Also, with
+the addition of moderator assigned structured groups, a new communication mode
+was added named Structured Chat. The functionality is nearly identical, with
+the exceptions that users cannot change their structured group members, and if
+their structured group is changed by the administrator, the user will receive
+the current topics being discussed in the new group they enter.<span style="mso-spacerun:yes">  </span>Because of their marked similarities, we will
+only describe the functionality of Structured Group Chat, although the
+description applies to both.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC";color:#FF6600'>3.2.<span style="mso-spacerun:yes">  </span>Flow of Control<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes">   
+</span><o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'>Unlike the question answering mode in
+merged capability, there is only one version of each of the chat modes.<span style="mso-spacerun:yes">  </span>These modes are designed to be used by both
+teachers and students simultaneously.<span style="mso-spacerun:yes"> 
+</span>Participants can send messages to each other by using these modes.<span style="mso-spacerun:yes">  </span>It is important to mention that only
+participants running the chat modes in merged capability who are in the
+sender’s classroom will receive the message and only participants in the
+student’s group will display it. <o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'>In a Chat capability, it is possible to
+select a previously received message by just clicking on it in the message text
+box.<span style="mso-spacerun:yes">  </span>The selected message is added to
+the response text box.<span style="mso-spacerun:yes">  </span>While the
+response text box contains a message, any new messages sent by the user will be
+'in response' to this message. To clear the message just right-click the
+response text box to bring up the menu and select 'Clear'.<span style="mso-spacerun:yes">  </span>To view the Message Tree for the previously
+received message just select 'History' from popup menu.<span style="mso-spacerun:yes">  </span>This will cause the MessageTree form to
+become visible, displaying the tree view for the message tree (Figure 3.3).<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'>For Chat capabilities we introduce the
+concept of Message Trees.<span style="mso-spacerun:yes">  </span>Message Trees
+provide the ability for one message to initiate an expanding flow of
+dialog.<span style="mso-spacerun:yes">  </span>A Message Tree starts with a
+single topic started by one of the students (Figure 3.2).<span style="mso-spacerun:yes">  </span>This topic forms the root of the Message
+Tree.<span style="mso-spacerun:yes">  </span>Topics with unseen messages are
+displayed in bold in the topics field of the form (Figure 3.1).<span style="mso-spacerun:yes">  </span>When another student responds to a topic,
+this linkage is stored on the CXP+I-MINDS database. New messages can respond to
+either the original topic or any previous response.<span style="mso-spacerun:yes">  </span>The tree of a conversation can be viewed by
+right clicking in the Respond to: panel and selecting History.<span style="mso-spacerun:yes">  </span>By using a recursive algorithm on the
+CXP+I-MINDS database the stored messages are extracted and added to a tree view
+data object to facilitate display.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1031" type="#_x0000_t75" style='width:357pt;height:303pt'>
+ <v:imagedata src="chat4.0_files/image003.png" o:title=""/>
+</v:shape><![endif]--><img border="0" height="404" src="chat4.0_files/image004.jpg" v:shapes="_x0000_i1031" width="476"/><o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Figure 3.1: The Structured
+Group Chat Form<o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes">   
+</span><!--[if gte vml 1]><v:shape id="_x0000_i1026" type="#_x0000_t75"
+ style='width:349.5pt;height:298.5pt'>
+ <v:imagedata src="chat4.0_files/image005.png" o:title=""/>
+</v:shape><![endif]--><img border="0" height="398" src="chat4.0_files/image006.jpg" v:shapes="_x0000_i1026" width="466"/><b style="mso-bidi-font-weight:normal"><o:p></o:p></b></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;mso-layout-grid-align:
+none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>Figure 3.2: Creating a new topic in
+Structured Chat</span></b><span style='font-family:"Eras Medium ITC"'><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;mso-layout-grid-align:
+none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;mso-layout-grid-align:
+none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shape id="_x0000_i1027"
+ type="#_x0000_t75" style='width:195.75pt;height:196.5pt'>
+ <v:imagedata src="chat4.0_files/image007.png" o:title="" croptop="15974f"
+  cropbottom="4779f" cropleft="15187f" cropright="5746f"/>
+</v:shape><![endif]--><img border="0" height="262" src="chat4.0_files/image008.jpg" v:shapes="_x0000_i1027" width="261"/><o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;mso-layout-grid-align:
+none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC"'>Figure 3.3:<span style="mso-spacerun:yes">  </span>Message Tree for a Conversation<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC";
+color:#FF6600'>3.3.<span style="mso-spacerun:yes">  </span>Intelligent Features<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'>In order to better support users, we have
+begun adding intelligent functionality to both BuddyChat and
+StructuredChat.<span style="mso-spacerun:yes">  </span>To accomplish this, the
+user agents monitor each topic the user is involved in.<span style="mso-spacerun:yes">  </span>If the user has many unread messages in a topic,
+the agent notices this condition and notifies the user, asking them if they
+would like to view the unread messages.<span style="mso-spacerun:yes"> 
+</span>If a user’s contribution level is low in a topic, the agent encourages
+the user to increase their participation, and offers to display the topic if it
+is not the one currently focused on.<span style="mso-spacerun:yes"> 
+</span>Also, in BuddyChat, if the agent sees that a nonbuddy is contributing
+heavily to a topic started by a buddy and the user has extra room to add new
+buddies, the agent recommends adding the nonbuddy to the user’s buddy
+list.<span style="mso-spacerun:yes">  </span>However, we know that not all
+users will want to be bothered by such messages, so we added reinforcement
+learning to the agents so they will stop notifying the user of these different
+conditions based on the user’s reaction to the notifications.<span style="mso-spacerun:yes">  </span>Whenever the agent notifies the user, it
+remembers the user’s response and is increasingly less likely to notify the
+user again if the user chooses to ignore the agent’s alert.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'>For users and moderators who join
+sessions that have already begun or are dropped because of a bad network
+connection and rejoin, we have also added functionality to allow the agents to
+request any existing messages from other participants.<span style="mso-spacerun:yes">  </span>For BuddyChat, the user agent asks the agents
+of the user’s buddies for all messages in topics either the buddy or they
+themselves started.<span style="mso-spacerun:yes">  </span>The agents then
+respond with such messages, and the user’s agent rebuilds its collections and
+displays all existing topics.<span style="mso-spacerun:yes">  </span>Similarly,
+for StructuredChat, the agents request all messages from group members and
+display those as well.<span style="mso-spacerun:yes">  </span>Because
+moderators can chat with anyone, user agents also ask for topics created by
+moderators, and moderators ask for topics from everyone.<span style="mso-spacerun:yes">  </span>Finally, when moderators modify existing
+structured groups, the agents also work together to insure that all members of
+each group after the change have all of the messages previously sent within the
+group.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC";
+color:#FF6600'>3.4.<span style="mso-spacerun:yes">  </span>Buddy Group Manager<o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>Figure 3.4 shows
+a screenshot of the buddy manager form.<span style="mso-spacerun:yes"> 
+</span>The buddy manager becomes visible whenever the user selected ‘Manage
+Buddy Form’ from the main CXP+I-MINDS form.<span style="mso-spacerun:yes"> 
+</span>The buddy manager form shows all the participants who are currently
+stored in the CXP+I-MINDS database and indicates whether they are on or
+offline.<span style="mso-spacerun:yes">  </span>There are two checkboxes for
+each participant, one for adding the participant as a buddy and the other for
+adding her as a temporary buddy.<span style="mso-spacerun:yes">  </span>Temp
+buddies are counted as buddies for purposes of receiving messages, but the
+relationship is asymmetric rather than symmetric.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>Maintaining the
+symmetric relationship between buddies requires a handshaking procedure between
+the two participants and the CXP+I-MINDS database.<span style="mso-spacerun:yes">  </span>Because of the requirement of symmetric buddy
+relationships, you can only add a buddy if that participant is currently
+online.<span style="mso-spacerun:yes">  </span>When you check the Buddy box for
+a participant, your agent sends a message to your potential buddy.<span style="mso-spacerun:yes">  </span>When the message is received, her agent will
+popup a confirmation box asking her if she would like to add you as a
+buddy.<span style="mso-spacerun:yes">  </span>Based on her decision, her agent
+sends one of the following three responses: (1) she has added you as a buddy,
+(2) she has declined your offer of being a buddy, or (3) she cannot become your
+buddy because her buddy group is full.<span style="mso-spacerun:yes"> 
+</span>Because removing a buddy does not require such handshaking, students are
+able to remove a buddy whether they are online or offline. When that student
+logs in next, the buddy manager will simply show the two are no longer
+buddies.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shape id="_x0000_i1028"
+ type="#_x0000_t75" style='width:282pt;height:234.75pt'>
+ <v:imagedata src="chat4.0_files/image009.png" o:title=""/>
+</v:shape><![endif]--><img border="0" height="313" src="chat4.0_files/image010.jpg" v:shapes="_x0000_i1028" width="376"/><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Figure 3.4:</span></b><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes"> 
+</span>Buddy Manager Form<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none"><b style="mso-bidi-font-weight:normal"><span style='font-family:"Eras Medium ITC";
+color:#FF6600'>3.5.<span style="mso-spacerun:yes">  </span>Structured Group
+Manager<o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>To facilitate
+the formation of structured groups, a new component has been added to version 4
+called Structured Group Manager.<span style="mso-spacerun:yes">  </span>This
+powerful utility allows moderators to create sets of Structured Groups which
+can then be used in collaborative quizzes and structured chat.<span style="mso-spacerun:yes">  </span>When the groups are set up, a moderator can
+save those groups as a set of groups. This allows the moderator to keep a list
+of possible group combinations to assign for a particular assignment or time
+period. <o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>Group assignment
+begins with the moderator creating a new set described above by entering a name
+in the new set field then clicking ‘Create new Set’ (Figure 3.5).<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shape id="_x0000_i1029"
+ type="#_x0000_t75" style='width:394.5pt;height:336.75pt'>
+ <v:imagedata src="chat4.0_files/image011.png" o:title=""/>
+</v:shape><![endif]--><img border="0" height="449" src="chat4.0_files/image012.jpg" v:shapes="_x0000_i1029" width="526"/><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Figure 3.5:</span></b><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes"> 
+</span>Structured Group Manager: Set Manager Tab<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>This will create
+an empty set of groups with all students in the ‘Unassigned Participants’
+category.<span style="mso-spacerun:yes">  </span>Groups are then set up using
+the ‘Manage Groups’ tab, which allows for the creation of new groups, the
+editing and deleting of old groups, and the moving of students between groups. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo5"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol"><span style="mso-list:Ignore">·<span style='font:7.0pt "Times New Roman"'>       
+</span></span></span><span style='font-family:"Eras Medium ITC"'>To
+create a new group, the name and size of groups must be specified in the new
+group text fields. Then clicking ‘Add Group’ will add this new empty group to
+the current set.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo5"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol"><span style="mso-list:Ignore">·<span style='font:7.0pt "Times New Roman"'>       
+</span></span></span><span style='font-family:"Eras Medium ITC"'>Once
+a group has been created, you can edit the name and size by bringing up the
+group in the ‘Group B’ drop down menu, checking which attribute you would like
+to edit in the edit panel, entering the new name or size, and clicking ‘Edit
+Group B’. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo5"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol"><span style="mso-list:Ignore">·<span style='font:7.0pt "Times New Roman"'>       
+</span></span></span><span style='font-family:"Eras Medium ITC"'>To
+delete a group, select the group in the ‘Group B’ drop down menu, then click
+‘Delete Group’, which places all members of the group to the unassigned
+students category, and removes this group from the set.<span style="mso-spacerun:yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo5"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol"><span style="mso-list:Ignore">·<span style='font:7.0pt "Times New Roman"'>       
+</span></span></span><span style='font-family:"Eras Medium ITC"'>Members
+can be moved between groups by selecting the two groups involved in the drop
+down menus, highlighting the participants to be moved, and then clicking the
+arrow indicating the direction to be moved. Not only can you move students
+between groups but also from the Unassigned Participants category into a new
+group. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo5"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol"><span style="mso-list:Ignore">·<span style='font:7.0pt "Times New Roman"'>       
+</span></span></span><span style='font-family:"Eras Medium ITC"'>Another
+option for group formation is filling the group with randomly selected
+participants from the unassigned list. To do this, a group is selected from the
+‘Group B’ combo box, then click ‘Random Fill Group B’ which adds random members
+from the unassigned list up to the size of the group.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>At each step,
+the moderator has the option of saving the changes to the set, or reverting the
+set to the last saved state. <o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'>The Set Manager
+tab has many convenient tools to manage structured groups.<span style="mso-spacerun:yes">  </span>Any saved set can be selected in the set drop
+down box in the top left of the window.<span style="mso-spacerun:yes"> 
+</span>A list of the groups in that set with the members of each group is then
+displayed. The selected set can also be renamed by entering the new name in the
+rename set text box, then clicking ‘Rename Set’.<span style="mso-spacerun:yes">  </span>Groups can also be created and assigned in
+one fell swoop by specifying the number of groups desired in the Auto Set text
+box, then clicking ‘Random Auto Set’. This creates that number of even sized
+groups, and randomly places all of the students into the groups evenly. This
+allows for fast group set creation and assignment. Finally when the editing on
+the set is completed, click the ‘Save All, and Make Active Set’. This will save
+all changes and then make the selected Set the ‘Active’ set, or the set used in
+collaborative assignments and Structured Group Chat.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style='font-family:"Eras Medium ITC"'><o:p> </o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style='font-family:"Eras Medium ITC"'><!--[if gte vml 1]><v:shape id="_x0000_i1030"
+ type="#_x0000_t75" style='width:366pt;height:312pt'>
+ <v:imagedata src="chat4.0_files/image013.png" o:title=""/>
+</v:shape><![endif]--><img border="0" height="416" src="chat4.0_files/image014.jpg" v:shapes="_x0000_i1030" width="488"/><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><span style='font-family:"Eras Medium ITC"'>Figure 3.6:</span></b><span style='font-family:"Eras Medium ITC"'><span style="mso-spacerun:yes"> 
+</span>Structured Group Manager: Group Manager Tab<o:p></o:p></span></p>
+<p class="MsoNormal"><o:p> </o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
+<div align="center">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="width:485.95pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="648">
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;background:red;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds.html"><span style="text-decoration:
+  none;text-underline:none">HOME</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/current.html"><span style="text-decoration:none;text-underline:none">CURRENT STATUS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:red;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/capabilities.html"><span style="text-decoration:none;text-underline:none">CXP+I-MINDS CAPABILITIES</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:yellow;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/team.html"><span style="text-decoration:none;text-underline:none">TEAM</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes">
+<td style="width:64.2pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:green;padding:0in 5.4pt 0in 5.4pt" width="86">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/history.html"><span style="color:white;text-decoration:none;text-underline:none">HISTORY</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:127.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="170">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/publications.html"><span style="color:white;text-decoration:none;text-underline:none">PUBLICATIONS</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:211.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:green;padding:0in 5.4pt 0in 5.4pt" width="282">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/distribution.html"><span style="color:white;text-decoration:none;text-underline:none">SOFTWARE
+  DISTRIBUTION</span></a><o:p></o:p></span></b></p>
+</td>
+<td style="width:83.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:blue;padding:0in 5.4pt 0in 5.4pt" width="111">
+<p align="center" class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center"><b style="mso-bidi-font-weight:
+  normal"><span style='font-family:"Eras Medium ITC";mso-bidi-font-family:Arial;
+  color:white'><a href="http://cse.unl.edu/~lksoh/cxp+i-minds/contact.html"><span style="color:white;text-decoration:none;text-underline:none">CONTACT</span></a><o:p></o:p></span></b></p>
+</td>
+</tr>
+</table>
+</div>
+<p class="MsoNormal"><o:p> </o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
+</div>
+</body>
+</html>

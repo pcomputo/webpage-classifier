@@ -1,0 +1,106 @@
+<html>
+<head><title>Leen-Kiat Soh's CSCE475/896 Page</title>
+</head><body background="images/nothing.gif" bgcolor="white" link="#0000FF" text="#000000">
+<font face="arial">
+<br/><br/>
+<font size="+2">CSCE475/896 MULTIAGENT SYSTEMS Fall 2003</font>
+<br/>
+<br/>
+<hr/>
+<font color="red" size="+1">New Entries!!  Handout 19, Review (Under Handouts),
+HW3 Review (Under Handouts), Final Project</font>
+<br/>
+<hr/>
+<table bgcolor="white" border="1" cellpadding="5" cellspacing="0" cols="2" width="85%">
+<center>
+<tr align="top">
+<td align="lef">
+<img src="syllabus.gif"/>
+<a href="syllabus.html">
+Class Syllabus</a>
+</td>
+<td align="left" valign="top">
+<img src="schedule.gif"/>
+<a href="schedule.html">
+Class Schedule</a>
+</td>
+</tr>
+<td align="left">
+<img src="resource.gif"/>
+<a href="AgentResources.html">
+Important Agent Resources</a>
+</td>
+<td align="left" valign="top">
+<img src="announcement.gif"/>
+<a href="archives.html">
+Some Archives </a>
+</td>
+<tr>
+<td>
+<img src="sup.gif"/>
+<a href="handouts.html">
+Handouts</a>
+</td>
+<td>
+<img src="lecture.gif"/>
+<a href="lectures.html">
+Lectures: Advanced Topics</a>
+</td></tr></center></table>
+<hr/>
+<b><font color="red">COURSE WORK</font></b></font><br/>
+<hr/>
+<table bgcolor="white" border="1" cellpadding="5" cellspacing="0" cols="2" width="85%">
+<center>
+<tr align="top">
+<td align="lef">
+<img src="gameday.gif"/>
+<a href="gamedays.html">
+Game Days</a>
+</td>
+<td align="left" valign="top">
+<img src="hw.gif"/>
+<a href="homeworks.html">
+Homework Assignments</a>
+</td>
+</tr>
+<tr>
+<td align="left">
+<img src="topic.gif"/>
+<a href="topics.html">
+Topic Summaries</a>
+</td>
+<td align="left" valign="top">
+<!--
+<IMG SRC="exam.gif">
+<A HREF="exam.html">
+Exam</A>
+-->
+</td>
+</tr>
+<tr>
+<td>
+<img src="seminar.gif"/>
+<a href="seminars.html">
+Seminars</a>
+</td>
+<td>
+<img src="finalproject.gif"/>
+<a href="finalproject.html">
+Final Project</a>
+</td> </tr> </center></table>
+<br/>
+<hr/><br/>
+<a href="http://blackboard.unl.edu/">Blackboard</a>
+<br/><br/>
+<hr/><br/>
+<img src="../../images/blueballs.jpeg"/>
+<i>
+<script language="JavaScript">
+   <!--  to hide script contents from old browsers
+    document.write("<I>  Last Updated: " + document.lastModified + "  </I>")
+   // end hiding contents from old browsers  -->
+ </script>
+</i>
+<br/>
+</body>
+</html>
