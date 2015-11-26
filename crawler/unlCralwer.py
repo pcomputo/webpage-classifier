@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-
 from bs4 import BeautifulSoup
 import sys
 import urllib
@@ -30,7 +29,7 @@ def cleanSoup(soup):
     meaningful_soup = ' '.join([word for word in lowercase_soup.split() if word not in cachedStopWords])
     
     #print meaningful_soup
-    #return soup
+    return soup
 
 def fix_url(url):
 	if url[-1] == '/': 
@@ -67,8 +66,11 @@ def createSoup(url):
     	#print "BOW for: %s",url  
     	the_page = response.read()
     	soup = BeautifulSoup(the_page)  
-    	cleanSoup(soup)
+    	cleaned_soup = cleanSoup(soup)
     	visited.add(fixed_url)
+    	file_name = fixed_url + ".txt"
+    	#f = open(file_name, 'w')
+    	#f.write(cleaned_soup)
         print "Crawled: ", fixed_url
         count = count + 1
         print count
@@ -76,7 +78,7 @@ def createSoup(url):
     	for link in soup.find_all('a'):
 			href = link.get('href')
 			if href:
-				print href
+				#print href
 				fixed_href = fix_url(href)
 				if is_valid_url(fixed_href) and is_valid_webpage(fixed_href) and not (fixed_href in visited) and not (fixed_href in unvisited):
 					print "Added to unvisited: ",fixed_href
