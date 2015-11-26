@@ -56,7 +56,8 @@ def createSoup(url):
     
     fixed_url = fix_url(url)
     if is_valid_url(fixed_url) and not (fixed_url in visited):
-    	print "Now crawling: ", fixed_url
+    	#print "Now crawling: ", fixed_url
+    	print fixed_url
     	try:
         	response = urllib.urlopen(fixed_url)
     	except urllib.error.HTTPError as e:
@@ -69,16 +70,16 @@ def createSoup(url):
     	cleaned_soup = cleanSoup(soup)
     	visited.add(fixed_url)
     	file_name = fixed_url + ".txt"
-    	print file_name
+    	#print file_name
     	s = file_name[7:]
     	s = s.replace("/","_")
-    	print s
-    	f = open(s, 'w+')
-    	f.write(str(cleaned_soup))
-    	f.close()
-        print "Crawled: ", fixed_url
+    	#print s
+    	#f = open(s, 'w+')
+    	#f.write(str(cleaned_soup))
+    	#f.close()
+        #print "Crawled: ", fixed_url
         count = count + 1
-        print count
+        #print count
     
     	for link in soup.find_all('a'):
 			href = link.get('href')
@@ -86,7 +87,7 @@ def createSoup(url):
 				#print href
 				fixed_href = fix_url(href)
 				if is_valid_url(fixed_href) and is_valid_webpage(fixed_href) and not (fixed_href in visited) and not (fixed_href in unvisited):
-					print "Added to unvisited: ",fixed_href
+					#print "Added to unvisited: ",fixed_href
 					unvisited.add(fixed_href)
 					createSoup(fixed_href)
 
