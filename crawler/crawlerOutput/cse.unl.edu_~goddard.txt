@@ -1,15 +1,1 @@
-<html><head>
-<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
-<title> Steve Goddard</title>
-</head>
-<!-- body bgcolor="white" text="black" link="blue" vlink="gray" alink="yellow"-->
-<frameset frameborder="no" rows="80,*">
-<noframes> If your browser cannot
-    display frames you'll see this message. 
-    Follow this link: <body><a href="navBar.html">to view the website.</a>
-<frame name="titlebarFrame" scrolling="no" src="SteveGoddard_files/TitleBar.html"/>
-<frameset cols="160,*" frameborder="no">
-<frame name="navBarFrame" scrolling="yes" src="SteveGoddard_files/NavBar.html"/>
-<frame name="contentsFrame" scrolling="yes" src="SteveGoddard_files/HomeContents.html"/>
-</frameset>
-</body></noframes></frameset></html>
+steve goddard browser cannot display frames ll see message follow link view website

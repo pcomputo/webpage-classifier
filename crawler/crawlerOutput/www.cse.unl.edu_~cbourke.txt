@@ -1,11 +1,1 @@
-<html>
-<head>
-<script type="text/javascript">
-function redirectHTTPS() {
-  window.location.href = "http://chrisbourke.unl.edu";
-}
-</script>
-</head>
-<body onload="redirectHTTPS()">
-</body>
-</html>
+function redirecthttps window location href http chrisbourke unl edu
