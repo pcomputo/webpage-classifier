@@ -69,8 +69,13 @@ def createSoup(url):
     	cleaned_soup = cleanSoup(soup)
     	visited.add(fixed_url)
     	file_name = fixed_url + ".txt"
-    	#f = open(file_name, 'w')
-    	#f.write(cleaned_soup)
+    	print file_name
+    	s = file_name[7:]
+    	s = s.replace("/","_")
+    	print s
+    	f = open(s, 'w+')
+    	f.write(str(cleaned_soup))
+    	f.close()
         print "Crawled: ", fixed_url
         count = count + 1
         print count
