@@ -1,1 +1,0 @@
-mime version server cern date monday nov gmt content type text html content length last modified thursday apr gmt zeno software zeno software warning page still construction note software available configurations software want rivl tcl dp cmt lossless jpeg jpeg processing operating system source code sunos x redhat linux solaris osf hp ux hp ux

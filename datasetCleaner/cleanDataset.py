@@ -8,6 +8,7 @@ from nltk.corpus import stopwords
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
+from sklearn.ensemble import RandomForestClassifier
 
 import urllib
 import urllib2
@@ -78,13 +79,20 @@ def review_to_words(directory):
 
 	print "Preparing vectorizer"	
 	X_train = vectorizer.fit_transform(ls)
-	#print set(y_train)
+	print set(y_train)
 
-	# Sum up the counts of each vocabulary word
-	#dist = np.sum(train_data_features, axis=0)
-	#print "Preparing vectorizer"
-	#vectorizer = TfidfVectorizer(token_pattern=r'\b[a-z]{2,}\.[a-z]\b', max_df=0.3, min_df=2, sublinear_tf=True)
+	# Initialize a Random Forest classifier with 100 trees
+	print "Preparing training"
+	forest = RandomForestClassifier(n_estimators = 100)
 	
+	print "Training in progress..."
+	forest = forest.fit(X_train.toarray(), y_train)
+	
+	print "Training completed!"
+	
+	print "Preparing classification"
+	result = forest.predict(test_data_features)
+	print "Classification completed!"
 	
 if __name__ == '__main__':
 	args = sys.argv[1:]
