@@ -1,0 +1,1 @@
+date mon dec gmt server ncsa content type text html cse lectures autumn quarter lecture notes graphics hardware color displaying images image morphing texture mapping image compositing line drawing polygon scan conversion curves surfaces viewing hidden surface algorithms local illumination models

@@ -1,0 +1,1 @@
+matlab directory matlab math prog message cpfunjac m cpstart m howto ps z lcp m lemke m merit m minos nlp tar z pathsol m pc pgrad m pnewt m qp m readme semismth m solaris sunos

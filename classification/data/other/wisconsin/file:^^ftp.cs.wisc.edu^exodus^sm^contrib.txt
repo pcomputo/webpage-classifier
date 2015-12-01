@@ -1,0 +1,1 @@
+contrib directory contrib sm message callserver c mood readme rtree sm ibm aix tar gz sm sgi aix src tar gz sm sgi irix dbg tar gz sm decalpha patch tar gz sm linux tar gz sm solaris patch gz sm solaris z

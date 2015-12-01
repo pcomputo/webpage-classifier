@@ -1,0 +1,1 @@
+date tue jan gmt server ncsa mime version content type text plain last modified mon sep gmt content length makefile handout program cse fall cc gcc cflags g lib lsocket lnsl listen listen o cc cflags o listen o lib speak speak o cc cflags o speak o lib
